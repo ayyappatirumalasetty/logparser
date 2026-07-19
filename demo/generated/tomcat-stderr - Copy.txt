@@ -1,0 +1,1053 @@
+2026-07-19T01:11:00,000 [GC-Thread-06640] - [INFO] GC cleanup completed in 24ms | caller=TomcatAccessFilter mem_util=59% extra='4oz95'
+2026-07-19T01:11:00,111 [GC-Thread-02444] - [INFO] GC cleanup completed in 218ms | req_id=ac1ba15d4a05 caller=BackupAgent cpu_util=69%
+2026-07-19T01:11:00,584 [http-nio-8080-exec-15527] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 extra='vllithfu2xcukv4scikfeuimmzj7'
+2026-07-19T01:11:00,822 [http-nio-8080-exec-06686] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=9c7e5be9620a ip=192.168.1.50 extra='21x8zfqe'
+2026-07-19T01:14:29,822 [GC-Thread-07156] - [INFO] GC cleanup completed in 144ms | cpu_util=51% extra='zxdz6zw623rgve1k6bsmsi30howmgrp'
+2026-07-19T01:14:40,954 [http-nio-8080-exec-02162] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=db3ce0520bf2 ip=10.0.0.12 cpu_util=59%      
+2026-07-19T01:14:43,076 [http-nio-8080-exec-19947] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 endpoint=/api/v1/auth/login caller
+2026-07-19T01:14:47,718 [GC-Thread-14748] - [INFO] GC cleanup completed in 93ms | req_id=9826c3d96ecb caller=TomcatAccessFilter      
+2026-07-19T01:14:49,925 [http-nio-8080-exec-08606] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 cpu_util=61% mem_util=36% extra='h'
+2026-07-19T01:18:22,925 [http-nio-8080-exec-13241] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/backup/create caller=DbConnector c
+2026-07-19T01:18:26,049 [GC-Thread-06159] - [INFO] GC cleanup completed in 175ms | req_id=d5df1450ecc1 mem_util=74% extra='wqu9b7u21y8'
+2026-07-19T01:18:26,442 [http-nio-8080-exec-07702] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=6d2f3c275862 ip=192.168.2.115 endpoint=/api/
+2026-07-19T01:18:28,574 [http-nio-8080-exec-15954] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=65% extra='acbae2hgqki8v5sj1sxfshzpsuc4ipe'
+2026-07-19T01:18:40,502 [http-nio-8080-exec-13895] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=1f2ea15d0372 ip=172.16.254.1 cpu_util=35% me
+2026-07-19T01:18:40,741 [GC-Thread-17411] - [INFO] GC cleanup completed in 221ms | ip=172.16.254.1 extra='b0jtgza62gxn3dlneqrbe43v41sj'
+2026-07-19T01:18:43,185 [GC-Thread-07958] - [INFO] GC cleanup completed in 138ms | caller=WebServiceHelper cpu_util=34% extra='sj9azic'
+2026-07-19T01:18:57,314 [GC-Thread-18301] - [INFO] GC cleanup completed in 99ms | req_id=33fb7413b600 ip=172.16.254.1 endpoint=/metri
+2026-07-19T01:18:57,414 [GC-Thread-05511] - [INFO] GC cleanup completed in 175ms | req_id=1ad29b82b066 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T01:18:57,636 [http-nio-8080-exec-03505] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=768775211ca9 caller=ConfigManager mem_util=6
+2026-07-19T01:18:59,129 [http-nio-8080-exec-03270] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=214ab8409aa5 ip=192.168.2.115 endpoint=/api/
+2026-07-19T01:19:00,623 [GC-Thread-13904] - [INFO] GC cleanup completed in 231ms | ip=192.168.1.50 cpu_util=21% mem_util=36% extra='cj'
+2026-07-19T01:21:02,623 [http-nio-8080-exec-01570] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=73a467f163f9 caller=ConfigManager cpu_util=6
+2026-07-19T01:21:13,656 [GC-Thread-08599] - [INFO] GC cleanup completed in 89ms | ip=192.168.1.50 endpoint=/api/v1/system/status call
+2026-07-19T01:21:13,876 [http-nio-8080-exec-13577] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 endpoint=/api/v1/backup/create cpu_
+2026-07-19T01:23:24,876 [http-nio-8080-exec-13110] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=9fced7eb36e6 endpoint=/api/v1/system/status 
+2026-07-19T01:23:37,249 [http-nio-8080-exec-04987] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | cpu_util=30% mem_util=65% extra='8g00ekmua8lks85ynq'
+2026-07-19T01:23:40,025 [http-nio-8080-exec-10813] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=10.0.0.12 cpu_util=83% mem_util=81% extra='om3cr'
+2026-07-19T01:23:52,441 [GC-Thread-08987] - [INFO] GC cleanup completed in 18ms | ip=192.168.2.115 endpoint=/api/v1/system/status cal
+2026-07-19T01:23:52,742 [http-nio-8080-exec-08620] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/api/v1/system/status     
+2026-07-19T01:23:52,911 [http-nio-8080-exec-18055] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/api/v1/auth/login        
+2026-07-19T01:23:57,422 [http-nio-8080-exec-06493] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/api/v1/system/status cpu_
+2026-07-19T01:23:57,571 [http-nio-8080-exec-11345] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 extra='yswsbb50ziu9etpi5ii3pq35nic'
+2026-07-19T01:23:57,683 [http-nio-8080-exec-13075] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=3b073621c1b3 ip=192.168.2.115 caller=BackupA
+2026-07-19T01:24:12,033 [http-nio-8080-exec-06700] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 caller=WebServiceHelper cpu_util=1
+2026-07-19T01:24:12,142 [http-nio-8080-exec-04189] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=9f7db22feeba endpoint=/api/v1/system/status 
+2026-07-19T01:24:15,209 [http-nio-8080-exec-17490] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | trace_id=e1144c5856ef4e75 extra='zmbih1tjy3ke1propb'
+2026-07-19T01:24:29,110 [GC-Thread-18341] - [INFO] GC cleanup completed in 102ms | ip=172.16.254.1 endpoint=/metrics caller=DbConnecto
+2026-07-19T01:25:37,110 [http-nio-8080-exec-18592] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 mem_util=60% extra='upwg6q2jlevbzh'
+2026-07-19T01:25:38,319 [http-nio-8080-exec-10638] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | trace_id=91c90c22dce8487f extra='7s95l9fm20w7gdefns'
+2026-07-19T01:25:48,664 [http-nio-8080-exec-05114] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/metrics caller=DbConnecto
+2026-07-19T01:25:50,514 [http-nio-8080-exec-06641] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/metrics caller=TomcatAccessFilter cpu_uti
+2026-07-19T01:25:50,547 [http-nio-8080-exec-09857] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 cpu_util=30% extra='la7xaeaymrpq3ha'
+2026-07-19T01:25:51,012 [http-nio-8080-exec-05818] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/api/v1/system/status call
+2026-07-19T01:25:51,290 [http-nio-8080-exec-16347] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=9ea1d3ede34e extra='xb4lfor412933xd8kfx930l9'
+2026-07-19T01:26:52,290 [GC-Thread-16925] - [INFO] GC cleanup completed in 86ms | req_id=aef9be292d82 endpoint=/api/v2/restore mem_ut
+2026-07-19T01:27:06,074 [http-nio-8080-exec-01913] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=DbConnector cpu_util=24% extra='y6aro3mash00'
+2026-07-19T01:27:07,777 [http-nio-8080-exec-08050] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 endpoint=/api/v1/auth/login caller
+2026-07-19T01:27:07,854 [http-nio-8080-exec-11764] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=6b17840222df caller=TomcatAccessFilter cpu_u
+2026-07-19T01:27:07,900 [http-nio-8080-exec-16811] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=33% extra='4iaryth8bwripigk2csndvnveu6equy'
+2026-07-19T01:27:08,013 [GC-Thread-08866] - [INFO] GC cleanup completed in 22ms | req_id=2ea4349fb725 cpu_util=32% mem_util=41%      
+2026-07-19T01:27:08,029 [GC-Thread-07592] - [INFO] GC cleanup completed in 193ms | req_id=d1d7b309719c endpoint=/api/v1/system/status 
+2026-07-19T01:27:20,084 [http-nio-8080-exec-05614] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=88d704f77d3b ip=192.168.2.115 cpu_util=53%  
+2026-07-19T01:27:20,455 [http-nio-8080-exec-17912] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=80% mem_util=79% extra='10m93y5yrxq7rpgyy5'
+2026-07-19T01:27:22,924 [GC-Thread-18532] - [INFO] GC cleanup completed in 26ms | req_id=0cd4ff6f3c5b endpoint=/api/v2/restore caller
+2026-07-19T01:27:24,085 [GC-Thread-15932] - [INFO] GC cleanup completed in 157ms | endpoint=/metrics extra='l9izo7ahaakqz7ppg2qkk2zcy9'
+2026-07-19T01:27:28,938 [GC-Thread-10604] - [INFO] GC cleanup completed in 116ms | req_id=0678fe0db165 caller=ConfigManager cpu_util=3
+2026-07-19T01:27:29,075 [GC-Thread-19124] - [INFO] GC cleanup completed in 13ms | req_id=7ec160fa372a endpoint=/metrics caller=DbConn
+2026-07-19T01:27:33,390 [http-nio-8080-exec-01204] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 endpoint=/api/v2/restore caller=WebSer
+2026-07-19T01:27:35,945 [GC-Thread-03568] - [INFO] GC cleanup completed in 18ms | req_id=c5ee23c20ae8 ip=172.16.254.1 caller=ConfigMa
+2026-07-19T01:27:39,833 [http-nio-8080-exec-16230] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/api/v1/system/status cpu_
+2026-07-19T01:27:44,530 [http-nio-8080-exec-05006] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=44d017a0ff17 cpu_util=67% mem_util=58%      
+2026-07-19T01:34:44,530 [GC-Thread-04188] - [INFO] GC cleanup completed in 189ms | caller=ConfigManager cpu_util=42% mem_util=41%     
+2026-07-19T01:36:23,530 [GC-Thread-08083] - [INFO] GC cleanup completed in 111ms | req_id=6781a0f737db endpoint=/api/v1/backup/create 
+2026-07-19T01:36:23,728 [GC-Thread-08465] - [INFO] GC cleanup completed in 10ms | req_id=eadae8c4e07b caller=BackupAgent cpu_util=15%
+2026-07-19T01:36:36,878 [GC-Thread-15305] - [INFO] GC cleanup completed in 139ms | req_id=37e89396a442 cpu_util=66% extra='vahbkq45hd2'
+2026-07-19T01:36:37,121 [GC-Thread-03734] - [INFO] GC cleanup completed in 159ms | req_id=81036e8fe8e4 ip=192.168.2.115 endpoint=/api/
+2026-07-19T01:38:55,121 [http-nio-8080-exec-12609] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=76435b3a3726 ip=10.0.0.12 caller=TomcatAcces
+2026-07-19T01:39:10,916 [http-nio-8080-exec-05524] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 cpu_util=50% extra='1v6sqtdogd8zixcywq'
+2026-07-19T01:42:02,916 [http-nio-8080-exec-13957] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=cd313c33f1ee endpoint=/api/v1/backup/create 
+2026-07-19T01:42:06,071 [GC-Thread-10213] - [INFO] GC cleanup completed in 61ms | ip=10.0.0.12 caller=DbConnector cpu_util=61% mem_ut
+2026-07-19T01:42:08,598 [GC-Thread-18682] - [INFO] GC cleanup completed in 250ms | mem_util=68% extra='5sgi8u4xecukpncf1z50fihj7wd8hwa'
+2026-07-19T01:42:13,493 [http-nio-8080-exec-07136] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 caller=BackupAgent mem_util=83%   
+2026-07-19T01:42:24,019 [http-nio-8080-exec-05723] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/system/status caller=ConfigManager
+2026-07-19T01:42:26,973 [GC-Thread-07096] - [INFO] GC cleanup completed in 195ms | req_id=0dd5763c6fbc endpoint=/api/v1/backup/create 
+2026-07-19T01:42:32,030 [http-nio-8080-exec-17045] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=DbConnector cpu_util=64% mem_util=43%       
+2026-07-19T01:42:42,044 [http-nio-8080-exec-10357] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=0b0b3207de3b cpu_util=12% extra='08958jubayr'
+2026-07-19T01:42:44,932 [GC-Thread-10436] - [INFO] GC cleanup completed in 89ms | ip=172.16.254.1 caller=ConfigManager cpu_util=85% m
+2026-07-19T01:42:48,392 [http-nio-8080-exec-11831] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/backup/create mem_util=89%        
+2026-07-19T01:42:53,386 [http-nio-8080-exec-15373] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=025dcfc0b7fe ip=192.168.2.115 endpoint=/api/
+2026-07-19T01:44:17,386 [http-nio-8080-exec-07101] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | mem_util=64% extra='3p2cbr97txbltnt3mezzjdu7m1whrnc'
+2026-07-19T01:44:17,651 [GC-Thread-06679] - [INFO] GC cleanup completed in 84ms | ip=172.16.254.1 mem_util=53% extra='azge052bdi0fj4v'
+2026-07-19T01:44:18,068 [http-nio-8080-exec-02697] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/system/status caller=DbConnector  
+2026-07-19T01:44:18,432 [GC-Thread-19622] - [INFO] GC cleanup completed in 161ms | req_id=68bfb7ab02b5 cpu_util=54% mem_util=49%      
+2026-07-19T01:45:39,432 [http-nio-8080-exec-02047] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=56257de0831e endpoint=/api/v1/auth/login cal
+2026-07-19T01:45:44,954 [http-nio-8080-exec-10163] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=8840e9a8dab3 ip=10.0.0.12 endpoint=/api/v1/a
+2026-07-19T01:45:48,245 [http-nio-8080-exec-01875] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=bcdac1826375 endpoint=/metrics cpu_util=60% 
+2026-07-19T01:45:52,413 [http-nio-8080-exec-05915] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v2/restore caller=DbConnector cpu_uti
+2026-07-19T01:45:58,074 [http-nio-8080-exec-11430] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=63c2e6ff3e0e ip=192.168.2.115 endpoint=/api/
+2026-07-19T01:46:09,286 [http-nio-8080-exec-06753] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 caller=DbConnector cpu_util=56%    
+2026-07-19T01:46:22,304 [http-nio-8080-exec-13657] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 endpoint=/api/v1/auth/login caller=
+2026-07-19T01:46:22,452 [http-nio-8080-exec-18720] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=10.0.0.12 cpu_util=61% mem_util=43% extra='dekis'
+2026-07-19T01:46:25,076 [http-nio-8080-exec-13984] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=90b0c6b6bb41 ip=192.168.2.115 endpoint=/api/
+2026-07-19T01:46:26,317 [http-nio-8080-exec-02645] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=d5a85e094afb ip=192.168.2.115 caller=DbConne
+2026-07-19T01:49:42,317 [http-nio-8080-exec-07003] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/api/v1/backup/create call
+2026-07-19T01:49:45,973 [http-nio-8080-exec-05536] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=00b5a4e3367a endpoint=/api/v2/restore       
+2026-07-19T01:49:48,724 [http-nio-8080-exec-19735] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 endpoint=/api/v2/restore cpu_util=51% 
+2026-07-19T01:49:54,489 [GC-Thread-10740] - [INFO] GC cleanup completed in 16ms | ip=192.168.2.115 endpoint=/api/v1/backup/create cpu
+2026-07-19T01:52:27,489 [http-nio-8080-exec-04217] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=434818166a3b caller=WebServiceHelper cpu_uti
+2026-07-19T01:52:27,744 [http-nio-8080-exec-05236] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=5c39b3b77e31 extra='tww578kjeri865rriy6xriml'
+2026-07-19T01:52:28,183 [GC-Thread-08211] - [INFO] GC cleanup completed in 142ms | endpoint=/api/v1/system/status caller=DbConnector c
+2026-07-19T01:52:41,088 [http-nio-8080-exec-15656] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=10782c6eb826 ip=10.0.0.12 caller=DbConnector
+2026-07-19T01:52:44,540 [http-nio-8080-exec-06993] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=4de3c799d031 endpoint=/metrics cpu_util=73% 
+2026-07-19T01:52:45,001 [http-nio-8080-exec-12013] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/system/status caller=DbConnector  
+2026-07-19T01:55:17,001 [http-nio-8080-exec-05950] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/metrics caller=DbConnector cpu_util=16%  
+2026-07-19T01:55:28,768 [GC-Thread-17136] - [INFO] GC cleanup completed in 42ms | ip=192.168.2.115 endpoint=/api/v1/system/status cal
+2026-07-19T01:55:28,947 [http-nio-8080-exec-10322] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/api/v1/system/status cpu_
+2026-07-19T01:55:29,181 [http-nio-8080-exec-19488] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=292b26f6e8bd ip=10.0.0.12 endpoint=/api/v2/r
+2026-07-19T01:55:29,270 [http-nio-8080-exec-18300] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/system/status caller=ConfigManager
+2026-07-19T01:55:29,657 [http-nio-8080-exec-03345] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/system/status mem_util=82%        
+2026-07-19T01:55:29,967 [http-nio-8080-exec-05813] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=6b2084e2c71c endpoint=/api/v2/restore cpu_ut
+2026-07-19T01:55:29,997 [http-nio-8080-exec-02861] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 extra='aupbacbuxi7r32xpmulsj18lsi3x'
+2026-07-19T01:58:13,997 [GC-Thread-01659] - [INFO] GC cleanup completed in 205ms | endpoint=/api/v1/backup/create extra='ffyf63m0xewbx'
+2026-07-19T01:58:24,684 [GC-Thread-03100] - [INFO] GC cleanup completed in 111ms | ip=192.168.2.115 endpoint=/api/v1/backup/create    
+2026-07-19T02:01:16,684 [http-nio-8080-exec-12739] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | trace_id=991f2bee7c8f4372 extra='xga8u9svszvncmvsxm'
+2026-07-19T02:03:23,684 [GC-Thread-07853] - [INFO] GC cleanup completed in 175ms | ip=10.0.0.12 endpoint=/api/v2/restore caller=Config
+2026-07-19T02:03:28,051 [http-nio-8080-exec-18512] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=5b0932d901d7 ip=10.0.0.12 endpoint=/api/v1/b
+2026-07-19T02:06:26,051 [http-nio-8080-exec-14138] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 extra='0i21sf41qbrnkqmt356hi8te5h10'
+2026-07-19T02:06:26,404 [GC-Thread-16854] - [INFO] GC cleanup completed in 134ms | ip=10.0.0.12 endpoint=/api/v2/restore cpu_util=37% 
+2026-07-19T02:06:28,395 [http-nio-8080-exec-16855] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 endpoint=/api/v1/auth/login cpu_ut
+2026-07-19T02:06:28,505 [http-nio-8080-exec-09427] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=e53ed7eb342f ip=192.168.2.115 caller=BackupA
+2026-07-19T02:06:28,881 [http-nio-8080-exec-14577] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=6e13524b5808 cpu_util=67% mem_util=42%      
+2026-07-19T02:06:42,221 [http-nio-8080-exec-04041] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=27828bf05616 ip=172.16.254.1 mem_util=55%   
+2026-07-19T02:06:45,655 [http-nio-8080-exec-02273] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=43a9cc8a3406 extra='ldv99n7u2rosbylugnfuoo7n'
+2026-07-19T02:09:03,655 [GC-Thread-03059] - [INFO] GC cleanup completed in 170ms | cpu_util=39% extra='5dhlju5lxhfdiyb87h51di3c9giw6w6'
+2026-07-19T02:09:03,845 [http-nio-8080-exec-06872] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=9b4d691cf148 caller=DbConnector extra='04ma4'
+2026-07-19T02:09:04,093 [http-nio-8080-exec-07006] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 endpoint=/metrics cpu_util=46% mem
+2026-07-19T02:09:04,172 [GC-Thread-15314] - [INFO] GC cleanup completed in 23ms | ip=192.168.1.50 endpoint=/api/v1/system/status call
+2026-07-19T02:09:08,398 [GC-Thread-19370] - [INFO] GC cleanup completed in 75ms | req_id=c163c607d349 ip=192.168.1.50 caller=WebServi
+2026-07-19T02:09:12,222 [GC-Thread-11094] - [INFO] GC cleanup completed in 68ms | req_id=56e7f4b0fb42 endpoint=/api/v1/auth/login mem
+2026-07-19T02:09:16,032 [http-nio-8080-exec-03913] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/system/status caller=ConfigManager
+2026-07-19T02:09:16,189 [http-nio-8080-exec-01818] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=63b4a11c93ef mem_util=56% extra='pvlv7sdy8zz'
+2026-07-19T02:09:17,272 [http-nio-8080-exec-08193] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=b258583dd329 ip=172.16.254.1 mem_util=63%   
+2026-07-19T02:09:18,723 [http-nio-8080-exec-19155] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=dec8d5e38fef endpoint=/api/v1/system/status 
+2026-07-19T02:09:19,762 [http-nio-8080-exec-11248] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=06b475c534d8 ip=172.16.254.1 endpoint=/metri
+2026-07-19T02:09:33,948 [http-nio-8080-exec-15299] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/metrics extra='k1s3cs6rx37lh7sq3nnvga5fy3'
+2026-07-19T02:09:37,016 [http-nio-8080-exec-16824] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | trace_id=f6aefecc4f134cdb extra='n3fkr9t470j0xarhbm'
+2026-07-19T02:09:48,765 [http-nio-8080-exec-03136] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=84% mem_util=44% extra='6u20ray7tu1wbsvok0'
+2026-07-19T02:09:59,178 [GC-Thread-03735] - [INFO] GC cleanup completed in 33ms | req_id=b33b8703838f extra='bzl1v6t53q8118jwo8ndpn9r'
+2026-07-19T02:10:03,991 [GC-Thread-05717] - [INFO] GC cleanup completed in 121ms | req_id=3e549979441d mem_util=80% extra='0z1pwm9di2g'
+2026-07-19T02:10:08,238 [GC-Thread-19490] - [INFO] GC cleanup completed in 162ms | endpoint=/api/v1/backup/create caller=DbConnector c
+2026-07-19T02:10:08,635 [http-nio-8080-exec-01183] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=a5a22447dc1f ip=172.16.254.1 caller=DbConnec
+2026-07-19T02:10:08,682 [http-nio-8080-exec-06602] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=c250d964337e endpoint=/api/v1/auth/login cal
+2026-07-19T02:10:08,849 [GC-Thread-08825] - [INFO] GC cleanup completed in 63ms | ip=192.168.2.115 endpoint=/metrics caller=TomcatAcc
+2026-07-19T02:10:20,512 [http-nio-8080-exec-11479] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=10.0.0.12 endpoint=/api/v1/backup/create mem_uti
+2026-07-19T02:10:20,720 [http-nio-8080-exec-19808] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=10% extra='v4lffiapxcodfwnvjsjgkkunlgrrv0e'
+2026-07-19T02:10:33,030 [http-nio-8080-exec-08384] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 caller=BackupAgent mem_util=52%    
+2026-07-19T02:10:48,039 [GC-Thread-18851] - [INFO] GC cleanup completed in 216ms | endpoint=/api/v1/auth/login extra='z7bap5x294wpnt4v'
+2026-07-19T02:11:00,627 [http-nio-8080-exec-10158] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=95e8533435a7 caller=DbConnector cpu_util=32%
+2026-07-19T02:11:06,443 [http-nio-8080-exec-02694] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 endpoint=/metrics cpu_util=16% mem_
+2026-07-19T02:11:06,820 [http-nio-8080-exec-13771] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=5332495b35b0 extra='rrwtr2rik8dxyzdo22d1mz4i'
+2026-07-19T02:20:06,820 [http-nio-8080-exec-10149] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=cbb8248bd130 ip=10.0.0.12 caller=BackupAgent
+2026-07-19T02:20:07,305 [GC-Thread-11158] - [INFO] GC cleanup completed in 240ms | req_id=f9e6b410e656 endpoint=/api/v2/restore cpu_ut
+2026-07-19T02:20:08,482 [http-nio-8080-exec-13942] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 cpu_util=22% extra='5yzsc6ez9pxxbud'
+2026-07-19T02:21:50,482 [GC-Thread-12746] - [INFO] GC cleanup completed in 193ms | endpoint=/api/v1/system/status cpu_util=65%        
+2026-07-19T02:21:54,208 [http-nio-8080-exec-03779] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=b483ec22381a endpoint=/api/v2/restore cpu_ut
+2026-07-19T02:21:58,664 [http-nio-8080-exec-07481] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 cpu_util=40% extra='v2qmtqimocvo49'
+2026-07-19T02:32:58,664 [GC-Thread-02365] - [INFO] GC cleanup completed in 178ms | req_id=1d7634466770 endpoint=/api/v2/restore caller
+2026-07-19T02:36:04,664 [http-nio-8080-exec-16295] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=da715be12c62 extra='hnsuwiixftltgk8983jlle1f'
+2026-07-19T02:36:04,854 [http-nio-8080-exec-13713] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=026a77b64ca4 ip=192.168.2.115 endpoint=/metr
+2026-07-19T02:36:08,658 [http-nio-8080-exec-05165] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=11c9cfc73f08 cpu_util=75% extra='34szt2li5c4'
+2026-07-19T02:36:08,872 [http-nio-8080-exec-18863] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=53efac2d214a ip=10.0.0.12 endpoint=/api/v2/r
+2026-07-19T02:36:13,834 [http-nio-8080-exec-10206] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=ff84ea40514f endpoint=/metrics cpu_util=25% 
+2026-07-19T02:36:14,253 [GC-Thread-09612] - [INFO] GC cleanup completed in 78ms | req_id=e2f39ede525e endpoint=/api/v1/backup/create 
+2026-07-19T02:36:27,735 [GC-Thread-15364] - [INFO] GC cleanup completed in 191ms | endpoint=/api/v2/restore caller=BackupAgent        
+2026-07-19T02:36:39,792 [GC-Thread-07632] - [INFO] GC cleanup completed in 140ms | req_id=707ffde7580a ip=172.16.254.1 endpoint=/api/v
+2026-07-19T02:36:42,421 [GC-Thread-18586] - [INFO] GC cleanup completed in 177ms | req_id=38908ad6aaec endpoint=/api/v2/restore cpu_ut
+2026-07-19T02:36:42,653 [http-nio-8080-exec-05605] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=d1d6484f6f91 ip=10.0.0.12 endpoint=/api/v2/r
+2026-07-19T02:36:43,753 [GC-Thread-05349] - [INFO] GC cleanup completed in 57ms | req_id=b90337289925 ip=172.16.254.1 caller=WebServi
+2026-07-19T02:36:48,690 [http-nio-8080-exec-13563] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=627cc7a0e0d1 ip=172.16.254.1 cpu_util=81%   
+2026-07-19T02:36:51,307 [GC-Thread-07017] - [INFO] GC cleanup completed in 224ms | ip=192.168.2.115 extra='bfm1hbby6xt1mvvb9nnpzmrsrvk'
+2026-07-19T02:36:51,563 [http-nio-8080-exec-02156] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 cpu_util=68% mem_util=33% extra='fo'
+2026-07-19T02:36:51,569 [GC-Thread-09749] - [INFO] GC cleanup completed in 17ms | mem_util=34% extra='hdfu20vhb96ef4opukf884i6qn58erz'
+2026-07-19T02:36:51,682 [GC-Thread-15872] - [INFO] GC cleanup completed in 116ms | req_id=ad4ef3151403 endpoint=/api/v1/backup/create 
+2026-07-19T02:36:56,681 [GC-Thread-01844] - [INFO] GC cleanup completed in 190ms | ip=192.168.2.115 caller=WebServiceHelper extra='ik4'
+2026-07-19T02:36:58,420 [http-nio-8080-exec-11623] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=e506743a193f endpoint=/api/v1/auth/login cal
+2026-07-19T02:37:08,526 [GC-Thread-01572] - [INFO] GC cleanup completed in 92ms | req_id=83dc17454b45 ip=192.168.2.115 mem_util=65%  
+2026-07-19T02:37:13,886 [GC-Thread-09460] - [INFO] GC cleanup completed in 58ms | endpoint=/api/v2/restore caller=WebServiceHelper cp
+2026-07-19T02:37:24,176 [http-nio-8080-exec-07156] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | trace_id=39847adfef214720 extra='0qs03yycgrpcthl3hf'
+2026-07-19T02:37:27,132 [http-nio-8080-exec-14794] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=bd44cdcd9e5e ip=172.16.254.1 extra='ryl3dul9'
+2026-07-19T02:37:27,404 [http-nio-8080-exec-03844] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=4bba24ee6722 endpoint=/api/v2/restore mem_ut
+2026-07-19T02:37:32,866 [GC-Thread-02637] - [INFO] GC cleanup completed in 168ms | ip=172.16.254.1 endpoint=/api/v1/backup/create call
+2026-07-19T02:37:33,031 [http-nio-8080-exec-05678] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 endpoint=/api/v1/auth/login mem_uti
+2026-07-19T02:37:35,343 [http-nio-8080-exec-19088] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=7f27f8b04b46 cpu_util=76% mem_util=66%      
+2026-07-19T02:37:38,779 [GC-Thread-06492] - [INFO] GC cleanup completed in 212ms | req_id=b87f2dc62208 ip=192.168.2.115 endpoint=/api/
+2026-07-19T02:37:39,846 [GC-Thread-17903] - [INFO] GC cleanup completed in 74ms | req_id=550c7d9c35ef cpu_util=76% mem_util=84%      
+2026-07-19T02:37:55,186 [http-nio-8080-exec-08904] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=fe9a5367e79a ip=172.16.254.1 endpoint=/api/v
+2026-07-19T02:37:59,669 [http-nio-8080-exec-07494] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=d50089c5ee59 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T02:38:00,070 [GC-Thread-10617] - [INFO] GC cleanup completed in 139ms | req_id=2e1a05a9999e ip=10.0.0.12 endpoint=/metrics 
+2026-07-19T02:38:00,295 [http-nio-8080-exec-15576] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 endpoint=/api/v1/auth/login caller=Con
+2026-07-19T02:38:03,486 [http-nio-8080-exec-07016] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 endpoint=/metrics caller=DbConnecto
+2026-07-19T02:38:06,211 [GC-Thread-18962] - [INFO] GC cleanup completed in 244ms | req_id=fe457e96bc96 endpoint=/metrics caller=Config
+2026-07-19T02:38:06,310 [http-nio-8080-exec-12424] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=8ebc14409ceb ip=192.168.1.50 endpoint=/api/v
+2026-07-19T02:38:08,790 [http-nio-8080-exec-05104] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=1fb5ad5867e2 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T02:38:11,396 [GC-Thread-04086] - [INFO] GC cleanup completed in 180ms | req_id=2b2960de5306 endpoint=/api/v1/backup/create 
+2026-07-19T02:38:22,667 [GC-Thread-14883] - [INFO] GC cleanup completed in 26ms | ip=172.16.254.1 cpu_util=57% mem_util=71% extra='ad'
+2026-07-19T02:38:22,939 [http-nio-8080-exec-13986] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=ConfigManager cpu_util=77% extra='o7hvauph8w'
+2026-07-19T02:38:22,949 [http-nio-8080-exec-10362] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/system/status mem_util=50%        
+2026-07-19T02:38:35,026 [http-nio-8080-exec-18106] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 endpoint=/metrics cpu_util=56%     
+2026-07-19T02:38:37,892 [http-nio-8080-exec-15063] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=93cded941ce2 ip=10.0.0.12 cpu_util=46% mem_u
+2026-07-19T02:38:49,972 [GC-Thread-03891] - [INFO] GC cleanup completed in 155ms | ip=172.16.254.1 caller=ConfigManager cpu_util=29%  
+2026-07-19T02:38:49,980 [GC-Thread-12492] - [INFO] GC cleanup completed in 32ms | ip=192.168.1.50 endpoint=/api/v2/restore cpu_util=1
+2026-07-19T02:39:05,971 [http-nio-8080-exec-06145] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | trace_id=a2a6fe52ce3b4f0f extra='gef23mq83v01s5lxuf'
+2026-07-19T02:39:19,842 [http-nio-8080-exec-04289] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=05c346cf9972 caller=WebServiceHelper        
+2026-07-19T02:39:33,405 [http-nio-8080-exec-01232] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 caller=DbConnector mem_util=46%   
+2026-07-19T02:40:36,405 [http-nio-8080-exec-01011] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=b0c4ca3eb56d endpoint=/api/v2/restore mem_ut
+2026-07-19T02:40:36,485 [http-nio-8080-exec-12595] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=3fda394c785c endpoint=/api/v1/backup/create 
+2026-07-19T02:40:39,964 [GC-Thread-09237] - [INFO] GC cleanup completed in 96ms | caller=ConfigManager cpu_util=38% extra='8cn5uxi47n'
+2026-07-19T02:40:45,712 [http-nio-8080-exec-18577] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 caller=BackupAgent cpu_util=72%   
+2026-07-19T02:40:50,718 [http-nio-8080-exec-12225] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=de6d51b12a20 endpoint=/metrics caller=Tomcat
+2026-07-19T02:40:53,783 [GC-Thread-07949] - [INFO] GC cleanup completed in 75ms | req_id=a25c71c6858f extra='ieok0gxnczefgwu77p436y6m'
+2026-07-19T02:40:56,033 [GC-Thread-03740] - [INFO] GC cleanup completed in 53ms | req_id=e693295101e3 cpu_util=57% mem_util=73%      
+2026-07-19T02:40:58,367 [GC-Thread-08808] - [INFO] GC cleanup completed in 227ms | endpoint=/metrics caller=TomcatAccessFilter        
+2026-07-19T02:40:58,637 [http-nio-8080-exec-08964] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 extra='8uau2wdqnmjpqownjuwllry27niu'
+2026-07-19T02:41:02,280 [GC-Thread-01192] - [INFO] GC cleanup completed in 88ms | req_id=8a4b6f996c90 caller=ConfigManager cpu_util=4
+2026-07-19T02:44:05,280 [http-nio-8080-exec-14146] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=10.0.0.12 endpoint=/api/v1/auth/login caller=Bac
+2026-07-19T02:44:05,414 [GC-Thread-11540] - [INFO] GC cleanup completed in 29ms | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=
+2026-07-19T02:44:08,648 [http-nio-8080-exec-15618] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=e92315adc6b6 ip=192.168.2.115 endpoint=/api/
+2026-07-19T02:52:08,648 [GC-Thread-06159] - [INFO] GC cleanup completed in 208ms | req_id=e53092d06347 ip=192.168.1.50 cpu_util=36%   
+2026-07-19T02:52:13,139 [GC-Thread-03608] - [INFO] GC cleanup completed in 155ms | endpoint=/api/v2/restore caller=ConfigManager      
+2026-07-19T02:53:13,139 [GC-Thread-12560] - [INFO] GC cleanup completed in 66ms | ip=192.168.2.115 caller=TomcatAccessFilter cpu_util
+2026-07-19T02:53:18,321 [GC-Thread-06262] - [INFO] GC cleanup completed in 28ms | ip=172.16.254.1 caller=TomcatAccessFilter mem_util=
+2026-07-19T02:53:31,293 [http-nio-8080-exec-14299] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | trace_id=dcedc08d35b74e00 extra='w4k55umkkolhftdcel'
+2026-07-19T02:53:31,539 [http-nio-8080-exec-11366] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=WebServiceHelper mem_util=45% extra='jl9hszp'
+2026-07-19T02:53:37,408 [http-nio-8080-exec-09365] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 endpoint=/api/v1/auth/login caller
+2026-07-19T02:55:15,408 [http-nio-8080-exec-05886] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/auth/login mem_util=67% extra='09k'
+2026-07-19T02:57:15,408 [http-nio-8080-exec-08947] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=10.0.0.12 endpoint=/api/v1/system/status mem_uti
+2026-07-19T02:57:17,714 [http-nio-8080-exec-16750] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=dd6ce4ef7602 endpoint=/api/v2/restore mem_ut
+2026-07-19T02:57:19,075 [http-nio-8080-exec-16342] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/backup/create caller=DbConnector c
+2026-07-19T02:57:19,154 [http-nio-8080-exec-16583] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=593eb8eb4b62 ip=192.168.1.50 cpu_util=68% me
+2026-07-19T02:57:22,579 [http-nio-8080-exec-18598] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=53242e8a197b ip=172.16.254.1 endpoint=/api/v
+2026-07-19T02:57:22,871 [GC-Thread-07525] - [INFO] GC cleanup completed in 137ms | req_id=111f13cd93a8 ip=10.0.0.12 endpoint=/api/v1/b
+2026-07-19T02:57:22,985 [http-nio-8080-exec-13606] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 endpoint=/api/v1/backup/create mem_
+2026-07-19T02:57:34,400 [GC-Thread-10590] - [INFO] GC cleanup completed in 87ms | req_id=602ad44475f6 caller=TomcatAccessFilter cpu_u
+2026-07-19T02:57:39,905 [http-nio-8080-exec-18878] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=89c455c502ef mem_util=49% extra='vlzu2jmvxgi'
+2026-07-19T02:57:54,309 [GC-Thread-19700] - [INFO] GC cleanup completed in 64ms | req_id=a02906cf6740 ip=192.168.2.115 endpoint=/api/
+2026-07-19T02:57:54,318 [http-nio-8080-exec-10549] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=8876750441fb cpu_util=17% mem_util=50%      
+2026-07-19T02:58:08,384 [http-nio-8080-exec-02041] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=baae76733dc0 endpoint=/metrics caller=WebSer
+2026-07-19T02:58:08,883 [GC-Thread-09877] - [INFO] GC cleanup completed in 163ms | req_id=7ad4f2f6072d ip=172.16.254.1 endpoint=/metri
+2026-07-19T02:58:09,315 [http-nio-8080-exec-13844] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=bc0ff0249e7c ip=192.168.1.50 endpoint=/api/v
+2026-07-19T02:58:14,490 [http-nio-8080-exec-17098] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 endpoint=/api/v1/backup/create call
+2026-07-19T02:59:27,490 [http-nio-8080-exec-03278] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=4d57523984d4 ip=192.168.2.115 cpu_util=34% m
+2026-07-19T02:59:37,625 [http-nio-8080-exec-08674] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 cpu_util=29% mem_util=43% extra='9j'
+2026-07-19T02:59:37,898 [GC-Thread-02829] - [INFO] GC cleanup completed in 194ms | req_id=9edc8721d7ac ip=192.168.1.50 caller=DbConnec
+2026-07-19T02:59:38,144 [GC-Thread-04750] - [INFO] GC cleanup completed in 158ms | req_id=c026469df3c5 endpoint=/api/v1/auth/login cal
+2026-07-19T02:59:38,213 [GC-Thread-01846] - [INFO] GC cleanup completed in 11ms | cpu_util=20% mem_util=63% extra='7bo9u1cnx1b2jp9jco'
+2026-07-19T03:06:38,213 [http-nio-8080-exec-16461] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=c34945802821 ip=172.16.254.1 endpoint=/metri
+2026-07-19T03:06:40,666 [http-nio-8080-exec-05136] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 endpoint=/metrics caller=ConfigMan
+2026-07-19T03:10:34,666 [http-nio-8080-exec-17093] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=BackupAgent cpu_util=53% extra='kyohkt7fcu2e'
+2026-07-19T03:13:44,666 [http-nio-8080-exec-04675] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=WebServiceHelper extra='vqg7w810ledyrgaq7356'
+2026-07-19T03:13:46,236 [GC-Thread-12525] - [INFO] GC cleanup completed in 178ms | caller=DbConnector extra='au87rqp1osl4aj982p28hbdl9'
+2026-07-19T03:13:47,896 [http-nio-8080-exec-17863] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=d7cd8ab870e5 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T03:13:48,042 [http-nio-8080-exec-07182] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=1df2705f8eaa mem_util=36% extra='pqygtqb2sa5'
+2026-07-19T03:13:52,824 [http-nio-8080-exec-15793] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=24e3f1303004 endpoint=/api/v1/backup/create 
+2026-07-19T03:13:53,073 [http-nio-8080-exec-09429] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 endpoint=/api/v1/auth/login caller=
+2026-07-19T03:13:55,386 [GC-Thread-16384] - [INFO] GC cleanup completed in 72ms | cpu_util=21% mem_util=38% extra='493n4puxa3ne81pm39'
+2026-07-19T03:13:59,364 [GC-Thread-15101] - [INFO] GC cleanup completed in 175ms | trace_id=1a03835d8cef47c3 extra='pmzr1s2fqiacktqy1v'
+2026-07-19T03:14:02,914 [http-nio-8080-exec-09914] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 endpoint=/api/v1/system/status cpu_
+2026-07-19T03:15:03,914 [http-nio-8080-exec-10232] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 endpoint=/metrics mem_util=44%     
+2026-07-19T03:15:08,493 [http-nio-8080-exec-08891] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 caller=WebServiceHelper mem_util=6
+2026-07-19T03:22:08,493 [GC-Thread-17389] - [INFO] GC cleanup completed in 99ms | ip=172.16.254.1 endpoint=/api/v1/auth/login        
+2026-07-19T03:22:19,842 [http-nio-8080-exec-05390] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=4b327810429d caller=BackupAgent extra='ceoa9'
+2026-07-19T03:22:22,765 [http-nio-8080-exec-01303] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 cpu_util=73% extra='t28uis9owyeqekx'
+2026-07-19T03:22:22,915 [GC-Thread-13858] - [INFO] GC cleanup completed in 36ms | req_id=def06a4703b4 ip=192.168.2.115 caller=ConfigM
+2026-07-19T03:22:27,060 [http-nio-8080-exec-18635] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=898acc10fc0c cpu_util=44% extra='z9fxps6atko'
+2026-07-19T03:22:30,405 [GC-Thread-07860] - [INFO] GC cleanup completed in 134ms | ip=10.0.0.12 endpoint=/api/v1/auth/login caller=Con
+2026-07-19T03:22:35,757 [GC-Thread-18289] - [INFO] GC cleanup completed in 44ms | endpoint=/api/v2/restore mem_util=74% extra='n1xm0y'
+2026-07-19T03:22:38,520 [GC-Thread-05757] - [INFO] GC cleanup completed in 155ms | req_id=e0268f19adeb ip=172.16.254.1 endpoint=/api/v
+2026-07-19T03:22:38,619 [http-nio-8080-exec-02536] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=6f0bc7bb1819 ip=192.168.2.115 endpoint=/metr
+2026-07-19T03:22:44,562 [http-nio-8080-exec-16630] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 cpu_util=33% mem_util=34% extra='ff'
+2026-07-19T03:22:48,566 [GC-Thread-11483] - [INFO] GC cleanup completed in 101ms | endpoint=/metrics caller=ConfigManager cpu_util=75%
+2026-07-19T03:22:58,948 [GC-Thread-04477] - [INFO] GC cleanup completed in 125ms | ip=192.168.1.50 endpoint=/api/v1/system/status cpu_
+2026-07-19T03:23:12,403 [http-nio-8080-exec-04214] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=eb524ede7adb ip=172.16.254.1 endpoint=/api/v
+2026-07-19T03:23:18,163 [GC-Thread-15850] - [INFO] GC cleanup completed in 245ms | req_id=e22d0fbab775 ip=10.0.0.12 endpoint=/api/v2/r
+2026-07-19T03:23:22,407 [GC-Thread-10803] - [INFO] GC cleanup completed in 13ms | req_id=513b3cc03b6f caller=TomcatAccessFilter      
+2026-07-19T03:23:23,784 [http-nio-8080-exec-12028] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 cpu_util=61% mem_util=84% extra='z'
+2026-07-19T03:23:28,026 [http-nio-8080-exec-17409] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=
+2026-07-19T03:26:38,026 [http-nio-8080-exec-14587] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=58af9f367ff4 ip=10.0.0.12 extra='aduahjui2dn'
+2026-07-19T03:26:43,584 [http-nio-8080-exec-15017] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 extra='yiomzsyh5fddrwn914xf4ki1bnj1'
+2026-07-19T03:26:45,660 [http-nio-8080-exec-11426] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=cc4192cdb2f0 ip=192.168.1.50 endpoint=/api/v
+2026-07-19T03:26:59,995 [http-nio-8080-exec-14644] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=ConfigManager mem_util=46% extra='kyd2o00k70'
+2026-07-19T03:27:05,776 [GC-Thread-12625] - [INFO] GC cleanup completed in 238ms | req_id=1c411b5bc322 ip=192.168.1.50 caller=BackupAg
+2026-07-19T03:27:09,816 [http-nio-8080-exec-08573] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=408099199b1d endpoint=/api/v1/system/status 
+2026-07-19T03:27:15,287 [http-nio-8080-exec-05909] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=DbConnector extra='lporlkpubik4iusgd7oxgfq6j'
+2026-07-19T03:27:15,780 [http-nio-8080-exec-12048] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/backup/create caller=DbConnector  
+2026-07-19T03:27:20,422 [http-nio-8080-exec-07013] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/metrics caller=WebServiceHelper cpu_util=
+2026-07-19T03:27:26,226 [http-nio-8080-exec-16963] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=b41066ef2535 endpoint=/api/v2/restore       
+2026-07-19T03:27:26,300 [http-nio-8080-exec-03631] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=cb2f8f22c95a ip=172.16.254.1 endpoint=/metri
+2026-07-19T03:27:27,694 [http-nio-8080-exec-03782] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | mem_util=89% extra='7qfipsmobb0wzwgwr1hoo56va0ye8fm'
+2026-07-19T03:27:28,002 [http-nio-8080-exec-19224] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 endpoint=/metrics caller=TomcatAcc
+2026-07-19T03:27:28,088 [http-nio-8080-exec-13852] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/backup/create caller=ConfigManager
+2026-07-19T03:40:28,088 [http-nio-8080-exec-01561] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=7c224df9f3cc ip=10.0.0.12 caller=BackupAgent
+2026-07-19T03:40:29,687 [http-nio-8080-exec-07680] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | trace_id=af0df7abcbd74e59 extra='lc6f5zybzks8nn8t5j'
+2026-07-19T03:40:34,233 [GC-Thread-09911] - [INFO] GC cleanup completed in 188ms | req_id=80c1119ed7e2 caller=BackupAgent mem_util=86%
+2026-07-19T03:40:36,655 [http-nio-8080-exec-07294] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=ae5413b6e44f ip=192.168.2.115 caller=WebServ
+2026-07-19T03:40:37,002 [http-nio-8080-exec-01283] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=da5d825819c5 ip=10.0.0.12 cpu_util=59% mem_u
+2026-07-19T03:40:37,295 [http-nio-8080-exec-13583] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=25e0f5c94e72 mem_util=83% extra='rmv5rmuk7wc'
+2026-07-19T03:40:40,341 [GC-Thread-01010] - [INFO] GC cleanup completed in 43ms | ip=192.168.1.50 endpoint=/api/v1/system/status call
+2026-07-19T03:48:40,341 [http-nio-8080-exec-17657] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=2088757e09dc ip=192.168.2.115 endpoint=/api/
+2026-07-19T03:48:40,538 [http-nio-8080-exec-11938] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=f6c72a89c7fb endpoint=/api/v1/backup/create 
+2026-07-19T03:48:40,940 [GC-Thread-02694] - [INFO] GC cleanup completed in 237ms | endpoint=/api/v1/backup/create cpu_util=66% mem_uti
+2026-07-19T03:48:41,297 [http-nio-8080-exec-14532] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/metrics mem_util=72%     
+2026-07-19T03:48:43,302 [GC-Thread-11276] - [INFO] GC cleanup completed in 127ms | ip=10.0.0.12 endpoint=/metrics extra='gexkgl5np8mpu'
+2026-07-19T03:48:48,797 [GC-Thread-11423] - [INFO] GC cleanup completed in 169ms | ip=10.0.0.12 endpoint=/api/v1/backup/create caller=
+2026-07-19T03:49:03,002 [http-nio-8080-exec-10591] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=4d87c8078714 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T03:49:05,239 [GC-Thread-04661] - [INFO] GC cleanup completed in 84ms | ip=172.16.254.1 endpoint=/metrics caller=TomcatAcce
+2026-07-19T03:49:20,228 [http-nio-8080-exec-09249] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=0c1a06f9a5a6 ip=172.16.254.1 endpoint=/metri
+2026-07-19T03:49:20,709 [GC-Thread-17389] - [INFO] GC cleanup completed in 247ms | ip=192.168.1.50 caller=TomcatAccessFilter extra='88'
+2026-07-19T03:49:20,910 [GC-Thread-14501] - [INFO] GC cleanup completed in 124ms | req_id=64f5531a6ab8 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T03:49:25,610 [http-nio-8080-exec-19181] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=9f26378d1f80 ip=172.16.254.1 endpoint=/metri
+2026-07-19T03:49:41,187 [http-nio-8080-exec-10003] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 endpoint=/api/v1/auth/login        
+2026-07-19T03:49:41,424 [GC-Thread-07634] - [INFO] GC cleanup completed in 187ms | req_id=9dd7726dc8d3 ip=192.168.1.50 caller=ConfigMa
+2026-07-19T03:49:45,796 [http-nio-8080-exec-02455] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=397127ab23fa ip=192.168.2.115 endpoint=/api/
+2026-07-19T03:49:45,907 [http-nio-8080-exec-05221] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=WebServiceHelper extra='vgsycvrn83texvhhaxt3'
+2026-07-19T03:49:48,738 [GC-Thread-12018] - [INFO] GC cleanup completed in 60ms | req_id=d8560fc2e174 ip=10.0.0.12 endpoint=/api/v1/a
+2026-07-19T03:49:49,106 [http-nio-8080-exec-15357] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=54428cd23b06 ip=192.168.1.50 endpoint=/api/v
+2026-07-19T03:49:49,475 [http-nio-8080-exec-02137] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 endpoint=/api/v1/backup/create call
+2026-07-19T03:50:01,502 [http-nio-8080-exec-19502] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=a3cd1335c3b0 ip=192.168.1.50 extra='ehh72c9s'
+2026-07-19T03:50:07,417 [http-nio-8080-exec-17876] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | trace_id=088137db3f0b497e extra='j4aeqtdjjgmeo68f4f'
+2026-07-19T03:50:18,001 [http-nio-8080-exec-15820] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=e3d8281d145d ip=10.0.0.12 mem_util=78%      
+2026-07-19T03:50:23,528 [http-nio-8080-exec-13836] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=d8e3634cab14 endpoint=/api/v1/backup/create 
+2026-07-19T03:50:23,948 [http-nio-8080-exec-14621] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/system/status caller=DbConnector c
+2026-07-19T03:50:24,434 [http-nio-8080-exec-04223] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=8cc9a702b714 endpoint=/api/v1/backup/create 
+2026-07-19T03:51:45,434 [GC-Thread-05214] - [INFO] GC cleanup completed in 14ms | req_id=58584732f3a0 caller=TomcatAccessFilter      
+2026-07-19T03:51:47,615 [http-nio-8080-exec-05730] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=12052e0bef04 ip=10.0.0.12 endpoint=/metrics 
+2026-07-19T03:51:50,431 [GC-Thread-12283] - [INFO] GC cleanup completed in 91ms | req_id=169735966074 endpoint=/api/v1/system/status 
+2026-07-19T03:51:50,437 [http-nio-8080-exec-14335] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/auth/login caller=DbConnector mem_
+2026-07-19T03:52:00,845 [GC-Thread-15682] - [INFO] GC cleanup completed in 144ms | req_id=b470b46996aa caller=TomcatAccessFilter cpu_u
+2026-07-19T03:52:01,123 [GC-Thread-07827] - [INFO] GC cleanup completed in 79ms | caller=ConfigManager extra='f6b91xfdtfvqzm5f37zu6mg'
+2026-07-19T03:54:06,123 [http-nio-8080-exec-13473] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=ed57d486e81e endpoint=/api/v1/system/status 
+2026-07-19T03:54:06,460 [http-nio-8080-exec-05244] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=e8ba87f66745 ip=192.168.1.50 endpoint=/api/v
+2026-07-19T03:54:11,955 [http-nio-8080-exec-03754] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=ConfigManager cpu_util=14% extra='xdvbjwhj4g'
+2026-07-19T03:54:24,209 [GC-Thread-19095] - [INFO] GC cleanup completed in 112ms | ip=192.168.1.50 endpoint=/api/v2/restore caller=Bac
+2026-07-19T03:54:24,507 [http-nio-8080-exec-17325] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=630572291436 endpoint=/api/v1/auth/login cal
+2026-07-19T03:54:24,659 [http-nio-8080-exec-18536] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=d532556dbb2b ip=192.168.1.50 mem_util=73%   
+2026-07-19T03:54:27,713 [http-nio-8080-exec-01616] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=dbe394b38f30 ip=192.168.1.50 extra='uweekxrd'
+2026-07-19T03:54:33,461 [http-nio-8080-exec-06927] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=e36adb2a0315 ip=192.168.1.50 endpoint=/api/v
+2026-07-19T03:54:36,761 [http-nio-8080-exec-09639] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=BackupAgent extra='kaq6znzutvsss7fhcbcnzzsd9'
+2026-07-19T03:54:39,705 [GC-Thread-05703] - [INFO] GC cleanup completed in 97ms | endpoint=/api/v1/backup/create caller=WebServiceHel
+2026-07-19T03:54:39,874 [http-nio-8080-exec-07594] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=13c4878d110a ip=172.16.254.1 endpoint=/metri
+2026-07-19T03:54:52,903 [http-nio-8080-exec-16418] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=0d9a90f675ab ip=172.16.254.1 extra='ae7ox766'
+2026-07-19T03:54:58,143 [http-nio-8080-exec-12614] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=10.0.0.12 caller=WebServiceHelper mem_util=37%  
+2026-07-19T03:55:03,504 [http-nio-8080-exec-18375] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v2/restore caller=WebServiceHelper me
+2026-07-19T03:59:02,504 [GC-Thread-11590] - [INFO] GC cleanup completed in 147ms | req_id=fd2e4c9ea798 ip=192.168.1.50 endpoint=/api/v
+2026-07-19T03:59:06,286 [http-nio-8080-exec-08758] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=61% mem_util=45% extra='7kx201k41hk412p046'
+2026-07-19T03:59:06,323 [GC-Thread-10448] - [INFO] GC cleanup completed in 64ms | ip=192.168.1.50 caller=TomcatAccessFilter cpu_util=
+2026-07-19T04:11:06,323 [http-nio-8080-exec-10389] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=273eb6d315f4 extra='bixl0wfntl829260bc6codio'
+2026-07-19T04:14:12,323 [GC-Thread-03408] - [INFO] GC cleanup completed in 166ms | trace_id=3e4502adf440401f extra='kh2ytzbh946jmnutfd'
+2026-07-19T04:14:12,597 [http-nio-8080-exec-14229] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=3f36884d908c caller=BackupAgent extra='i609o'
+2026-07-19T04:14:12,605 [http-nio-8080-exec-09681] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/metrics cpu_util=17% extra='xfxdqpqdn7csy'
+2026-07-19T04:14:14,532 [http-nio-8080-exec-03947] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=709d465d4ec9 cpu_util=18% extra='nhym3fg25er'
+2026-07-19T04:14:17,525 [GC-Thread-01810] - [INFO] GC cleanup completed in 96ms | ip=192.168.1.50 caller=TomcatAccessFilter mem_util=
+2026-07-19T04:14:32,920 [http-nio-8080-exec-13485] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=bcd144e2d231 cpu_util=11% extra='q1bte1zrpjz'
+2026-07-19T04:14:43,702 [GC-Thread-07073] - [INFO] GC cleanup completed in 28ms | req_id=46577b9c641d caller=DbConnector extra='gbti9'
+2026-07-19T04:14:48,498 [GC-Thread-02733] - [INFO] GC cleanup completed in 124ms | req_id=2caab0177fc3 caller=BackupAgent mem_util=36%
+2026-07-19T04:14:52,527 [GC-Thread-03464] - [INFO] GC cleanup completed in 59ms | ip=10.0.0.12 extra='jekht4y2q9j7gy2ja8t3hi21yc9pzzl'
+2026-07-19T04:14:57,216 [http-nio-8080-exec-17871] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=49ef7780c6ca ip=192.168.1.50 caller=TomcatAc
+2026-07-19T04:14:59,439 [GC-Thread-02348] - [INFO] GC cleanup completed in 58ms | req_id=aa3de7f6efaf endpoint=/api/v2/restore caller
+2026-07-19T04:18:42,439 [http-nio-8080-exec-09114] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/metrics caller=WebServiceHelper cpu_util=
+2026-07-19T04:18:44,681 [http-nio-8080-exec-04167] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/auth/login extra='prgw2iaxpsfrw0ir'
+2026-07-19T04:18:48,717 [http-nio-8080-exec-05549] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/system/status caller=ConfigManager
+2026-07-19T04:19:00,358 [GC-Thread-04452] - [INFO] GC cleanup completed in 203ms | req_id=3d558148e7f5 extra='jsqk8cf7h174x4rsu59fh3x9'
+2026-07-19T04:19:05,709 [http-nio-8080-exec-15623] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=c36a79864ccb mem_util=87% extra='vh7egimq4hd'
+2026-07-19T04:32:05,709 [http-nio-8080-exec-03004] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=f95912fb1964 ip=172.16.254.1 caller=BackupAg
+2026-07-19T04:33:54,709 [http-nio-8080-exec-16062] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=bdfb4e16278b ip=192.168.2.115 extra='8j2mkda'
+2026-07-19T04:34:07,577 [GC-Thread-05227] - [INFO] GC cleanup completed in 124ms | req_id=1578887d0ecf endpoint=/api/v1/backup/create 
+2026-07-19T04:34:21,364 [http-nio-8080-exec-12584] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/metrics cpu_util=15% mem_util=31%        
+2026-07-19T04:34:21,636 [GC-Thread-09047] - [INFO] GC cleanup completed in 110ms | ip=10.0.0.12 caller=WebServiceHelper extra='dfswphc'
+2026-07-19T04:34:21,785 [http-nio-8080-exec-18349] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=cb4ea67fd83e mem_util=48% extra='e1etj0ak9gt'
+2026-07-19T04:34:27,449 [http-nio-8080-exec-19032] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=ConfigManager cpu_util=62% mem_util=45%     
+2026-07-19T04:34:27,497 [GC-Thread-16413] - [INFO] GC cleanup completed in 156ms | endpoint=/metrics caller=TomcatAccessFilter cpu_uti
+2026-07-19T04:34:27,615 [http-nio-8080-exec-17493] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=86398f15f04b endpoint=/metrics caller=Tomcat
+2026-07-19T04:34:41,610 [http-nio-8080-exec-01044] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=bd9cfbe807d9 ip=192.168.2.115 endpoint=/metr
+2026-07-19T04:34:44,152 [http-nio-8080-exec-05182] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=10.0.0.12 cpu_util=10% mem_util=87% extra='jret3'
+2026-07-19T04:34:57,949 [GC-Thread-06457] - [INFO] GC cleanup completed in 223ms | req_id=efcc70cd26fa ip=10.0.0.12 caller=TomcatAcces
+2026-07-19T04:34:59,187 [GC-Thread-01831] - [INFO] GC cleanup completed in 135ms | req_id=4f1e685ff14a ip=192.168.2.115 endpoint=/metr
+2026-07-19T04:35:00,204 [http-nio-8080-exec-11502] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/system/status mem_util=59%        
+2026-07-19T04:35:14,538 [GC-Thread-14487] - [INFO] GC cleanup completed in 161ms | req_id=7dfd8127f7ec ip=192.168.2.115 extra='6c2nn4t'
+2026-07-19T04:35:30,055 [http-nio-8080-exec-02262] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 caller=TomcatAccessFilter cpu_util
+2026-07-19T04:35:34,548 [http-nio-8080-exec-19072] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=af00292594bf ip=172.16.254.1 caller=WebServi
+2026-07-19T04:35:35,560 [GC-Thread-14893] - [INFO] GC cleanup completed in 55ms | req_id=b583f89e0812 caller=WebServiceHelper mem_uti
+2026-07-19T04:35:35,884 [GC-Thread-18459] - [INFO] GC cleanup completed in 56ms | req_id=5d33793db97d endpoint=/api/v1/system/status 
+2026-07-19T04:35:36,223 [http-nio-8080-exec-01270] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=8974893e046e ip=172.16.254.1 cpu_util=19% me
+2026-07-19T04:37:19,223 [http-nio-8080-exec-17857] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | mem_util=43% extra='wiz0y9ivlakeajxnpd8ct2yt2l7ddek'
+2026-07-19T04:40:56,223 [http-nio-8080-exec-01603] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=4d255c8cbcb3 ip=172.16.254.1 cpu_util=46%   
+2026-07-19T04:40:56,503 [GC-Thread-02062] - [INFO] GC cleanup completed in 157ms | req_id=c44f39166d2d ip=10.0.0.12 mem_util=82%      
+2026-07-19T04:40:58,414 [GC-Thread-07921] - [INFO] GC cleanup completed in 66ms | caller=BackupAgent mem_util=49% extra='m9p8kceypkjs'
+2026-07-19T04:41:00,257 [http-nio-8080-exec-12411] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=1e4e8159ecc2 ip=172.16.254.1 cpu_util=81%   
+2026-07-19T04:41:05,397 [http-nio-8080-exec-19089] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=14% mem_util=63% extra='xh7t53q6ba5rli7m4r'
+2026-07-19T04:41:09,111 [http-nio-8080-exec-18971] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=fc6356b8af04 ip=192.168.1.50 caller=ConfigMa
+2026-07-19T04:41:09,384 [http-nio-8080-exec-04382] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=37881ae930a5 ip=192.168.2.115 endpoint=/api/
+2026-07-19T04:41:09,793 [http-nio-8080-exec-02325] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=f42b64d26ca7 ip=10.0.0.12 endpoint=/api/v1/s
+2026-07-19T04:41:13,688 [http-nio-8080-exec-17893] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=09ce8d2c18f6 ip=192.168.2.115 caller=DbConne
+2026-07-19T04:41:13,747 [http-nio-8080-exec-14885] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/metrics caller=DbConnector cpu_util=78%  
+2026-07-19T04:44:10,747 [http-nio-8080-exec-04474] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | mem_util=62% extra='ngxxk77h88ztwnc1t9n64812alkm5lu'
+2026-07-19T04:44:21,940 [http-nio-8080-exec-14188] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | mem_util=89% extra='jbbhzgb6f1cbivq76cis6hmg12gfbhl'
+2026-07-19T04:44:27,590 [http-nio-8080-exec-16663] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=3bc019652a46 endpoint=/api/v2/restore mem_ut
+2026-07-19T04:45:42,590 [http-nio-8080-exec-02327] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=1f9afe33bbcf caller=WebServiceHelper mem_uti
+2026-07-19T04:45:44,379 [GC-Thread-13938] - [INFO] GC cleanup completed in 165ms | caller=ConfigManager mem_util=77% extra='4bgl2ujlqx'
+2026-07-19T04:46:54,379 [GC-Thread-17759] - [INFO] GC cleanup completed in 247ms | req_id=e0d4b3fad331 endpoint=/api/v1/system/status 
+2026-07-19T04:46:54,477 [http-nio-8080-exec-14780] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=e6795e322740 ip=192.168.1.50 mem_util=78%   
+2026-07-19T04:46:57,233 [http-nio-8080-exec-01409] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 caller=BackupAgent extra='s6u2ygi39'
+2026-07-19T04:48:00,233 [http-nio-8080-exec-02695] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=796b4bc9985a ip=192.168.1.50 caller=DbConnec
+2026-07-19T04:48:15,788 [http-nio-8080-exec-05141] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=155d9ec0f3d8 ip=192.168.1.50 endpoint=/api/v
+2026-07-19T04:48:16,069 [GC-Thread-10769] - [INFO] GC cleanup completed in 30ms | req_id=0155d179453b ip=10.0.0.12 endpoint=/api/v1/b
+2026-07-19T04:48:16,371 [http-nio-8080-exec-07770] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/auth/login caller=DbConnector mem_
+2026-07-19T04:48:19,536 [http-nio-8080-exec-02941] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/backup/create caller=BackupAgent m
+2026-07-19T04:48:19,608 [http-nio-8080-exec-15901] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=4730c652b1e1 caller=TomcatAccessFilter cpu_u
+2026-07-19T04:49:43,608 [GC-Thread-08826] - [INFO] GC cleanup completed in 137ms | req_id=564c99538312 caller=WebServiceHelper mem_uti
+2026-07-19T04:49:58,080 [http-nio-8080-exec-04167] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 extra='tcfsvmznd7oi77a57uuw3748j29eu98'
+2026-07-19T04:49:58,399 [http-nio-8080-exec-03436] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=e202e067e488 ip=10.0.0.12 caller=BackupAgent
+2026-07-19T04:52:27,399 [GC-Thread-08782] - [INFO] GC cleanup completed in 61ms | ip=192.168.2.115 cpu_util=44% extra='7uivkmf6i1aguj'
+2026-07-19T04:52:39,973 [GC-Thread-12188] - [INFO] GC cleanup completed in 55ms | req_id=557510dfe116 ip=172.16.254.1 mem_util=54%   
+2026-07-19T04:52:54,787 [http-nio-8080-exec-03454] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 mem_util=64% extra='vi5sp5i53j1rlxt'
+2026-07-19T04:52:55,185 [http-nio-8080-exec-01936] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | mem_util=30% extra='a6d5iib5uiehzlha0hq6yhsw97tqpxh'
+2026-07-19T04:52:55,285 [http-nio-8080-exec-12564] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=TomcatAccessFilter cpu_util=45% mem_util=46%
+2026-07-19T04:53:00,921 [GC-Thread-06492] - [INFO] GC cleanup completed in 90ms | req_id=9fec1f623319 ip=10.0.0.12 endpoint=/api/v1/s
+2026-07-19T05:08:00,921 [GC-Thread-08896] - [INFO] GC cleanup completed in 29ms | req_id=6799bbf72312 endpoint=/api/v1/backup/create 
+2026-07-19T05:08:01,301 [GC-Thread-08508] - [INFO] GC cleanup completed in 88ms | req_id=1114d878d5a7 cpu_util=77% mem_util=34%      
+2026-07-19T05:09:57,301 [GC-Thread-19137] - [INFO] GC cleanup completed in 243ms | req_id=63008f5cc65c endpoint=/api/v1/system/status 
+2026-07-19T05:10:10,881 [http-nio-8080-exec-11652] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=694206c7ea3f caller=DbConnector mem_util=42%
+2026-07-19T05:10:22,009 [http-nio-8080-exec-18599] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=WebServiceHelper cpu_util=61% extra='fkf8wxz'
+2026-07-19T05:10:25,549 [GC-Thread-18547] - [INFO] GC cleanup completed in 70ms | endpoint=/api/v1/system/status mem_util=32%        
+2026-07-19T05:10:25,821 [GC-Thread-15923] - [INFO] GC cleanup completed in 175ms | ip=172.16.254.1 cpu_util=82% extra='hywujrdg9ei6cm5'
+2026-07-19T05:10:30,985 [GC-Thread-08263] - [INFO] GC cleanup completed in 26ms | req_id=acf7c29bde79 ip=10.0.0.12 cpu_util=13% mem_u
+2026-07-19T05:10:31,232 [GC-Thread-13518] - [INFO] GC cleanup completed in 176ms | ip=192.168.2.115 endpoint=/api/v1/auth/login mem_ut
+2026-07-19T05:10:33,483 [http-nio-8080-exec-06612] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=872b559b44b3 caller=DbConnector cpu_util=14%
+2026-07-19T05:10:33,980 [http-nio-8080-exec-16300] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/backup/create cpu_util=31%        
+2026-07-19T05:10:34,246 [http-nio-8080-exec-11821] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v2/restore caller=DbConnector cpu_uti
+2026-07-19T05:10:34,481 [http-nio-8080-exec-03241] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=c59e0c07b1b7 ip=192.168.1.50 endpoint=/metri
+2026-07-19T05:10:34,749 [http-nio-8080-exec-18527] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 caller=BackupAgent extra='1bzp4i39q'
+2026-07-19T05:10:34,997 [http-nio-8080-exec-07742] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=7a6e9aa7f635 ip=10.0.0.12 caller=ConfigManag
+2026-07-19T05:13:07,997 [http-nio-8080-exec-08223] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=252186b09791 caller=DbConnector cpu_util=60%
+2026-07-19T05:13:13,039 [GC-Thread-16135] - [INFO] GC cleanup completed in 173ms | caller=ConfigManager mem_util=74% extra='ztu29ddg3q'
+2026-07-19T05:13:13,169 [http-nio-8080-exec-08129] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=277db210dc0d ip=172.16.254.1 caller=ConfigMa
+2026-07-19T05:16:17,169 [http-nio-8080-exec-06726] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=3a5476c28402 ip=10.0.0.12 endpoint=/api/v1/a
+2026-07-19T05:16:20,726 [http-nio-8080-exec-07205] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=6dbaaafe928e ip=192.168.2.115 endpoint=/api/
+2026-07-19T05:16:33,286 [http-nio-8080-exec-12492] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=8376daca3789 caller=WebServiceHelper cpu_uti
+2026-07-19T05:16:33,567 [http-nio-8080-exec-04519] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=1ebbcdd5dd18 endpoint=/api/v1/auth/login cal
+2026-07-19T05:16:33,757 [http-nio-8080-exec-15489] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 endpoint=/api/v2/restore cpu_util=8
+2026-07-19T05:16:38,551 [http-nio-8080-exec-09949] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/metrics caller=DbConnector mem_util=85%  
+2026-07-19T05:16:40,528 [http-nio-8080-exec-16163] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 mem_util=86% extra='dwrc18whbb8q7a'
+2026-07-19T05:17:43,528 [http-nio-8080-exec-19782] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 endpoint=/api/v2/restore caller=Backup
+2026-07-19T05:17:45,309 [GC-Thread-07995] - [INFO] GC cleanup completed in 216ms | req_id=6fff87c5f866 ip=192.168.2.115 endpoint=/api/
+2026-07-19T05:18:00,262 [http-nio-8080-exec-12558] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 endpoint=/api/v2/restore caller=Con
+2026-07-19T05:18:00,327 [http-nio-8080-exec-17339] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=8ad542ccb610 ip=10.0.0.12 endpoint=/api/v2/r
+2026-07-19T05:27:00,327 [GC-Thread-02650] - [INFO] GC cleanup completed in 119ms | ip=172.16.254.1 caller=DbConnector extra='kwwpho2nu'
+2026-07-19T05:27:05,049 [GC-Thread-14031] - [INFO] GC cleanup completed in 142ms | ip=172.16.254.1 endpoint=/api/v1/backup/create call
+2026-07-19T05:27:05,545 [http-nio-8080-exec-17743] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 mem_util=84% extra='rsdudjybnjytwe'
+2026-07-19T05:33:05,545 [http-nio-8080-exec-16109] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 endpoint=/api/v1/system/status call
+2026-07-19T05:33:05,909 [http-nio-8080-exec-08566] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 cpu_util=47% mem_util=41% extra='vg'
+2026-07-19T05:33:17,325 [http-nio-8080-exec-10107] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=2149617be65e caller=ConfigManager cpu_util=7
+2026-07-19T05:33:30,944 [http-nio-8080-exec-07473] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | mem_util=76% extra='skwjl26zv2z0h6uwa23rnbj5tk8lla2'
+2026-07-19T05:33:31,054 [GC-Thread-16366] - [INFO] GC cleanup completed in 143ms | cpu_util=58% extra='tt5tkkfsobd0a2fqiqlis1wmtos6gsy'
+2026-07-19T05:33:31,377 [GC-Thread-17237] - [INFO] GC cleanup completed in 90ms | ip=172.16.254.1 cpu_util=41% mem_util=53% extra='aw'
+2026-07-19T05:33:37,246 [http-nio-8080-exec-13773] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=984a0bb12dae cpu_util=67% mem_util=87%      
+2026-07-19T05:33:37,563 [GC-Thread-06311] - [INFO] GC cleanup completed in 110ms | req_id=2d43c891bdc8 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T05:35:39,563 [GC-Thread-13223] - [INFO] GC cleanup completed in 166ms | endpoint=/api/v1/backup/create cpu_util=69%        
+2026-07-19T05:35:52,567 [GC-Thread-13449] - [INFO] GC cleanup completed in 82ms | ip=192.168.2.115 endpoint=/api/v1/backup/create cpu
+2026-07-19T05:35:52,831 [GC-Thread-12333] - [INFO] GC cleanup completed in 129ms | ip=192.168.2.115 cpu_util=17% extra='n8pa8pok12qcdp'
+2026-07-19T05:35:55,169 [http-nio-8080-exec-08510] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=7d00099b1e83 endpoint=/api/v1/system/status 
+2026-07-19T05:37:15,169 [http-nio-8080-exec-06311] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=757d1713a4f1 endpoint=/metrics caller=DbConn
+2026-07-19T05:37:19,986 [http-nio-8080-exec-19105] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=8d654e471df8 endpoint=/metrics caller=WebSer
+2026-07-19T05:37:25,149 [http-nio-8080-exec-09250] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=BackupAgent mem_util=75% extra='y14ut879ijrn'
+2026-07-19T05:37:25,363 [GC-Thread-02331] - [INFO] GC cleanup completed in 13ms | req_id=5fd46531dcb5 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T05:37:29,172 [http-nio-8080-exec-16459] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/backup/create caller=DbConnector c
+2026-07-19T05:37:29,593 [http-nio-8080-exec-09722] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=5687be83ef39 ip=10.0.0.12 endpoint=/metrics 
+2026-07-19T05:37:32,826 [http-nio-8080-exec-16069] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=aea00ef5cf15 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T05:37:34,285 [http-nio-8080-exec-16422] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/api/v2/restore caller=Web
+2026-07-19T05:37:46,677 [http-nio-8080-exec-16929] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | trace_id=10216204a7ec4a22 extra='3u9238gsroean7feld'
+2026-07-19T05:37:48,715 [http-nio-8080-exec-03717] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=19034e1d32f3 endpoint=/metrics cpu_util=75% 
+2026-07-19T05:37:48,943 [http-nio-8080-exec-14748] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=10.0.0.12 extra='e5jxoly75wediup79abkbpudueyeuud'
+2026-07-19T05:37:49,006 [GC-Thread-13904] - [INFO] GC cleanup completed in 50ms | cpu_util=49% mem_util=59% extra='zgr4t68fz6chp8avf4'
+2026-07-19T05:41:37,006 [GC-Thread-18123] - [INFO] GC cleanup completed in 40ms | req_id=71ec00978062 mem_util=54% extra='8l8yf9nn0yo'
+2026-07-19T05:41:37,449 [http-nio-8080-exec-16853] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 endpoint=/api/v2/restore caller=Tom
+2026-07-19T05:41:51,086 [GC-Thread-10881] - [INFO] GC cleanup completed in 78ms | ip=192.168.2.115 endpoint=/api/v2/restore mem_util=
+2026-07-19T05:41:53,273 [http-nio-8080-exec-16908] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=ce9417f00426 ip=192.168.1.50 caller=TomcatAc
+2026-07-19T05:41:53,496 [http-nio-8080-exec-04552] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/auth/login cpu_util=26% extra='o60'
+2026-07-19T05:41:57,334 [http-nio-8080-exec-01700] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=b773ee603c53 endpoint=/api/v1/system/status 
+2026-07-19T05:41:57,390 [http-nio-8080-exec-07809] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 mem_util=74% extra='aaaen34wk787onc'
+2026-07-19T05:43:52,390 [http-nio-8080-exec-02533] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=32a494cc8655 ip=192.168.1.50 endpoint=/api/v
+2026-07-19T05:44:07,569 [http-nio-8080-exec-15757] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=f1735b38acda ip=172.16.254.1 mem_util=81%   
+2026-07-19T05:44:09,757 [http-nio-8080-exec-15444] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=d3b110279716 endpoint=/api/v1/backup/create 
+2026-07-19T05:44:25,426 [http-nio-8080-exec-05855] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 caller=DbConnector extra='7sdn75uzt'
+2026-07-19T05:44:40,889 [GC-Thread-07581] - [INFO] GC cleanup completed in 61ms | req_id=7db60c6434db ip=10.0.0.12 endpoint=/api/v1/s
+2026-07-19T05:44:53,401 [GC-Thread-17346] - [INFO] GC cleanup completed in 245ms | req_id=f6fed9bf99de ip=192.168.2.115 endpoint=/api/
+2026-07-19T05:44:56,911 [http-nio-8080-exec-03647] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | trace_id=bb39b69b575045b5 extra='ik9fudh7q4e2gbyhs4'
+2026-07-19T05:44:57,245 [http-nio-8080-exec-12653] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=2576b41e7994 endpoint=/api/v1/system/status 
+2026-07-19T05:44:57,671 [http-nio-8080-exec-17553] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=63% extra='ev4kbm88vfp5kjbhstvo818agyocm8j'
+2026-07-19T05:44:57,856 [http-nio-8080-exec-01590] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=eeeb840c0016 caller=BackupAgent extra='936ro'
+2026-07-19T05:45:12,429 [GC-Thread-09409] - [INFO] GC cleanup completed in 238ms | req_id=57db3524762b endpoint=/metrics extra='cdw06l'
+2026-07-19T05:47:21,429 [http-nio-8080-exec-01228] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/auth/login caller=WebServiceHelper
+2026-07-19T05:47:36,479 [http-nio-8080-exec-16045] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=984bd1d63ade endpoint=/api/v1/auth/login cal
+2026-07-19T05:47:41,739 [http-nio-8080-exec-02070] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/auth/login cpu_util=78% extra='z2w'
+2026-07-19T05:47:41,919 [GC-Thread-07421] - [INFO] GC cleanup completed in 11ms | caller=DbConnector cpu_util=58% mem_util=67%       
+2026-07-19T05:47:46,890 [GC-Thread-19689] - [INFO] GC cleanup completed in 105ms | ip=192.168.1.50 endpoint=/metrics cpu_util=54%     
+2026-07-19T05:49:56,890 [http-nio-8080-exec-05730] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | mem_util=42% extra='6dawowtif3fkq5tnsk0kegphddawc8k'
+2026-07-19T05:50:02,449 [http-nio-8080-exec-06691] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=b3169c1f017f ip=10.0.0.12 mem_util=49%      
+2026-07-19T05:50:02,894 [http-nio-8080-exec-11330] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=ff60ad495267 cpu_util=24% extra='lnmb5h06v39'
+2026-07-19T05:50:03,048 [http-nio-8080-exec-08909] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=4a85bef3a289 ip=192.168.2.115 cpu_util=39%  
+2026-07-19T05:50:03,199 [http-nio-8080-exec-16595] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v2/restore caller=DbConnector cpu_uti
+2026-07-19T05:50:03,300 [GC-Thread-01117] - [INFO] GC cleanup completed in 36ms | req_id=ff325d90a957 ip=172.16.254.1 mem_util=56%   
+2026-07-19T05:50:03,494 [http-nio-8080-exec-07381] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=5f1424a1ade5 cpu_util=82% extra='3ilyo1dv8jh'
+2026-07-19T05:50:08,670 [GC-Thread-18724] - [INFO] GC cleanup completed in 206ms | ip=172.16.254.1 endpoint=/metrics extra='w61mg3j3vd'
+2026-07-19T05:50:08,973 [GC-Thread-10346] - [INFO] GC cleanup completed in 30ms | mem_util=39% extra='hap5j18zavqfvc4d6d4whfgro997g07'
+2026-07-19T05:52:32,973 [GC-Thread-06430] - [INFO] GC cleanup completed in 90ms | caller=BackupAgent cpu_util=79% extra='8xx2i3jxy5ho'
+2026-07-19T05:52:37,059 [http-nio-8080-exec-14675] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 caller=ConfigManager mem_util=85%  
+2026-07-19T05:52:42,648 [GC-Thread-11227] - [INFO] GC cleanup completed in 26ms | ip=192.168.2.115 cpu_util=56% extra='4wnefn0emxoq8r'
+2026-07-19T05:52:44,436 [http-nio-8080-exec-17624] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=09846f701ae7 endpoint=/api/v2/restore caller
+2026-07-19T05:52:55,799 [http-nio-8080-exec-03337] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | mem_util=43% extra='ncrqy5vnxg8g3cprbnfi3c3r12znkfq'
+2026-07-19T05:53:08,692 [GC-Thread-15812] - [INFO] GC cleanup completed in 99ms | req_id=84bdc2405756 caller=BackupAgent extra='k3v4h'
+2026-07-19T05:53:11,469 [GC-Thread-06776] - [INFO] GC cleanup completed in 156ms | endpoint=/api/v2/restore caller=DbConnector cpu_uti
+2026-07-19T05:53:13,964 [GC-Thread-06647] - [INFO] GC cleanup completed in 96ms | req_id=c05472bda862 ip=192.168.1.50 endpoint=/metri
+2026-07-19T05:53:28,657 [http-nio-8080-exec-12320] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=WebServiceHelper mem_util=69% extra='qvuyv4w'
+2026-07-19T05:53:29,018 [http-nio-8080-exec-14093] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=edb064e05fd2 endpoint=/api/v2/restore caller
+2026-07-19T05:53:40,742 [http-nio-8080-exec-16608] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=1e91c0d94111 ip=172.16.254.1 caller=DbConnec
+2026-07-19T05:55:28,742 [http-nio-8080-exec-08948] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=a6f1b0f70237 caller=BackupAgent mem_util=67%
+2026-07-19T05:55:29,198 [http-nio-8080-exec-14293] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | cpu_util=58% extra='intgrasd6qone3c6dewkgesae3t9wxl'
+2026-07-19T06:02:29,198 [GC-Thread-09343] - [INFO] GC cleanup completed in 186ms | caller=WebServiceHelper mem_util=35% extra='hdwcsdx'
+2026-07-19T06:02:31,484 [http-nio-8080-exec-06788] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=BackupAgent mem_util=61% extra='kwv9uqbrpy1n'
+2026-07-19T06:02:33,862 [GC-Thread-11230] - [INFO] GC cleanup completed in 86ms | req_id=eab58846a496 ip=10.0.0.12 caller=BackupAgent
+2026-07-19T06:02:34,269 [http-nio-8080-exec-13849] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 endpoint=/api/v1/auth/login mem_uti
+2026-07-19T06:02:39,774 [GC-Thread-07678] - [INFO] GC cleanup completed in 165ms | req_id=33c21ccbdbbe mem_util=75% extra='divan4t6lqf'
+2026-07-19T06:02:40,083 [http-nio-8080-exec-14841] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/metrics caller=WebServiceHelper mem_util=
+2026-07-19T06:02:40,297 [GC-Thread-08878] - [INFO] GC cleanup completed in 193ms | ip=192.168.1.50 caller=WebServiceHelper cpu_util=19
+2026-07-19T06:02:42,641 [GC-Thread-02824] - [INFO] GC cleanup completed in 81ms | req_id=398c04dbf111 mem_util=56% extra='uvkgmf70w57'
+2026-07-19T06:02:52,915 [GC-Thread-19263] - [INFO] GC cleanup completed in 37ms | endpoint=/metrics extra='2v93vu38oo8gsvut9puw4514zx'
+2026-07-19T06:16:52,915 [http-nio-8080-exec-07414] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/metrics caller=ConfigManager extra='hhd8s'
+2026-07-19T06:16:58,179 [http-nio-8080-exec-03123] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/auth/login caller=WebServiceHelper
+2026-07-19T06:16:58,517 [http-nio-8080-exec-13123] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=22% extra='gbe8m1rt2s779oefnngwflixv698ucr'
+2026-07-19T06:17:02,029 [http-nio-8080-exec-04674] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 caller=DbConnector mem_util=87%    
+2026-07-19T06:17:04,511 [GC-Thread-04795] - [INFO] GC cleanup completed in 221ms | req_id=d2b9cdc0bc3e cpu_util=32% mem_util=32%      
+2026-07-19T06:17:05,731 [GC-Thread-16050] - [INFO] GC cleanup completed in 11ms | req_id=2a84b001e2e1 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T06:17:17,733 [http-nio-8080-exec-04691] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=f2e69642f8a6 ip=10.0.0.12 caller=WebServiceH
+2026-07-19T06:17:17,852 [http-nio-8080-exec-15872] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=92ab7473dc9b caller=WebServiceHelper mem_uti
+2026-07-19T06:19:48,852 [GC-Thread-12361] - [INFO] GC cleanup completed in 223ms | req_id=ac6f7c8d9c55 endpoint=/api/v1/system/status 
+2026-07-19T06:19:48,931 [http-nio-8080-exec-09925] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 extra='roslrxqy8g2ervez1wtz6x745rl9'
+2026-07-19T06:19:49,315 [GC-Thread-08040] - [INFO] GC cleanup completed in 100ms | req_id=9fb310c194e3 ip=172.16.254.1 mem_util=71%   
+2026-07-19T06:19:49,719 [http-nio-8080-exec-13910] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v2/restore caller=WebServiceHelper cp
+2026-07-19T06:19:49,945 [http-nio-8080-exec-02448] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=ea812a5b009d extra='z1ehj90qgn7vyxaqc55q1lla'
+2026-07-19T06:19:50,000 [http-nio-8080-exec-08147] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=DbConnector mem_util=83% extra='tyg7k0z0rjsc'
+2026-07-19T06:19:51,020 [GC-Thread-04251] - [INFO] GC cleanup completed in 79ms | endpoint=/metrics caller=WebServiceHelper mem_util=
+2026-07-19T06:19:51,417 [GC-Thread-14690] - [INFO] GC cleanup completed in 44ms | caller=ConfigManager extra='jmxbdhx6kli2vnna256yb4j'
+2026-07-19T06:19:52,444 [GC-Thread-14044] - [INFO] GC cleanup completed in 177ms | req_id=5f9165953a35 cpu_util=58% mem_util=53%      
+2026-07-19T06:19:54,084 [http-nio-8080-exec-18600] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=DbConnector cpu_util=57% extra='r9wr5im2tveg'
+2026-07-19T06:19:59,472 [http-nio-8080-exec-16325] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=93ae91e30526 ip=172.16.254.1 endpoint=/metri
+2026-07-19T06:19:59,761 [GC-Thread-01232] - [INFO] GC cleanup completed in 141ms | req_id=0224e4e23b57 caller=BackupAgent mem_util=75%
+2026-07-19T06:32:59,761 [http-nio-8080-exec-14809] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | mem_util=37% extra='y0qa14ohjbgxyvh52xhdtyooauhuv84'
+2026-07-19T06:33:00,078 [GC-Thread-10263] - [INFO] GC cleanup completed in 116ms | req_id=39bcd253c2e0 caller=ConfigManager cpu_util=7
+2026-07-19T06:33:01,376 [http-nio-8080-exec-09682] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=4dac02d9836e mem_util=61% extra='bf1e7xukpgx'
+2026-07-19T06:33:06,094 [GC-Thread-19886] - [INFO] GC cleanup completed in 35ms | req_id=b0efb238d59f ip=10.0.0.12 caller=TomcatAcces
+2026-07-19T06:33:08,865 [GC-Thread-15286] - [INFO] GC cleanup completed in 82ms | endpoint=/metrics caller=ConfigManager cpu_util=20%
+2026-07-19T06:33:09,222 [http-nio-8080-exec-11507] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=e596a49a9c2c endpoint=/api/v2/restore cpu_ut
+2026-07-19T06:33:19,694 [GC-Thread-04514] - [INFO] GC cleanup completed in 204ms | req_id=98bddcc5d606 endpoint=/api/v1/system/status 
+2026-07-19T06:33:20,089 [http-nio-8080-exec-12970] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=54% extra='whtzmrzcgbq0yc75jw32boqnv4wl947'
+2026-07-19T06:33:24,542 [http-nio-8080-exec-05490] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=566a9d88b832 caller=BackupAgent cpu_util=31%
+2026-07-19T06:33:28,696 [GC-Thread-15710] - [INFO] GC cleanup completed in 128ms | ip=192.168.1.50 caller=WebServiceHelper cpu_util=54
+2026-07-19T06:33:39,925 [http-nio-8080-exec-09681] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/system/status caller=BackupAgent c
+2026-07-19T06:33:40,237 [http-nio-8080-exec-17249] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | cpu_util=21% mem_util=44% extra='w64ahydl2cbtwpled9'
+2026-07-19T06:33:40,327 [http-nio-8080-exec-19890] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=ConfigManager cpu_util=59% mem_util=86%     
+2026-07-19T06:33:45,624 [GC-Thread-15590] - [INFO] GC cleanup completed in 155ms | ip=192.168.2.115 cpu_util=69% mem_util=45% extra='f'
+2026-07-19T06:33:46,724 [http-nio-8080-exec-05620] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | cpu_util=29% extra='62vpq5udtbxjronvxwi4dmb2811x6nn'
+2026-07-19T06:33:50,607 [http-nio-8080-exec-04294] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=bcbde323ee4a caller=TomcatAccessFilter mem_u
+2026-07-19T06:34:03,695 [GC-Thread-16159] - [INFO] GC cleanup completed in 133ms | caller=BackupAgent extra='793y31gty9r6k2xnzzqqs8pq6'
+2026-07-19T06:34:07,958 [GC-Thread-11152] - [INFO] GC cleanup completed in 42ms | req_id=f773980341ca ip=192.168.2.115 caller=ConfigM
+2026-07-19T06:34:09,983 [GC-Thread-09297] - [INFO] GC cleanup completed in 234ms | req_id=aad761753ec7 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T06:34:13,206 [http-nio-8080-exec-01022] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=48% mem_util=45% extra='h074jtpf5rmazozwy5'
+2026-07-19T06:34:15,153 [http-nio-8080-exec-08730] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 cpu_util=82% extra='wawtzxowfsqhzcz'
+2026-07-19T06:34:16,869 [GC-Thread-17522] - [INFO] GC cleanup completed in 119ms | endpoint=/metrics caller=DbConnector mem_util=40%  
+2026-07-19T06:34:31,924 [http-nio-8080-exec-18942] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=10.0.0.12 endpoint=/api/v1/auth/login caller=Con
+2026-07-19T06:34:35,882 [http-nio-8080-exec-02224] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=0c6d12cc316f extra='6ob66o7x0fne38ic25irlamd'
+2026-07-19T06:34:37,298 [GC-Thread-06651] - [INFO] GC cleanup completed in 190ms | req_id=bf55a61384c9 ip=192.168.2.115 cpu_util=52% m
+2026-07-19T06:34:40,232 [http-nio-8080-exec-19380] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=85b7f9de7388 ip=172.16.254.1 endpoint=/metri
+2026-07-19T06:34:46,063 [GC-Thread-13410] - [INFO] GC cleanup completed in 66ms | req_id=e324ddbc2e66 cpu_util=41% mem_util=30%      
+2026-07-19T06:34:48,079 [GC-Thread-08581] - [INFO] GC cleanup completed in 223ms | req_id=4618eada0e61 caller=DbConnector cpu_util=56%
+2026-07-19T06:34:48,322 [GC-Thread-11753] - [INFO] GC cleanup completed in 120ms | ip=10.0.0.12 endpoint=/api/v1/backup/create cpu_uti
+2026-07-19T06:34:48,638 [http-nio-8080-exec-12668] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | cpu_util=43% extra='681bw2lxbhj7huice1in1schxx6snsc'
+2026-07-19T06:34:59,288 [GC-Thread-05146] - [INFO] GC cleanup completed in 96ms | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=
+2026-07-19T06:35:10,991 [http-nio-8080-exec-10484] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=WebServiceHelper cpu_util=71% extra='ky1bqg6'
+2026-07-19T06:35:13,495 [http-nio-8080-exec-04889] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=c8a04c78e987 endpoint=/metrics extra='0sx4um'
+2026-07-19T06:35:15,867 [http-nio-8080-exec-18493] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=f1c1af36bbad ip=10.0.0.12 endpoint=/metrics 
+2026-07-19T06:35:16,100 [GC-Thread-14815] - [INFO] GC cleanup completed in 225ms | caller=ConfigManager cpu_util=28% extra='3x24n1cwsm'
+2026-07-19T06:35:18,043 [GC-Thread-04840] - [INFO] GC cleanup completed in 121ms | ip=192.168.1.50 cpu_util=55% mem_util=42% extra='yl'
+2026-07-19T06:35:18,068 [http-nio-8080-exec-16065] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=ConfigManager cpu_util=83% extra='6ossf0be2p'
+2026-07-19T06:35:22,664 [http-nio-8080-exec-15142] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/auth/login caller=ConfigManager cp
+2026-07-19T06:35:23,136 [GC-Thread-01255] - [INFO] GC cleanup completed in 149ms | req_id=da7a2e7af478 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T06:35:27,333 [GC-Thread-07587] - [INFO] GC cleanup completed in 146ms | req_id=52d599f381c9 ip=10.0.0.12 endpoint=/api/v1/s
+2026-07-19T06:35:27,391 [http-nio-8080-exec-06701] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 caller=BackupAgent mem_util=57%    
+2026-07-19T06:35:27,804 [GC-Thread-02815] - [INFO] GC cleanup completed in 57ms | trace_id=88371603655340ed extra='vsq2z6br6fhv3537g4'
+2026-07-19T06:35:32,695 [http-nio-8080-exec-07607] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=c4e40663ba92 endpoint=/api/v1/auth/login cpu
+2026-07-19T06:35:33,125 [http-nio-8080-exec-13835] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=f15b03399131 ip=10.0.0.12 endpoint=/api/v1/s
+2026-07-19T06:35:33,215 [http-nio-8080-exec-10744] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=fd8b28323d0b endpoint=/api/v1/auth/login cal
+2026-07-19T06:35:33,527 [http-nio-8080-exec-06302] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 caller=TomcatAccessFilter mem_util=49%
+2026-07-19T06:35:33,736 [http-nio-8080-exec-06155] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | cpu_util=28% mem_util=66% extra='k3pzllt8h5z0n5nlds'
+2026-07-19T06:35:49,363 [http-nio-8080-exec-16481] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 endpoint=/api/v1/auth/login caller=DbC
+2026-07-19T06:35:54,131 [GC-Thread-02482] - [INFO] GC cleanup completed in 24ms | req_id=481be54cd26e ip=172.16.254.1 extra='cx2blmi6'
+2026-07-19T06:35:54,370 [http-nio-8080-exec-11632] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/api/v2/restore extra='9h3'
+2026-07-19T06:35:54,650 [http-nio-8080-exec-01019] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=198f056570f6 ip=10.0.0.12 endpoint=/metrics 
+2026-07-19T06:35:58,214 [http-nio-8080-exec-05029] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=b6bd2728eebd ip=192.168.1.50 endpoint=/api/v
+2026-07-19T06:35:58,608 [GC-Thread-14518] - [INFO] GC cleanup completed in 16ms | req_id=2e4ab9de473d ip=192.168.2.115 endpoint=/api/
+2026-07-19T06:36:04,412 [http-nio-8080-exec-18082] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=TomcatAccessFilter cpu_util=32% mem_util=43%
+2026-07-19T06:36:04,586 [http-nio-8080-exec-09763] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=fb60a8de84c4 endpoint=/metrics caller=DbConn
+2026-07-19T06:36:04,609 [http-nio-8080-exec-19451] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=d6ea45999500 mem_util=34% extra='9xv4m2d4srn'
+2026-07-19T06:36:05,968 [GC-Thread-04321] - [INFO] GC cleanup completed in 135ms | caller=DbConnector cpu_util=22% extra='s53ncre6adeq'
+2026-07-19T06:36:06,063 [http-nio-8080-exec-06262] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=ab9832a6e1ad ip=192.168.1.50 endpoint=/api/v
+2026-07-19T06:36:06,459 [http-nio-8080-exec-13638] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 endpoint=/api/v1/system/status caller=
+2026-07-19T06:36:20,136 [http-nio-8080-exec-01757] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | mem_util=72% extra='ph5dwusilmcaaph02nylwsf7szochod'
+2026-07-19T06:36:20,387 [http-nio-8080-exec-11403] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/metrics cpu_util=15% mem_util=66%        
+2026-07-19T06:36:32,899 [http-nio-8080-exec-07762] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/api/v1/backup/create call
+2026-07-19T06:36:33,053 [http-nio-8080-exec-15254] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/backup/create caller=WebServiceHel
+2026-07-19T06:36:38,730 [http-nio-8080-exec-02334] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/system/status caller=DbConnector m
+2026-07-19T06:36:39,093 [http-nio-8080-exec-05119] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 mem_util=42% extra='r8mprkxuuh656rn'
+2026-07-19T06:36:39,440 [http-nio-8080-exec-05891] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=7208c638635e cpu_util=59% extra='wx0dgwo3iqj'
+2026-07-19T06:36:53,492 [http-nio-8080-exec-02014] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=26% mem_util=30% extra='i4tazj4s84l9ro0yny'
+2026-07-19T06:36:53,877 [http-nio-8080-exec-16998] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=6c0beea726d1 ip=192.168.2.115 caller=WebServ
+2026-07-19T06:36:56,071 [http-nio-8080-exec-19439] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=87c6cab53c3b extra='0dzyg4ws3akcox9kiwm64443'
+2026-07-19T06:36:59,401 [http-nio-8080-exec-15248] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=6a0bc62c9d2e ip=172.16.254.1 endpoint=/api/v
+2026-07-19T06:37:03,183 [http-nio-8080-exec-12308] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | mem_util=66% extra='vg90pzspfxr4j74g8awpzw0vgke24g4'
+2026-07-19T06:37:08,648 [http-nio-8080-exec-10839] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 extra='n8y2h7qnq9u64bmuqjoxa7mj842dye9'
+2026-07-19T06:37:12,258 [http-nio-8080-exec-13707] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 endpoint=/api/v1/system/status caller=
+2026-07-19T06:37:12,443 [GC-Thread-14750] - [INFO] GC cleanup completed in 59ms | req_id=136e3453de20 ip=192.168.1.50 caller=TomcatAc
+2026-07-19T06:38:30,443 [http-nio-8080-exec-18582] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=ConfigManager cpu_util=36% mem_util=86%     
+2026-07-19T06:38:30,531 [http-nio-8080-exec-19916] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=9a52bbae0c88 endpoint=/metrics extra='vrowvz'
+2026-07-19T06:38:35,315 [GC-Thread-14587] - [INFO] GC cleanup completed in 83ms | endpoint=/api/v2/restore extra='1otyfi46c70nx788uov'
+2026-07-19T06:38:40,562 [GC-Thread-04701] - [INFO] GC cleanup completed in 88ms | req_id=cdb92f2b7d97 endpoint=/metrics caller=Config
+2026-07-19T06:38:40,780 [http-nio-8080-exec-16323] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v2/restore caller=TomcatAccessFilter 
+2026-07-19T06:38:41,228 [http-nio-8080-exec-08266] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=29b3c4ea1253 endpoint=/metrics mem_util=31% 
+2026-07-19T06:40:55,228 [http-nio-8080-exec-08657] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/system/status mem_util=84%        
+2026-07-19T06:40:55,257 [http-nio-8080-exec-10357] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 endpoint=/api/v1/backup/create cal
+2026-07-19T06:41:06,864 [http-nio-8080-exec-16803] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/auth/login caller=BackupAgent mem_
+2026-07-19T06:41:07,145 [GC-Thread-12546] - [INFO] GC cleanup completed in 99ms | ip=172.16.254.1 caller=WebServiceHelper mem_util=78
+2026-07-19T06:41:10,722 [GC-Thread-13308] - [INFO] GC cleanup completed in 228ms | cpu_util=24% mem_util=62% extra='jd48ofrjg7la9mzklj'
+2026-07-19T06:41:11,113 [http-nio-8080-exec-11248] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=ConfigManager cpu_util=44% extra='pl2nshe48t'
+2026-07-19T06:41:11,321 [http-nio-8080-exec-09563] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=03244203ed61 cpu_util=18% mem_util=51%      
+2026-07-19T06:41:15,972 [http-nio-8080-exec-08375] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/metrics caller=DbConnector mem_util=58%  
+2026-07-19T06:43:02,972 [GC-Thread-11925] - [INFO] GC cleanup completed in 190ms | endpoint=/api/v1/auth/login cpu_util=84% mem_util=6
+2026-07-19T06:43:05,252 [GC-Thread-01947] - [INFO] GC cleanup completed in 213ms | req_id=8c5366469f96 mem_util=84% extra='0jvcjblc2ke'
+2026-07-19T06:45:20,252 [http-nio-8080-exec-10743] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 caller=DbConnector extra='ylvfvkq1'
+2026-07-19T06:45:24,189 [GC-Thread-11636] - [INFO] GC cleanup completed in 186ms | caller=DbConnector cpu_util=65% mem_util=38%       
+2026-07-19T06:45:24,586 [http-nio-8080-exec-16103] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=
+2026-07-19T06:45:26,426 [http-nio-8080-exec-14736] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 endpoint=/api/v1/backup/create cpu_
+2026-07-19T06:48:10,426 [http-nio-8080-exec-07418] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=40% mem_util=41% extra='0cufy06mchu5gqu70p'
+2026-07-19T06:48:14,517 [GC-Thread-15042] - [INFO] GC cleanup completed in 113ms | ip=10.0.0.12 endpoint=/api/v1/backup/create caller=
+2026-07-19T06:48:17,440 [GC-Thread-17329] - [INFO] GC cleanup completed in 157ms | ip=172.16.254.1 caller=ConfigManager extra='1cnlw85'
+2026-07-19T06:48:33,072 [http-nio-8080-exec-11751] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/auth/login caller=DbConnector cpu_
+2026-07-19T06:48:37,814 [GC-Thread-03269] - [INFO] GC cleanup completed in 94ms | req_id=0fc922bc5ce8 ip=10.0.0.12 endpoint=/metrics 
+2026-07-19T06:48:37,900 [GC-Thread-07289] - [INFO] GC cleanup completed in 62ms | req_id=73372dd43455 endpoint=/api/v1/system/status 
+2026-07-19T06:48:40,023 [GC-Thread-15208] - [INFO] GC cleanup completed in 224ms | req_id=241a22c39ea1 cpu_util=43% mem_util=43%      
+2026-07-19T06:48:43,214 [GC-Thread-07918] - [INFO] GC cleanup completed in 132ms | ip=192.168.1.50 endpoint=/api/v2/restore cpu_util=3
+2026-07-19T06:48:47,017 [http-nio-8080-exec-16146] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=10.0.0.12 caller=WebServiceHelper mem_util=30%  
+2026-07-19T06:48:47,037 [GC-Thread-16983] - [INFO] GC cleanup completed in 19ms | cpu_util=37% mem_util=70% extra='yw5go9v201g7ukrnzg'
+2026-07-19T06:48:51,564 [http-nio-8080-exec-11200] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=10.0.0.12 endpoint=/api/v1/system/status cpu_uti
+2026-07-19T06:48:51,950 [GC-Thread-18699] - [INFO] GC cleanup completed in 143ms | cpu_util=32% extra='4d3g7ijwwqoawlqr6l95qvh3ugtps33'
+2026-07-19T06:48:51,998 [http-nio-8080-exec-16491] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 mem_util=62% extra='ig4bmfni2ugfwy'
+2026-07-19T06:48:52,379 [GC-Thread-06672] - [INFO] GC cleanup completed in 78ms | endpoint=/api/v1/backup/create caller=TomcatAccessF
+2026-07-19T06:48:52,480 [http-nio-8080-exec-08978] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 extra='lqae3p76ur4wy3n2bywt06xa9uixn4d'
+2026-07-19T06:48:52,679 [GC-Thread-14812] - [INFO] GC cleanup completed in 27ms | req_id=6c2b2d144eb0 ip=10.0.0.12 extra='92iv01iocha'
+2026-07-19T06:48:52,695 [GC-Thread-16019] - [INFO] GC cleanup completed in 105ms | caller=DbConnector cpu_util=54% extra='d1tzl3tyu8ye'
+2026-07-19T06:48:54,586 [http-nio-8080-exec-04973] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=fb00048c8515 ip=10.0.0.12 caller=DbConnector
+2026-07-19T06:48:54,848 [GC-Thread-02007] - [INFO] GC cleanup completed in 132ms | req_id=dc631f03bd96 endpoint=/api/v2/restore cpu_ut
+2026-07-19T06:49:00,812 [http-nio-8080-exec-06633] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=1e2396f6d82a ip=10.0.0.12 endpoint=/api/v2/r
+2026-07-19T06:49:15,852 [GC-Thread-16329] - [INFO] GC cleanup completed in 87ms | ip=192.168.2.115 endpoint=/api/v2/restore caller=Db
+2026-07-19T06:49:16,105 [http-nio-8080-exec-10262] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/backup/create caller=TomcatAccessF
+2026-07-19T06:49:18,476 [http-nio-8080-exec-10253] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=2d1b01140a01 caller=WebServiceHelper cpu_uti
+2026-07-19T07:04:18,476 [http-nio-8080-exec-11216] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=de1adc97f693 extra='ss33r28c91asgh8ek09taeac'
+2026-07-19T07:04:18,482 [http-nio-8080-exec-02879] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=699cdc45e9cb endpoint=/api/v1/auth/login mem
+2026-07-19T07:04:24,398 [http-nio-8080-exec-15163] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=ed2b74feff83 ip=192.168.1.50 endpoint=/api/v
+2026-07-19T07:04:24,600 [http-nio-8080-exec-16596] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/system/status caller=TomcatAccessF
+2026-07-19T07:04:36,668 [http-nio-8080-exec-15789] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 caller=WebServiceHelper cpu_util=50
+2026-07-19T07:04:40,751 [http-nio-8080-exec-09699] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=9b93e5f42d8e endpoint=/metrics cpu_util=80% 
+2026-07-19T07:04:41,219 [http-nio-8080-exec-16922] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=e8e0a0bea7d9 endpoint=/api/v1/backup/create 
+2026-07-19T07:07:17,219 [http-nio-8080-exec-12052] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | trace_id=12ff3ad397724df2 extra='8u3l7lztt4h8bek86o'
+2026-07-19T07:07:31,767 [http-nio-8080-exec-05066] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=21% extra='fypm5q9a1fzhq4zlnuh0jxnrsghlbgf'
+2026-07-19T07:07:32,116 [http-nio-8080-exec-08080] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=030ae2d38208 ip=172.16.254.1 caller=WebServi
+2026-07-19T07:07:36,748 [GC-Thread-13221] - [INFO] GC cleanup completed in 217ms | req_id=5534954ff0ec endpoint=/api/v1/auth/login    
+2026-07-19T07:07:36,869 [http-nio-8080-exec-18079] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=f30769aa3945 ip=10.0.0.12 endpoint=/api/v2/r
+2026-07-19T07:11:04,869 [http-nio-8080-exec-11762] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=ConfigManager cpu_util=58% mem_util=30%     
+2026-07-19T07:11:08,263 [http-nio-8080-exec-02260] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=edfd85aed23a caller=ConfigManager mem_util=8
+2026-07-19T07:14:26,263 [http-nio-8080-exec-15548] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=f22544f6c39a endpoint=/api/v1/auth/login cal
+2026-07-19T07:14:38,712 [http-nio-8080-exec-08677] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=5e710108e5bf caller=DbConnector cpu_util=75%
+2026-07-19T07:14:38,892 [http-nio-8080-exec-10986] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=c6d31b0e60a2 caller=DbConnector mem_util=82%
+2026-07-19T07:14:52,689 [GC-Thread-05208] - [INFO] GC cleanup completed in 173ms | req_id=24579730a42b ip=192.168.2.115 mem_util=39%  
+2026-07-19T07:18:02,689 [http-nio-8080-exec-06235] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=5d6c2e6d5f08 endpoint=/api/v1/auth/login cpu
+2026-07-19T07:18:08,587 [GC-Thread-05172] - [INFO] GC cleanup completed in 242ms | req_id=408cd890dd8c ip=192.168.2.115 endpoint=/api/
+2026-07-19T07:18:10,262 [http-nio-8080-exec-06420] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=bbae242c113f ip=192.168.2.115 caller=TomcatA
+2026-07-19T07:18:13,371 [http-nio-8080-exec-06194] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 mem_util=36% extra='wnpho6db7nwmp4z'
+2026-07-19T07:18:15,967 [http-nio-8080-exec-11168] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=4eb404e9ca37 ip=172.16.254.1 caller=DbConnec
+2026-07-19T07:18:17,006 [http-nio-8080-exec-01990] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 endpoint=/api/v1/auth/login caller
+2026-07-19T07:18:17,112 [http-nio-8080-exec-12731] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 endpoint=/api/v2/restore caller=Backup
+2026-07-19T07:18:30,697 [GC-Thread-18084] - [INFO] GC cleanup completed in 111ms | req_id=737219a91103 ip=10.0.0.12 endpoint=/api/v1/a
+2026-07-19T07:18:41,191 [GC-Thread-07020] - [INFO] GC cleanup completed in 81ms | req_id=19e2aa0c1b8b cpu_util=79% mem_util=48%      
+2026-07-19T07:18:41,243 [http-nio-8080-exec-06011] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 endpoint=/api/v2/restore caller=Db
+2026-07-19T07:18:51,648 [GC-Thread-17767] - [INFO] GC cleanup completed in 67ms | endpoint=/api/v2/restore mem_util=60% extra='qne31s'
+2026-07-19T07:18:52,000 [GC-Thread-15571] - [INFO] GC cleanup completed in 207ms | req_id=38c0b5da14fd ip=10.0.0.12 endpoint=/api/v1/a
+2026-07-19T07:19:02,614 [http-nio-8080-exec-05952] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=BackupAgent cpu_util=44% mem_util=78%       
+2026-07-19T07:19:05,560 [http-nio-8080-exec-12093] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=WebServiceHelper extra='m4v2sd8mg06omclb4ew2'
+2026-07-19T07:19:10,928 [http-nio-8080-exec-18656] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v2/restore cpu_util=77% mem_util=56% 
+2026-07-19T07:19:15,725 [GC-Thread-07482] - [INFO] GC cleanup completed in 120ms | req_id=88bc725c09bb endpoint=/api/v1/system/status 
+2026-07-19T07:21:38,725 [http-nio-8080-exec-19008] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 mem_util=75% extra='7m54vbum89ij5k'
+2026-07-19T07:21:40,861 [http-nio-8080-exec-06031] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v2/restore caller=ConfigManager      
+2026-07-19T07:21:54,941 [GC-Thread-14730] - [INFO] GC cleanup completed in 161ms | cpu_util=18% extra='l6nzezydu4nsmedoxqd99duzeku2zo0'
+2026-07-19T07:21:58,829 [http-nio-8080-exec-01377] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 endpoint=/metrics extra='zwf8k2gjgt'
+2026-07-19T07:21:58,980 [http-nio-8080-exec-04521] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 endpoint=/api/v2/restore caller=Co
+2026-07-19T07:24:50,980 [GC-Thread-04356] - [INFO] GC cleanup completed in 184ms | caller=DbConnector extra='9ctcuv703unvw469e6lihksja'
+2026-07-19T07:24:53,256 [GC-Thread-14910] - [INFO] GC cleanup completed in 188ms | endpoint=/api/v1/auth/login cpu_util=83% mem_util=7
+2026-07-19T07:24:57,511 [http-nio-8080-exec-11698] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/api/v2/restore caller=Web
+2026-07-19T07:24:57,566 [GC-Thread-06085] - [INFO] GC cleanup completed in 154ms | cpu_util=77% mem_util=38% extra='iq1vh15ds3iawnq4kw'
+2026-07-19T07:25:02,426 [http-nio-8080-exec-19809] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=ee7f5f79246c ip=192.168.1.50 cpu_util=70% me
+2026-07-19T07:25:07,877 [http-nio-8080-exec-04919] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=
+2026-07-19T07:25:13,006 [GC-Thread-13140] - [INFO] GC cleanup completed in 35ms | req_id=86e5fbf7cf86 ip=192.168.2.115 extra='58qaqmp'
+2026-07-19T07:25:13,232 [http-nio-8080-exec-16105] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=5f458c5beab2 cpu_util=45% mem_util=89%      
+2026-07-19T07:25:14,331 [http-nio-8080-exec-16526] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=BackupAgent cpu_util=74% extra='c8agcksnbqid'
+2026-07-19T07:33:14,331 [GC-Thread-18553] - [INFO] GC cleanup completed in 164ms | ip=192.168.1.50 endpoint=/metrics caller=WebService
+2026-07-19T07:33:14,351 [http-nio-8080-exec-04705] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 endpoint=/api/v1/backup/create mem_
+2026-07-19T07:36:10,351 [http-nio-8080-exec-06622] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=761d92780e33 ip=172.16.254.1 cpu_util=35% me
+2026-07-19T07:36:23,961 [GC-Thread-16424] - [INFO] GC cleanup completed in 163ms | req_id=36bb06f94c0e caller=BackupAgent extra='kcdp2'
+2026-07-19T07:36:24,168 [GC-Thread-01751] - [INFO] GC cleanup completed in 240ms | caller=DbConnector mem_util=85% extra='vcmgg18vj5cy'
+2026-07-19T07:36:24,329 [http-nio-8080-exec-05909] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=b061f1ab48f6 caller=TomcatAccessFilter cpu_u
+2026-07-19T07:36:38,745 [http-nio-8080-exec-03849] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 mem_util=81% extra='5mb5bd5ng99rujh'
+2026-07-19T07:36:44,623 [http-nio-8080-exec-02584] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=c63c21b7c6e1 ip=192.168.1.50 endpoint=/metri
+2026-07-19T07:39:53,623 [GC-Thread-11014] - [INFO] GC cleanup completed in 169ms | ip=172.16.254.1 endpoint=/api/v2/restore caller=Web
+2026-07-19T07:39:54,062 [http-nio-8080-exec-13411] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=4a68d9436cd8 ip=192.168.2.115 endpoint=/api/
+2026-07-19T07:39:59,981 [GC-Thread-10655] - [INFO] GC cleanup completed in 188ms | endpoint=/api/v2/restore cpu_util=40% mem_util=42% 
+2026-07-19T07:40:00,179 [GC-Thread-04122] - [INFO] GC cleanup completed in 194ms | mem_util=38% extra='mj30745o5ykuve4zg0p6dcyi0tf5men'
+2026-07-19T07:40:04,008 [http-nio-8080-exec-04796] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=ca1e603af62f ip=192.168.1.50 mem_util=68%   
+2026-07-19T07:55:04,008 [GC-Thread-05703] - [INFO] GC cleanup completed in 41ms | caller=BackupAgent cpu_util=78% mem_util=35%       
+2026-07-19T07:55:05,387 [http-nio-8080-exec-19822] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/api/v2/restore caller=Con
+2026-07-19T07:55:10,004 [http-nio-8080-exec-10344] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=TomcatAccessFilter extra='i3qyjhn89fkeqc1zl8'
+2026-07-19T07:55:21,129 [http-nio-8080-exec-18796] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=3db498579242 ip=10.0.0.12 cpu_util=80% mem_u
+2026-07-19T07:55:25,476 [http-nio-8080-exec-14331] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v2/restore caller=TomcatAccessFilter 
+2026-07-19T07:58:39,476 [http-nio-8080-exec-03388] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=4f663d263e59 ip=10.0.0.12 cpu_util=28%      
+2026-07-19T07:58:54,034 [http-nio-8080-exec-04712] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=792755419aa9 ip=192.168.1.50 endpoint=/api/v
+2026-07-19T07:58:58,630 [http-nio-8080-exec-15034] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=a2fb9bc1aa78 ip=192.168.1.50 endpoint=/api/v
+2026-07-19T08:01:26,630 [http-nio-8080-exec-16472] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/auth/login caller=WebServiceHelper
+2026-07-19T08:01:32,380 [http-nio-8080-exec-04740] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 endpoint=/api/v2/restore mem_util=4
+2026-07-19T08:01:36,280 [GC-Thread-18294] - [INFO] GC cleanup completed in 81ms | ip=172.16.254.1 endpoint=/api/v2/restore cpu_util=8
+2026-07-19T08:01:36,618 [GC-Thread-07142] - [INFO] GC cleanup completed in 124ms | ip=10.0.0.12 endpoint=/api/v2/restore cpu_util=56% 
+2026-07-19T08:01:52,369 [http-nio-8080-exec-01019] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=042087a34d0e ip=172.16.254.1 endpoint=/api/v
+2026-07-19T08:01:52,397 [http-nio-8080-exec-07879] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=10.0.0.12 endpoint=/api/v2/restore caller=Backup
+2026-07-19T08:01:52,516 [http-nio-8080-exec-17841] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=8de96040f406 ip=172.16.254.1 caller=DbConnec
+2026-07-19T08:02:07,090 [http-nio-8080-exec-16961] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 extra='5mme2xqczbqcmx0ecpmzudlyk98'
+2026-07-19T08:02:08,204 [http-nio-8080-exec-15032] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=ab9541000238 endpoint=/api/v1/auth/login mem
+2026-07-19T08:07:08,204 [http-nio-8080-exec-09115] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=aa4d161ba39b ip=10.0.0.12 endpoint=/api/v2/r
+2026-07-19T08:07:08,501 [http-nio-8080-exec-19095] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/backup/create caller=TomcatAccessF
+2026-07-19T08:07:08,597 [http-nio-8080-exec-02722] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v2/restore mem_util=89% extra='1qywgs'
+2026-07-19T08:07:09,069 [http-nio-8080-exec-06727] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=577e79b73814 endpoint=/api/v1/auth/login mem
+2026-07-19T08:07:09,391 [http-nio-8080-exec-06557] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/auth/login caller=WebServiceHelper
+2026-07-19T08:07:09,587 [http-nio-8080-exec-05064] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=1341281ac178 ip=10.0.0.12 endpoint=/api/v1/b
+2026-07-19T08:07:24,541 [http-nio-8080-exec-03883] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=ConfigManager cpu_util=49% mem_util=58%     
+2026-07-19T08:07:26,331 [http-nio-8080-exec-10105] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 extra='xf34lgd70178rorbapxxqiin0c4'
+2026-07-19T08:07:29,828 [http-nio-8080-exec-05429] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=2c7217694f6f caller=TomcatAccessFilter cpu_u
+2026-07-19T08:07:31,933 [http-nio-8080-exec-14545] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=ee621393afdb ip=192.168.1.50 mem_util=40%   
+2026-07-19T08:07:31,965 [http-nio-8080-exec-11828] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=c5947bf3e2f7 cpu_util=45% extra='bdxhdma7qhb'
+2026-07-19T08:10:50,965 [http-nio-8080-exec-02662] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 endpoint=/api/v2/restore mem_util=3
+2026-07-19T08:10:51,126 [http-nio-8080-exec-07261] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=4f98cd60430e mem_util=76% extra='jlcde5occb1'
+2026-07-19T08:10:54,246 [GC-Thread-19806] - [INFO] GC cleanup completed in 160ms | req_id=8bbe94bb3f2a caller=DbConnector cpu_util=46%
+2026-07-19T08:11:05,179 [http-nio-8080-exec-05677] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | trace_id=ce257c92b147497d extra='f6dhwav3xkcnyljnsl'
+2026-07-19T08:11:05,248 [GC-Thread-16243] - [INFO] GC cleanup completed in 191ms | ip=192.168.2.115 caller=WebServiceHelper cpu_util=4
+2026-07-19T08:11:10,505 [http-nio-8080-exec-18451] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=18075805af53 ip=192.168.2.115 endpoint=/api/
+2026-07-19T08:11:13,746 [http-nio-8080-exec-10707] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/backup/create caller=BackupAgent c
+2026-07-19T08:14:02,746 [http-nio-8080-exec-02739] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=2f9ced52a904 endpoint=/api/v1/backup/create 
+2026-07-19T08:14:02,969 [GC-Thread-12188] - [INFO] GC cleanup completed in 70ms | req_id=2ca4e82fbba7 ip=192.168.2.115 endpoint=/api/
+2026-07-19T08:14:04,453 [http-nio-8080-exec-19233] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 endpoint=/api/v2/restore caller=We
+2026-07-19T08:14:09,408 [http-nio-8080-exec-13956] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=dc9426095d9e ip=172.16.254.1 extra='28j7f6us'
+2026-07-19T08:14:11,045 [http-nio-8080-exec-15253] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 extra='bisa0vcbjajzhk63ba4nrxwf157q'
+2026-07-19T08:14:11,306 [GC-Thread-17737] - [INFO] GC cleanup completed in 151ms | ip=192.168.2.115 endpoint=/api/v1/system/status cal
+2026-07-19T08:16:09,306 [http-nio-8080-exec-13933] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 caller=DbConnector extra='pbgixtun'
+2026-07-19T08:16:09,691 [http-nio-8080-exec-08439] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/backup/create extra='f24ey8x9y0ddn'
+2026-07-19T08:16:11,687 [http-nio-8080-exec-04903] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=5644c77d39ba endpoint=/api/v1/backup/create 
+2026-07-19T08:16:12,125 [GC-Thread-19704] - [INFO] GC cleanup completed in 131ms | req_id=33d574b24d4a ip=10.0.0.12 caller=WebServiceH
+2026-07-19T08:16:14,132 [http-nio-8080-exec-02507] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/system/status extra='r97un5qdttnug'
+2026-07-19T08:16:28,330 [http-nio-8080-exec-03722] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/backup/create extra='1jyskit20cicv'
+2026-07-19T08:16:28,482 [GC-Thread-07784] - [INFO] GC cleanup completed in 225ms | endpoint=/metrics extra='ct0uygh966ib669mffmiiyt7xx'
+2026-07-19T08:16:31,107 [GC-Thread-14466] - [INFO] GC cleanup completed in 205ms | caller=TomcatAccessFilter cpu_util=85% extra='jpyb6'
+2026-07-19T08:16:46,987 [http-nio-8080-exec-06426] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 endpoint=/api/v1/backup/create mem_
+2026-07-19T08:16:47,280 [http-nio-8080-exec-11814] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=dbdd3170b44f caller=TomcatAccessFilter cpu_u
+2026-07-19T08:17:00,556 [http-nio-8080-exec-09435] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=a94723d93129 endpoint=/metrics extra='rl18ko'
+2026-07-19T08:17:03,766 [http-nio-8080-exec-02329] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/backup/create extra='4k2g05d5b632x'
+2026-07-19T08:17:03,935 [http-nio-8080-exec-05273] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 endpoint=/api/v2/restore cpu_util=8
+2026-07-19T08:20:20,935 [http-nio-8080-exec-04012] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=8b6aaa4c2b43 caller=BackupAgent mem_util=88%
+2026-07-19T08:20:21,345 [http-nio-8080-exec-15881] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=db9b4e41900b mem_util=86% extra='edg6f0y6vwp'
+2026-07-19T08:20:21,772 [http-nio-8080-exec-03151] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=bd37c8ab1f57 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T08:20:24,132 [http-nio-8080-exec-19288] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=e49e6453fad5 ip=10.0.0.12 caller=DbConnector
+2026-07-19T08:20:27,361 [http-nio-8080-exec-15455] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 endpoint=/api/v1/system/status     
+2026-07-19T08:22:22,361 [http-nio-8080-exec-07093] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 mem_util=37% extra='ywn8cubvapc86b07d4'
+2026-07-19T08:22:22,653 [http-nio-8080-exec-01585] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 endpoint=/api/v1/system/status cpu_
+2026-07-19T08:22:22,837 [GC-Thread-05870] - [INFO] GC cleanup completed in 201ms | req_id=086f422f358c ip=192.168.1.50 extra='1f4d9h5q'
+2026-07-19T08:22:38,511 [GC-Thread-16003] - [INFO] GC cleanup completed in 34ms | req_id=258968966d72 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T08:22:38,958 [GC-Thread-05521] - [INFO] GC cleanup completed in 62ms | req_id=0f358690c915 caller=BackupAgent extra='c42rb'
+2026-07-19T08:22:39,029 [http-nio-8080-exec-08719] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 cpu_util=52% mem_util=39% extra='bm'
+2026-07-19T08:22:39,039 [GC-Thread-16983] - [INFO] GC cleanup completed in 165ms | endpoint=/api/v1/backup/create caller=DbConnector  
+2026-07-19T08:22:44,871 [http-nio-8080-exec-09482] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 cpu_util=11% extra='pobhn1amzqli4tm'
+2026-07-19T08:22:45,234 [http-nio-8080-exec-10307] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v2/restore caller=DbConnector cpu_uti
+2026-07-19T08:22:48,405 [GC-Thread-06433] - [INFO] GC cleanup completed in 246ms | req_id=a90a32ab513c ip=10.0.0.12 caller=WebServiceH
+2026-07-19T08:22:54,188 [http-nio-8080-exec-07554] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=80bcfc294c62 ip=10.0.0.12 cpu_util=62%      
+2026-07-19T08:22:57,883 [GC-Thread-06602] - [INFO] GC cleanup completed in 111ms | mem_util=40% extra='so3uz5v49d1cjo39idegcdvx0mw6v3s'
+2026-07-19T08:22:58,029 [http-nio-8080-exec-11194] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | caller=TomcatAccessFilter cpu_util=24% extra='gtt1w'
+2026-07-19T08:22:58,090 [http-nio-8080-exec-04330] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 cpu_util=54% extra='extsv83o4dgr8vl'
+2026-07-19T08:24:16,090 [http-nio-8080-exec-06097] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=30f1b3ab898e endpoint=/api/v1/system/status 
+2026-07-19T08:24:28,326 [GC-Thread-12456] - [INFO] GC cleanup completed in 201ms | ip=172.16.254.1 mem_util=59% extra='9zullw1hl3jl62i'
+2026-07-19T08:24:28,560 [http-nio-8080-exec-17081] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=ConfigManager extra='iyufh1q36ca0bmvyj2o9jen'
+2026-07-19T08:24:32,962 [GC-Thread-17391] - [INFO] GC cleanup completed in 240ms | req_id=eb34ef1afc5a endpoint=/api/v1/backup/create 
+2026-07-19T08:24:37,854 [http-nio-8080-exec-17460] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | mem_util=84% extra='6j5f23qc22yszwp0xr0k4nx2o3l0iup'
+2026-07-19T08:24:49,331 [http-nio-8080-exec-13241] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=415d1bc04f9f ip=192.168.1.50 endpoint=/api/v
+2026-07-19T08:24:53,593 [GC-Thread-10875] - [INFO] GC cleanup completed in 33ms | req_id=7264832b541a ip=192.168.2.115 caller=BackupA
+2026-07-19T08:24:54,048 [GC-Thread-16582] - [INFO] GC cleanup completed in 189ms | ip=172.16.254.1 endpoint=/api/v1/system/status call
+2026-07-19T08:24:59,471 [http-nio-8080-exec-18847] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=65e4ac2de4cd ip=192.168.2.115 extra='le1z70f'
+2026-07-19T08:28:22,471 [GC-Thread-15285] - [INFO] GC cleanup completed in 222ms | trace_id=ef1d4dfdeeec40bb extra='ix0k3zy635kc7gsc85'
+2026-07-19T08:28:26,323 [GC-Thread-10487] - [INFO] GC cleanup completed in 72ms | req_id=55e9799578f4 caller=DbConnector cpu_util=82%
+2026-07-19T08:39:26,323 [GC-Thread-15089] - [INFO] GC cleanup completed in 160ms | req_id=eec2c95976e8 ip=172.16.254.1 mem_util=31%   
+2026-07-19T08:39:27,885 [GC-Thread-18722] - [INFO] GC cleanup completed in 245ms | req_id=aa8743175627 caller=ConfigManager extra='kcz'
+2026-07-19T08:41:02,885 [GC-Thread-16236] - [INFO] GC cleanup completed in 68ms | req_id=4ddba296a84d extra='h1j37k74mlaxz7mis00cj9r6'
+2026-07-19T08:41:05,148 [http-nio-8080-exec-11762] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/backup/create cpu_util=16%        
+2026-07-19T08:41:05,622 [GC-Thread-14737] - [INFO] GC cleanup completed in 34ms | req_id=e6b56a905e2f ip=172.16.254.1 mem_util=46%   
+2026-07-19T08:41:18,566 [GC-Thread-01190] - [INFO] GC cleanup completed in 37ms | req_id=2923557899b9 endpoint=/api/v1/backup/create 
+2026-07-19T08:41:24,493 [http-nio-8080-exec-05466] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=d18542ca0ed6 ip=172.16.254.1 endpoint=/api/v
+2026-07-19T08:41:29,209 [GC-Thread-08498] - [INFO] GC cleanup completed in 213ms | req_id=c848e1a10dcd ip=192.168.1.50 endpoint=/api/v
+2026-07-19T08:44:54,209 [http-nio-8080-exec-19084] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/auth/login cpu_util=33% mem_util=6
+2026-07-19T08:44:57,567 [GC-Thread-08710] - [INFO] GC cleanup completed in 123ms | req_id=cd0da3029ab5 caller=BackupAgent cpu_util=43%
+2026-07-19T08:44:57,751 [http-nio-8080-exec-01624] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=2996ea67325c ip=172.16.254.1 cpu_util=16%   
+2026-07-19T08:44:58,894 [GC-Thread-07657] - [INFO] GC cleanup completed in 63ms | ip=172.16.254.1 caller=DbConnector extra='8lb9ipeq4'
+2026-07-19T08:44:59,340 [http-nio-8080-exec-01429] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/backup/create cpu_util=38% mem_uti
+2026-07-19T08:45:04,234 [http-nio-8080-exec-17722] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=dc57b6214403 ip=192.168.2.115 endpoint=/metr
+2026-07-19T08:45:08,572 [GC-Thread-17220] - [INFO] GC cleanup completed in 217ms | req_id=010724f1fd2a endpoint=/api/v1/auth/login cal
+2026-07-19T08:45:11,808 [GC-Thread-11112] - [INFO] GC cleanup completed in 69ms | req_id=aba39fe89772 ip=192.168.2.115 extra='o33k9vz'
+2026-07-19T08:45:12,253 [GC-Thread-14119] - [INFO] GC cleanup completed in 159ms | req_id=7b56a0253250 caller=DbConnector extra='qzmpt'
+2026-07-19T08:45:16,534 [GC-Thread-06993] - [INFO] GC cleanup completed in 190ms | ip=172.16.254.1 endpoint=/api/v1/backup/create cal
+2026-07-19T08:45:29,947 [GC-Thread-15278] - [INFO] GC cleanup completed in 15ms | endpoint=/api/v1/system/status mem_util=46%       
+2026-07-19T08:45:30,430 [http-nio-8080-exec-13469] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=5a63ce2d5195 caller=WebServiceHelper cpu_ut
+2026-07-19T08:45:30,855 [GC-Thread-11602] - [INFO] GC cleanup completed in 207ms | endpoint=/api/v1/backup/create caller=TomcatAccess
+2026-07-19T08:45:30,901 [GC-Thread-13045] - [INFO] GC cleanup completed in 110ms | endpoint=/api/v1/system/status caller=BackupAgent 
+2026-07-19T08:45:31,323 [GC-Thread-08230] - [INFO] GC cleanup completed in 14ms | ip=192.168.1.50 caller=BackupAgent mem_util=34%   
+2026-07-19T08:45:31,396 [http-nio-8080-exec-18125] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 extra='qkhrt12kjioe94bhi1qjzu7nzzv'
+2026-07-19T08:45:42,047 [http-nio-8080-exec-14809] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/metrics cpu_util=79% extra='1lrjob9fifzf'
+2026-07-19T08:45:45,699 [http-nio-8080-exec-08260] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=40d2cf6dd9ed caller=BackupAgent cpu_util=85
+2026-07-19T08:45:45,735 [http-nio-8080-exec-18610] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=49649f71821b endpoint=/api/v1/system/status
+2026-07-19T08:45:50,495 [http-nio-8080-exec-02177] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/auth/login caller=ConfigManager  
+2026-07-19T08:47:27,495 [http-nio-8080-exec-10188] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=d4989b32108f ip=10.0.0.12 caller=WebService
+2026-07-19T08:47:27,932 [http-nio-8080-exec-05769] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=ConfigManager cpu_util=16% mem_util=64%    
+2026-07-19T08:47:30,356 [http-nio-8080-exec-01644] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=49fa5ed0423d endpoint=/api/v1/auth/login ca
+2026-07-19T08:51:03,356 [GC-Thread-11825] - [INFO] GC cleanup completed in 220ms | ip=192.168.1.50 endpoint=/metrics cpu_util=57%    
+2026-07-19T08:51:03,513 [http-nio-8080-exec-18670] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=10b8701c7f3e ip=192.168.2.115 endpoint=/met
+2026-07-19T08:51:03,719 [http-nio-8080-exec-10885] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 cpu_util=73% extra='15hrtwc30j75g'
+2026-07-19T08:51:03,746 [http-nio-8080-exec-16352] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.2.115 cpu_util=46% mem_util=77%        
+2026-07-19T08:51:03,794 [http-nio-8080-exec-05149] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 endpoint=/api/v1/auth/login cpu_ut
+2026-07-19T08:58:03,794 [http-nio-8080-exec-17130] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=3e3bfec9efa6 ip=172.16.254.1 extra='5urjm7w'
+2026-07-19T08:58:07,711 [http-nio-8080-exec-16417] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=22c7bf5a1e76 endpoint=/api/v2/restore calle
+2026-07-19T08:58:09,430 [http-nio-8080-exec-19968] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 extra='6nqn0cd0hs6ltw1n1n0j52i0md'
+2026-07-19T08:58:09,804 [http-nio-8080-exec-12387] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=a09b89252ed1 caller=BackupAgent extra='delh'
+2026-07-19T08:58:09,903 [http-nio-8080-exec-12668] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=ConfigManager cpu_util=20% mem_util=79%    
+2026-07-19T08:58:12,131 [GC-Thread-08672] - [INFO] GC cleanup completed in 150ms | trace_id=36703f86fbcc4d51 extra='x7b57poag5zcg992l'
+2026-07-19T09:00:54,131 [http-nio-8080-exec-05890] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=6886ee24d129 ip=192.168.2.115 endpoint=/api
+2026-07-19T09:00:56,654 [http-nio-8080-exec-19551] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 endpoint=/api/v2/restore caller=To
+2026-07-19T09:00:56,875 [GC-Thread-01292] - [INFO] GC cleanup completed in 234ms | trace_id=befec0669fa64b1d extra='vftod0aoh4urnklsr'
+2026-07-19T09:04:44,875 [http-nio-8080-exec-04916] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=10.0.0.12 endpoint=/api/v1/auth/login caller=Co
+2026-07-19T09:04:44,944 [GC-Thread-16842] - [INFO] GC cleanup completed in 185ms | ip=10.0.0.12 endpoint=/api/v2/restore extra='yf2zg'
+2026-07-19T09:04:45,299 [http-nio-8080-exec-09639] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=b36da5b9b7f1 caller=TomcatAccessFilter cpu_
+2026-07-19T09:04:48,343 [GC-Thread-15503] - [INFO] GC cleanup completed in 228ms | mem_util=73% extra='40z9bki85qc493x25db64grgqvkxdn'
+2026-07-19T09:04:54,036 [GC-Thread-14683] - [INFO] GC cleanup completed in 38ms | ip=192.168.2.115 endpoint=/api/v1/system/status ca
+2026-07-19T09:04:58,234 [GC-Thread-06152] - [INFO] GC cleanup completed in 148ms | endpoint=/api/v1/backup/create mem_util=80%       
+2026-07-19T09:05:02,834 [GC-Thread-04019] - [INFO] GC cleanup completed in 17ms | ip=172.16.254.1 cpu_util=50% extra='ku6cxds4aiuigc'
+2026-07-19T09:05:03,151 [http-nio-8080-exec-07389] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=a65d38aab540 ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T09:05:08,820 [GC-Thread-19326] - [INFO] GC cleanup completed in 159ms | ip=172.16.254.1 caller=TomcatAccessFilter cpu_util
+2026-07-19T09:06:13,820 [http-nio-8080-exec-17630] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=15a7b0724f3b ip=172.16.254.1 caller=DbConne
+2026-07-19T09:06:18,006 [GC-Thread-01536] - [INFO] GC cleanup completed in 36ms | endpoint=/api/v1/system/status caller=WebServiceHe
+2026-07-19T09:06:18,269 [http-nio-8080-exec-19755] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=ede101615e50 endpoint=/api/v1/backup/create
+2026-07-19T09:06:22,857 [GC-Thread-01681] - [INFO] GC cleanup completed in 89ms | ip=172.16.254.1 endpoint=/metrics extra='x364zuu7l'
+2026-07-19T09:06:24,793 [GC-Thread-11794] - [INFO] GC cleanup completed in 55ms | endpoint=/api/v1/auth/login caller=BackupAgent cpu
+2026-07-19T09:06:25,212 [GC-Thread-09564] - [INFO] GC cleanup completed in 70ms | ip=192.168.2.115 caller=BackupAgent mem_util=85%  
+2026-07-19T09:06:25,431 [http-nio-8080-exec-11182] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=85% mem_util=46% extra='p2okwzkywqivqqsw9'
+2026-07-19T09:06:25,730 [http-nio-8080-exec-18370] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 endpoint=/metrics caller=BackupAge
+2026-07-19T09:06:26,165 [GC-Thread-02894] - [INFO] GC cleanup completed in 67ms | cpu_util=20% extra='tobnpmemi8ixdkxf630wgixjihurew'
+2026-07-19T09:06:27,848 [GC-Thread-04757] - [INFO] GC cleanup completed in 171ms | req_id=ffb0792bb2a1 ip=10.0.0.12 extra='3gfbljnpyw'
+2026-07-19T09:06:28,314 [http-nio-8080-exec-19778] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=6a2fe0f5b67a endpoint=/api/v1/backup/create
+2026-07-19T09:06:30,879 [GC-Thread-05883] - [INFO] GC cleanup completed in 73ms | req_id=6decbaaedbf2 ip=172.16.254.1 extra='xaus5fe'
+2026-07-19T09:06:33,543 [http-nio-8080-exec-03322] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 endpoint=/api/v1/backup/create       
+2026-07-19T09:06:34,895 [http-nio-8080-exec-11991] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 caller=BackupAgent extra='kryhgft'
+2026-07-19T09:10:05,895 [http-nio-8080-exec-11459] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | caller=ConfigManager extra='oiugtnkk0rhvqd9kefx3vq'
+2026-07-19T09:10:18,261 [GC-Thread-17762] - [INFO] GC cleanup completed in 125ms | caller=BackupAgent mem_util=30% extra='muvw80p037g'
+2026-07-19T09:13:58,261 [http-nio-8080-exec-06139] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/system/status caller=BackupAgent 
+2026-07-19T09:13:58,587 [http-nio-8080-exec-10884] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=172.16.254.1 mem_util=80% extra='xkkps9caj7txen'
+2026-07-19T09:13:58,954 [http-nio-8080-exec-13339] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.2.115 mem_util=78% extra='2f4boe3aconrm'
+2026-07-19T09:23:58,954 [GC-Thread-04302] - [INFO] GC cleanup completed in 246ms | caller=DbConnector cpu_util=45% extra='daj8a0gnoaw'
+2026-07-19T09:26:52,954 [http-nio-8080-exec-09340] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=482d3bf71514 endpoint=/api/v1/auth/login ca
+2026-07-19T09:26:53,292 [http-nio-8080-exec-12740] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=da6c1c509a90 caller=ConfigManager mem_util=
+2026-07-19T09:26:56,771 [http-nio-8080-exec-03289] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=9fdc83e484f3 ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T09:26:57,939 [http-nio-8080-exec-11249] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=3f9a93a9a4a1 mem_util=59% extra='ym2r8hxwj7'
+2026-07-19T09:29:37,939 [http-nio-8080-exec-01130] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=e9ca0de6dd30 mem_util=85% extra='3d86119et3'
+2026-07-19T09:29:38,398 [GC-Thread-19624] - [INFO] GC cleanup completed in 65ms | req_id=cf480d63ab78 ip=172.16.254.1 extra='mkjwcbj'
+2026-07-19T09:31:07,398 [http-nio-8080-exec-05849] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=4812e9b872a1 ip=192.168.2.115 endpoint=/api
+2026-07-19T09:31:09,690 [http-nio-8080-exec-16568] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | cpu_util=26% extra='s5d2f5jw74c5jehvnpycjlktju15e6'
+2026-07-19T09:42:09,690 [http-nio-8080-exec-19526] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=b8d38bac9b36 ip=10.0.0.12 cpu_util=40% mem_
+2026-07-19T09:42:14,762 [GC-Thread-01194] - [INFO] GC cleanup completed in 241ms | ip=10.0.0.12 endpoint=/api/v1/auth/login extra='03'
+2026-07-19T09:44:30,762 [GC-Thread-14484] - [INFO] GC cleanup completed in 14ms | req_id=ddd51be372ad cpu_util=13% mem_util=37%     
+2026-07-19T09:44:30,906 [GC-Thread-19370] - [INFO] GC cleanup completed in 16ms | req_id=9c20ab189fb5 ip=192.168.1.50 caller=DbConne
+2026-07-19T09:44:35,854 [http-nio-8080-exec-04383] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=956995adc9ac ip=172.16.254.1 caller=DbConne
+2026-07-19T09:44:40,515 [GC-Thread-03959] - [INFO] GC cleanup completed in 243ms | cpu_util=67% extra='shoifcjq3k6yyr7qg5cwrdsykbqpo7'
+2026-07-19T09:44:40,699 [http-nio-8080-exec-09891] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/system/status cpu_util=47%       
+2026-07-19T09:44:42,402 [http-nio-8080-exec-09623] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=84b27ddbe6ed caller=DbConnector mem_util=89
+2026-07-19T09:44:46,945 [http-nio-8080-exec-03806] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=638031eae2f4 endpoint=/api/v1/system/status
+2026-07-19T09:44:47,021 [GC-Thread-03371] - [INFO] GC cleanup completed in 79ms | req_id=49c63763b5c3 ip=10.0.0.12 extra='i7gee3n7or'
+2026-07-19T09:44:52,033 [http-nio-8080-exec-08920] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=d9d1e13d2670 ip=172.16.254.1 cpu_util=35%  
+2026-07-19T09:44:57,157 [GC-Thread-07321] - [INFO] GC cleanup completed in 228ms | ip=192.168.1.50 mem_util=78% extra='2t8r021gk0gzqq'
+2026-07-19T09:45:08,885 [http-nio-8080-exec-01495] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=907ae8b3c8cc caller=WebServiceHelper cpu_ut
+2026-07-19T09:45:09,095 [http-nio-8080-exec-13645] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=b8e255655580 ip=172.16.254.1 caller=TomcatA
+2026-07-19T09:45:11,560 [http-nio-8080-exec-18768] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=7eb99a3e6ca5 ip=192.168.1.50 endpoint=/api/
+2026-07-19T09:45:24,315 [GC-Thread-10772] - [INFO] GC cleanup completed in 99ms | ip=172.16.254.1 caller=TomcatAccessFilter cpu_util
+2026-07-19T09:45:27,997 [GC-Thread-16244] - [INFO] GC cleanup completed in 195ms | ip=192.168.1.50 caller=WebServiceHelper extra='8p9'
+2026-07-19T09:45:28,241 [http-nio-8080-exec-06980] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/system/status cpu_util=50% mem_ut
+2026-07-19T09:45:31,765 [http-nio-8080-exec-16022] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=1233ddbca060 ip=10.0.0.12 caller=DbConnecto
+2026-07-19T09:47:03,765 [GC-Thread-10174] - [INFO] GC cleanup completed in 29ms | req_id=3e0375adcdb8 endpoint=/api/v1/system/status
+2026-07-19T09:47:16,066 [http-nio-8080-exec-18987] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=7d90b330c392 ip=192.168.2.115 caller=Config
+2026-07-19T09:47:21,604 [http-nio-8080-exec-02371] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=19b285f50cac cpu_util=12% mem_util=60%     
+2026-07-19T09:47:24,840 [http-nio-8080-exec-12687] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 endpoint=/metrics caller=BackupAge
+2026-07-19T09:47:26,854 [GC-Thread-06453] - [INFO] GC cleanup completed in 20ms | ip=10.0.0.12 extra='sqt8pxlmdvsgqwxwlyf1hb4a665o0h'
+2026-07-19T09:58:26,854 [http-nio-8080-exec-09097] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/auth/login caller=ConfigManager  
+2026-07-19T09:58:26,973 [http-nio-8080-exec-18961] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=eef703c82ece ip=192.168.2.115 caller=DbConn
+2026-07-19T09:58:27,047 [http-nio-8080-exec-16060] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | mem_util=62% extra='kp7yrrnyuuusj0lmsfvuoyngmxu3hv'
+2026-07-19T09:58:27,195 [http-nio-8080-exec-12771] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/auth/login caller=TomcatAccessFil
+2026-07-19T09:58:30,385 [http-nio-8080-exec-05568] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=4b4eaa35acc1 endpoint=/api/v1/system/status
+2026-07-19T09:58:45,449 [http-nio-8080-exec-05563] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | cpu_util=34% extra='el8mmqvh0y546zw0lgnity86adstst'
+2026-07-19T09:58:51,286 [http-nio-8080-exec-13598] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=c321483ed897 endpoint=/api/v1/backup/create
+2026-07-19T09:58:53,192 [http-nio-8080-exec-14556] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v1/backup/create cpu_util=62%       
+2026-07-19T09:58:53,379 [http-nio-8080-exec-02271] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=fa53800811d2 endpoint=/api/v2/restore calle
+2026-07-19T09:58:53,452 [http-nio-8080-exec-01600] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=192.168.1.50 cpu_util=76% mem_util=77% extra='e'
+2026-07-19T09:58:55,932 [GC-Thread-17025] - [INFO] GC cleanup completed in 247ms | req_id=4a5d91389849 ip=192.168.2.115 endpoint=/api
+2026-07-19T09:58:56,021 [GC-Thread-18359] - [INFO] GC cleanup completed in 111ms | ip=10.0.0.12 endpoint=/api/v1/backup/create caller
+2026-07-19T09:58:56,353 [http-nio-8080-exec-09122] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=10.0.0.12 caller=ConfigManager mem_util=90%    
+2026-07-19T09:58:56,526 [http-nio-8080-exec-03759] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=644ff809a799 endpoint=/api/v1/backup/create
+2026-07-19T10:07:56,526 [GC-Thread-08862] - [INFO] GC cleanup completed in 165ms | req_id=e08d60448bcb endpoint=/api/v1/auth/login cp
+2026-07-19T10:07:59,539 [GC-Thread-18363] - [INFO] GC cleanup completed in 200ms | ip=172.16.254.1 cpu_util=38% mem_util=71% extra='p'
+2026-07-19T10:07:59,728 [http-nio-8080-exec-06955] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 caller=ConfigManager cpu_util=53% 
+2026-07-19T10:08:00,010 [http-nio-8080-exec-19471] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=1de9b1580fa3 ip=192.168.1.50 caller=ConfigM
+2026-07-19T10:11:13,010 [GC-Thread-08523] - [INFO] GC cleanup completed in 236ms | req_id=29fca0fd6d6d ip=10.0.0.12 caller=WebService
+2026-07-19T10:11:17,173 [http-nio-8080-exec-12646] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=d6d7f4cfddf3 ip=10.0.0.12 endpoint=/metrics
+2026-07-19T10:11:17,276 [http-nio-8080-exec-10322] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=172.16.254.1 caller=WebServiceHelper cpu_util=8
+2026-07-19T10:11:29,622 [http-nio-8080-exec-19081] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 caller=DbConnector mem_util=89%      
+2026-07-19T10:11:34,863 [http-nio-8080-exec-14644] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=f9c3304021f8 cpu_util=29% mem_util=70%     
+2026-07-19T10:14:26,863 [GC-Thread-13518] - [INFO] GC cleanup completed in 191ms | endpoint=/api/v1/backup/create cpu_util=22%       
+2026-07-19T10:14:30,833 [http-nio-8080-exec-02570] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | endpoint=/api/v2/restore caller=WebServiceHelper  
+2026-07-19T10:14:32,378 [GC-Thread-19434] - [INFO] GC cleanup completed in 211ms | req_id=3fa52be00835 ip=172.16.254.1 endpoint=/api/
+2026-07-19T10:14:34,760 [GC-Thread-05089] - [INFO] GC cleanup completed in 242ms | endpoint=/api/v1/auth/login cpu_util=51% mem_util=
+2026-07-19T10:14:35,153 [http-nio-8080-exec-18059] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | ip=10.0.0.12 endpoint=/api/v1/system/status       
+2026-07-19T10:14:35,367 [http-nio-8080-exec-12814] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/auth/login cpu_util=55% mem_util=
+2026-07-19T10:17:17,367 [GC-Thread-09110] - [INFO] GC cleanup completed in 92ms | endpoint=/api/v2/restore caller=BackupAgent cpu_ut
+2026-07-19T10:17:17,449 [http-nio-8080-exec-12404] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | ip=192.168.1.50 endpoint=/api/v1/system/status cal
+2026-07-19T10:17:17,754 [GC-Thread-16403] - [INFO] GC cleanup completed in 99ms | ip=172.16.254.1 endpoint=/metrics caller=DbConnect
+2026-07-19T10:17:17,826 [http-nio-8080-exec-08446] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | endpoint=/api/v1/auth/login caller=ConfigManager c
+2026-07-19T10:17:17,879 [GC-Thread-01581] - [INFO] GC cleanup completed in 69ms | req_id=e461e1a8c203 ip=172.16.254.1 endpoint=/api/
+2026-07-19T10:24:17,879 [http-nio-8080-exec-14247] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=137ca3121c64 ip=192.168.2.115 caller=Config
+2026-07-19T10:24:19,425 [http-nio-8080-exec-12734] - [INFO] org.apache.tomcat.util.threads.ThreadPoolExecutor - Thread pool scale up successful | req_id=f4e345ab123a caller=DbConnector cpu_util=61
+2026-07-19T10:27:41,425 [http-nio-8080-exec-01879] - [WARN] org.apache.tomcat.util.threads.LimitLatch.countUp - Close to maxConnections limit | req_id=b155cd725cf1 endpoint=/api/v2/restore      
+2026-07-19T10:27:41,878 [GC-Thread-05572] - [INFO] GC cleanup completed in 10ms | trace_id=4f19336794e74719 extra='vl138vyqkdjla9ffo'
+2026-07-19T10:27:47,714 [http-nio-8080-exec-02588] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=be632aed7f2b caller=BackupAgent mem_util=86
+2026-07-19T10:27:52,803 [Thread-10324] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | caller=BackupAgent mem_util=76% extra='a20zc2ohnby'
+2026-07-19T10:27:54,225 [Thread-09634] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | ip=192.168.2.115 endpoint=/api/v2/restore caller=B
+2026-07-19T10:27:54,344 [http-nio-8080-exec-14539] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | endpoint=/api/v2/restore cpu_util=11% extra='k0aoq'
+2026-07-19T10:28:07,097 [Thread-14266] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | ip=10.0.0.12 endpoint=/api/v1/backup/create caller
+2026-07-19T10:28:08,817 [http-nio-8080-exec-13131] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | ip=172.16.254.1 mem_util=89% extra='nlms297wy6dcom'
+2026-07-19T10:28:18,823 [Thread-15137] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=401c6dcc9d71 endpoint=/api/v2/restore calle
+2026-07-19T10:28:22,862 [http-nio-8080-exec-13963] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=4cd0f9b1d75c caller=ConfigManager cpu_util=
+2026-07-19T10:28:27,116 [http-nio-8080-exec-01113] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=620d8bd7c677 caller=TomcatAccessFilter cpu_
+2026-07-19T10:28:27,450 [http-nio-8080-exec-14234] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | ip=172.16.254.1 endpoint=/api/v1/backup/create cal
+2026-07-19T10:28:29,318 [http-nio-8080-exec-17975] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | ip=192.168.2.115 mem_util=79% extra='wpszb5dz5e5st'
+2026-07-19T10:28:29,361 [http-nio-8080-exec-09122] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | endpoint=/api/v1/auth/login mem_util=38% extra='ko'
+2026-07-19T10:31:44,361 [http-nio-8080-exec-13032] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=c698835f5b58 endpoint=/metrics mem_util=74%
+2026-07-19T10:31:44,377 [Thread-12402] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | ip=192.168.1.50 endpoint=/api/v1/auth/login caller
+2026-07-19T10:31:44,842 [Thread-05922] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=f50fd49c2042 endpoint=/api/v2/restore      
+2026-07-19T10:31:48,666 [Thread-02672] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=5d944717f815 endpoint=/api/v1/system/status
+2026-07-19T10:31:53,073 [Thread-16860] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | ip=172.16.254.1 cpu_util=21% extra='jooh2ohiffnceg'
+2026-07-19T10:31:54,952 [http-nio-8080-exec-07516] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | caller=TomcatAccessFilter extra='uphs5bpawv5dzu5ab'
+2026-07-19T10:31:55,038 [http-nio-8080-exec-14411] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | ip=192.168.2.115 endpoint=/api/v1/system/status me
+2026-07-19T10:31:57,341 [http-nio-8080-exec-12926] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=341b3ff45d31 ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T10:32:02,109 [http-nio-8080-exec-17088] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | endpoint=/api/v2/restore cpu_util=75% extra='lk18p'
+2026-07-19T10:32:02,402 [Thread-08189] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=78249bab76c1 endpoint=/metrics caller=Backu
+2026-07-19T10:41:02,402 [http-nio-8080-exec-05398] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=157d1b5ced7a ip=192.168.1.50 endpoint=/api/
+2026-07-19T10:41:05,277 [Thread-17562] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | ip=192.168.2.115 endpoint=/api/v2/restore mem_util
+2026-07-19T10:44:21,277 [http-nio-8080-exec-09755] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | caller=ConfigManager mem_util=62% extra='h3s2ngzne'
+2026-07-19T10:44:31,699 [Thread-08484] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=de3a3e6f0b59 mem_util=41% extra='gvwvsqgg76'
+2026-07-19T10:44:47,032 [http-nio-8080-exec-03677] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | ip=10.0.0.12 endpoint=/api/v2/restore caller=WebSe
+2026-07-19T10:44:51,867 [Thread-15789] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | endpoint=/api/v1/backup/create cpu_util=15% mem_ut
+2026-07-19T10:44:52,337 [http-nio-8080-exec-04297] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=0ee6c3878c04 extra='91fh3ck26zmj05iqynclpet'
+2026-07-19T10:52:52,337 [http-nio-8080-exec-14366] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | trace_id=292f4a46e7374b8f extra='g3b0lr5ebb5wbd4qb'
+2026-07-19T10:52:56,397 [http-nio-8080-exec-09471] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=e3c894aa10bc ip=172.16.254.1 caller=WebServ
+2026-07-19T10:53:00,850 [http-nio-8080-exec-16918] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | ip=172.16.254.1 mem_util=69% extra='zx58zqzsvfnbf7'
+2026-07-19T10:53:04,268 [Thread-05947] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=39d86d6579b4 mem_util=34% extra='z79r1m6sza'
+2026-07-19T10:55:01,268 [http-nio-8080-exec-10999] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | ip=192.168.2.115 cpu_util=55% mem_util=38%        
+2026-07-19T10:56:26,268 [http-nio-8080-exec-12426] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | ip=192.168.2.115 endpoint=/api/v2/restore mem_util
+2026-07-19T11:02:26,268 [http-nio-8080-exec-04832] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=0859243a5834 cpu_util=35% mem_util=54%     
+2026-07-19T11:02:41,089 [Thread-02944] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=2f4ae766abd6 ip=192.168.2.115 endpoint=/met
+2026-07-19T11:02:41,411 [http-nio-8080-exec-17253] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=f699358819fd cpu_util=60% extra='6kntqwbmmk'
+2026-07-19T11:02:41,649 [Thread-01180] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=1d609d119e6a caller=BackupAgent mem_util=54
+2026-07-19T11:02:44,310 [http-nio-8080-exec-07145] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=84c5a40862f3 caller=TomcatAccessFilter cpu_
+2026-07-19T11:02:45,490 [http-nio-8080-exec-07697] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | endpoint=/api/v2/restore caller=WebServiceHelper c
+2026-07-19T11:02:46,603 [Thread-14731] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=5fab447bb28e endpoint=/api/v1/system/status
+2026-07-19T11:15:46,603 [http-nio-8080-exec-08936] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | mem_util=32% extra='hjfsumnbgcfgw310zluhh7wn7d9mvj'
+2026-07-19T11:15:52,173 [http-nio-8080-exec-19638] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=9b914e03a1aa cpu_util=40% mem_util=57%     
+2026-07-19T11:15:53,760 [http-nio-8080-exec-11194] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | ip=172.16.254.1 caller=ConfigManager mem_util=57% 
+2026-07-19T11:16:06,234 [Thread-02608] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | ip=10.0.0.12 mem_util=61% extra='bg8vrmy0lw5vz14tj'
+2026-07-19T11:16:06,568 [http-nio-8080-exec-10759] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=478200d23882 ip=172.16.254.1 endpoint=/api/
+2026-07-19T11:16:06,838 [http-nio-8080-exec-09958] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=629738515391 ip=192.168.1.50 cpu_util=32% m
+2026-07-19T11:17:12,838 [Thread-02439] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=7535d7b9001e ip=192.168.1.50 cpu_util=29% m
+2026-07-19T11:17:23,736 [Thread-12708] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | ip=192.168.1.50 caller=ConfigManager cpu_util=78% 
+2026-07-19T11:17:23,973 [Thread-08400] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=9ff1d2a32e23 caller=WebServiceHelper mem_ut
+2026-07-19T11:17:24,062 [Thread-09113] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | cpu_util=64% extra='v8o8rc9zk9jbhylyjphkmoj284dsqj'
+2026-07-19T11:21:23,062 [http-nio-8080-exec-03345] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=47252e4102d1 endpoint=/metrics mem_util=41%
+2026-07-19T11:21:25,000 [Thread-16042] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | ip=192.168.1.50 endpoint=/api/v2/restore caller=Ba
+2026-07-19T11:21:25,133 [Thread-13400] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | ip=10.0.0.12 endpoint=/metrics cpu_util=76% mem_ut
+2026-07-19T11:21:25,255 [Thread-13197] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=3d3426a6ff28 endpoint=/metrics cpu_util=43%
+2026-07-19T11:21:27,819 [Thread-17286] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=ba09af59af5c cpu_util=11% extra='glz7rd4puc'
+2026-07-19T11:21:29,183 [http-nio-8080-exec-01777] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | ip=192.168.1.50 endpoint=/api/v1/system/status cpu
+2026-07-19T11:30:29,183 [http-nio-8080-exec-12290] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=b4864a64c15a endpoint=/metrics cpu_util=27%
+2026-07-19T11:43:29,183 [http-nio-8080-exec-03712] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | cpu_util=39% mem_util=69% extra='e7gjj2bhamths014z'
+2026-07-19T11:43:29,367 [http-nio-8080-exec-09999] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=329e6ca4ba4e ip=172.16.254.1 endpoint=/metr
+2026-07-19T11:43:31,045 [Thread-03877] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | ip=10.0.0.12 endpoint=/api/v1/system/status caller
+2026-07-19T11:43:46,273 [http-nio-8080-exec-14558] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=d86e1b7a3898 ip=10.0.0.12 cpu_util=84%     
+2026-07-19T11:46:56,273 [http-nio-8080-exec-18175] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=fd3a9fa3279e endpoint=/api/v1/backup/create
+2026-07-19T11:46:56,438 [http-nio-8080-exec-18144] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=efb0dba1611a ip=192.168.1.50 cpu_util=71% m
+2026-07-19T11:47:01,976 [http-nio-8080-exec-14053] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | endpoint=/api/v1/system/status extra='mb1qagpbw4gb'
+2026-07-19T11:47:04,195 [Thread-15714] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=a3b98ee5b804 ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T11:47:07,084 [http-nio-8080-exec-03372] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=8a6212541ae0 mem_util=80% extra='scxway8mg5'
+2026-07-19T11:47:07,324 [Thread-04556] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | trace_id=0784dea228a04d6e extra='hqwxxtn4iogg4qfdo'
+2026-07-19T11:47:11,038 [http-nio-8080-exec-01211] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=a1eea40e71a0 endpoint=/api/v1/auth/login ca
+2026-07-19T11:50:14,038 [Thread-08094] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | caller=DbConnector cpu_util=10% mem_util=56%      
+2026-07-19T11:53:10,038 [http-nio-8080-exec-11987] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=af81e39a1cec ip=192.168.1.50 caller=BackupA
+2026-07-19T11:53:10,230 [http-nio-8080-exec-11279] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | ip=172.16.254.1 cpu_util=35% mem_util=57% extra='7'
+2026-07-19T11:53:12,379 [Thread-18537] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | ip=10.0.0.12 endpoint=/api/v1/backup/create mem_ut
+2026-07-19T11:53:16,346 [Thread-11315] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=b8d82b2763ba endpoint=/api/v1/system/status
+2026-07-19T11:53:27,888 [http-nio-8080-exec-05393] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | ip=192.168.2.115 endpoint=/api/v1/system/status cp
+2026-07-19T11:53:30,380 [Thread-17047] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | caller=WebServiceHelper mem_util=75% extra='fd7eq7'
+2026-07-19T11:53:35,357 [http-nio-8080-exec-14803] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | endpoint=/metrics mem_util=46% extra='553nirl1vc56'
+2026-07-19T11:56:01,357 [Thread-19917] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=7cb92caad72c ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T11:56:01,693 [Thread-06142] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | cpu_util=67% mem_util=58% extra='7jkzkp5tmzz3texw1'
+2026-07-19T11:56:01,908 [Thread-01445] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | ip=192.168.1.50 extra='8tgevl0tyouqu3z7hovqep5v5n0'
+2026-07-19T11:56:02,197 [http-nio-8080-exec-07227] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=dd4ac095a4ca endpoint=/metrics caller=Tomca
+2026-07-19T11:56:02,557 [Thread-17599] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=5da6bf8fe3d3 ip=192.168.1.50 mem_util=52%  
+2026-07-19T11:56:02,678 [Thread-16446] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | caller=ConfigManager extra='3cg7w213jqvxlue89becwr'
+2026-07-19T11:56:02,813 [http-nio-8080-exec-06056] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | ip=10.0.0.12 caller=ConfigManager cpu_util=49% mem
+2026-07-19T11:56:03,065 [Thread-01916] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | endpoint=/api/v1/auth/login caller=ConfigManager m
+2026-07-19T11:56:06,990 [Thread-16088] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | ip=192.168.2.115 endpoint=/api/v1/backup/create cp
+2026-07-19T11:56:08,205 [http-nio-8080-exec-05091] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | cpu_util=48% mem_util=34% extra='ab666qijjpa4moazi'
+2026-07-19T11:56:08,564 [Thread-06193] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=e061424527ab endpoint=/api/v1/auth/login ca
+2026-07-19T11:58:36,564 [Thread-19638] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=70f7721eb780 ip=192.168.1.50 cpu_util=78%  
+2026-07-19T11:58:39,665 [Thread-08954] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | caller=ConfigManager extra='i70mj86xm6s28nhei8mn7a'
+2026-07-19T11:58:39,724 [Thread-05541] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=cd731497a41d endpoint=/api/v1/backup/create
+2026-07-19T11:58:50,622 [Thread-18546] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=b95296d6c2d6 caller=TomcatAccessFilter mem_
+2026-07-19T11:58:50,793 [http-nio-8080-exec-12521] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=42c115a765c0 ip=192.168.1.50 endpoint=/metr
+2026-07-19T11:58:52,983 [Thread-16250] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | mem_util=37% extra='miiaglxxvxxyqyv9bvjmc3zai5wuhu'
+2026-07-19T11:58:53,353 [http-nio-8080-exec-18748] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | caller=BackupAgent mem_util=53% extra='rlanci54cpf'
+2026-07-19T11:58:53,740 [Thread-17213] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=f7be8024702d endpoint=/metrics cpu_util=36%
+2026-07-19T12:02:39,740 [http-nio-8080-exec-17225] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | ip=192.168.2.115 caller=DbConnector cpu_util=29%  
+2026-07-19T12:06:26,740 [http-nio-8080-exec-18165] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=4adbe82882ab ip=172.16.254.1 endpoint=/api/
+2026-07-19T12:06:27,145 [http-nio-8080-exec-15615] - [ERROR] org.apache.catalina.connector.OutputBuffer.realWriteBytes - Failed to write response bytes to buffer: java.io.IOException: There is not enough space on the disk | req_id=ef7f3cdcc2d1 ip=192.168.2.115 extra='uxse3a'
+2026-07-19T12:06:42,588 [Thread-08823] - [ERROR] org.apache.tomcat.util.net.NioEndpoint$Acceptor.run - Socket accept failed: java.io.IOException: There is not enough space on the disk | req_id=ee50e31f7156 ip=192.168.2.115 cpu_util=29% 

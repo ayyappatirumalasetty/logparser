@@ -1,0 +1,11 @@
+2025-11-13T07:52:43,084 https-jsse-nio-8029-exec-1 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED:  RC=7399
+2025-11-13T07:52:43,084 https-jsse-nio-8029-exec-1 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED:  RC=7399
+2025-11-13T07:52:43,084 https-jsse-nio-8029-exec-1 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED:  RC=7399
+2025-11-13T07:52:41,048 https-jsse-nio-8029-exec-1 [INFO] []in method: generateLicensseDetailsData 
+2025-11-13T07:52:41,180 https-jsse-nio-8029-exec-10 [INFO] []In the method loadPropertiesFile
+2025-11-13T07:52:41,181 https-jsse-nio-8029-exec-10 [INFO] []In the method loadPropertiesFile
+2026-03-29T22:33:02,203 [pool-24-thread-44] - [WARN] AbstractRPSJob.afterLaunchFailed - Sichern launch failed. jobId: 3115, errorCode: -1
+2026-07-18T08:00:53,412 [Thread-321] - [WARN] ActivityLogSynchronizer.doSync - sync activity logs get exception, error message = null
+2025-11-13T08:15:17,461 (EdgeExecutors.cachedPool) pool-7-thread-26 [WARN] []ignore state change
+2025-11-13T08:15:53,250 (EdgeExecutors.cachedPool) pool-7-thread-26 [WARN] []ignore state change
+2025-11-13T08:15:53,487 (EdgeExecutors.cachedPool) pool-7-thread-26 [WARN] []ignore state change

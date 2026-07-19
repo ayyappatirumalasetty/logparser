@@ -1,0 +1,1038 @@
+[2026/07/19 01:12:00:000   00   16000   04633   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=ce98615ed79d caller=
+[2026/07/19 01:12:11:837   00   16000   13070   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=ffe1ee7d7090 ip=192.
+[2026/07/19 01:12:13:509   00   16000   16825   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper    
+[2026/07/19 01:12:13:777   00   16000   09559   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 01:15:42:777   00   16000   14869   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=227f04778773 ip=10.0
+[2026/07/19 01:15:43:218   00   16000   15186   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=38791c39576f cpu_uti
+[2026/07/19 01:15:43:617   00   16000   11543   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 01:15:44:005   00   16000   03785   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=30923fa9d977 endpoin
+[2026/07/19 01:15:47:894   00   16000   01061   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 01:15:48:343   00   16000   18054   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 caller=WebS
+[2026/07/19 01:15:53:137   00   16000   14006   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e0c3de537b83 ip=10.0
+[2026/07/19 01:18:58:137   00   16000   11478   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 cpu_util=23
+[2026/07/19 01:18:59:801   00   16000   01976   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0b787cc16f8e ip=10.0
+[2026/07/19 01:19:00:250   00   16000   04409   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f44def094df0 ip=172.
+[2026/07/19 01:19:00:356   00   16000   03437   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 mem_util=87
+[2026/07/19 01:22:22:356   00   16000   08112   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 01:22:38:353   00   16000   14968   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=371ee24f0ab8 ip=10.0
+[2026/07/19 01:22:42:708   00   16000   12615   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e17f09cd8aae cpu_uti
+[2026/07/19 01:22:43:037   00   16000   15640   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=6350b2a8457d caller=
+[2026/07/19 01:22:58:760   00   16000   08653   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 01:23:11:828   00   16000   15686   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 01:23:22:937   00   16000   05245   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 01:25:43:937   00   16000   17149   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 01:28:42:937   00   16000   14056   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=fec39f3e403a ip=172.
+[2026/07/19 01:28:43:250   00   16000   04262   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=796cb7590b35 ip=172.
+[2026/07/19 01:28:43:336   00   16000   17044   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 01:28:56:477   00   16000   09238   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=10d2ec8580f9 ip=192.
+[2026/07/19 01:29:09:924   00   16000   07518   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore ca
+[2026/07/19 01:29:11:894   00   16000   01691   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=9dea09d27ac9 ip=192.
+[2026/07/19 01:29:12:167   00   16000   06190   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a7ed29ceeb6d ip=172.
+[2026/07/19 01:29:14:579   00   16000   04641   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e1c2980e22d7 ip=10.0
+[2026/07/19 01:29:17:433   00   16000   19546   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 01:29:32:291   00   16000   19708   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 01:29:35:438   00   16000   10089   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 cpu_util=16
+[2026/07/19 01:29:40:889   00   16000   17131   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=23e686bf9a64 ip=192.
+[2026/07/19 01:29:41:182   00   16000   06267   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 01:29:41:510   00   16000   04068   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5a3019624273 caller=
+[2026/07/19 01:33:04:510   00   16000   13209   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8b22f2e066d7 ip=192.
+[2026/07/19 01:33:15:540   00   16000   18679   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 01:33:18:183   00   16000   08807   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=73% extra='qzxhqi5'
+[2026/07/19 01:33:18:461   00   16000   08131   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=Web
+[2026/07/19 01:34:32:461   00   16000   06365   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a3a85a1639e9 ip=192.
+[2026/07/19 01:34:32:561   00   16000   04063   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 01:34:37:556   00   16000   12520   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=4d38ac49a7a2 ip=10.0
+[2026/07/19 01:34:37:975   00   16000   11984   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=594fed973d75 ip=192.
+[2026/07/19 01:38:01:975   00   16000   07225   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=9601a3555a24 cpu_uti
+[2026/07/19 01:38:07:745   00   16000   09966   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e479fd2143db ip=172.
+[2026/07/19 01:38:19:036   00   16000   03571   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=182669b110d0 caller=
+[2026/07/19 01:38:31:131   00   16000   18817   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=4096e5336a88 endpoin
+[2026/07/19 01:38:31:369   00   16000   03645   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics extra='je'
+[2026/07/19 01:38:42:151   00   16000   06812   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f40ada39fd8c endpoin
+[2026/07/19 01:38:42:594   00   16000   08250   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=67e472362204 ip=192.
+[2026/07/19 01:38:47:258   00   16000   06098   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8c7f028a07c9 caller=
+[2026/07/19 01:38:49:218   00   16000   11393   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 01:38:59:692   00   16000   05865   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 01:39:10:844   00   16000   11885   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3a732a6a8825 ip=10.0
+[2026/07/19 01:39:14:679   00   16000   07468   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f22bbab80cbb cpu_uti
+[2026/07/19 01:39:17:663   00   16000   02193   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=73a481e0574a ip=192.
+[2026/07/19 01:39:22:569   00   16000   18449   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=06a8ce656ebc ip=192.
+[2026/07/19 01:39:22:958   00   16000   14213   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e3e7f0fd60d3 ip=192.
+[2026/07/19 01:39:37:294   00   16000   09852   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 caller=BackupA
+[2026/07/19 01:39:37:670   00   16000   11848   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=We
+[2026/07/19 01:42:35:670   00   16000   14662   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 cpu_util=8
+[2026/07/19 01:42:35:733   00   16000   10506   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=BackupAgent cpu_util
+[2026/07/19 01:42:47:858   00   16000   03096   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=DbCo
+[2026/07/19 01:42:49:101   00   16000   08249   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3ecd02b5f0b4 endpoin
+[2026/07/19 01:42:52:698   00   16000   11861   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=TomcatAccessFilter  
+[2026/07/19 01:42:54:716   00   16000   13337   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 01:42:54:908   00   16000   04933   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 01:42:55:269   00   16000   19292   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 01:46:20:269   00   16000   18242   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 01:57:20:269   00   16000   09906   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2457b9fdba0b ip=192.
+[2026/07/19 01:57:20:599   00   16000   18759   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 01:57:20:747   00   16000   19158   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 01:57:21:159   00   16000   01443   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 01:57:26:843   00   16000   17344   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=de5696668bcd endpoin
+[2026/07/19 01:57:38:860   00   16000   14313   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/m
+[2026/07/19 01:57:39:066   00   16000   12887   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2a95328ee783 ip=10.0
+[2026/07/19 01:57:41:651   00   16000   04791   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 01:57:44:378   00   16000   06998   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/m
+[2026/07/19 01:57:49:934   00   16000   13974   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a45e3d6deea2 ip=192.
+[2026/07/19 01:57:50:173   00   16000   03071   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=Web
+[2026/07/19 01:57:55:479   00   16000   05691   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=58% mem_util=61%  
+[2026/07/19 01:57:55:566   00   16000   18869   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=073a473b27c4 ip=192.
+[2026/07/19 01:58:01:286   00   16000   05609   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e4c9233327d4 endpoin
+[2026/07/19 01:58:05:825   00   16000   18477   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2bb6ad7c3fb3 endpoin
+[2026/07/19 01:58:06:127   00   16000   13434   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=ConfigManager cpu_ut
+[2026/07/19 01:58:08:866   00   16000   17300   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a75b4fb1958b ip=192.
+[2026/07/19 01:58:09:336   00   16000   19992   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=fcfea6284a78 endpoin
+[2026/07/19 01:58:09:492   00   16000   14986   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/a
+[2026/07/19 01:58:13:459   00   16000   14883   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8fb633750140 mem_uti
+[2026/07/19 01:58:13:794   00   16000   15291   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=9b106161432e endpoin
+[2026/07/19 02:00:27:794   00   16000   15715   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2ca19a74d145 ip=192.
+[2026/07/19 02:00:32:596   00   16000   09454   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=1639806085d5 caller=
+[2026/07/19 02:00:34:437   00   16000   16752   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 cpu_util=60%  
+[2026/07/19 02:00:39:794   00   16000   01747   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e87a15af5967 caller=
+[2026/07/19 02:00:39:897   00   16000   11069   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8f7c748c8aad ip=172.
+[2026/07/19 02:00:40:364   00   16000   16717   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=fc28fd846b0b endpoin
+[2026/07/19 02:00:40:759   00   16000   05199   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=7450804c55fc endpoin
+[2026/07/19 02:00:40:948   00   16000   17581   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=4dc0ee1a881a endpoin
+[2026/07/19 02:03:12:948   00   16000   10650   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=744356933801 endpoin
+[2026/07/19 02:05:52:948   00   16000   06220   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=02660a19838d endpoin
+[2026/07/19 02:08:50:948   00   16000   14566   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2d2566d971ef ip=192.
+[2026/07/19 02:08:51:439   00   16000   15654   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 02:08:52:666   00   16000   11511   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=DbConnector mem_util
+[2026/07/19 02:08:57:382   00   16000   10837   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3f6e8e6fa4da endpoin
+[2026/07/19 02:08:59:153   00   16000   06039   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 02:09:02:303   00   16000   04787   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=22% extra='6s4refc'
+[2026/07/19 02:09:06:503   00   16000   04758   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=316fec72e074 cpu_uti
+[2026/07/19 02:09:06:707   00   16000   11561   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f85c6e0d8be3 ip=192.
+[2026/07/19 02:09:06:813   00   16000   17347   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=1df8cb4a8aae endpoin
+[2026/07/19 02:09:19:678   00   16000   19293   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3a3a6d6c4110 ip=192.
+[2026/07/19 02:09:32:661   00   16000   02762   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 cpu_util=63
+[2026/07/19 02:09:34:449   00   16000   11813   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=77% mem_util=66%  
+[2026/07/19 02:09:34:905   00   16000   18334   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=TomcatAccessFilter  
+[2026/07/19 02:09:38:960   00   16000   19793   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 02:09:42:193   00   16000   10681   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 02:09:42:279   00   16000   09337   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=fbdaf1598617 ip=192.
+[2026/07/19 02:11:01:279   00   16000   16135   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f77c964cc73f cpu_uti
+[2026/07/19 02:11:17:167   00   16000   12180   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e2ed9f62ea30 ip=172.
+[2026/07/19 02:11:31:861   00   16000   02583   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=TomcatAccessFilter m
+[2026/07/19 02:11:32:263   00   16000   19752   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=83% mem_util=45%  
+[2026/07/19 02:15:09:263   00   16000   14200   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 02:15:09:492   00   16000   07251   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 02:15:09:815   00   16000   07540   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 02:15:11:486   00   16000   08205   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 02:15:14:054   00   16000   05278   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f8d4bdcf7a3e endpoin
+[2026/07/19 02:15:14:484   00   16000   07166   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=fb1300a7a81a caller=
+[2026/07/19 02:15:14:901   00   16000   05040   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics extra='q7'
+[2026/07/19 02:15:28:320   00   16000   01566   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0f9628fb288d ip=10.0
+[2026/07/19 02:15:28:621   00   16000   08194   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=53b69eaf337f cpu_uti
+[2026/07/19 02:26:28:621   00   16000   15598   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=81% extra='xuvablm'
+[2026/07/19 02:26:31:106   00   16000   06130   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 02:26:31:136   00   16000   18837   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5f96f9a07345 ip=10.0
+[2026/07/19 02:29:53:136   00   16000   08097   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 caller=WebS
+[2026/07/19 02:29:53:307   00   16000   02071   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a9646d3af94b ip=172.
+[2026/07/19 02:29:53:362   00   16000   16525   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=4d0f8906e314 endpoin
+[2026/07/19 02:29:53:810   00   16000   15273   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c946bbbcb571 endpoin
+[2026/07/19 02:29:53:974   00   16000   13463   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f3fd4bcfb9ac ip=192.
+[2026/07/19 02:30:09:444   00   16000   04685   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=Db
+[2026/07/19 02:30:12:007   00   16000   12022   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=51% extra='z1uniob'
+[2026/07/19 02:30:24:360   00   16000   17281   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=24% extra='st84a6x'
+[2026/07/19 02:30:28:921   00   16000   05260   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=047b7ebdbb4a ip=192.
+[2026/07/19 02:30:29:172   00   16000   14055   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 cpu_util=25% m
+[2026/07/19 02:34:00:172   00   16000   15715   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=ConfigManager cpu_ut
+[2026/07/19 02:34:05:593   00   16000   04551   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 02:34:05:884   00   16000   02617   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e90acf55fa51 ip=192.
+[2026/07/19 02:34:06:933   00   16000   01204   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore cp
+[2026/07/19 02:37:43:933   00   16000   10337   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 02:39:28:933   00   16000   04249   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2fa670ab82a0 endpoin
+[2026/07/19 02:39:29:315   00   16000   03598   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=To
+[2026/07/19 02:39:29:492   00   16000   05656   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e2632c60f6b9 ip=192.
+[2026/07/19 02:39:42:154   00   16000   19362   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 02:39:42:530   00   16000   15845   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 02:39:48:306   00   16000   01977   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2a833adcb216 ip=10.0
+[2026/07/19 02:39:51:843   00   16000   15079   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a7e7141dfe70 endpoin
+[2026/07/19 02:40:07:381   00   16000   01664   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 cpu_util=27
+[2026/07/19 02:40:10:629   00   16000   18192   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=525e6c0de21d endpoin
+[2026/07/19 02:40:21:410   00   16000   17293   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/metr
+[2026/07/19 02:40:25:536   00   16000   04962   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e7b460d76d08 endpoin
+[2026/07/19 02:40:40:883   00   16000   10760   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper cpu
+[2026/07/19 02:40:41:193   00   16000   06227   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d67697e3e215 ip=10.0
+[2026/07/19 02:40:46:122   00   16000   01531   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 02:40:49:387   00   16000   18197   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=7890672af502 mem_uti
+[2026/07/19 02:40:51:834   00   16000   08866   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d6531185b7e6 endpoin
+[2026/07/19 02:40:52:317   00   16000   17009   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=b7f266469336 endpoin
+[2026/07/19 02:40:52:434   00   16000   14781   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=fcd4d8a3d745 ip=192.
+[2026/07/19 02:40:52:484   00   16000   12875   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 02:40:55:631   00   16000   18808   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=059d64c9f0f2 ip=10.0
+[2026/07/19 02:40:55:678   00   16000   01763   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=Db
+[2026/07/19 02:42:22:678   00   16000   01804   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=844a52a73332 ip=10.0
+[2026/07/19 02:42:37:283   00   16000   19192   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 cpu_util=1
+[2026/07/19 02:42:52:625   00   16000   10607   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=75% extra='8stonet'
+[2026/07/19 02:42:52:867   00   16000   04474   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 caller=DbCo
+[2026/07/19 02:42:56:078   00   16000   03968   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/a
+[2026/07/19 02:42:56:411   00   16000   04636   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=23a1f0b2b43c endpoin
+[2026/07/19 02:43:00:464   00   16000   16272   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/m
+[2026/07/19 02:43:00:795   00   16000   08260   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=DbConnector cpu_util
+[2026/07/19 02:43:10:918   00   16000   09145   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=50% extra='f8rtdrx'
+[2026/07/19 02:43:11:021   00   16000   12429   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=21617798a593 ip=172.
+[2026/07/19 02:43:16:953   00   16000   14066   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=bb5ba76cf665 endpoin
+[2026/07/19 02:43:17:171   00   16000   09579   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=To
+[2026/07/19 02:43:21:406   00   16000   07058   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=Tom
+[2026/07/19 02:43:21:434   00   16000   02130   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5525e6b62de3 endpoin
+[2026/07/19 02:45:09:434   00   16000   19058   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 caller=WebServ
+[2026/07/19 02:45:12:032   00   16000   15534   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 02:45:26:132   00   16000   16586   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=6a8262bb2ef9 ip=172.
+[2026/07/19 02:45:39:166   00   16000   12165   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=DbConnector cpu_util
+[2026/07/19 02:45:39:316   00   16000   13626   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=1f3b5851d453 endpoin
+[2026/07/19 02:45:49:387   00   16000   08313   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0cf4d6c17b9a endpoin
+[2026/07/19 02:45:52:401   00   16000   02581   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=9712f0de4a4b mem_uti
+[2026/07/19 02:46:57:401   00   16000   07774   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2cbe5a0297c9 endpoin
+[2026/07/19 02:46:57:751   00   16000   15225   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=7e68d4b2c97a ip=172.
+[2026/07/19 02:47:01:592   00   16000   15298   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=6a5dbf33d29a endpoin
+[2026/07/19 02:47:01:673   00   16000   19842   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 02:50:28:673   00   16000   15996   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/a
+[2026/07/19 02:50:33:507   00   16000   02298   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper mem
+[2026/07/19 02:50:33:706   00   16000   01995   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5e60a9a7ea84 ip=192.
+[2026/07/19 02:50:34:048   00   16000   04958   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 caller=TomcatA
+[2026/07/19 02:50:37:795   00   16000   03554   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d9976eb48a48 caller=
+[2026/07/19 02:50:48:337   00   16000   10911   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore cp
+[2026/07/19 02:59:48:337   00   16000   14554   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=485fbec727b6 ip=192.
+[2026/07/19 02:59:52:234   00   16000   15243   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=395a8697341c ip=172.
+[2026/07/19 02:59:53:357   00   16000   09946   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 02:59:57:113   00   16000   17789   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=6c522191f6b4 caller=
+[2026/07/19 03:00:01:614   00   16000   06651   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0d3d0077e22b caller=
+[2026/07/19 03:00:01:863   00   16000   15631   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0dc77c5f20bf ip=10.0
+[2026/07/19 03:00:17:486   00   16000   11302   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=9fc8c2e8a7da4dc3  
+[2026/07/19 03:00:22:261   00   16000   06978   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=59260b9b774d mem_uti
+[2026/07/19 03:00:24:841   00   16000   05835   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2d1f8fcd9b25 ip=10.0
+[2026/07/19 03:00:29:109   00   16000   12557   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=293bdd045b35 cpu_uti
+[2026/07/19 03:00:39:457   00   16000   10123   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=9ee7ed29d188 ip=172.
+[2026/07/19 03:04:14:457   00   16000   07806   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e10365c524dc endpoin
+[2026/07/19 03:04:30:273   00   16000   07932   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a01c56a15b2a endpoin
+[2026/07/19 03:04:30:666   00   16000   17488   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=4a700fef53d3 ip=192.
+[2026/07/19 03:04:33:033   00   16000   07517   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=6e02538f6100 ip=10.0
+[2026/07/19 03:07:11:033   00   16000   10420   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=7a638840bfa9 ip=192.
+[2026/07/19 03:07:25:176   00   16000   18388   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=cd63d2f85f56        
+[2026/07/19 03:07:30:358   00   16000   01074   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 extra='9596wnh'
+[2026/07/19 03:07:32:225   00   16000   12274   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=fdc520f5940b ip=192.
+[2026/07/19 03:07:32:360   00   16000   08942   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=cef65918db2d ip=172.
+[2026/07/19 03:11:01:360   00   16000   03326   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=94ddfacbab49 caller=
+[2026/07/19 03:11:01:362   00   16000   13312   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=1bb9f0cd605d caller=
+[2026/07/19 03:11:01:414   00   16000   16696   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=35730b3c8b97 endpoin
+[2026/07/19 03:11:05:852   00   16000   03128   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper cpu
+[2026/07/19 03:21:05:852   00   16000   17984   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=WebS
+[2026/07/19 03:21:06:057   00   16000   12150   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=b38d2491fdd0 ip=10.0
+[2026/07/19 03:21:08:460   00   16000   01237   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper mem
+[2026/07/19 03:24:50:460   00   16000   01676   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=WebS
+[2026/07/19 03:24:50:626   00   16000   14170   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=7eb00a342ab7 ip=192.
+[2026/07/19 03:25:05:850   00   16000   07453   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 03:25:06:242   00   16000   02590   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e267ca8f85a8 caller=
+[2026/07/19 03:25:11:993   00   16000   11353   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 03:25:12:285   00   16000   02967   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=75e230aba84f caller=
+[2026/07/19 03:25:24:720   00   16000   01335   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=DbConnector cpu_util
+[2026/07/19 03:25:25:214   00   16000   12813   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=52fab455e6a9 caller=
+[2026/07/19 03:29:15:214   00   16000   02177   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=0c3ae4b61fa54cfc  
+[2026/07/19 03:30:25:214   00   16000   11714   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 03:30:25:617   00   16000   02209   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=7cc5edf8fb22 ip=192.
+[2026/07/19 03:30:29:679   00   16000   19866   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=b7b32dff8803 ip=172.
+[2026/07/19 03:30:30:039   00   16000   12505   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 03:30:32:044   00   16000   12280   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 cpu_util=35
+[2026/07/19 03:32:28:044   00   16000   17895   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 cpu_util=7
+[2026/07/19 03:32:28:501   00   16000   06006   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper    
+[2026/07/19 03:32:31:579   00   16000   10578   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 03:32:36:795   00   16000   18770   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=Ba
+[2026/07/19 03:32:42:245   00   16000   17240   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5343362aee4c ip=10.0
+[2026/07/19 03:35:03:245   00   16000   16843   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0ba7047ad16f endpoin
+[2026/07/19 03:35:05:170   00   16000   17775   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 cpu_util=10
+[2026/07/19 03:35:08:892   00   16000   17371   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2817dbc24682 caller=
+[2026/07/19 03:35:14:525   00   16000   02637   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=Back
+[2026/07/19 03:38:22:525   00   16000   19757   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f0fff738d54e caller=
+[2026/07/19 03:38:22:840   00   16000   12875   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=1b39939771be ip=10.0
+[2026/07/19 03:38:22:995   00   16000   01267   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a492d2554ae7 caller=
+[2026/07/19 03:38:25:160   00   16000   09959   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 caller=ConfigM
+[2026/07/19 03:38:39:470   00   16000   12586   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d153cca0dd13 endpoin
+[2026/07/19 03:38:39:843   00   16000   03173   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 03:38:41:118   00   16000   14864   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=b28a323d47e3 ip=172.
+[2026/07/19 03:38:42:798   00   16000   18755   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=ConfigManager cpu_ut
+[2026/07/19 03:38:42:944   00   16000   04755   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0cb41ee59c88 endpoin
+[2026/07/19 03:38:58:120   00   16000   18705   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 extra='pse7'
+[2026/07/19 03:38:58:437   00   16000   19821   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=b8b314330228 ip=192.
+[2026/07/19 03:39:01:587   00   16000   01050   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=11b746f52942 cpu_uti
+[2026/07/19 03:39:02:731   00   16000   14484   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=aafdeeb86640 ip=192.
+[2026/07/19 03:39:03:226   00   16000   05532   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=Bac
+[2026/07/19 03:39:07:489   00   16000   01943   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=9018988d2523 ip=10.0
+[2026/07/19 03:39:18:006   00   16000   10715   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 03:39:18:412   00   16000   14300   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d0c3d558cbf5 ip=10.0
+[2026/07/19 03:39:20:377   00   16000   11377   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=DbConnector mem_util
+[2026/07/19 03:39:21:635   00   16000   18727   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 03:39:25:995   00   16000   07304   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 caller=BackupA
+[2026/07/19 03:39:26:173   00   16000   16947   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c7ae1b3b0f79 ip=192.
+[2026/07/19 03:39:27:211   00   16000   06513   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 03:39:30:346   00   16000   02225   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 03:39:40:401   00   16000   04902   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 03:39:56:200   00   16000   03204   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=Co
+[2026/07/19 03:39:56:321   00   16000   14595   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0e82cc2ca2d3 endpoin
+[2026/07/19 03:40:01:222   00   16000   15058   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5855fb1bffa1 cpu_uti
+[2026/07/19 03:40:01:712   00   16000   02714   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 03:40:16:941   00   16000   02627   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=90d8ae18b04b caller=
+[2026/07/19 03:40:18:086   00   16000   03712   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 extra='1ko8nzp'
+[2026/07/19 03:40:18:116   00   16000   14962   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=984623e6facc ip=10.0
+[2026/07/19 03:51:18:116   00   16000   14363   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics extra='qu'
+[2026/07/19 03:51:18:492   00   16000   09441   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=ef53801a587c cpu_uti
+[2026/07/19 03:51:18:932   00   16000   14105   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=Con
+[2026/07/19 03:51:19:157   00   16000   16720   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=DbCo
+[2026/07/19 03:51:32:379   00   16000   09977   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f59c393f0969 ip=10.0
+[2026/07/19 03:51:34:078   00   16000   12289   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=295544887748 ip=10.0
+[2026/07/19 03:51:49:331   00   16000   04229   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 03:51:52:066   00   16000   05565   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=BackupAgent cpu_util
+[2026/07/19 03:51:52:311   00   16000   03454   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5697b4037a86 cpu_uti
+[2026/07/19 03:51:52:773   00   16000   15967   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=15% mem_util=37%  
+[2026/07/19 03:52:52:773   00   16000   12561   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore ca
+[2026/07/19 03:52:56:805   00   16000   03379   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=ConfigManager       
+[2026/07/19 03:53:02:089   00   16000   07367   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 03:53:04:122   00   16000   16333   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3c9580c870b5 ip=172.
+[2026/07/19 03:53:04:534   00   16000   12406   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=71ef187fc071 ip=192.
+[2026/07/19 03:53:07:940   00   16000   04524   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=debcb742b73c endpoin
+[2026/07/19 03:53:08:181   00   16000   04565   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=74df279bda3a endpoin
+[2026/07/19 03:53:23:677   00   16000   06828   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=85% extra='bl29dw9'
+[2026/07/19 03:53:23:733   00   16000   12799   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 cpu_util=10
+[2026/07/19 03:53:33:812   00   16000   11435   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/m
+[2026/07/19 03:53:34:283   00   16000   04970   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore ca
+[2026/07/19 03:53:38:843   00   16000   17224   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=84a65213dba7 ip=10.0
+[2026/07/19 03:53:39:324   00   16000   04055   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 03:53:39:557   00   16000   08592   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8efb117286c3 mem_uti
+[2026/07/19 03:53:41:434   00   16000   12495   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3d06740ecad8        
+[2026/07/19 03:53:55:576   00   16000   03148   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=cc313b159fbb ip=192.
+[2026/07/19 03:53:55:942   00   16000   06225   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=70% extra='uc61mwo'
+[2026/07/19 03:56:35:942   00   16000   06965   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d9db602f5edd ip=10.0
+[2026/07/19 03:58:17:942   00   16000   04355   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 03:58:18:326   00   16000   03156   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=05ae4cd9eeef ip=10.0
+[2026/07/19 03:58:29:351   00   16000   05014   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 03:58:29:605   00   16000   03088   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a0ec3b19e459 ip=192.
+[2026/07/19 03:58:29:710   00   16000   03483   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=2e034f9b19994a9b  
+[2026/07/19 03:58:29:968   00   16000   19031   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=1f363b9848204c1e  
+[2026/07/19 03:58:41:928   00   16000   12303   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/a
+[2026/07/19 03:58:42:122   00   16000   18342   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=7c7a5cff158f ip=192.
+[2026/07/19 03:58:46:669   00   16000   10936   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=6ddc85468dd0 ip=10.0
+[2026/07/19 03:58:47:157   00   16000   14656   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=289a409d11f8 endpoin
+[2026/07/19 03:58:47:515   00   16000   16862   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper    
+[2026/07/19 03:58:47:938   00   16000   06110   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper cpu
+[2026/07/19 03:59:02:218   00   16000   09744   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 03:59:16:524   00   16000   15449   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper mem
+[2026/07/19 03:59:16:716   00   16000   19347   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 03:59:20:361   00   16000   19623   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2b6ced16b028 endpoin
+[2026/07/19 03:59:20:730   00   16000   10553   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=Con
+[2026/07/19 04:02:23:730   00   16000   15954   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=DbConnector cpu_util
+[2026/07/19 04:02:37:020   00   16000   16095   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=fef92d484444 caller=
+[2026/07/19 04:02:37:333   00   16000   12777   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3042dcb41ec6 ip=192.
+[2026/07/19 04:02:37:553   00   16000   17836   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 04:06:07:553   00   16000   11009   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=ccc248cfc3e6 ip=172.
+[2026/07/19 04:06:07:773   00   16000   18809   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=afa7d7622234 ip=192.
+[2026/07/19 04:06:12:353   00   16000   07677   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=caeb1d6c25c7 ip=172.
+[2026/07/19 04:08:50:353   00   16000   05211   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=dc3b4c360850 ip=192.
+[2026/07/19 04:08:54:199   00   16000   18432   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=76e43862f915 ip=10.0
+[2026/07/19 04:08:58:407   00   16000   10734   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=55% mem_util=59%  
+[2026/07/19 04:09:01:093   00   16000   07031   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics mem_util=
+[2026/07/19 04:09:03:676   00   16000   07595   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 cpu_util=68% m
+[2026/07/19 04:12:53:676   00   16000   17564   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 04:13:04:187   00   16000   08693   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 04:13:07:651   00   16000   15332   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3c77e7d39a9e ip=192.
+[2026/07/19 04:13:13:361   00   16000   11961   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 04:13:15:306   00   16000   12200   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=TomcatAccessFilter m
+[2026/07/19 04:13:17:357   00   16000   12988   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 cpu_util=3
+[2026/07/19 04:13:28:863   00   16000   09521   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a4928f7b72fc caller=
+[2026/07/19 04:13:30:032   00   16000   15882   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 mem_util=51%  
+[2026/07/19 04:13:40:575   00   16000   13021   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=caf29eb41758 ip=192.
+[2026/07/19 04:13:40:815   00   16000   14460   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 cpu_util=37
+[2026/07/19 04:13:41:027   00   16000   12642   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 04:13:42:128   00   16000   04147   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper cpu
+[2026/07/19 04:13:42:287   00   16000   12066   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=1f095982e766 caller=
+[2026/07/19 04:13:42:618   00   16000   01090   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=fce55bf11708 ip=10.0
+[2026/07/19 04:13:47:014   00   16000   17728   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 cpu_util=5
+[2026/07/19 04:13:47:210   00   16000   17542   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=03dd1db0881e ip=192.
+[2026/07/19 04:13:47:520   00   16000   16214   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 04:13:52:567   00   16000   09399   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8290610be0ea endpoin
+[2026/07/19 04:14:05:956   00   16000   16234   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=cc7339974e46 ip=192.
+[2026/07/19 04:14:07:133   00   16000   12466   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=24% extra='diukmoh'
+[2026/07/19 04:14:22:328   00   16000   11176   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a1ce0d6ff4be endpoin
+[2026/07/19 04:14:22:430   00   16000   02500   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=We
+[2026/07/19 04:14:22:614   00   16000   03277   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=93e10d2f0acf endpoin
+[2026/07/19 04:14:33:422   00   16000   01240   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=42720766a28d endpoin
+[2026/07/19 04:14:33:718   00   16000   15625   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 04:14:35:905   00   16000   10325   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=cb5385dac022 ip=10.0
+[2026/07/19 04:14:36:288   00   16000   08081   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=DbConnector cpu_util
+[2026/07/19 04:14:48:860   00   16000   07924   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore me
+[2026/07/19 04:16:35:860   00   16000   16469   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3b8107ddf748 ip=192.
+[2026/07/19 04:16:39:216   00   16000   03460   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a2a349a309a6 ip=10.0
+[2026/07/19 04:16:42:919   00   16000   12541   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 04:16:46:857   00   16000   13005   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=ac12b4bc577a ip=192.
+[2026/07/19 04:16:49:172   00   16000   05046   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5adea8052c14 endpoin
+[2026/07/19 04:16:59:546   00   16000   16995   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 04:17:00:026   00   16000   02021   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 04:17:05:543   00   16000   04259   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=TomcatAccessFilter m
+[2026/07/19 04:17:07:287   00   16000   13934   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0474ab61a18a ip=192.
+[2026/07/19 04:17:07:688   00   16000   06673   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=da38c64a9244 ip=192.
+[2026/07/19 04:19:51:688   00   16000   19329   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c64fe71bf361 ip=192.
+[2026/07/19 04:19:53:812   00   16000   03299   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=BackupAgent cpu_util
+[2026/07/19 04:20:04:158   00   16000   03718   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a0edc0dbd5c6 endpoin
+[2026/07/19 04:20:04:259   00   16000   03649   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=ConfigManager cpu_ut
+[2026/07/19 04:20:04:748   00   16000   02227   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=846ce850bd05 ip=192.
+[2026/07/19 04:20:05:025   00   16000   08065   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=aaad08b589d7 endpoin
+[2026/07/19 04:20:16:739   00   16000   18035   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 extra='295efwj'
+[2026/07/19 04:20:21:085   00   16000   04688   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=61% extra='fe035h8'
+[2026/07/19 04:20:35:149   00   16000   09390   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=adbdc144695f ip=10.0
+[2026/07/19 04:20:35:600   00   16000   15513   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 04:20:35:756   00   16000   08655   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 04:20:36:123   00   16000   15440   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=TomcatAccessFilter  
+[2026/07/19 04:20:40:999   00   16000   14219   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/metr
+[2026/07/19 04:20:51:383   00   16000   02223   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 04:20:54:053   00   16000   10994   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore   
+[2026/07/19 04:20:54:447   00   16000   11347   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=60% mem_util=56%  
+[2026/07/19 04:20:54:476   00   16000   09147   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 04:22:17:476   00   16000   08529   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=13472f8f576b ip=172.
+[2026/07/19 04:22:17:488   00   16000   13593   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=07d2db5159e9 endpoin
+[2026/07/19 04:22:17:971   00   16000   14405   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=adafde07631d43f4  
+[2026/07/19 04:28:17:971   00   16000   14751   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=ConfigManager cpu_ut
+[2026/07/19 04:28:22:452   00   16000   06241   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2c3f3777cabc ip=10.0
+[2026/07/19 04:28:22:863   00   16000   09168   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/a
+[2026/07/19 04:32:14:863   00   16000   08226   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=9d50e0062d15 cpu_uti
+[2026/07/19 04:32:19:479   00   16000   07725   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=06ac5003cd67 ip=172.
+[2026/07/19 04:32:22:161   00   16000   09474   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=32fece46fd36 ip=172.
+[2026/07/19 04:32:22:379   00   16000   12333   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/metr
+[2026/07/19 04:34:16:379   00   16000   18452   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 cpu_util=31
+[2026/07/19 04:37:18:379   00   16000   05723   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=b62feb81e0d0 caller=
+[2026/07/19 04:37:23:695   00   16000   10973   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3a61aea39d6b ip=172.
+[2026/07/19 04:40:52:695   00   16000   04778   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 04:44:24:695   00   16000   09744   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=4e5a83e6581a ip=10.0
+[2026/07/19 04:44:25:194   00   16000   01359   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper    
+[2026/07/19 04:44:30:479   00   16000   16009   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=76% extra='sdxtpq6'
+[2026/07/19 04:44:30:887   00   16000   18640   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=9df2e8f1f45e caller=
+[2026/07/19 04:50:30:887   00   16000   16566   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 extra='qgco'
+[2026/07/19 04:50:30:948   00   16000   12647   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 cpu_util=69
+[2026/07/19 04:50:45:421   00   16000   12291   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=34a11386c5c2 ip=172.
+[2026/07/19 04:50:45:608   00   16000   08377   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=9de827219685 mem_uti
+[2026/07/19 04:50:45:809   00   16000   03305   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 caller=Back
+[2026/07/19 04:50:49:243   00   16000   15183   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore   
+[2026/07/19 04:50:49:714   00   16000   05195   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a4e9bc37f640 cpu_uti
+[2026/07/19 04:50:49:869   00   16000   18441   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e4d2c06485da ip=192.
+[2026/07/19 04:50:53:524   00   16000   15719   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=ddc915efa5c9 ip=192.
+[2026/07/19 04:52:07:524   00   16000   14452   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=7e514167e505 caller=
+[2026/07/19 04:52:07:796   00   16000   19920   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 04:52:07:925   00   16000   05581   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a694c3eebf60 caller=
+[2026/07/19 04:56:00:925   00   16000   09977   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 04:56:06:036   00   16000   06924   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=edd1fda512ec ip=192.
+[2026/07/19 04:56:06:223   00   16000   10079   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0afb408911a0 ip=10.0
+[2026/07/19 04:56:07:952   00   16000   14636   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/a
+[2026/07/19 04:56:18:518   00   16000   16042   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3e053afeb0ed ip=10.0
+[2026/07/19 04:56:18:972   00   16000   16592   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 mem_util=54
+[2026/07/19 05:00:09:972   00   16000   04577   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics cpu_util=
+[2026/07/19 05:02:36:972   00   16000   03961   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=cf3059667336 cpu_uti
+[2026/07/19 05:02:50:999   00   16000   05049   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=065d38fb46fd caller=
+[2026/07/19 05:02:56:170   00   16000   15106   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 05:02:56:631   00   16000   03580   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=52f55d9f6657 ip=192.
+[2026/07/19 05:03:11:311   00   16000   14290   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=71% extra='uvbtzgn'
+[2026/07/19 05:03:15:543   00   16000   10507   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=420821d1be96 ip=10.0
+[2026/07/19 05:03:20:409   00   16000   12044   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=TomcatAccessFilter  
+[2026/07/19 05:03:22:626   00   16000   08607   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=61dbfa69a1cb cpu_uti
+[2026/07/19 05:03:22:761   00   16000   18446   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 cpu_util=7
+[2026/07/19 05:03:22:939   00   16000   05212   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=01f0d52707f9 caller=
+[2026/07/19 05:03:37:687   00   16000   16571   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5ccc8ce94eb2 endpoin
+[2026/07/19 05:03:37:939   00   16000   07054   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 05:03:38:160   00   16000   02575   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics extra='6p'
+[2026/07/19 05:03:49:606   00   16000   05658   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=Db
+[2026/07/19 05:03:49:928   00   16000   14740   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 05:03:50:083   00   16000   10496   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0ec74639d935        
+[2026/07/19 05:03:53:065   00   16000   15630   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d17a4e469d9c ip=172.
+[2026/07/19 05:03:53:201   00   16000   18747   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/a
+[2026/07/19 05:03:53:634   00   16000   05864   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8a7c9a427933 ip=172.
+[2026/07/19 05:03:55:117   00   16000   15224   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 05:03:55:517   00   16000   07588   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=9c220cb9f312 ip=192.
+[2026/07/19 05:04:08:020   00   16000   10747   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 mem_util=38%  
+[2026/07/19 05:04:11:426   00   16000   07978   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 05:04:11:677   00   16000   19578   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 05:04:17:189   00   16000   01836   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=b997fc8e3647 caller=
+[2026/07/19 05:04:22:957   00   16000   14108   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d34431f845f7 endpoin
+[2026/07/19 05:04:28:564   00   16000   02226   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5450882ce5b2 ip=10.0
+[2026/07/19 05:04:30:833   00   16000   10842   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=35% extra='nb5c668'
+[2026/07/19 05:04:30:856   00   16000   06250   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore ca
+[2026/07/19 05:15:30:856   00   16000   18732   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a8c890cef770 ip=192.
+[2026/07/19 05:15:31:125   00   16000   17460   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=57% extra='7ngn07y'
+[2026/07/19 05:15:34:869   00   16000   16028   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 05:15:35:117   00   16000   15742   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=ba4ac26da80d        
+[2026/07/19 05:15:38:786   00   16000   16281   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2f2196877fec ip=192.
+[2026/07/19 05:15:39:877   00   16000   17432   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=08827338ffb1 ip=192.
+[2026/07/19 05:15:45:285   00   16000   14443   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics cpu_util=
+[2026/07/19 05:15:48:229   00   16000   16324   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5446d7dddb9a endpoin
+[2026/07/19 05:19:08:229   00   16000   10653   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a2251032f399 caller=
+[2026/07/19 05:20:40:229   00   16000   16940   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=888b62df7b214074  
+[2026/07/19 05:22:12:229   00   16000   03717   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=301ac71c16a6 endpoin
+[2026/07/19 05:22:23:522   00   16000   18605   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c491e0a6a4ed ip=172.
+[2026/07/19 05:22:23:714   00   16000   16677   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a2bbdf5b8442 ip=10.0
+[2026/07/19 05:22:24:134   00   16000   04533   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 05:22:37:874   00   16000   07601   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 05:23:58:874   00   16000   13877   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d9e9a5266d13 ip=172.
+[2026/07/19 05:23:59:005   00   16000   11590   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=93f04aba9b1d endpoin
+[2026/07/19 05:23:59:472   00   16000   05795   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d1357a340731 endpoin
+[2026/07/19 05:25:17:472   00   16000   02814   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2295a807cb7f ip=192.
+[2026/07/19 05:25:17:678   00   16000   15507   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d63892ece677 endpoin
+[2026/07/19 05:25:17:703   00   16000   04405   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=Con
+[2026/07/19 05:25:17:858   00   16000   12975   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5536cd08ff18 ip=172.
+[2026/07/19 05:28:42:858   00   16000   14197   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2dfa20ef8b6d ip=192.
+[2026/07/19 05:30:48:858   00   16000   02779   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=bd7fd190d0a4 caller=
+[2026/07/19 05:30:48:890   00   16000   03764   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=bb4caa9ad2a0 ip=192.
+[2026/07/19 05:34:47:890   00   16000   19831   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3d25812c2c15 ip=192.
+[2026/07/19 05:34:47:905   00   16000   08069   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=Back
+[2026/07/19 05:34:53:277   00   16000   13757   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=637b5d896357 ip=192.
+[2026/07/19 05:34:55:950   00   16000   17393   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=248b755c68e8 ip=192.
+[2026/07/19 05:34:56:022   00   16000   16736   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=9ae011b618c1 ip=192.
+[2026/07/19 05:34:56:317   00   16000   19340   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 extra='t28'
+[2026/07/19 05:35:08:482   00   16000   18155   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d6ae64c20d00 ip=172.
+[2026/07/19 05:45:08:482   00   16000   11213   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 caller=DbCo
+[2026/07/19 05:45:12:329   00   16000   07018   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=Bac
+[2026/07/19 05:45:13:944   00   16000   05763   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=009121507aa64397  
+[2026/07/19 05:45:14:096   00   16000   18493   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a6c452db7194 ip=192.
+[2026/07/19 05:45:18:430   00   16000   06471   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=acaff4164b85 ip=172.
+[2026/07/19 05:45:24:339   00   16000   03828   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 mem_util=41%  
+[2026/07/19 05:48:33:339   00   16000   16632   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 mem_util=75
+[2026/07/19 05:48:33:781   00   16000   17964   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/m
+[2026/07/19 05:51:20:781   00   16000   02443   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d3cfed6e1b12 ip=10.0
+[2026/07/19 05:51:20:825   00   16000   11332   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=Tomc
+[2026/07/19 05:51:21:040   00   16000   11444   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=Web
+[2026/07/19 05:51:34:816   00   16000   01606   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 05:51:37:602   00   16000   13927   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore ca
+[2026/07/19 06:00:37:602   00   16000   02137   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 caller=WebS
+[2026/07/19 06:00:37:897   00   16000   04667   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0c48a1811408 ip=192.
+[2026/07/19 06:00:38:092   00   16000   18283   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=BackupAgent extra='z'
+[2026/07/19 06:00:43:631   00   16000   12492   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=92e14677357c4394  
+[2026/07/19 06:00:44:035   00   16000   16631   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2183019988fa endpoin
+[2026/07/19 06:00:44:208   00   16000   10337   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=da7b1b40e6634369  
+[2026/07/19 06:00:49:408   00   16000   08159   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=Tomc
+[2026/07/19 06:01:01:930   00   16000   08087   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 06:01:01:967   00   16000   05525   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 06:01:03:529   00   16000   19715   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2740b3e97f4d ip=172.
+[2026/07/19 06:01:03:594   00   16000   12931   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=90828a831352 mem_uti
+[2026/07/19 06:03:11:594   00   16000   12301   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 06:03:22:790   00   16000   13130   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 06:03:22:865   00   16000   10018   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 06:03:24:752   00   16000   18601   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 06:03:26:962   00   16000   14093   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper cpu
+[2026/07/19 06:03:26:967   00   16000   13449   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c12a11b5c9ab ip=172.
+[2026/07/19 06:03:27:229   00   16000   11730   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/a
+[2026/07/19 06:03:39:693   00   16000   19878   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 06:03:41:517   00   16000   03846   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/metr
+[2026/07/19 06:03:44:877   00   16000   01027   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore ca
+[2026/07/19 06:03:45:019   00   16000   17897   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 mem_util=67
+[2026/07/19 06:03:59:603   00   16000   04019   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/login
+[2026/07/19 06:04:05:427   00   16000   16935   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 mem_util=44
+[2026/07/19 06:04:05:540   00   16000   12133   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=08907c04a8ec endpoin
+[2026/07/19 06:04:09:427   00   16000   14172   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=120dc1d4294c endpoin
+[2026/07/19 06:04:09:669   00   16000   15539   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f839e9f3f26d ip=10.0
+[2026/07/19 06:04:15:382   00   16000   01836   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e4de6654269a cpu_uti
+[2026/07/19 06:04:15:798   00   16000   12566   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 06:04:18:188   00   16000   05023   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=dee28e344935 caller=
+[2026/07/19 06:04:18:688   00   16000   14534   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=fac5fd6b81ba endpoin
+[2026/07/19 06:04:18:699   00   16000   19410   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 06:04:29:728   00   16000   19860   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a6c8915eeb9a ip=172.
+[2026/07/19 06:07:23:728   00   16000   04272   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=7b9c52c13c47 ip=10.0
+[2026/07/19 06:07:24:039   00   16000   14826   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/a
+[2026/07/19 06:07:29:304   00   16000   03275   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 06:07:29:529   00   16000   04095   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 mem_util=7
+[2026/07/19 06:07:29:658   00   16000   08767   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics cpu_util=
+[2026/07/19 06:07:29:830   00   16000   19828   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 mem_util=45%  
+[2026/07/19 06:07:30:019   00   16000   04718   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0a4eeb9790e7 ip=172.
+[2026/07/19 06:07:40:197   00   16000   06213   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d38571bd67bb ip=192.
+[2026/07/19 06:10:08:197   00   16000   18023   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 06:10:21:657   00   16000   17109   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=BackupAgent cpu_util
+[2026/07/19 06:10:21:813   00   16000   14118   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8799715c354d ip=172.
+[2026/07/19 06:15:21:813   00   16000   18532   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c4eea0affa00 caller=
+[2026/07/19 06:15:23:358   00   16000   17984   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cre
+[2026/07/19 06:15:24:850   00   16000   14477   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 06:15:29:470   00   16000   07433   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3478b799dc63 ip=10.0
+[2026/07/19 06:15:34:020   00   16000   06121   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=/
+[2026/07/19 06:15:37:397   00   16000   18296   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0a5398f4ee3a ip=192.
+[2026/07/19 06:15:50:155   00   16000   16420   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8859134402ea ip=172.
+[2026/07/19 06:17:29:155   00   16000   13087   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=197f00e97c39 ip=192.
+[2026/07/19 06:17:42:529   00   16000   06446   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2dbe99b01160 ip=10.0
+[2026/07/19 06:17:42:930   00   16000   09138   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 06:17:48:207   00   16000   10805   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=1ce7b857a3a3 cpu_uti
+[2026/07/19 06:17:50:359   00   16000   13718   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=80% extra='pmj2p7p'
+[2026/07/19 06:17:50:551   00   16000   16064   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 extra='u9kk'
+[2026/07/19 06:17:50:785   00   16000   18266   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8f9881dafb04 ip=192.
+[2026/07/19 06:17:51:273   00   16000   03895   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 06:17:51:302   00   16000   11719   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=6002a4320a16 caller=
+[2026/07/19 06:17:51:307   00   16000   03707   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=afe28cd8a50a ip=192.
+[2026/07/19 06:17:53:578   00   16000   02655   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=4b9c32353698 ip=192.
+[2026/07/19 06:17:57:040   00   16000   16060   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/a
+[2026/07/19 06:17:57:523   00   16000   08841   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=eaf9e1efcf41 endpoin
+[2026/07/19 06:17:57:729   00   16000   05339   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=57c310f3ed45 ip=192.
+[2026/07/19 06:18:01:790   00   16000   17099   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=74% mem_util=40%  
+[2026/07/19 06:18:04:873   00   16000   17266   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 06:18:05:277   00   16000   08919   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=03afba9fc3c3 ip=192.
+[2026/07/19 06:21:46:277   00   16000   16177   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/sta
+[2026/07/19 06:21:46:612   00   16000   11811   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c23683cc0769 ip=10.0
+[2026/07/19 06:21:47:076   00   16000   19095   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8b7e7eb8b8de ip=192.
+[2026/07/19 06:21:52:037   00   16000   16699   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2f858c3df827        
+[2026/07/19 06:21:53:154   00   16000   05531   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=6cfa0d633a94 ip=10.0
+[2026/07/19 06:21:56:920   00   16000   16633   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=77% mem_util=49%  
+[2026/07/19 06:21:57:314   00   16000   06279   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=4da179b3958e caller=
+[2026/07/19 06:22:12:414   00   16000   05450   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=b6787a4ba701 ip=192.
+[2026/07/19 06:22:15:096   00   16000   05500   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f39eef1d80d3 endpoin
+[2026/07/19 06:22:18:249   00   16000   18576   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=13f4ceb86697 cpu_uti
+[2026/07/19 06:22:33:039   00   16000   02474   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=00eaedb623b442dd  
+[2026/07/19 06:22:33:181   00   16000   13028   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 cpu_util=57
+[2026/07/19 06:24:10:181   00   16000   15626   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=47eccca03222 ip=192.
+[2026/07/19 06:24:13:150   00   16000   10838   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 cpu_util=8
+[2026/07/19 06:25:44:150   00   16000   17426   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=ConfigManager cpu_ut
+[2026/07/19 06:25:45:799   00   16000   18640   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f487bdb385c3 ip=172.
+[2026/07/19 06:25:46:039   00   16000   02506   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore ca
+[2026/07/19 06:25:50:059   00   16000   08065   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=51% extra='yphaj66'
+[2026/07/19 06:25:52:519   00   16000   04173   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=70f16a919be6 ip=10.0
+[2026/07/19 06:40:52:519   00   16000   04442   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=1869bc1da06f ip=10.0
+[2026/07/19 06:40:52:712   00   16000   08519   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 caller=Back
+[2026/07/19 06:41:05:542   00   16000   15383   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=4e1c504aba65 cpu_uti
+[2026/07/19 06:41:09:182   00   16000   18323   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api/
+[2026/07/19 06:41:12:067   00   16000   15672   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=92640a96c5e0 endpoin
+[2026/07/19 06:41:12:489   00   16000   05246   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=fec20d77c00a cpu_uti
+[2026/07/19 06:41:16:895   00   16000   09285   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/a
+[2026/07/19 06:41:22:601   00   16000   16337   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 cpu_util=56
+[2026/07/19 06:41:38:218   00   16000   04733   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=586f55d265fc ip=192
+[2026/07/19 06:41:38:579   00   16000   06842   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=625076b8af8f endpoi
+[2026/07/19 06:41:50:921   00   16000   18029   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d4b8ac37cbb4 ip=192
+[2026/07/19 06:44:35:921   00   16000   11274   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5f2c3de5c197 caller
+[2026/07/19 06:44:38:226   00   16000   12811   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=38% extra='pe7sx8'
+[2026/07/19 06:44:39:757   00   16000   14611   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d0532d85bb70 caller
+[2026/07/19 06:44:39:823   00   16000   09809   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3e5fe4d15df0 ip=192
+[2026/07/19 06:44:51:261   00   16000   05577   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 06:44:52:919   00   16000   02797   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c4644639e0dd ip=192
+[2026/07/19 06:44:57:881   00   16000   09190   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/st
+[2026/07/19 06:45:03:037   00   16000   16232   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 06:45:03:181   00   16000   15957   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e0588023d1c1 endpoi
+[2026/07/19 06:45:03:334   00   16000   13823   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8523e8602f37 ip=192
+[2026/07/19 06:45:18:974   00   16000   03006   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3de1982ec75d ip=10.
+[2026/07/19 06:45:19:368   00   16000   05823   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 06:45:19:669   00   16000   18104   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=4b73b3a3ad4e ip=10.
+[2026/07/19 06:45:24:351   00   16000   14909   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 06:45:29:510   00   16000   14101   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=TomcatAccessFilter 
+[2026/07/19 06:45:35:067   00   16000   05808   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cr
+[2026/07/19 06:45:37:387   00   16000   15213   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 06:45:38:615   00   16000   15642   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/st
+[2026/07/19 06:45:38:740   00   16000   02616   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5b53ef94132b ip=172
+[2026/07/19 06:45:38:825   00   16000   17127   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=0d58914211204f82 
+[2026/07/19 06:45:43:621   00   16000   10334   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=6d6e100822ed ip=10.
+[2026/07/19 06:45:43:916   00   16000   19765   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=17% mem_util=52% 
+[2026/07/19 06:45:44:224   00   16000   10339   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 caller=Config
+[2026/07/19 06:45:56:110   00   16000   12522   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 cpu_util=84% 
+[2026/07/19 06:45:56:425   00   16000   06710   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e8df3d65a41d ip=10.
+[2026/07/19 06:46:00:506   00   16000   03360   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=858f8e4d7948 ip=172
+[2026/07/19 06:46:00:913   00   16000   01798   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e09a8f801ac6 caller
+[2026/07/19 06:46:00:967   00   16000   14791   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=1d5150cd57cf caller
+[2026/07/19 06:46:03:190   00   16000   19531   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 06:46:03:257   00   16000   18093   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=TomcatAccessFilter 
+[2026/07/19 06:46:03:534   00   16000   10482   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=Co
+[2026/07/19 06:46:03:936   00   16000   02401   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper cp
+[2026/07/19 06:46:14:747   00   16000   16380   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=DbConnector cpu_uti
+[2026/07/19 06:46:15:056   00   16000   02955   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=30% extra='1zxwjg'
+[2026/07/19 06:46:15:524   00   16000   18729   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=dd98166991ca ip=172
+[2026/07/19 06:46:17:088   00   16000   05775   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=
+[2026/07/19 06:46:17:392   00   16000   14724   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2f6e97c456c1 endpoi
+[2026/07/19 06:46:20:157   00   16000   10027   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=42% mem_util=48% 
+[2026/07/19 06:46:22:427   00   16000   19743   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 caller=Con
+[2026/07/19 06:46:22:528   00   16000   08655   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2f4d32ebdc2d ip=192
+[2026/07/19 06:46:22:654   00   16000   05669   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore c
+[2026/07/19 06:46:35:052   00   16000   01391   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=08c38fe49fb4 endpoi
+[2026/07/19 06:46:35:453   00   16000   06977   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=dc3edaf339a3 ip=172
+[2026/07/19 06:49:46:453   00   16000   11884   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 extra='qb'
+[2026/07/19 06:49:46:784   00   16000   04261   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=25110d062087 ip=192
+[2026/07/19 06:51:50:784   00   16000   18239   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=9ee5575cd80e endpoi
+[2026/07/19 06:51:52:449   00   16000   09317   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=T
+[2026/07/19 06:51:52:649   00   16000   18484   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d04740a8b0f0 caller
+[2026/07/19 06:51:52:816   00   16000   04135   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=DbC
+[2026/07/19 06:51:57:770   00   16000   10750   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=DbConnector cpu_uti
+[2026/07/19 06:52:00:839   00   16000   02154   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=
+[2026/07/19 06:55:07:839   00   16000   12713   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=B
+[2026/07/19 06:55:07:971   00   16000   03153   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper me
+[2026/07/19 06:55:11:675   00   16000   03642   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore c
+[2026/07/19 06:57:09:675   00   16000   04201   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=51% extra='wd2k0p'
+[2026/07/19 06:57:13:546   00   16000   01190   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=ConfigManager cpu_u
+[2026/07/19 07:00:37:546   00   16000   06866   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8e090ebf3f9d ip=192
+[2026/07/19 07:00:42:625   00   16000   06512   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore c
+[2026/07/19 07:00:42:909   00   16000   19388   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper cp
+[2026/07/19 07:00:42:982   00   16000   19615   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=6fe2439487cc endpoi
+[2026/07/19 07:03:03:982   00   16000   07485   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=Tom
+[2026/07/19 07:03:04:328   00   16000   01979   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cr
+[2026/07/19 07:08:04:328   00   16000   15806   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore m
+[2026/07/19 07:08:04:357   00   16000   08798   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=42071c5ff046 ip=192
+[2026/07/19 07:08:09:406   00   16000   03069   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d8fe09319388 ip=192
+[2026/07/19 07:08:21:649   00   16000   08288   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 07:08:35:878   00   16000   03394   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5b6cb52181c3 ip=10.
+[2026/07/19 07:08:39:176   00   16000   10836   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=930fe3783318       
+[2026/07/19 07:08:39:545   00   16000   08257   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/logi
+[2026/07/19 07:08:39:661   00   16000   09229   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=83% extra='bd27ky'
+[2026/07/19 07:10:02:661   00   16000   04276   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=4afa5ef7c66b ip=192
+[2026/07/19 07:10:05:372   00   16000   09159   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/st
+[2026/07/19 07:10:05:787   00   16000   02051   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2941226ee315 mem_ut
+[2026/07/19 07:10:06:179   00   16000   04361   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics mem_util
+[2026/07/19 07:10:11:731   00   16000   09179   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c7d6b319acfe ip=10.
+[2026/07/19 07:10:11:743   00   16000   11610   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=BackupAgent        
+[2026/07/19 07:10:17:471   00   16000   18883   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2778d8aa1b5a ip=192
+[2026/07/19 07:10:17:871   00   16000   14403   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=24% mem_util=41% 
+[2026/07/19 07:10:30:195   00   16000   04125   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=48% mem_util=75% 
+[2026/07/19 07:10:31:449   00   16000   07633   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a46dc682f10f cpu_ut
+[2026/07/19 07:10:33:018   00   16000   09905   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=6dabed661a48 endpoi
+[2026/07/19 07:10:37:209   00   16000   16245   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=ba7b603f4145 ip=10.
+[2026/07/19 07:20:37:209   00   16000   02555   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=1ef1ee248e75 endpoi
+[2026/07/19 07:20:39:763   00   16000   09904   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=75% mem_util=51% 
+[2026/07/19 07:20:44:205   00   16000   01343   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=94932d8e317e ip=192
+[2026/07/19 07:20:48:609   00   16000   03475   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=facb380b28a7 caller
+[2026/07/19 07:24:42:609   00   16000   02675   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d4bd300807b5 ip=192
+[2026/07/19 07:24:48:274   00   16000   09787   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=7803173dd97b caller
+[2026/07/19 07:26:53:274   00   16000   14850   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=87fc36f33376445b 
+[2026/07/19 07:26:58:393   00   16000   06867   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api
+[2026/07/19 07:26:58:511   00   16000   08362   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 07:27:00:477   00   16000   07097   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=Tom
+[2026/07/19 07:27:10:725   00   16000   15523   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f46afeeb6e02 endpoi
+[2026/07/19 07:27:24:851   00   16000   10556   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 caller=Tomcat
+[2026/07/19 07:27:25:082   00   16000   06666   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c323a1050653 endpoi
+[2026/07/19 07:27:25:235   00   16000   03449   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f137eb99616e ip=192
+[2026/07/19 07:27:25:724   00   16000   01421   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a84faae5e70f ip=10.
+[2026/07/19 07:27:27:737   00   16000   08258   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=TomcatAccessFilter 
+[2026/07/19 07:29:45:737   00   16000   04516   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0261ddf786c8       
+[2026/07/19 07:29:59:352   00   16000   17392   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=We
+[2026/07/19 07:31:48:352   00   16000   15979   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=86% extra='q4jmxo'
+[2026/07/19 07:31:51:214   00   16000   01673   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8a4edde2bf3d ip=10.
+[2026/07/19 07:32:02:900   00   16000   08470   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/logi
+[2026/07/19 07:32:03:123   00   16000   09041   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 cpu_util=
+[2026/07/19 07:32:06:571   00   16000   14242   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=726e4d3a1c5b caller
+[2026/07/19 07:32:19:723   00   16000   13848   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=52% extra='q5rvn0'
+[2026/07/19 07:32:20:073   00   16000   08445   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 07:32:34:683   00   16000   15604   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=Bac
+[2026/07/19 07:32:36:167   00   16000   18714   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 cpu_util=
+[2026/07/19 07:32:36:580   00   16000   04340   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api
+[2026/07/19 07:32:39:756   00   16000   07262   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 extra='x2j'
+[2026/07/19 07:32:39:960   00   16000   07706   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/logi
+[2026/07/19 07:32:43:740   00   16000   13929   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=22d5457f4297 ip=192
+[2026/07/19 07:32:48:461   00   16000   12499   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore c
+[2026/07/19 07:32:53:711   00   16000   15339   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=26% extra='jdmhw7'
+[2026/07/19 07:32:55:038   00   16000   11197   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore m
+[2026/07/19 07:32:55:473   00   16000   10700   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e22a5ed36684 ip=192
+[2026/07/19 07:32:55:549   00   16000   04362   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=Bac
+[2026/07/19 07:35:08:549   00   16000   15834   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=42% mem_util=88% 
+[2026/07/19 07:35:08:625   00   16000   05365   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=86fe92f76f9c endpoi
+[2026/07/19 07:35:13:907   00   16000   14155   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d0fc2a9fa923 ip=192
+[2026/07/19 07:35:14:113   00   16000   11469   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 extra='66l'
+[2026/07/19 07:35:14:484   00   16000   11007   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=44% mem_util=38% 
+[2026/07/19 07:35:14:604   00   16000   11285   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8a9cf50fa728 caller
+[2026/07/19 07:36:24:604   00   16000   05145   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore c
+[2026/07/19 07:36:37:448   00   16000   05154   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=766b6a8343e2 ip=10.
+[2026/07/19 07:36:38:809   00   16000   14557   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=950c8bfbc7eb caller
+[2026/07/19 07:36:39:300   00   16000   16148   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=44d6a2023a7c endpoi
+[2026/07/19 07:36:53:078   00   16000   01874   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c7c3d6c635b9 ip=172
+[2026/07/19 07:36:55:181   00   16000   01125   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 caller=Web
+[2026/07/19 07:40:34:181   00   16000   08407   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/logi
+[2026/07/19 07:40:34:530   00   16000   13404   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/st
+[2026/07/19 07:40:37:128   00   16000   13804   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=DbConnector cpu_uti
+[2026/07/19 07:40:40:728   00   16000   15986   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 cpu_util=8
+[2026/07/19 07:40:52:474   00   16000   12295   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 extra='b2cbd8'
+[2026/07/19 07:41:08:112   00   16000   11388   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api
+[2026/07/19 07:41:22:417   00   16000   01103   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=
+[2026/07/19 07:41:28:229   00   16000   04355   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=
+[2026/07/19 07:41:32:485   00   16000   04543   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=986988e7631e endpoi
+[2026/07/19 07:41:38:227   00   16000   18011   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=abe31d03dcf5 endpoi
+[2026/07/19 07:41:43:796   00   16000   19621   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper cp
+[2026/07/19 07:41:47:765   00   16000   08162   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=372491aade84       
+[2026/07/19 07:41:51:070   00   16000   18086   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=To
+[2026/07/19 07:41:53:731   00   16000   10356   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=BackupAgent cpu_uti
+[2026/07/19 07:42:08:185   00   16000   09614   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=db54ffe7f7d1 ip=192
+[2026/07/19 07:42:08:246   00   16000   10205   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8ff36ae689d9 ip=10.
+[2026/07/19 07:42:13:883   00   16000   14169   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 cpu_util=1
+[2026/07/19 07:42:14:242   00   16000   09680   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=85158c201f2b ip=172
+[2026/07/19 07:42:14:427   00   16000   10583   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 07:42:14:876   00   16000   13034   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 07:42:15:255   00   16000   11474   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=165733c09965 ip=192
+[2026/07/19 07:42:20:810   00   16000   12828   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 07:42:21:267   00   16000   06031   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api
+[2026/07/19 07:45:06:267   00   16000   07248   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=096d9220c997 ip=192
+[2026/07/19 07:48:54:267   00   16000   17431   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=89dec2dbb417 caller
+[2026/07/19 07:48:54:353   00   16000   17162   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=BackupAgent mem_uti
+[2026/07/19 07:51:50:353   00   16000   06758   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/logi
+[2026/07/19 07:51:50:410   00   16000   08738   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=DbC
+[2026/07/19 07:51:50:597   00   16000   03550   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f8199d22be1d ip=192
+[2026/07/19 07:51:55:477   00   16000   08888   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d920c66468c6 ip=192
+[2026/07/19 07:54:53:477   00   16000   05479   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cr
+[2026/07/19 07:54:53:882   00   16000   16898   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cr
+[2026/07/19 07:54:58:785   00   16000   10257   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=449d3f1c5f36       
+[2026/07/19 07:56:33:785   00   16000   04333   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=TomcatAccessFilter 
+[2026/07/19 07:56:44:748   00   16000   18312   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=382ca9b32e71 ip=192
+[2026/07/19 07:56:56:653   00   16000   14571   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=62135f57ab66 ip=172
+[2026/07/19 07:56:59:471   00   16000   12854   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=fb1180110782 ip=172
+[2026/07/19 07:57:01:647   00   16000   14966   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=98357dac1ac8 caller
+[2026/07/19 07:57:12:616   00   16000   09736   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api
+[2026/07/19 07:57:24:962   00   16000   06240   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/st
+[2026/07/19 07:57:25:336   00   16000   18164   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=20% extra='j6v61z'
+[2026/07/19 07:58:35:336   00   16000   06541   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=37755263eef3 ip=172
+[2026/07/19 07:58:35:777   00   16000   05147   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0dbcb5a6d409 ip=10.
+[2026/07/19 07:58:49:545   00   16000   14714   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0a8ca2bdf637 cpu_ut
+[2026/07/19 07:58:51:605   00   16000   05529   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=Db
+[2026/07/19 07:58:57:477   00   16000   07666   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=821f93ee20ab       
+[2026/07/19 07:58:57:977   00   16000   17620   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=468bfcc54d4a endpoi
+[2026/07/19 07:59:09:597   00   16000   01344   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=89aa2f018944 ip=10.
+[2026/07/19 07:59:11:303   00   16000   12405   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 08:02:08:303   00   16000   15489   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=875b49176f1a ip=172
+[2026/07/19 08:02:10:581   00   16000   02848   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0f64a63f5755 mem_ut
+[2026/07/19 08:02:15:257   00   16000   19429   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=41c407c3aa04 ip=192
+[2026/07/19 08:02:20:624   00   16000   18538   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=ccb01b6087ff endpoi
+[2026/07/19 08:02:25:004   00   16000   15355   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 cpu_util=32% 
+[2026/07/19 08:02:25:086   00   16000   11401   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=
+[2026/07/19 08:02:29:690   00   16000   19739   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 08:04:47:690   00   16000   08694   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=Co
+[2026/07/19 08:04:47:873   00   16000   11861   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=b582c10ef52a ip=192
+[2026/07/19 08:04:50:699   00   16000   18785   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 caller=Tomcat
+[2026/07/19 08:04:53:670   00   16000   08446   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d16f06326869 ip=172
+[2026/07/19 08:04:53:814   00   16000   11204   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api
+[2026/07/19 08:06:44:814   00   16000   17586   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 cpu_util=
+[2026/07/19 08:06:48:813   00   16000   05725   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=7ae56851d976       
+[2026/07/19 08:06:49:152   00   16000   18939   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore c
+[2026/07/19 08:06:51:689   00   16000   06766   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d20565f82c9e caller
+[2026/07/19 08:06:51:787   00   16000   15052   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=57% extra='7h8j1k'
+[2026/07/19 08:06:52:250   00   16000   10106   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 08:06:57:217   00   16000   12993   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 08:06:59:658   00   16000   16895   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=03238ffc03ad ip=192
+[2026/07/19 08:07:02:519   00   16000   14158   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3cf89312905e cpu_ut
+[2026/07/19 08:07:02:725   00   16000   02356   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=DbConnector cpu_uti
+[2026/07/19 08:07:03:854   00   16000   18851   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/logi
+[2026/07/19 08:07:04:215   00   16000   08432   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d8350bf6f364 caller
+[2026/07/19 08:07:08:064   00   16000   18071   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 08:07:08:440   00   16000   05003   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=85b62991ada0 ip=192
+[2026/07/19 08:09:23:440   00   16000   04977   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=abc744b1287f ip=192
+[2026/07/19 08:12:21:440   00   16000   19588   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=37a6c44f480d ip=192
+[2026/07/19 08:12:23:900   00   16000   15597   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 08:12:34:011   00   16000   15064   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=To
+[2026/07/19 08:12:34:479   00   16000   03679   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/st
+[2026/07/19 08:12:34:770   00   16000   18489   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=To
+[2026/07/19 08:12:34:896   00   16000   18546   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c7d61579e37e ip=172
+[2026/07/19 08:12:40:050   00   16000   17824   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/st
+[2026/07/19 08:12:40:166   00   16000   08892   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=10e82e2a2add endpoi
+[2026/07/19 08:12:40:332   00   16000   12266   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/st
+[2026/07/19 08:12:54:476   00   16000   07867   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=237319605bb4 endpoi
+[2026/07/19 08:12:54:604   00   16000   16359   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cr
+[2026/07/19 08:13:08:901   00   16000   03693   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 extra='6evwee'
+[2026/07/19 08:16:13:901   00   16000   07146   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=BackupAgent mem_uti
+[2026/07/19 08:16:18:848   00   16000   13878   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=C
+[2026/07/19 08:16:20:604   00   16000   05903   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8d1b0369b9cf ip=192
+[2026/07/19 08:16:20:790   00   16000   18152   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=37% extra='z9fhcf'
+[2026/07/19 08:16:21:158   00   16000   04011   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=28df76a8f5bf4d1e 
+[2026/07/19 08:25:21:158   00   16000   02165   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=38221fdc88f5 endpoi
+[2026/07/19 08:25:21:634   00   16000   16742   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c94ee45bd4f0 caller
+[2026/07/19 08:25:26:194   00   16000   12915   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=29003890ce3d ip=172
+[2026/07/19 08:25:28:995   00   16000   06761   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=TomcatAccessFilter 
+[2026/07/19 08:25:42:243   00   16000   09645   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2f00930b4374 ip=192
+[2026/07/19 08:25:42:522   00   16000   14495   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d4acedbe45f0 caller
+[2026/07/19 08:27:07:522   00   16000   06571   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=9afb4a508873 caller
+[2026/07/19 08:27:07:605   00   16000   15130   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=Tom
+[2026/07/19 08:27:07:791   00   16000   18938   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=36e4153805fd caller
+[2026/07/19 08:30:01:791   00   16000   11866   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 08:30:06:048   00   16000   04922   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8e1f6fbf9086 endpoi
+[2026/07/19 08:33:28:048   00   16000   18898   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e526a11ba10f ip=172
+[2026/07/19 08:33:29:924   00   16000   14356   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=6c5e599a8a4c ip=172
+[2026/07/19 08:33:31:139   00   16000   02804   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=4d65ac353958 ip=172
+[2026/07/19 08:33:36:577   00   16000   01524   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=21b4854008b14765 
+[2026/07/19 08:33:36:861   00   16000   03988   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5b7269e89923 mem_ut
+[2026/07/19 08:33:41:228   00   16000   15620   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 cpu_util=1
+[2026/07/19 08:33:41:377   00   16000   02872   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=45% mem_util=51% 
+[2026/07/19 08:33:41:843   00   16000   11363   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=
+[2026/07/19 08:35:34:843   00   16000   11854   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2709063daca9 endpoi
+[2026/07/19 08:35:45:200   00   16000   06993   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 cpu_util=5
+[2026/07/19 08:35:45:683   00   16000   10287   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 08:35:57:127   00   16000   15983   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2ff002436cdc caller
+[2026/07/19 08:36:02:401   00   16000   12621   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=48% extra='aadnct'
+[2026/07/19 08:36:07:005   00   16000   04705   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 cpu_util=4
+[2026/07/19 08:36:07:410   00   16000   11209   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f156128331fb ip=192
+[2026/07/19 08:36:23:325   00   16000   08097   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/logi
+[2026/07/19 08:36:37:494   00   16000   08284   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=524503f9396a caller
+[2026/07/19 08:36:41:863   00   16000   11631   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d648f0472198 ip=10.
+[2026/07/19 08:36:44:048   00   16000   08986   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a91cd53d9c3e ip=192
+[2026/07/19 08:36:58:024   00   16000   07837   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 caller=DbC
+[2026/07/19 08:36:58:353   00   16000   07294   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d4c2f3498895 endpoi
+[2026/07/19 08:37:02:539   00   16000   03510   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f1dd1019606c caller
+[2026/07/19 08:38:05:539   00   16000   01609   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=754a9e65ee9f caller
+[2026/07/19 08:38:07:595   00   16000   09106   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/st
+[2026/07/19 08:38:19:298   00   16000   03262   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=898da8d4749d endpoi
+[2026/07/19 08:38:20:416   00   16000   03220   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a664f64f2cb8 caller
+[2026/07/19 08:38:24:744   00   16000   06751   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=4dd413e539a94d6f 
+[2026/07/19 08:38:34:766   00   16000   08419   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=DbConnector        
+[2026/07/19 08:38:39:935   00   16000   06945   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=69af9d33fb87 endpoi
+[2026/07/19 08:38:40:209   00   16000   08733   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/met
+[2026/07/19 08:38:41:283   00   16000   04601   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 08:41:26:283   00   16000   11823   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=74613510a4df ip=192
+[2026/07/19 08:41:37:485   00   16000   06353   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=33475fee9038 ip=192
+[2026/07/19 08:41:42:465   00   16000   14951   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2348322d8a76 ip=172
+[2026/07/19 08:41:42:522   00   16000   05283   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=54184ea43496 ip=172
+[2026/07/19 08:41:42:936   00   16000   18830   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a0c5ee656b59 ip=10.
+[2026/07/19 08:41:47:047   00   16000   06338   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=34% extra='4rclp0'
+[2026/07/19 08:42:00:560   00   16000   01915   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c86591c543e2 ip=192
+[2026/07/19 08:42:00:792   00   16000   08333   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0164465193ed ip=192
+[2026/07/19 08:42:06:268   00   16000   18815   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 08:42:06:308   00   16000   04093   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3842d1f7590c endpoi
+[2026/07/19 08:42:06:332   00   16000   15808   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/logi
+[2026/07/19 08:42:06:341   00   16000   14432   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=55d4a4fa961c ip=10.
+[2026/07/19 08:42:19:655   00   16000   06663   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a16600e64be4 endpoi
+[2026/07/19 08:42:20:116   00   16000   17758   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=cc0d56f34ef5 caller
+[2026/07/19 08:42:34:691   00   16000   19626   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/st
+[2026/07/19 08:42:39:300   00   16000   12408   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 cpu_util=2
+[2026/07/19 08:42:39:713   00   16000   18016   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=2924ddc28916 caller
+[2026/07/19 08:42:55:188   00   16000   05323   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=cb02a333e245 cpu_ut
+[2026/07/19 08:42:55:356   00   16000   16253   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=15e730881bc6 ip=192
+[2026/07/19 08:43:00:275   00   16000   01319   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 08:43:00:720   00   16000   07653   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=C
+[2026/07/19 08:45:11:720   00   16000   09336   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=dc20555e9812 ip=192
+[2026/07/19 08:45:15:105   00   16000   18255   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=T
+[2026/07/19 08:45:15:221   00   16000   14059   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/logi
+[2026/07/19 08:45:28:271   00   16000   11662   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=ConfigManager mem_u
+[2026/07/19 08:47:40:271   00   16000   05676   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c4fe432570a1 ip=10.
+[2026/07/19 08:47:40:613   00   16000   06611   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a2b2a13536a6 caller
+[2026/07/19 08:47:52:455   00   16000   10919   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=7de02c00cbeb caller
+[2026/07/19 08:47:52:944   00   16000   07865   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=de1cdf7dc4ac ip=192
+[2026/07/19 08:47:55:524   00   16000   03929   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=
+[2026/07/19 08:47:55:759   00   16000   16934   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 extra='1m2'
+[2026/07/19 08:48:07:215   00   16000   09520   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore c
+[2026/07/19 08:48:07:458   00   16000   09952   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 09:01:07:458   00   16000   05221   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 mem_util=5
+[2026/07/19 09:01:12:809   00   16000   01445   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=8c4e972e3117 ip=192
+[2026/07/19 09:01:25:895   00   16000   10558   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f605ce40e2ae ip=192
+[2026/07/19 09:14:25:895   00   16000   17838   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3317c0d40257 caller
+[2026/07/19 09:14:31:255   00   16000   10325   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5f5bb5fbae2d endpoi
+[2026/07/19 09:22:31:255   00   16000   05212   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/st
+[2026/07/19 09:22:45:879   00   16000   16622   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=19077fc1d7eb endpoi
+[2026/07/19 09:22:48:865   00   16000   09049   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=13f0e7481870 caller
+[2026/07/19 09:22:49:280   00   16000   09767   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=33% extra='hp1la7'
+[2026/07/19 09:34:49:280   00   16000   04477   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=af5eb15f5b9e ip=10.
+[2026/07/19 09:34:50:775   00   16000   04443   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 09:34:52:528   00   16000   02308   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=fcb306079ff5 ip=172
+[2026/07/19 09:35:04:249   00   16000   09042   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=
+[2026/07/19 09:35:04:711   00   16000   08788   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=60ca243c1f87 endpoi
+[2026/07/19 09:35:16:509   00   16000   17874   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/st
+[2026/07/19 09:35:16:991   00   16000   06386   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 caller=Tomcat
+[2026/07/19 09:35:17:359   00   16000   11098   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=13372fe276d34911 
+[2026/07/19 09:35:17:443   00   16000   08185   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=c9c62b175fd5 ip=192
+[2026/07/19 09:35:17:771   00   16000   14547   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=
+[2026/07/19 09:48:17:771   00   16000   02152   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cr
+[2026/07/19 09:48:18:186   00   16000   17062   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=45668f3beffb endpoi
+[2026/07/19 09:48:18:550   00   16000   14917   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=DbC
+[2026/07/19 09:48:21:781   00   16000   11382   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=56aace1ec002 ip=192
+[2026/07/19 09:51:51:781   00   16000   06227   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=Con
+[2026/07/19 09:51:55:120   00   16000   11690   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=1c4e3f80586b ip=10.
+[2026/07/19 09:54:52:120   00   16000   02045   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0cfa43230a99 endpoi
+[2026/07/19 09:54:52:593   00   16000   13442   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d0ffb436c1f4 caller
+[2026/07/19 09:56:50:593   00   16000   17939   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 09:56:50:751   00   16000   02501   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5af6d5df97ea ip=192
+[2026/07/19 09:56:51:137   00   16000   15211   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a0f2f73efc9b ip=192
+[2026/07/19 09:56:52:870   00   16000   11896   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api
+[2026/07/19 09:56:53:100   00   16000   06913   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e44ea8ab7fc4 ip=192
+[2026/07/19 09:56:53:218   00   16000   15956   0X00000000] BackupEngine::DbBackup: Starting checkpoint save   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=
+[2026/07/19 09:57:05:055   00   16000   18153   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=DbConnector cpu_uti
+[2026/07/19 10:00:46:055   00   16000   13169   0X00000000] BackupEngine::DbBackup: DB block metadata verified   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a87332f1c0ee ip=10.
+[2026/07/19 10:00:46:222   00   16000   06967   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f98ea6713e50 cpu_ut
+[2026/07/19 10:02:50:222   00   16000   02892   0X00000000] BackupEngine::DbBackup: Flushed transaction log buffer   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 caller=Tom
+[2026/07/19 10:02:50:385   00   16000   06912   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=53aec923c3f2 ip=172
+[2026/07/19 10:02:54:236   00   16000   17861   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f5aa326e64c8       
+[2026/07/19 10:02:57:662   00   16000   13869   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=TomcatAccessFilter 
+[2026/07/19 10:02:57:886   00   16000   01335   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5cef0acbf187 ip=10.
+[2026/07/19 10:03:00:234   00   16000   17489   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 cpu_util=66% 
+[2026/07/19 10:03:00:346   00   16000   11087   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 mem_util=
+[2026/07/19 10:14:00:346   00   16000   18202   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=678d79005971 ip=192
+[2026/07/19 10:14:02:030   00   16000   19729   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=4ffe9c8b7079 cpu_ut
+[2026/07/19 10:16:55:030   00   16000   10730   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=abf03b40ef53 cpu_ut
+[2026/07/19 10:17:06:831   00   16000   12701   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=TomcatAccessFilter 
+[2026/07/19 10:18:18:831   00   16000   09179   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=fb175ec772a3 endpoi
+[2026/07/19 10:18:19:089   00   16000   19693   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 10:28:19:089   00   16000   17703   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f8763f4dce55 ip=192
+[2026/07/19 10:31:44:089   00   16000   03415   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=54fa6d8e37f8 ip=192
+[2026/07/19 10:31:44:219   00   16000   08716   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=
+[2026/07/19 10:31:44:331   00   16000   19659   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=d5d696b2108e       
+[2026/07/19 10:31:59:426   00   16000   16096   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=014223b42c05 endpoi
+[2026/07/19 10:31:59:770   00   16000   13747   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f9ee39645196 ip=192
+[2026/07/19 10:31:59:919   00   16000   06099   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 10:32:15:107   00   16000   02134   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 mem_util=6
+[2026/07/19 10:32:20:860   00   16000   02422   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics cpu_util
+[2026/07/19 10:35:52:860   00   16000   14212   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=41% extra='coyja8'
+[2026/07/19 10:35:58:592   00   16000   11990   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 cpu_util=
+[2026/07/19 10:36:02:652   00   16000   19828   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 caller=Bac
+[2026/07/19 10:36:02:796   00   16000   16192   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api
+[2026/07/19 10:36:04:538   00   16000   19146   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0c0d74fac423       
+[2026/07/19 10:36:18:947   00   16000   15439   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/met
+[2026/07/19 10:36:19:362   00   16000   02600   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e17e430531e3 endpoi
+[2026/07/19 10:36:23:935   00   16000   02201   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api
+[2026/07/19 10:36:36:780   00   16000   03479   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=b468a022d582 ip=192
+[2026/07/19 10:36:38:118   00   16000   03051   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=53d4b47ad45a endpoi
+[2026/07/19 10:36:41:204   00   16000   15637   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=BackupAgent mem_uti
+[2026/07/19 10:39:05:204   00   16000   09767   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/metrics caller=B
+[2026/07/19 10:41:19:204   00   16000   15632   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=7b2455358af6 ip=172
+[2026/07/19 10:41:19:292   00   16000   14480   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=Ba
+[2026/07/19 10:41:32:549   00   16000   17813   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api
+[2026/07/19 10:41:45:892   00   16000   17566   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 10:41:46:236   00   16000   08069   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 10:45:33:236   00   16000   14082   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 caller=Bac
+[2026/07/19 10:45:35:339   00   16000   02328   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=21% mem_util=40% 
+[2026/07/19 10:45:35:610   00   16000   02217   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper cp
+[2026/07/19 10:48:15:610   00   16000   09467   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 10:48:15:935   00   16000   11605   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=17e0fc3bf484 ip=192
+[2026/07/19 10:48:16:148   00   16000   03214   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api
+[2026/07/19 10:48:29:969   00   16000   03902   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e2e9f71f42ad ip=10.
+[2026/07/19 10:48:35:241   00   16000   07958   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a330c3ccce7a       
+[2026/07/19 10:48:36:880   00   16000   02853   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=bcccadd9565d4014 
+[2026/07/19 10:48:37:151   00   16000   03087   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=ca48c3f9c390 ip=192
+[2026/07/19 10:48:37:530   00   16000   13131   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a667d830ea2c caller
+[2026/07/19 10:51:01:530   00   16000   12060   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 10:51:06:802   00   16000   15813   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f7b49f736834 caller
+[2026/07/19 10:51:07:248   00   16000   17525   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=9cf7aeca32c3 ip=192
+[2026/07/19 10:51:08:377   00   16000   18672   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=700bf699428b caller
+[2026/07/19 10:51:10:047   00   16000   15318   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore c
+[2026/07/19 10:51:24:989   00   16000   03120   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore  
+[2026/07/19 10:53:19:989   00   16000   12106   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 10:53:34:360   00   16000   15530   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=cb00ca311113 ip=192
+[2026/07/19 10:53:48:982   00   16000   19994   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f9d89a0fa8fe endpoi
+[2026/07/19 10:53:50:404   00   16000   06078   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=50% extra='rnt7ks'
+[2026/07/19 10:54:03:833   00   16000   19293   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 10:54:05:907   00   16000   03770   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=5c9ba1277747 ip=192
+[2026/07/19 10:54:06:113   00   16000   02285   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 10:54:20:362   00   16000   19989   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=f33a6f8fb5e7 ip=192
+[2026/07/19 10:54:33:757   00   16000   09799   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=28b8040c4570 caller
+[2026/07/19 10:54:35:067   00   16000   11866   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=dcc7c0b7d426 endpoi
+[2026/07/19 11:06:35:067   00   16000   19106   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=3c3def851eac caller
+[2026/07/19 11:06:35:308   00   16000   06409   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e06fd9103294 endpoi
+[2026/07/19 11:06:35:430   00   16000   15172   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=
+[2026/07/19 11:06:39:619   00   16000   12090   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=eae99352c3a4 cpu_ut
+[2026/07/19 11:06:41:798   00   16000   19523   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=48def5a4951f ip=192
+[2026/07/19 11:06:42:215   00   16000   10089   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore c
+[2026/07/19 11:06:42:489   00   16000   08965   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=0596343f4536 ip=10.
+[2026/07/19 11:06:53:749   00   16000   13879   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/backup/cr
+[2026/07/19 11:06:53:830   00   16000   08021   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 caller=Con
+[2026/07/19 11:06:53:956   00   16000   12080   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | cpu_util=73% extra='twmh2u'
+[2026/07/19 11:07:05:630   00   16000   12819   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/auth/logi
+[2026/07/19 11:07:05:863   00   16000   03095   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=11eb0eedfe26 endpoi
+[2026/07/19 11:09:34:863   00   16000   10792   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | caller=WebServiceHelper me
+[2026/07/19 11:09:35:105   00   16000   01559   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/met
+[2026/07/19 11:09:49:111   00   16000   09164   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=bb3f0021c9c7 mem_ut
+[2026/07/19 11:09:49:477   00   16000   07971   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=53a53f8a789e caller
+[2026/07/19 11:09:53:547   00   16000   10584   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e8311ca84894 ip=10.
+[2026/07/19 11:09:53:979   00   16000   14195   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=e68888c90892 endpoi
+[2026/07/19 11:10:08:573   00   16000   06301   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=37120c46a139 ip=192
+[2026/07/19 11:10:11:159   00   16000   13900   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=831a58f3703d endpoi
+[2026/07/19 11:10:15:327   00   16000   07542   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=172.16.254.1 endpoint=/
+[2026/07/19 11:10:15:533   00   16000   15114   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v2/restore c
+[2026/07/19 11:10:29:629   00   16000   07557   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | trace_id=5247893050a5445e 
+[2026/07/19 11:10:33:576   00   16000   18212   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.1.50 endpoint=/
+[2026/07/19 11:10:33:597   00   16000   03637   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 caller=We
+[2026/07/19 11:10:33:677   00   16000   15833   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | mem_util=79% extra='0op6d3'
+[2026/07/19 11:10:47:376   00   16000   01475   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | endpoint=/api/v1/system/st
+[2026/07/19 11:10:49:945   00   16000   08365   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=04eb8d3d5550 endpoi
+[2026/07/19 11:11:03:917   00   16000   11641   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=6e19e251ab55 mem_ut
+[2026/07/19 11:11:04:093   00   16000   14095   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=a65c30de86e8 ip=192
+[2026/07/19 11:11:08:140   00   16000   10582   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | req_id=be3d5bb2ae7d endpoi
+[2026/07/19 11:11:12:599   00   16000   15231   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 caller=WebSer
+[2026/07/19 11:11:16:323   00   16000   11942   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 endpoint=
+[2026/07/19 11:11:16:419   00   16000   18280   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=192.168.2.115 cpu_util=
+[2026/07/19 11:11:16:901   00   16000   16490   0X00000001] BackupEngine::DbBackup: Block serialization aborted due to out-of-disk condition. EC=112   {BackupEngine.exe::DbBackup.dll(2.0.0)} | ip=10.0.0.12 endpoint=/api

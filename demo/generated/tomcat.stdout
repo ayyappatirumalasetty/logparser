@@ -1,0 +1,1060 @@
+2026-07-19T01:09:00,000 (TomcatPool) exec-10292 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 endpoint=/api/v1/auth/login extra='x8zdkrr2ggdgwwsyni'
+2026-07-19T01:09:00,372 (TomcatPool) exec-01863 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 caller=ConfigManager extra='b999ez800iy66idntapvlgba6'
+2026-07-19T01:09:00,500 (TomcatPool) exec-07571 [INFO] []In the method loadPropertiesFile | req_id=617dbcfad63b ip=192.168.2.115 cpu_util=85% mem_util=39%       
+2026-07-19T01:09:02,864 (TomcatPool) exec-13526 [INFO] []In the method loadPropertiesFile | ip=192.168.2.115 mem_util=43% extra='wi0452cwpmr4x5ng0qpa54zehxof1ajd'
+2026-07-19T01:09:03,230 (TomcatPool) exec-02474 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 caller=BackupAgent mem_util=43% extra='h71oae017ddl9p'
+2026-07-19T01:09:09,080 (TomcatPool) exec-19913 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.2.115 cpu_util=37% extra='0z8g8wxvu9wf7weiuol2urd68lf8me0q'
+2026-07-19T01:09:09,362 (TomcatPool) exec-07999 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=WebServiceHelper extra='r7o1m18hdoceqjije5ky6tham20f5fp86ul93q'
+2026-07-19T01:09:09,670 (TomcatPool) exec-12054 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/system/status caller=WebServiceHelper extra='2itssby'
+2026-07-19T01:09:09,706 (TomcatPool) exec-06168 [INFO] []In the method loadPropertiesFile | req_id=e82be498cd57 ip=10.0.0.12 endpoint=/api/v1/system/status      
+2026-07-19T01:09:12,014 (TomcatPool) exec-19036 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/backup/create cpu_util=25% extra='n4j3s1e7nqr06fw429'
+2026-07-19T01:09:12,110 (TomcatPool) exec-18061 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=8c1c59e70106 ip=192.168.1.50 cpu_util=36% mem_util=46%        
+2026-07-19T01:11:28,110 (TomcatPool) exec-17704 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 cpu_util=11% mem_util=69% extra='yazunqocn6a54nuhdp3y'
+2026-07-19T01:11:31,233 (TomcatPool) exec-01783 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 caller=TomcatAccessFilter cpu_util=48% mem_util=86%  
+2026-07-19T01:13:26,233 (TomcatPool) exec-11249 [INFO] []In the method loadPropertiesFile | endpoint=/api/v2/restore caller=TomcatAccessFilter cpu_util=83% mem_u
+2026-07-19T01:13:26,583 (TomcatPool) exec-13312 [INFO] []In the method loadPropertiesFile | req_id=78961f60a6c3 endpoint=/api/v1/auth/login mem_util=80% extra='2'
+2026-07-19T01:16:33,583 (TomcatPool) exec-12560 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=WebServiceHelper mem_util=59% extra='nv1fwm6sdvj62xlf7aqhxile7'
+2026-07-19T01:16:35,399 (TomcatPool) exec-13050 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=03cb888309dd endpoint=/api/v1/auth/login caller=DbConnector me
+2026-07-19T01:16:35,791 (TomcatPool) exec-03870 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/system/status caller=TomcatAccessFilter extra='qyjwd'
+2026-07-19T01:16:35,857 (TomcatPool) exec-08213 [INFO] []In the method loadPropertiesFile | req_id=39264325a1eb endpoint=/api/v1/system/status extra='mli80ad54rt'
+2026-07-19T01:16:37,913 (TomcatPool) exec-14614 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=0d5ffa1990df mem_util=79% extra='b53yc5iphalmmsm514f6mkyz6m4i5'
+2026-07-19T01:16:41,658 (TomcatPool) exec-06848 [INFO] []in method: generateLicensseDetailsData | req_id=df8f564996a3 extra='rctlv8hw65e42rusu4xj3acn0oft4xqmtro9rrmew3'
+2026-07-19T01:16:41,794 (TomcatPool) exec-18296 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=abb52f93d23e ip=10.0.0.12 cpu_util=23% mem_util=48% extra='ht0'
+2026-07-19T01:16:42,174 (TomcatPool) exec-12785 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | trace_id=ad9af815f26e4768 extra='2lxsqx7wxwo8zs9x0xmt7wr6oxqb2jvuvtjh'
+2026-07-19T01:16:46,291 (TomcatPool) exec-05113 [INFO] []in method: generateLicensseDetailsData | req_id=e6715985f81f ip=172.16.254.1 endpoint=/api/v1/backup/create   
+2026-07-19T01:18:03,291 (TomcatPool) exec-15917 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=d5f2849ae463 ip=10.0.0.12 endpoint=/api/v2/restore caller=DbCo
+2026-07-19T01:21:41,291 (TomcatPool) exec-11581 [INFO] []In the method loadPropertiesFile | endpoint=/api/v2/restore caller=WebServiceHelper cpu_util=19% mem_uti
+2026-07-19T01:21:41,682 (TomcatPool) exec-10299 [INFO] []in method: generateLicensseDetailsData | caller=TomcatAccessFilter extra='d2m395hsnq56yq2ot461x4m3sixk1dijrjtg'
+2026-07-19T01:21:47,570 (TomcatPool) exec-04963 [INFO] []In the method loadPropertiesFile | endpoint=/api/v1/backup/create cpu_util=77% mem_util=71% extra='moeog'
+2026-07-19T01:25:29,570 (TomcatPool) exec-08570 [INFO] []In the method loadPropertiesFile | endpoint=/api/v2/restore caller=TomcatAccessFilter mem_util=31%      
+2026-07-19T01:25:33,846 (TomcatPool) exec-16923 [INFO] []in method: generateLicensseDetailsData | req_id=f8ce729b8081 ip=192.168.1.50 endpoint=/api/v2/restore cpu_util
+2026-07-19T01:33:33,846 (TomcatPool) exec-14707 [INFO] []In the method loadPropertiesFile | req_id=f739ce5a646d endpoint=/api/v1/backup/create caller=TomcatAcces
+2026-07-19T01:33:44,833 (TomcatPool) exec-03433 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=fe772e815515 ip=192.168.1.50 endpoint=/api/v2/restore mem_util
+2026-07-19T01:33:45,010 (TomcatPool) exec-03005 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=6cd0cc588e9f cpu_util=61% mem_util=57% extra='piicm39e0h0ploiz'
+2026-07-19T01:33:45,333 (TomcatPool) exec-15107 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 endpoint=/metrics cpu_util=48% extra='k40ped30esi92hv'
+2026-07-19T01:33:50,327 (TomcatPool) exec-19804 [INFO] []in method: generateLicensseDetailsData | caller=WebServiceHelper cpu_util=55% extra='9izl1pljn9ja31eze2zzfxpck'
+2026-07-19T01:37:01,327 (TomcatPool) exec-02928 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=e2a128e3e577 endpoint=/api/v1/backup/create mem_util=83%      
+2026-07-19T01:37:01,568 (TomcatPool) exec-12390 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=4cd79b446389 ip=10.0.0.12 endpoint=/api/v1/auth/login caller=W
+2026-07-19T01:40:38,568 (TomcatPool) exec-01677 [INFO] []In the method loadPropertiesFile | req_id=3ae10e3c31fd cpu_util=63% mem_util=46% extra='55ifylle0rjkb0fn'
+2026-07-19T01:40:38,749 (TomcatPool) exec-08913 [INFO] []in method: generateLicensseDetailsData | caller=DbConnector cpu_util=37% mem_util=62% extra='rbun5khm8x5yhdwtl'
+2026-07-19T01:40:38,989 (TomcatPool) exec-18112 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=a717b4265295 ip=172.16.254.1 extra='xfa7wvn7emg0o6tf1d9lr3dwo7'
+2026-07-19T01:40:39,183 (TomcatPool) exec-10798 [INFO] []in method: generateLicensseDetailsData | req_id=6f6742cd57e7 extra='7zm2qf251nm927l4g7asbp96585c8k2m3da2eqtbom'
+2026-07-19T01:40:39,583 (TomcatPool) exec-15977 [INFO] []In the method loadPropertiesFile | mem_util=53% extra='o17xvhescf6buwg80c4qpg7qopvdcz8cilobk3njpmjcujp9g'
+2026-07-19T01:40:39,667 (TomcatPool) exec-10638 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/backup/create extra='nuvl72bn6byg92ty30guatvaci2udcq'
+2026-07-19T01:40:39,904 (TomcatPool) exec-10188 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 endpoint=/api/v1/auth/login caller=BackupAgent cpu_ut
+2026-07-19T01:40:50,669 (TomcatPool) exec-10975 [INFO] []In the method loadPropertiesFile | req_id=be504398748c ip=172.16.254.1 caller=ConfigManager extra='5y4wn'
+2026-07-19T01:40:50,976 (TomcatPool) exec-08213 [INFO] []in method: generateLicensseDetailsData | req_id=b76e368ffd80 mem_util=72% extra='r6a6t9xmj79i234cmi7b0wd8e92gu'
+2026-07-19T01:40:50,992 (TomcatPool) exec-01981 [INFO] []In the method loadPropertiesFile | req_id=0174113434c8 ip=10.0.0.12 endpoint=/api/v1/system/status calle
+2026-07-19T01:40:53,166 (TomcatPool) exec-13662 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=5ada98e7fb3a cpu_util=31% extra='dqc63vqexecgsuubkyn6zeksy976d'
+2026-07-19T01:43:39,166 (TomcatPool) exec-13898 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 endpoint=/api/v1/backup/create caller=WebServiceHelpe
+2026-07-19T01:43:39,171 (TomcatPool) exec-15527 [INFO] []In the method loadPropertiesFile | req_id=08e2d2091205 ip=192.168.2.115 mem_util=39% extra='5rxgt3qvbq83'
+2026-07-19T01:43:43,497 (TomcatPool) exec-13559 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=46603ff5b501 endpoint=/api/v2/restore caller=DbConnector      
+2026-07-19T01:43:55,993 (TomcatPool) exec-02224 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=dcf87c161580 ip=192.168.2.115 cpu_util=40% mem_util=55%       
+2026-07-19T01:43:59,880 (TomcatPool) exec-03876 [INFO] []in method: generateLicensseDetailsData | req_id=671747d5e928 endpoint=/api/v1/system/status cpu_util=75% mem_u
+2026-07-19T01:43:59,984 (TomcatPool) exec-10700 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | mem_util=35% extra='vcrb2n76i6s0a0u5kusfcyr5wsd326kkz6rsxsi8trt1cr2mq'
+2026-07-19T01:44:05,745 (TomcatPool) exec-09907 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=b83f9c744305 endpoint=/api/v1/system/status extra='a2fh8xiwvma'
+2026-07-19T01:44:05,853 (TomcatPool) exec-14556 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | caller=DbConnector cpu_util=73% extra='zwsg0d3ymngaweq8zjm7zccuggbxot'
+2026-07-19T01:44:08,421 (TomcatPool) exec-05858 [INFO] []in method: generateLicensseDetailsData | req_id=a149731b9856 ip=172.16.254.1 cpu_util=32% mem_util=68%        
+2026-07-19T01:44:11,955 (TomcatPool) exec-07576 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=a854a9a9e4d2 ip=192.168.2.115 endpoint=/api/v1/backup/create c
+2026-07-19T01:47:48,955 (TomcatPool) exec-06520 [INFO] []In the method loadPropertiesFile | trace_id=e82a9dcbc30e4ba4 extra='oslqo8m9h9t1vsvrvei0bg2wo3ht987y89a9'
+2026-07-19T01:47:51,991 (TomcatPool) exec-03357 [INFO] []In the method loadPropertiesFile | caller=TomcatAccessFilter mem_util=70% extra='2owiecf876llfm682lbtaqn'
+2026-07-19T01:47:52,070 (TomcatPool) exec-03862 [INFO] []In the method loadPropertiesFile | endpoint=/api/v2/restore mem_util=76% extra='p6sjfn7faezx4vo1shfphaq3'
+2026-07-19T01:48:06,487 (TomcatPool) exec-15389 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/metrics cpu_util=60% mem_util=40% extra='capyq6ra9inszwck4f'
+2026-07-19T01:48:19,844 (TomcatPool) exec-07747 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=708cb07a9c2b endpoint=/api/v2/restore mem_util=51% extra='pgqc'
+2026-07-19T01:48:23,048 (TomcatPool) exec-10080 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/backup/create caller=ConfigManager extra='eufcgrdurl'
+2026-07-19T01:50:39,048 (TomcatPool) exec-16187 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=91fb817414fd ip=192.168.1.50 mem_util=53% extra='d32j7s2pqdu7q'
+2026-07-19T01:50:39,331 (TomcatPool) exec-13957 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v2/restore caller=TomcatAccessFilter mem_util=75%      
+2026-07-19T01:50:42,280 (TomcatPool) exec-05434 [INFO] []in method: generateLicensseDetailsData | ip=10.0.0.12 endpoint=/api/v1/backup/create caller=DbConnector mem_ut
+2026-07-19T01:53:46,280 (TomcatPool) exec-12402 [INFO] []in method: generateLicensseDetailsData | req_id=e97d1c4f31cf cpu_util=83% mem_util=68% extra='zsl1guux2r3uvwu1'
+2026-07-19T01:57:26,280 (TomcatPool) exec-12512 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=44de9639aa8a ip=172.16.254.1 caller=TomcatAccessFilter cpu_uti
+2026-07-19T01:57:28,105 (TomcatPool) exec-05248 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=3111361137d8 ip=10.0.0.12 mem_util=82% extra='jche3udh2ljimlc9'
+2026-07-19T01:57:28,563 (TomcatPool) exec-14263 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 endpoint=/api/v2/restore cpu_util=71% extra='vtftfos5gn0'
+2026-07-19T01:57:33,123 (TomcatPool) exec-18315 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=ce673c64cdf3 ip=10.0.0.12 caller=TomcatAccessFilter extra='155'
+2026-07-19T01:57:34,478 (TomcatPool) exec-11633 [INFO] []in method: generateLicensseDetailsData | req_id=157a93a42c36 endpoint=/api/v1/auth/login cpu_util=74% mem_util
+2026-07-19T01:59:58,478 (TomcatPool) exec-15019 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=6b4c5be6c2f7 endpoint=/api/v1/system/status caller=BackupAgent
+2026-07-19T02:00:10,366 (TomcatPool) exec-09937 [INFO] []In the method loadPropertiesFile | req_id=50a6ba0a5747 cpu_util=21% mem_util=70% extra='4ja80iahnktwkxny'
+2026-07-19T02:00:22,503 (TomcatPool) exec-18458 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=f11a3ec8d9ab cpu_util=19% extra='wq1ppxtsvsmx07ehv16o38j9pyjs3'
+2026-07-19T02:00:37,503 (TomcatPool) exec-07603 [INFO] []In the method loadPropertiesFile | cpu_util=33% extra='zbo8f7gzm0cqneif3y5ia87mw5k137d8vwtlunykxtz0uqzjf'
+2026-07-19T02:00:37,548 (TomcatPool) exec-10540 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/backup/create mem_util=41% extra='2g47zxw3cmklg02bv2'
+2026-07-19T02:00:39,504 (TomcatPool) exec-19579 [INFO] []In the method loadPropertiesFile | req_id=b516fbd0afae extra='a1qnek51gh65a2nftr9ijgwpvi6xb9bvjlzch0m558'
+2026-07-19T02:00:39,627 (TomcatPool) exec-18011 [INFO] []in method: generateLicensseDetailsData | req_id=dc55147e79e6 endpoint=/api/v2/restore caller=ConfigManager    
+2026-07-19T02:00:39,678 (TomcatPool) exec-14182 [INFO] []in method: generateLicensseDetailsData | req_id=30490b1c637c ip=192.168.2.115 cpu_util=71% extra='knj1g4xh4ttu'
+2026-07-19T02:00:40,169 (TomcatPool) exec-01551 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=3ce4cc768e31 ip=172.16.254.1 extra='2cfnx4xqwfm6pu4bengznvlumd'
+2026-07-19T02:00:43,961 (TomcatPool) exec-01880 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=DbConnector cpu_util=66% extra='d96wr87b9l2btkr4alcy6d9q8egavw'
+2026-07-19T02:00:44,088 (TomcatPool) exec-12225 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 endpoint=/api/v1/backup/create cpu_util=28% mem_util=
+2026-07-19T02:00:46,814 (TomcatPool) exec-17358 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 endpoint=/api/v2/restore caller=WebServiceHelper mem_
+2026-07-19T02:00:51,139 (TomcatPool) exec-13946 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=ConfigManager cpu_util=35% mem_util=37% extra='ij9suzbs1rjxb6a'
+2026-07-19T02:00:56,824 (TomcatPool) exec-15058 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/system/status caller=ConfigManager extra='eusjuj1i28'
+2026-07-19T02:01:01,910 (TomcatPool) exec-03021 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | trace_id=7013b4bf350c4cc3 extra='iiedv66ztr5g9h7n5yxf16fx5ec4v8s9364u'
+2026-07-19T02:01:02,383 (TomcatPool) exec-08927 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 endpoint=/api/v1/backup/create caller=TomcatAccessFi
+2026-07-19T02:04:13,383 (TomcatPool) exec-11826 [INFO] []In the method loadPropertiesFile | ip=192.168.2.115 endpoint=/api/v1/auth/login caller=DbConnector mem_u
+2026-07-19T02:04:13,646 (TomcatPool) exec-16451 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 cpu_util=68% mem_util=57% extra='gygzu5kmgifev9mkrmb2'
+2026-07-19T02:04:17,433 (TomcatPool) exec-11960 [INFO] []in method: generateLicensseDetailsData | req_id=6ab1fa253b4f ip=192.168.1.50 caller=DbConnector cpu_util=57% m
+2026-07-19T02:04:21,624 (TomcatPool) exec-06541 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 endpoint=/api/v1/system/status caller=DbConnector cpu_ut
+2026-07-19T02:18:21,624 (TomcatPool) exec-16250 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=9fe1b8cc4979 ip=172.16.254.1 caller=TomcatAccessFilter        
+2026-07-19T02:18:26,850 (TomcatPool) exec-08863 [INFO] []in method: generateLicensseDetailsData | req_id=ad0b5063df74 ip=192.168.2.115 endpoint=/api/v1/backup/create c
+2026-07-19T02:18:29,380 (TomcatPool) exec-03113 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=daf15d836961 ip=10.0.0.12 endpoint=/api/v1/system/status cpu_u
+2026-07-19T02:18:29,642 (TomcatPool) exec-16262 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=3467db1f1821 ip=172.16.254.1 endpoint=/api/v1/system/status   
+2026-07-19T02:18:31,418 (TomcatPool) exec-16823 [INFO] []In the method loadPropertiesFile | req_id=923d48e1c059 ip=192.168.1.50 mem_util=71% extra='lc2j1eqwqziuz'
+2026-07-19T02:18:34,481 (TomcatPool) exec-11826 [INFO] []in method: generateLicensseDetailsData | req_id=67208d14983d ip=172.16.254.1 endpoint=/api/v1/system/status ca
+2026-07-19T02:28:34,481 (TomcatPool) exec-12360 [INFO] []In the method loadPropertiesFile | mem_util=45% extra='8gjhm7aura0j73m2tpfj14pi9e56yddnzhsudb4vgz4t8ko6b'
+2026-07-19T02:28:34,894 (TomcatPool) exec-19074 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=1fdc4816a941 ip=10.0.0.12 caller=BackupAgent cpu_util=23% mem_
+2026-07-19T02:28:40,509 (TomcatPool) exec-13242 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 caller=BackupAgent cpu_util=38% mem_util=41% extra='i'
+2026-07-19T02:28:40,974 (TomcatPool) exec-17242 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 caller=WebServiceHelper mem_util=58% extra='5a9hny0d'
+2026-07-19T02:28:56,326 (TomcatPool) exec-07592 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 endpoint=/api/v1/auth/login caller=ConfigManager mem
+2026-07-19T02:29:10,345 (TomcatPool) exec-18699 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=1c7024bebdaa ip=172.16.254.1 endpoint=/api/v1/auth/login mem_u
+2026-07-19T02:29:14,082 (TomcatPool) exec-11449 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 mem_util=84% extra='cpek2sbiue2qn9gjujjg3xpqwtouplkvc'
+2026-07-19T02:29:19,745 (TomcatPool) exec-06323 [INFO] []in method: generateLicensseDetailsData | req_id=7da9ef731bd8 endpoint=/api/v1/system/status cpu_util=35% mem_u
+2026-07-19T02:29:35,468 (TomcatPool) exec-15757 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 extra='9iyicuv4qf7u1sitbha6pqnnxnqzu6miqj7hvsfrid7jcc'
+2026-07-19T02:29:40,142 (TomcatPool) exec-01825 [INFO] []In the method loadPropertiesFile | cpu_util=84% extra='dsnb0ign99rflqp1froc0teku9vgrg1wt1t39egn9ld3dptkm'
+2026-07-19T02:29:51,316 (TomcatPool) exec-04416 [INFO] []In the method loadPropertiesFile | req_id=1055c195d577 ip=192.168.2.115 cpu_util=19% extra='4flqtdcci0g9'
+2026-07-19T02:29:54,787 (TomcatPool) exec-02552 [INFO] []in method: generateLicensseDetailsData | req_id=460c297002c8 caller=TomcatAccessFilter cpu_util=69% mem_util=5
+2026-07-19T02:29:56,587 (TomcatPool) exec-03988 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.2.115 endpoint=/api/v2/restore extra='fch4qxfjlvcd0v6wos8x'
+2026-07-19T02:29:56,613 (TomcatPool) exec-14616 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 cpu_util=29% extra='empxub88kjgbekpuukp7lhrzcee0yljxf'
+2026-07-19T02:29:56,854 (TomcatPool) exec-16335 [INFO] []in method: generateLicensseDetailsData | req_id=80a60d582c0e endpoint=/metrics caller=WebServiceHelper mem_uti
+2026-07-19T02:29:58,599 (TomcatPool) exec-10347 [INFO] []In the method loadPropertiesFile | endpoint=/api/v1/auth/login caller=ConfigManager mem_util=44%        
+2026-07-19T02:30:01,457 (TomcatPool) exec-06462 [INFO] []In the method loadPropertiesFile | ip=192.168.1.50 caller=TomcatAccessFilter cpu_util=48% mem_util=50%  
+2026-07-19T02:30:01,595 (TomcatPool) exec-12874 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=d1b94f85ef6b endpoint=/api/v1/system/status caller=BackupAgent
+2026-07-19T02:32:33,595 (TomcatPool) exec-07717 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=4c838df46d38 ip=10.0.0.12 endpoint=/api/v1/system/status calle
+2026-07-19T02:32:45,094 (TomcatPool) exec-06833 [INFO] []in method: generateLicensseDetailsData | caller=ConfigManager cpu_util=46% extra='zocst0fnk4wyqla3myqy5qau3a7x'
+2026-07-19T02:34:59,094 (TomcatPool) exec-06511 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | cpu_util=37% extra='42m10tmceb98xmj2kr6fm0ms5ml8k1w6w4chgtx6bnahkz2q6'
+2026-07-19T02:34:59,492 (TomcatPool) exec-10757 [INFO] []In the method loadPropertiesFile | endpoint=/metrics caller=ConfigManager extra='710zshswll4bdwevslewntu'
+2026-07-19T02:34:59,850 (TomcatPool) exec-06772 [INFO] []In the method loadPropertiesFile | req_id=993155a5a7cb ip=10.0.0.12 caller=TomcatAccessFilter cpu_util=1
+2026-07-19T02:35:00,165 (TomcatPool) exec-08786 [INFO] []in method: generateLicensseDetailsData | req_id=81aa6bcedd2c ip=192.168.2.115 mem_util=38% extra='rjjyvnv1oi5w'
+2026-07-19T02:35:00,432 (TomcatPool) exec-19778 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/system/status cpu_util=53% mem_util=67% extra='wapsx'
+2026-07-19T02:35:02,724 (TomcatPool) exec-15999 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=67203616b2a4 ip=172.16.254.1 endpoint=/api/v1/system/status cp
+2026-07-19T02:35:13,464 (TomcatPool) exec-03687 [INFO] []in method: generateLicensseDetailsData | ip=192.168.2.115 endpoint=/api/v2/restore cpu_util=40% mem_util=34%  
+2026-07-19T02:37:24,464 (TomcatPool) exec-19605 [INFO] []in method: generateLicensseDetailsData | req_id=d543f0b56f07 ip=172.16.254.1 mem_util=49% extra='jj4b0pvwjcp9y'
+2026-07-19T02:37:40,086 (TomcatPool) exec-15218 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v2/restore cpu_util=54% extra='oqtilszh8bhj0c5kcf7w5x9c'
+2026-07-19T02:37:40,149 (TomcatPool) exec-12585 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=ce6d54bfc5dd ip=192.168.1.50 endpoint=/api/v1/backup/create cp
+2026-07-19T02:37:40,207 (TomcatPool) exec-14908 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | caller=ConfigManager mem_util=41% extra='agwrbdkkceiy8wl6mrsgd0z9l61h'
+2026-07-19T02:37:40,573 (TomcatPool) exec-13507 [INFO] []in method: generateLicensseDetailsData | req_id=a53732058cf7 mem_util=32% extra='sshi2fqxqsgikhs4ougvqs3ehdif6'
+2026-07-19T02:37:40,642 (TomcatPool) exec-17885 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 mem_util=74% extra='x0zl37pj7bw1y534fg521gv1ha0syma6t'
+2026-07-19T02:37:50,740 (TomcatPool) exec-16988 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=6ddce2ca2dd6 ip=192.168.2.115 endpoint=/metrics cpu_util=37%  
+2026-07-19T02:37:51,114 (TomcatPool) exec-10969 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 endpoint=/api/v1/backup/create cpu_util=60% mem_util=
+2026-07-19T02:37:56,583 (TomcatPool) exec-14491 [INFO] []in method: generateLicensseDetailsData | ip=10.0.0.12 endpoint=/api/v1/backup/create cpu_util=28% extra='vnvb3'
+2026-07-19T02:52:56,583 (TomcatPool) exec-18494 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=9ac9d3d5ef0e ip=192.168.1.50 cpu_util=19% extra='b8qz7ay6rg8o1'
+2026-07-19T02:53:01,248 (TomcatPool) exec-16733 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | mem_util=30% extra='kn4srt74niv959wbxe0f46wlcap0690aywisecdvgqlrpjp4v'
+2026-07-19T02:53:02,534 (TomcatPool) exec-04690 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | mem_util=44% extra='27olwqmaocmuh9o20ngapjco92mygd374ygi4l6m84crgbfby'
+2026-07-19T02:53:16,181 (TomcatPool) exec-19791 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 caller=ConfigManager cpu_util=17% mem_util=84%       
+2026-07-19T02:53:16,456 (TomcatPool) exec-10403 [INFO] []In the method loadPropertiesFile | req_id=8286cc71fb62 caller=TomcatAccessFilter extra='0afuvpcjmnvph04l'
+2026-07-19T02:53:27,739 (TomcatPool) exec-05132 [INFO] []In the method loadPropertiesFile | req_id=9bd2cadda06c endpoint=/metrics caller=DbConnector extra='3pbag'
+2026-07-19T02:53:32,458 (TomcatPool) exec-15759 [INFO] []In the method loadPropertiesFile | req_id=b0ae3f02aec1 endpoint=/api/v1/system/status caller=WebServiceH
+2026-07-19T02:53:44,972 (TomcatPool) exec-11724 [INFO] []In the method loadPropertiesFile | req_id=1091c9351195 endpoint=/api/v1/system/status caller=BackupAgent
+2026-07-19T02:53:48,436 (TomcatPool) exec-05392 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=3d93c51a8292 ip=192.168.1.50 endpoint=/metrics caller=ConfigMa
+2026-07-19T02:53:48,592 (TomcatPool) exec-06439 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 cpu_util=75% mem_util=86% extra='h4ozvvy2m8vrqi56d2gfr5p'
+2026-07-19T02:53:49,013 (TomcatPool) exec-08958 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=622679359a81 ip=10.0.0.12 endpoint=/api/v1/system/status      
+2026-07-19T02:53:53,313 (TomcatPool) exec-05664 [INFO] []In the method loadPropertiesFile | req_id=c59b3fe11103 caller=TomcatAccessFilter cpu_util=28% extra='g6i'
+2026-07-19T02:53:57,888 (TomcatPool) exec-05256 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/backup/create caller=TomcatAccessFilter mem_util=70%
+2026-07-19T02:53:58,269 (TomcatPool) exec-08192 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=ConfigManager cpu_
+2026-07-19T02:54:03,435 (TomcatPool) exec-18728 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | mem_util=64% extra='imxrpysrt1w6kdwixioyg3r451rnym8rgixuf3tcmmrjvd8li'
+2026-07-19T02:54:06,495 (TomcatPool) exec-06793 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/backup/create mem_util=44% extra='jtzkxjjwgx3zkl55n6'
+2026-07-19T02:54:11,383 (TomcatPool) exec-05461 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 endpoint=/api/v1/auth/login extra='lfo07eos9qbn54s21g'
+2026-07-19T02:54:26,258 (TomcatPool) exec-18302 [INFO] []in method: generateLicensseDetailsData | req_id=b5e718091490 endpoint=/api/v1/auth/login extra='4ztz0n79r84v8r'
+2026-07-19T03:05:26,258 (TomcatPool) exec-10964 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v2/restore caller=WebServiceHelper mem_util=61%        
+2026-07-19T03:05:26,702 (TomcatPool) exec-19363 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=2132d14f74c8 endpoint=/api/v1/system/status extra='a35zmobwfix'
+2026-07-19T03:05:38,813 (TomcatPool) exec-13620 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/backup/create mem_util=68% extra='1uerxk4iiarfo1whqz'
+2026-07-19T03:05:43,326 (TomcatPool) exec-04472 [INFO] []in method: generateLicensseDetailsData | ip=10.0.0.12 extra='o3qkbl4l0yun2i09jnzxoeoxe9rozd8c2ry20ymo7c3o8hgs5'
+2026-07-19T03:11:43,326 (TomcatPool) exec-11319 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 endpoint=/api/v1/system/status extra='lu8mkw8pw5chjgn'
+2026-07-19T03:11:43,408 (TomcatPool) exec-15663 [INFO] []In the method loadPropertiesFile | ip=192.168.1.50 mem_util=42% extra='46wur68k1l4soarcjky8jbsm3ky8r3rtg'
+2026-07-19T03:12:44,408 (TomcatPool) exec-02143 [INFO] []in method: generateLicensseDetailsData | req_id=eaf47269e0bf endpoint=/api/v1/backup/create cpu_util=41%      
+2026-07-19T03:12:44,688 (TomcatPool) exec-08525 [INFO] []In the method loadPropertiesFile | req_id=dfc5c2cdae89 caller=DbConnector mem_util=34% extra='87052jr2zh'
+2026-07-19T03:12:45,062 (TomcatPool) exec-10542 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=9e9870d8c1b5 ip=172.16.254.1 endpoint=/metrics extra='duy6nk1l'
+2026-07-19T03:12:47,202 (TomcatPool) exec-03728 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=415fa18e58b0 endpoint=/metrics extra='vung0m2cm9h46gdey1rpraii'
+2026-07-19T03:12:47,278 (TomcatPool) exec-01522 [INFO] []in method: generateLicensseDetailsData | caller=TomcatAccessFilter mem_util=53% extra='6w0lrkmi4h28mobdhrzm0uh'
+2026-07-19T03:25:47,278 (TomcatPool) exec-04159 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/auth/login cpu_util=29% mem_util=87% extra='ota0rxoy'
+2026-07-19T03:25:51,005 (TomcatPool) exec-03420 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=0a3824722a63 ip=192.168.1.50 caller=TomcatAccessFilter mem_uti
+2026-07-19T03:27:23,005 (TomcatPool) exec-01677 [INFO] []In the method loadPropertiesFile | endpoint=/api/v1/auth/login caller=DbConnector mem_util=87% extra='6q'
+2026-07-19T03:27:23,435 (TomcatPool) exec-04062 [INFO] []in method: generateLicensseDetailsData | ip=192.168.2.115 endpoint=/api/v1/system/status caller=DbConnector   
+2026-07-19T03:27:23,715 (TomcatPool) exec-11749 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=6b37c5bd6ee1 ip=10.0.0.12 extra='yybbzvccjkoitfl7kszbihe8cqmju'
+2026-07-19T03:27:23,889 (TomcatPool) exec-14922 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=ConfigManager extra='q6t3zf4wn66zv9nsq0ojq0h5t6irsklfut0yux20x'
+2026-07-19T03:27:29,520 (TomcatPool) exec-12699 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/backup/create cpu_util=37% extra='f633pkswa5e07cps7g'
+2026-07-19T03:30:47,520 (TomcatPool) exec-16982 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/backup/create cpu_util=73% extra='4zotbsjc7qojc8h92s'
+2026-07-19T03:30:48,782 (TomcatPool) exec-09668 [INFO] []in method: generateLicensseDetailsData | caller=DbConnector cpu_util=21% mem_util=75% extra='3l0qv7isbpuaqiyal'
+2026-07-19T03:30:49,053 (TomcatPool) exec-09330 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=e8f6f07b2cfc ip=172.16.254.1 cpu_util=56% extra='99btx7s2bx5g8'
+2026-07-19T03:30:51,373 (TomcatPool) exec-17164 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=aac0f1e5d242 mem_util=65% extra='h1llmmlj9186w21k9yvzbd2bei8k4'
+2026-07-19T03:30:55,261 (TomcatPool) exec-08005 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 caller=BackupAgent cpu_util=65% extra='mb78m4fkxa0pr2viu'
+2026-07-19T03:30:59,383 (TomcatPool) exec-12620 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 mem_util=78% extra='hwc8pe58yy063f6a3cgt1b85xdmanatf1'
+2026-07-19T03:30:59,718 (TomcatPool) exec-16514 [INFO] []In the method loadPropertiesFile | req_id=2cb5eafe9fc4 extra='8u0igj6jbsxxh3ck24pczgxm60k2o8y7psdy6u2j3l'
+2026-07-19T03:30:59,965 (TomcatPool) exec-09266 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 cpu_util=28% extra='50wfnrs0s11o9pgr38803awnegfip0pc6'
+2026-07-19T03:31:00,407 (TomcatPool) exec-18637 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 endpoint=/api/v2/restore caller=DbConnector mem_util=
+2026-07-19T03:31:01,790 (TomcatPool) exec-16930 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 caller=WebServiceHelper cpu_util=41% mem_util=75%    
+2026-07-19T03:31:02,206 (TomcatPool) exec-03303 [INFO] []In the method loadPropertiesFile | req_id=4c56b2a13894 caller=BackupAgent cpu_util=19% mem_util=58%     
+2026-07-19T03:31:02,621 (TomcatPool) exec-06934 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 endpoint=/api/v2/restore caller=WebServiceHelper     
+2026-07-19T03:31:14,624 (TomcatPool) exec-14632 [INFO] []in method: generateLicensseDetailsData | req_id=711cfe3acaf2 ip=192.168.1.50 endpoint=/metrics caller=DbConnec
+2026-07-19T03:31:20,315 (TomcatPool) exec-15069 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v2/restore caller=ConfigManager cpu_util=78% extra='1dw'
+2026-07-19T03:31:24,364 (TomcatPool) exec-09734 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | caller=DbConnector cpu_util=85% mem_util=63% extra='bsx78c2zkj67aqvsj'
+2026-07-19T03:31:29,804 (TomcatPool) exec-05865 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 endpoint=/api/v2/restore cpu_util=42% extra='4zxax5am'
+2026-07-19T03:41:29,804 (TomcatPool) exec-05875 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=6f701d7ae17c endpoint=/api/v1/backup/create caller=BackupAgent
+2026-07-19T03:44:29,804 (TomcatPool) exec-06514 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 endpoint=/api/v1/system/status caller=TomcatAccessFil
+2026-07-19T03:44:30,045 (TomcatPool) exec-19568 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.2.115 endpoint=/metrics mem_util=75% extra='qaxrmboli7hxh5'
+2026-07-19T03:44:32,974 (TomcatPool) exec-01200 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | caller=BackupAgent cpu_util=55% extra='qht667fz2r17da941snzp4tzmdho8t'
+2026-07-19T03:44:47,406 (TomcatPool) exec-09553 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 endpoint=/api/v1/backup/create cpu_util=50% mem_util
+2026-07-19T03:44:51,284 (TomcatPool) exec-11510 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=ac7f5c95bf40 ip=192.168.2.115 endpoint=/api/v1/system/status c
+2026-07-19T03:44:55,603 (TomcatPool) exec-15179 [INFO] []in method: generateLicensseDetailsData | req_id=d67494caaa42 ip=172.16.254.1 endpoint=/api/v1/system/status   
+2026-07-19T03:51:55,603 (TomcatPool) exec-14009 [INFO] []in method: generateLicensseDetailsData | ip=10.0.0.12 cpu_util=37% mem_util=42% extra='8w936lvvbqbin1x3fsi062i'
+2026-07-19T03:52:10,528 (TomcatPool) exec-17992 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 caller=WebServiceHelper mem_util=38% extra='x9cpo7w7u'
+2026-07-19T03:52:10,699 (TomcatPool) exec-05858 [INFO] []in method: generateLicensseDetailsData | ip=192.168.2.115 endpoint=/api/v2/restore extra='hgitdoj22y4jwmv8kvkd'
+2026-07-19T03:52:12,812 (TomcatPool) exec-14457 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 endpoint=/api/v2/restore caller=WebServiceHelper mem_
+2026-07-19T03:57:12,812 (TomcatPool) exec-18039 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=bd19b4191130 ip=10.0.0.12 cpu_util=29% mem_util=56% extra='xw5'
+2026-07-19T03:57:13,160 (TomcatPool) exec-12730 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=6607cbf0b5f6 extra='kzeibjr9fvofek02f4o9b2dkklk9jv93whvwl3zvfz'
+2026-07-19T03:57:14,327 (TomcatPool) exec-08170 [INFO] []In the method loadPropertiesFile | req_id=31c0f7a80871 cpu_util=34% mem_util=44% extra='3maa9pakt79srwy7'
+2026-07-19T03:57:14,587 (TomcatPool) exec-14388 [INFO] []in method: generateLicensseDetailsData | req_id=57f98b994aa9 ip=192.168.1.50 extra='oikjtb79fx8atvgh24nhf5ly3q'
+2026-07-19T03:57:19,184 (TomcatPool) exec-15721 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 endpoint=/api/v2/restore cpu_util=42% extra='sn6pbwu0'
+2026-07-19T03:57:23,824 (TomcatPool) exec-08151 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=b0164f92875a ip=192.168.2.115 caller=WebServiceHelper extra='o'
+2026-07-19T03:57:27,702 (TomcatPool) exec-12540 [INFO] []in method: generateLicensseDetailsData | req_id=e18fcec1cce4 endpoint=/api/v1/system/status caller=DbConnector
+2026-07-19T03:57:31,704 (TomcatPool) exec-05454 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 extra='86b0dy5y702b9x7rcc9cl7o5vl0wfbi0ikv7orzmanjrn0'
+2026-07-19T03:57:37,522 (TomcatPool) exec-03193 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 endpoint=/api/v1/system/status cpu_util=41% mem_util
+2026-07-19T04:00:35,522 (TomcatPool) exec-06731 [INFO] []in method: generateLicensseDetailsData | req_id=050ca0112add ip=192.168.2.115 caller=DbConnector mem_util=45% 
+2026-07-19T04:00:48,479 (TomcatPool) exec-13684 [INFO] []in method: generateLicensseDetailsData | req_id=a898717f9913 ip=192.168.1.50 endpoint=/api/v1/auth/login calle
+2026-07-19T04:00:59,421 (TomcatPool) exec-03241 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 endpoint=/metrics caller=ConfigManager cpu_util=43% 
+2026-07-19T04:01:09,925 (TomcatPool) exec-15057 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=ac072d3a6479 caller=WebServiceHelper cpu_util=53% extra='xzp2b'
+2026-07-19T04:02:39,925 (TomcatPool) exec-15332 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 caller=TomcatAccessFilter cpu_util=53% mem_util=77%     
+2026-07-19T04:02:43,875 (TomcatPool) exec-14345 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 endpoint=/api/v1/backup/create cpu_util=17% extra='62'
+2026-07-19T04:02:48,734 (TomcatPool) exec-08667 [INFO] []in method: generateLicensseDetailsData | cpu_util=74% mem_util=75% extra='wffip9yrt45jevmd47pj4ao5tummvk56pdex'
+2026-07-19T04:02:48,814 (TomcatPool) exec-01422 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=10.0.0.12 mem_util=69% extra='b3ztxg3rrzj21g3xefzzn55262ug1n2yp7bq'
+2026-07-19T04:02:59,250 (TomcatPool) exec-05083 [INFO] []In the method loadPropertiesFile | ip=192.168.1.50 cpu_util=67% mem_util=70% extra='tiidqv697h6xumpvajkh'
+2026-07-19T04:02:59,457 (TomcatPool) exec-19208 [INFO] []In the method loadPropertiesFile | req_id=8ec30c3b6bbd ip=192.168.1.50 endpoint=/api/v2/restore caller=C
+2026-07-19T04:05:09,457 (TomcatPool) exec-08752 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 mem_util=49% extra='x7kyq01twxr0qvwlc5bljcgynmse3f7rf'
+2026-07-19T04:12:09,457 (TomcatPool) exec-09726 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=307e302e4a48 ip=172.16.254.1 cpu_util=56% mem_util=30%        
+2026-07-19T04:12:21,427 (TomcatPool) exec-04760 [INFO] []in method: generateLicensseDetailsData | endpoint=/metrics caller=BackupAgent extra='irbtijeuox8fb7c8u9yrr0wt4'
+2026-07-19T04:12:21,875 (TomcatPool) exec-13616 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 caller=WebServiceHelper mem_util=36% extra='l0kw46a3o'
+2026-07-19T04:14:25,875 (TomcatPool) exec-01337 [INFO] []in method: generateLicensseDetailsData | caller=WebServiceHelper extra='aoetuj5mgkvlhrsplnlb813mlz4kuv6501ab4f'
+2026-07-19T04:14:37,021 (TomcatPool) exec-03045 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v2/restore cpu_util=19% mem_util=81% extra='29y9hmz8uic'
+2026-07-19T04:14:37,151 (TomcatPool) exec-16867 [INFO] []in method: generateLicensseDetailsData | req_id=0a3eba651c97 ip=192.168.1.50 endpoint=/api/v1/system/status ca
+2026-07-19T04:14:37,553 (TomcatPool) exec-05989 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=10.0.0.12 endpoint=/api/v1/auth/login caller=WebServiceHelper cpu_
+2026-07-19T04:14:52,640 (TomcatPool) exec-06865 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 endpoint=/api/v1/backup/create caller=TomcatAccessFil
+2026-07-19T04:14:52,788 (TomcatPool) exec-04843 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 endpoint=/api/v1/backup/create cpu_util=37% extra='3l'
+2026-07-19T04:15:03,651 (TomcatPool) exec-05998 [INFO] []In the method loadPropertiesFile | req_id=a6f3feb1b902 cpu_util=45% mem_util=82% extra='ws2wdd55kdh92ou8'
+2026-07-19T04:15:06,661 (TomcatPool) exec-08078 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 mem_util=55% extra='43rbc69xzt25g3cicl8c0nh1hku9i7wudocn'
+2026-07-19T04:15:06,723 (TomcatPool) exec-01996 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=4afe9817d4a1 ip=10.0.0.12 endpoint=/api/v1/auth/login caller=T
+2026-07-19T04:15:11,238 (TomcatPool) exec-10751 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 caller=DbConnector mem_util=39% extra='v9mq851ir9a46i'
+2026-07-19T04:15:12,883 (TomcatPool) exec-10764 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/backup/create caller=TomcatAccessFilter extra='boq4q'
+2026-07-19T04:15:13,075 (TomcatPool) exec-01325 [INFO] []in method: generateLicensseDetailsData | req_id=512443558ecc ip=192.168.1.50 endpoint=/api/v1/auth/login calle
+2026-07-19T04:15:13,293 (TomcatPool) exec-01403 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/system/status caller=ConfigManager extra='mxbeqqis1w'
+2026-07-19T04:15:25,125 (TomcatPool) exec-04756 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 endpoint=/api/v2/restore caller=WebServiceHelper mem_
+2026-07-19T04:15:26,466 (TomcatPool) exec-04202 [INFO] []in method: generateLicensseDetailsData | req_id=19ba2d8f0acd ip=192.168.2.115 caller=WebServiceHelper cpu_util
+2026-07-19T04:15:26,712 (TomcatPool) exec-18956 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=22d2902832e0 ip=172.16.254.1 mem_util=83% extra='kblcmsbsxfjtl'
+2026-07-19T04:19:00,712 (TomcatPool) exec-05879 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 mem_util=78% extra='0ezljzvfd4nv85ppnxerwi3rob988rgwv'
+2026-07-19T04:19:00,728 (TomcatPool) exec-09879 [INFO] []In the method loadPropertiesFile | req_id=2f31800a441a caller=BackupAgent cpu_util=85% extra='kwn8fxqbgs'
+2026-07-19T04:19:12,046 (TomcatPool) exec-03185 [INFO] []in method: generateLicensseDetailsData | req_id=09438273908d ip=172.16.254.1 endpoint=/api/v1/backup/create cp
+2026-07-19T04:20:48,046 (TomcatPool) exec-16158 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v2/restore caller=WebServiceHelper cpu_util=38%        
+2026-07-19T04:22:14,046 (TomcatPool) exec-18180 [INFO] []In the method loadPropertiesFile | req_id=9b7f920edfe9 endpoint=/api/v1/system/status cpu_util=84%      
+2026-07-19T04:22:14,232 (TomcatPool) exec-07458 [INFO] []in method: generateLicensseDetailsData | req_id=c170180c8d91 cpu_util=24% extra='oqqdmje85ygqoxukd2bhmutgyavwi'
+2026-07-19T04:22:14,381 (TomcatPool) exec-18576 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=1f5bac57a0b8 ip=10.0.0.12 endpoint=/api/v1/auth/login caller=B
+2026-07-19T04:22:15,438 (TomcatPool) exec-18956 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=e0a18e2dfbcd ip=192.168.2.115 cpu_util=66% extra='trug3ttxu0m4'
+2026-07-19T04:22:20,190 (TomcatPool) exec-14902 [INFO] []In the method loadPropertiesFile | caller=ConfigManager cpu_util=71% extra='ay4y3cylpfag7uu6swub115ku6sp'
+2026-07-19T04:22:32,781 (TomcatPool) exec-01463 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/auth/login caller=TomcatAccessFilter cpu_util=42%   
+2026-07-19T04:22:43,006 (TomcatPool) exec-09491 [INFO] []In the method loadPropertiesFile | ip=192.168.1.50 caller=DbConnector extra='ibb94qq48srxzmk4ebne6so7mmu'
+2026-07-19T04:22:44,856 (TomcatPool) exec-19321 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=27652e60d8f2 endpoint=/api/v1/backup/create caller=WebServiceH
+2026-07-19T04:22:47,713 (TomcatPool) exec-14936 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=c97c0858a7d2 ip=192.168.2.115 endpoint=/api/v1/backup/create c
+2026-07-19T04:22:47,817 (TomcatPool) exec-05303 [INFO] []In the method loadPropertiesFile | req_id=c88e4280281c cpu_util=65% extra='tvvtpuld0lekxzif4er65qlccswaw'
+2026-07-19T04:22:47,902 (TomcatPool) exec-12516 [INFO] []in method: generateLicensseDetailsData | ip=192.168.2.115 mem_util=77% extra='tz435zzxwye774ob3fh0qz4jhnltbkhh'
+2026-07-19T04:25:43,902 (TomcatPool) exec-05193 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=512ae5311343 ip=10.0.0.12 cpu_util=75% extra='a3e06yhic5dcgcbi'
+2026-07-19T04:25:44,034 (TomcatPool) exec-03772 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 endpoint=/api/v1/system/status caller=DbConnector cpu_ut
+2026-07-19T04:37:44,034 (TomcatPool) exec-08749 [INFO] []In the method loadPropertiesFile | ip=192.168.1.50 caller=DbConnector extra='ywdkxla29sbhja8drorkeg0glud'
+2026-07-19T04:37:47,867 (TomcatPool) exec-08282 [INFO] []In the method loadPropertiesFile | req_id=0145057c8830 caller=DbConnector cpu_util=47% mem_util=64%     
+2026-07-19T04:38:01,337 (TomcatPool) exec-14010 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 endpoint=/api/v2/restore cpu_util=14% mem_util=60%   
+2026-07-19T04:38:01,583 (TomcatPool) exec-16184 [INFO] []In the method loadPropertiesFile | caller=WebServiceHelper extra='oese0g67hc0zg0mjs43dvtcqeaxk5xfiku0ay1'
+2026-07-19T04:38:06,735 (TomcatPool) exec-02663 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=TomcatAccessFilter
+2026-07-19T04:39:37,735 (TomcatPool) exec-14074 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=82a6a494f06a ip=10.0.0.12 endpoint=/api/v2/restore mem_util=52
+2026-07-19T04:39:47,886 (TomcatPool) exec-02997 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 caller=BackupAgent cpu_util=83% extra='ymaj17qld9gbb08rp'
+2026-07-19T04:39:59,652 (TomcatPool) exec-12758 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 extra='3uxt1pm94fihn3m33li1lj3qvr3xg9aiim94p382vfds8s'
+2026-07-19T04:39:59,801 (TomcatPool) exec-13616 [INFO] []in method: generateLicensseDetailsData | ip=10.0.0.12 cpu_util=18% mem_util=79% extra='vxlqr4yp7l99ks615tq4vlz'
+2026-07-19T04:40:04,810 (TomcatPool) exec-15233 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 caller=DbConnector cpu_util=78% mem_util=58% extra='8'
+2026-07-19T04:40:09,514 (TomcatPool) exec-09024 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=ec02753b349e ip=172.16.254.1 caller=ConfigManager cpu_util=13%
+2026-07-19T04:40:23,205 (TomcatPool) exec-19050 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 extra='9thalv4rxi68hwmo1lexifs71yagyrn1fs1rru4e2jb22'
+2026-07-19T04:40:23,698 (TomcatPool) exec-07919 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/auth/login caller=DbConnector extra='nohhrjmxjca9ofk'
+2026-07-19T04:40:29,342 (TomcatPool) exec-15261 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=BackupAgent mem_ut
+2026-07-19T04:40:30,385 (TomcatPool) exec-09595 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=WebServiceHelper cpu_util=32% mem_util=64% extra='jhj5ydwrdxiv'
+2026-07-19T04:40:34,153 (TomcatPool) exec-15299 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=57a27eeea9ca endpoint=/api/v2/restore cpu_util=60% extra='ls6c'
+2026-07-19T04:40:36,449 (TomcatPool) exec-12164 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 endpoint=/metrics caller=BackupAgent extra='nae5ntwy'
+2026-07-19T04:40:48,077 (TomcatPool) exec-10066 [INFO] []In the method loadPropertiesFile | endpoint=/api/v1/system/status caller=DbConnector mem_util=43%       
+2026-07-19T04:40:51,518 (TomcatPool) exec-16574 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/system/status mem_util=82% extra='bc0nqsti1369440s4z'
+2026-07-19T04:40:53,075 (TomcatPool) exec-01864 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=868e161b859f ip=192.168.2.115 endpoint=/api/v1/backup/create  
+2026-07-19T04:41:03,867 (TomcatPool) exec-05885 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 endpoint=/api/v1/system/status cpu_util=45% extra='qo'
+2026-07-19T04:41:08,187 (TomcatPool) exec-15167 [INFO] []in method: generateLicensseDetailsData | caller=BackupAgent cpu_util=77% extra='xe5d2jqmbnd6zgtgeh469zgixzn87f'
+2026-07-19T04:41:11,314 (TomcatPool) exec-04308 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=89f9f9f54c8d caller=DbConnector cpu_util=44% extra='6pzmx2ak9o'
+2026-07-19T04:41:11,707 (TomcatPool) exec-16708 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/system/status caller=WebServiceHelper extra='qw4blfd'
+2026-07-19T04:42:31,707 (TomcatPool) exec-07552 [INFO] []in method: generateLicensseDetailsData | ip=192.168.2.115 endpoint=/api/v1/backup/create caller=TomcatAccessFi
+2026-07-19T04:45:34,707 (TomcatPool) exec-01536 [INFO] []in method: generateLicensseDetailsData | req_id=3ee350b47fe1 caller=ConfigManager extra='fnd5t54doswikouhxx2cv'
+2026-07-19T04:45:37,177 (TomcatPool) exec-02324 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 caller=BackupAgent mem_util=78% extra='u05x5ypngkp9a3'
+2026-07-19T04:45:42,054 (TomcatPool) exec-06138 [INFO] []In the method loadPropertiesFile | req_id=b61704e039c2 ip=10.0.0.12 caller=ConfigManager mem_util=73%   
+2026-07-19T04:45:45,936 (TomcatPool) exec-12114 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=017312e494e0 ip=172.16.254.1 endpoint=/api/v1/system/status ca
+2026-07-19T04:48:59,936 (TomcatPool) exec-01280 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=173b1010eb4c caller=DbConnector mem_util=37% extra='51vooeikqs'
+2026-07-19T04:49:01,151 (TomcatPool) exec-07078 [INFO] []in method: generateLicensseDetailsData | mem_util=35% extra='9976p75nhcvy8u4n4w90ja66sul7et6q5q9ahaqummee4se0i'
+2026-07-19T04:49:04,566 (TomcatPool) exec-10064 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=7c207163c78c extra='r0o753qwxe6lrkt0pf2bs0572q7swl14i44dwssj8f'
+2026-07-19T04:49:04,810 (TomcatPool) exec-03181 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/system/status caller=ConfigManager mem_util=89%     
+2026-07-19T04:49:07,860 (TomcatPool) exec-04309 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 endpoint=/metrics mem_util=30% extra='n4vbd7wvrpq0127'
+2026-07-19T04:49:08,335 (TomcatPool) exec-16398 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=6aa99c211dba caller=BackupAgent extra='fkqjyoj2a78ek5d8gdyx1u8'
+2026-07-19T04:52:04,335 (TomcatPool) exec-17758 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=6cd525103253 ip=192.168.2.115 endpoint=/api/v1/backup/create c
+2026-07-19T04:53:22,335 (TomcatPool) exec-06319 [INFO] []in method: generateLicensseDetailsData | req_id=72d6bd27289f ip=192.168.2.115 cpu_util=38% extra='xaa828f4v4g7'
+2026-07-19T04:53:25,363 (TomcatPool) exec-10854 [INFO] []in method: generateLicensseDetailsData | cpu_util=61% mem_util=45% extra='of5a65to27jtc4gh8y1m3sg5jkryohzifiyl'
+2026-07-19T04:53:40,857 (TomcatPool) exec-13401 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=e0c5822347e3 mem_util=69% extra='5ygpdoudlx7hyeygjap55cqsuhxay'
+2026-07-19T04:53:46,502 (TomcatPool) exec-17727 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 cpu_util=54% mem_util=73% extra='c9k0afgdb8b93lszm3y7'
+2026-07-19T04:53:58,552 (TomcatPool) exec-07007 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 endpoint=/api/v1/system/status caller=ConfigManager c
+2026-07-19T04:54:09,287 (TomcatPool) exec-15856 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=46348ea3a4aa mem_util=72% extra='sa1conersezdkmegijruxmehmp1rv'
+2026-07-19T04:54:13,568 (TomcatPool) exec-13646 [INFO] []In the method loadPropertiesFile | caller=DbConnector cpu_util=81% extra='ncinny7517qo62frjudr3i6mfi0rfe'
+2026-07-19T04:54:18,384 (TomcatPool) exec-05619 [INFO] []in method: generateLicensseDetailsData | cpu_util=73% mem_util=42% extra='366dc00khy9baznf6dj4xn095zkl3c3arwsu'
+2026-07-19T05:00:18,384 (TomcatPool) exec-14085 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 extra='kkj1e9c4leuh7dugfluwh6yzhe7jaocrmmrkrkcmvj1mcu'
+2026-07-19T05:11:18,384 (TomcatPool) exec-18185 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=ca502fbeaeac caller=ConfigManager cpu_util=63% mem_util=31%   
+2026-07-19T05:11:30,649 (TomcatPool) exec-17754 [INFO] []in method: generateLicensseDetailsData | req_id=57823f88d67a ip=192.168.1.50 endpoint=/api/v1/system/status ca
+2026-07-19T05:11:30,818 (TomcatPool) exec-04281 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 cpu_util=36% extra='4ogdviyo5djr7dghw2u97sw6n5kpfp90g'
+2026-07-19T05:11:30,940 (TomcatPool) exec-11710 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=73dc3a1eca5a ip=172.16.254.1 endpoint=/api/v1/auth/login cpu_u
+2026-07-19T05:11:31,094 (TomcatPool) exec-13943 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=DbConnector cpu_ut
+2026-07-19T05:11:41,543 (TomcatPool) exec-15325 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.2.115 endpoint=/api/v2/restore mem_util=63% extra='7sid1dg'
+2026-07-19T05:11:42,017 (TomcatPool) exec-14721 [INFO] []In the method loadPropertiesFile | req_id=8d18a01ca4eb ip=192.168.2.115 endpoint=/api/v1/backup/create m
+2026-07-19T05:11:56,406 (TomcatPool) exec-06235 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/auth/login caller=WebServiceHelper extra='l6ltk0pg4a'
+2026-07-19T05:12:12,146 (TomcatPool) exec-13272 [INFO] []in method: generateLicensseDetailsData | req_id=3ccdc510fdd3 ip=192.168.2.115 endpoint=/api/v1/backup/create c
+2026-07-19T05:12:12,628 (TomcatPool) exec-11056 [INFO] []in method: generateLicensseDetailsData | req_id=890a504b084c ip=172.16.254.1 endpoint=/api/v2/restore cpu_util
+2026-07-19T05:12:18,511 (TomcatPool) exec-06180 [INFO] []in method: generateLicensseDetailsData | caller=TomcatAccessFilter cpu_util=75% extra='aeiunsnza43aoic7cnfpqt3'
+2026-07-19T05:12:20,883 (TomcatPool) exec-02356 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=4b7f709b1d85 ip=10.0.0.12 caller=TomcatAccessFilter cpu_util=4
+2026-07-19T05:12:20,916 (TomcatPool) exec-07724 [INFO] []In the method loadPropertiesFile | req_id=34b442edb3ea endpoint=/api/v1/backup/create caller=DbConnector
+2026-07-19T05:12:35,324 (TomcatPool) exec-15534 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 cpu_util=30% mem_util=52% extra='ydpt0i7fle88wvmiw1a3'
+2026-07-19T05:14:27,324 (TomcatPool) exec-19174 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=5ebb9ed58257 ip=10.0.0.12 endpoint=/api/v1/backup/create cpu_u
+2026-07-19T05:16:14,324 (TomcatPool) exec-02858 [INFO] []In the method loadPropertiesFile | endpoint=/metrics caller=ConfigManager cpu_util=34% mem_util=74%     
+2026-07-19T05:16:14,669 (TomcatPool) exec-17592 [INFO] []In the method loadPropertiesFile | mem_util=82% extra='ydrggb97r08p500i1mrj7b674p0xapkohlk2k4ehrza91i5y1'
+2026-07-19T05:16:14,964 (TomcatPool) exec-18837 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=431cec5efd0d ip=192.168.2.115 endpoint=/metrics caller=TomcatA
+2026-07-19T05:16:15,084 (TomcatPool) exec-14506 [INFO] []in method: generateLicensseDetailsData | caller=DbConnector mem_util=46% extra='oljoq89xuuouturx9vg8dstrq4rndq'
+2026-07-19T05:16:16,855 (TomcatPool) exec-12548 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=2933901cfc63 endpoint=/api/v1/system/status cpu_util=21% mem_u
+2026-07-19T05:16:17,033 (TomcatPool) exec-17629 [INFO] []In the method loadPropertiesFile | req_id=aaaf07f0ffb4 ip=172.16.254.1 endpoint=/metrics mem_util=65%   
+2026-07-19T05:24:17,033 (TomcatPool) exec-06670 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=3357f7c9c186 cpu_util=71% mem_util=36% extra='3qozp0wgnq4e1fzy'
+2026-07-19T05:24:19,811 (TomcatPool) exec-04065 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=980d7c05156f ip=172.16.254.1 mem_util=75% extra='ak01o4ujwd11e'
+2026-07-19T05:24:21,724 (TomcatPool) exec-09376 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 endpoint=/api/v1/backup/create mem_util=43% extra='n'
+2026-07-19T05:24:21,786 (TomcatPool) exec-16598 [INFO] []In the method loadPropertiesFile | req_id=5f3f2403ffb7 ip=192.168.2.115 caller=DbConnector cpu_util=77% 
+2026-07-19T05:27:02,786 (TomcatPool) exec-01455 [INFO] []In the method loadPropertiesFile | endpoint=/api/v2/restore cpu_util=26% extra='j0fss9gk49jjlbu5h0xir5gr'
+2026-07-19T05:28:46,786 (TomcatPool) exec-19680 [INFO] []in method: generateLicensseDetailsData | caller=BackupAgent cpu_util=55% mem_util=35% extra='miurg6f7nj655uuaz'
+2026-07-19T05:28:47,151 (TomcatPool) exec-16987 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=36c72aedef9f ip=172.16.254.1 endpoint=/api/v1/system/status me
+2026-07-19T05:28:57,381 (TomcatPool) exec-08052 [INFO] []In the method loadPropertiesFile | req_id=832a8a8a0fb4 endpoint=/metrics cpu_util=13% mem_util=50%      
+2026-07-19T05:29:02,999 (TomcatPool) exec-13917 [INFO] []In the method loadPropertiesFile | endpoint=/api/v2/restore caller=ConfigManager mem_util=57% extra='49z'
+2026-07-19T05:30:21,999 (TomcatPool) exec-15591 [INFO] []In the method loadPropertiesFile | req_id=1b32e81d5bfd cpu_util=25% extra='pnsesvzspa2ate1xqi1oijg4erjdc'
+2026-07-19T05:30:26,499 (TomcatPool) exec-13529 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/metrics cpu_util=24% extra='s3w90j77emvfhpu08oy192oofn4yavy'
+2026-07-19T05:30:29,279 (TomcatPool) exec-12306 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=f1303cd288f5 caller=ConfigManager cpu_util=46% extra='19qgvykj'
+2026-07-19T05:30:29,741 (TomcatPool) exec-04807 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=8d4f0c01eec9 ip=192.168.1.50 endpoint=/api/v1/backup/create ca
+2026-07-19T05:30:42,540 (TomcatPool) exec-15647 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=ce1a146494be endpoint=/metrics mem_util=40% extra='n65k0jyv9b1'
+2026-07-19T05:30:52,959 (TomcatPool) exec-12393 [INFO] []In the method loadPropertiesFile | ip=192.168.1.50 caller=TomcatAccessFilter mem_util=71% extra='o6bc68q'
+2026-07-19T05:31:05,676 (TomcatPool) exec-12305 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=163f2c1c269c ip=192.168.1.50 endpoint=/api/v1/backup/create cp
+2026-07-19T05:31:05,776 (TomcatPool) exec-04906 [INFO] []In the method loadPropertiesFile | req_id=01c868e012b2 endpoint=/api/v1/auth/login caller=WebServiceHelp
+2026-07-19T05:33:29,776 (TomcatPool) exec-02151 [INFO] []in method: generateLicensseDetailsData | req_id=46c984561de9 cpu_util=62% mem_util=86% extra='1wvfdm94mgbff0ex'
+2026-07-19T05:33:32,012 (TomcatPool) exec-13064 [INFO] []In the method loadPropertiesFile | req_id=e943b1bfc042 ip=192.168.2.115 endpoint=/api/v1/auth/login call
+2026-07-19T05:33:36,891 (TomcatPool) exec-02893 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=b62964ba2733 extra='uak90nnq85jw7jrtvteecm14wsqrijq5r4gck5utmr'
+2026-07-19T05:33:49,236 (TomcatPool) exec-11305 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=ef9fd267d29b ip=192.168.1.50 endpoint=/api/v1/auth/login calle
+2026-07-19T05:34:02,072 (TomcatPool) exec-19907 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/metrics caller=ConfigManager extra='itrwzxxwj9sg2gpafy2v4fc'
+2026-07-19T05:34:05,498 (TomcatPool) exec-15450 [INFO] []In the method loadPropertiesFile | req_id=0ae58b9b4fef ip=192.168.1.50 caller=BackupAgent cpu_util=83% m
+2026-07-19T05:37:17,498 (TomcatPool) exec-13015 [INFO] []in method: generateLicensseDetailsData | cpu_util=67% extra='xan095tfk63xnxp0asrwchji4sfe47g2nxm5x3td4v018einc'
+2026-07-19T05:37:17,896 (TomcatPool) exec-02842 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 endpoint=/api/v2/restore caller=ConfigManager cpu_util=7
+2026-07-19T05:37:17,947 (TomcatPool) exec-15287 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 cpu_util=32% mem_util=41% extra='bdiucxu11mr7mfvrqwi4'
+2026-07-19T05:37:20,649 (TomcatPool) exec-12151 [INFO] []In the method loadPropertiesFile | req_id=601715a819b2 endpoint=/api/v1/backup/create caller=WebServiceH
+2026-07-19T05:37:22,900 (TomcatPool) exec-08651 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/backup/create mem_util=72% extra='b9jnvscmi36l3moesb'
+2026-07-19T05:37:26,483 (TomcatPool) exec-18535 [INFO] []in method: generateLicensseDetailsData | cpu_util=35% extra='hp6k7tn81ineiaiuog2rsf33r4z0ygtfd48tkdgbs2462gbg7'
+2026-07-19T05:37:26,600 (TomcatPool) exec-16417 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 endpoint=/api/v2/restore cpu_util=57% extra='6oyg8zj4'
+2026-07-19T05:37:37,811 (TomcatPool) exec-11610 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 caller=TomcatAccessFilter extra='y6uhg4lakb8swctf1dq8t9x'
+2026-07-19T05:37:49,051 (TomcatPool) exec-13838 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/backup/create extra='jd6wj3txyqkvt55p8aonpksbhrqu818'
+2026-07-19T05:38:00,110 (TomcatPool) exec-07520 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=3ae745be2b6c endpoint=/api/v2/restore extra='o15fwdxgyjpm6vjmk'
+2026-07-19T05:38:00,579 (TomcatPool) exec-12500 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=TomcatAccessFilter cpu_util=62% extra='l9l7ajwp1okn01pjcqcc0g3'
+2026-07-19T05:38:12,829 (TomcatPool) exec-18344 [INFO] []in method: generateLicensseDetailsData | req_id=55011e28f2f6 endpoint=/api/v1/system/status caller=DbConnector
+2026-07-19T05:38:12,979 (TomcatPool) exec-02547 [INFO] []in method: generateLicensseDetailsData | req_id=bfa0d28df353 ip=192.168.1.50 endpoint=/metrics caller=ConfigMa
+2026-07-19T05:38:13,380 (TomcatPool) exec-17047 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | caller=TomcatAccessFilter extra='twzmun3gy9rv2romcum06qigsxthva6rbmqm'
+2026-07-19T05:40:43,380 (TomcatPool) exec-13623 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/backup/create mem_util=82% extra='1br6vqj8zardllc8jv'
+2026-07-19T05:40:58,708 (TomcatPool) exec-12009 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=8266b5d2a3c4 endpoint=/api/v2/restore caller=BackupAgent cpu_u
+2026-07-19T05:42:03,708 (TomcatPool) exec-02144 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/metrics caller=TomcatAccessFilter cpu_util=62% extra='1dit8'
+2026-07-19T05:42:04,182 (TomcatPool) exec-11239 [INFO] []in method: generateLicensseDetailsData | req_id=e1d9b2cdbd5b endpoint=/api/v2/restore caller=BackupAgent cpu_u
+2026-07-19T05:42:04,283 (TomcatPool) exec-11293 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=e9b8a3a8a161 ip=10.0.0.12 endpoint=/api/v1/backup/create cpu_u
+2026-07-19T05:42:04,292 (TomcatPool) exec-14527 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/metrics extra='ahu8t219hcv4auyu341iy50ln86xtgr8lhwf7vnas4h3'
+2026-07-19T05:44:28,292 (TomcatPool) exec-11056 [INFO] []In the method loadPropertiesFile | req_id=2dc21605ddfc endpoint=/api/v2/restore caller=WebServiceHelper 
+2026-07-19T05:46:24,292 (TomcatPool) exec-03791 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 caller=BackupAgent cpu_util=30% mem_util=82% extra='4'
+2026-07-19T05:46:28,971 (TomcatPool) exec-03678 [INFO] []In the method loadPropertiesFile | ip=192.168.2.115 endpoint=/metrics cpu_util=81% extra='xb3mufe7k50q7s'
+2026-07-19T05:46:34,557 (TomcatPool) exec-03633 [INFO] []in method: generateLicensseDetailsData | req_id=34df87b9c6e4 ip=192.168.1.50 mem_util=84% extra='koknsakorgdi7'
+2026-07-19T05:49:30,557 (TomcatPool) exec-04604 [INFO] []in method: generateLicensseDetailsData | req_id=ec022b9cdb14 endpoint=/api/v1/auth/login caller=BackupAgent me
+2026-07-19T05:49:30,695 (TomcatPool) exec-04110 [INFO] []In the method loadPropertiesFile | req_id=1c7e96432d08 endpoint=/api/v1/system/status caller=ConfigManag
+2026-07-19T05:49:41,696 (TomcatPool) exec-08196 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/backup/create mem_util=79% extra='jkidhshswwc2z6f6oq'
+2026-07-19T05:49:47,071 (TomcatPool) exec-07738 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 endpoint=/api/v2/restore cpu_util=66% mem_util=85%  
+2026-07-19T05:49:51,552 (TomcatPool) exec-04705 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | cpu_util=32% mem_util=80% extra='k2iubgjg7ogpce8ptz6tadghd965gy5qov6o'
+2026-07-19T05:49:51,832 (TomcatPool) exec-07327 [INFO] []in method: generateLicensseDetailsData | req_id=a047466df111 ip=192.168.1.50 endpoint=/api/v2/restore caller=C
+2026-07-19T05:49:52,146 (TomcatPool) exec-02165 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 caller=BackupAgent cpu_util=84% extra='olofs541ejuwsh'
+2026-07-19T06:01:52,146 (TomcatPool) exec-19153 [INFO] []In the method loadPropertiesFile | endpoint=/metrics caller=TomcatAccessFilter cpu_util=49% extra='ethqp'
+2026-07-19T06:02:04,843 (TomcatPool) exec-05781 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=46ceca01b1bf cpu_util=12% mem_util=48% extra='2oo6mfyj4dcx9qga'
+2026-07-19T06:02:10,090 (TomcatPool) exec-18542 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=af856b292d79 endpoint=/api/v2/restore cpu_util=36% extra='jzzv'
+2026-07-19T06:05:17,090 (TomcatPool) exec-11740 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 caller=BackupAgent mem_util=60% extra='dsz1dnh222q2k1'
+2026-07-19T06:05:17,517 (TomcatPool) exec-07730 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | caller=BackupAgent extra='9eieypnpv8otmwc2gtbv55p03symbgjjdh26g0y0wi0'
+2026-07-19T06:05:18,959 (TomcatPool) exec-05135 [INFO] []In the method loadPropertiesFile | req_id=3371bde80b31 ip=10.0.0.12 endpoint=/metrics extra='vpigg3j9ran'
+2026-07-19T06:05:32,466 (TomcatPool) exec-12747 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=fbeda51a0d3e ip=172.16.254.1 caller=TomcatAccessFilter cpu_uti
+2026-07-19T06:13:32,466 (TomcatPool) exec-02394 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=5c4ea0bdef0b endpoint=/api/v1/system/status caller=WebServiceH
+2026-07-19T06:13:32,733 (TomcatPool) exec-13913 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=ConfigManager cpu_util=40% mem_util=53% extra='egpl4t2t9yzru99'
+2026-07-19T06:13:33,159 (TomcatPool) exec-16078 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 extra='om4re816zwk7wubzzp1buc80pq99mt04wnyljuw3h7d719'
+2026-07-19T06:13:36,275 (TomcatPool) exec-19944 [INFO] []In the method loadPropertiesFile | endpoint=/api/v1/backup/create cpu_util=51% mem_util=41% extra='0bpk4'
+2026-07-19T06:13:38,725 (TomcatPool) exec-04617 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=ConfigManager extra='vkar2zph82h278cxa2ohma55mq35kc5i61xgh4f8m'
+2026-07-19T06:13:39,779 (TomcatPool) exec-04270 [INFO] []in method: generateLicensseDetailsData | req_id=5115e1156e63 cpu_util=73% extra='auvy2r9mkwuibojb6j635qwt5viwx'
+2026-07-19T06:17:24,779 (TomcatPool) exec-07391 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/auth/login caller=BackupAgent extra='0jg68uxpr8glru8'
+2026-07-19T06:19:29,779 (TomcatPool) exec-04986 [INFO] []In the method loadPropertiesFile | req_id=e3f4d77f3757 mem_util=51% extra='gwxpylzymluok05m0j8h2z5vk3oha'
+2026-07-19T06:20:29,779 (TomcatPool) exec-01042 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 endpoint=/api/v1/backup/create caller=TomcatAccessFilter
+2026-07-19T06:20:44,509 (TomcatPool) exec-06926 [INFO] []in method: generateLicensseDetailsData | caller=ConfigManager cpu_util=79% mem_util=87% extra='sfeasfwpkzyeovm'
+2026-07-19T06:20:50,269 (TomcatPool) exec-08824 [INFO] []in method: generateLicensseDetailsData | req_id=4d2a183ee871 ip=10.0.0.12 endpoint=/api/v2/restore caller=Back
+2026-07-19T06:23:42,269 (TomcatPool) exec-08029 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 endpoint=/api/v1/system/status caller=DbConnector       
+2026-07-19T06:23:47,324 (TomcatPool) exec-05532 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=d3733f42729e ip=10.0.0.12 endpoint=/api/v1/backup/create cpu_u
+2026-07-19T06:23:47,490 (TomcatPool) exec-07226 [INFO] []In the method loadPropertiesFile | ip=192.168.2.115 endpoint=/api/v1/system/status caller=BackupAgent   
+2026-07-19T06:23:47,547 (TomcatPool) exec-02698 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | mem_util=83% extra='nmqxl2kmsq3mgnbpcw50uljeeojxxqlpikah09rzyfgwxx520'
+2026-07-19T06:23:47,720 (TomcatPool) exec-16490 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=cdff3f9901da endpoint=/api/v1/backup/create caller=BackupAgent
+2026-07-19T06:23:47,724 (TomcatPool) exec-18140 [INFO] []In the method loadPropertiesFile | req_id=4fba4126366a endpoint=/api/v2/restore caller=TomcatAccessFilte
+2026-07-19T06:23:50,003 (TomcatPool) exec-09755 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 extra='mdfu8pf6efn74kttj2jt7lzlzu8i52i5za48ek3wu8f9u1cp0'
+2026-07-19T06:23:54,929 (TomcatPool) exec-12141 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=d961b7e79359 endpoint=/api/v1/backup/create extra='ihjg2jza2hl'
+2026-07-19T06:24:09,195 (TomcatPool) exec-02460 [INFO] []In the method loadPropertiesFile | req_id=f1bb8eeede07 endpoint=/metrics caller=ConfigManager extra='i6n'
+2026-07-19T06:24:11,208 (TomcatPool) exec-08261 [INFO] []in method: generateLicensseDetailsData | req_id=908c32a999e5 cpu_util=81% mem_util=86% extra='4jnawi26xu1luv15'
+2026-07-19T06:24:11,552 (TomcatPool) exec-15759 [INFO] []In the method loadPropertiesFile | req_id=01ed0431fd4f endpoint=/metrics caller=WebServiceHelper cpu_uti
+2026-07-19T06:24:11,995 (TomcatPool) exec-11520 [INFO] []in method: generateLicensseDetailsData | req_id=d8653903c489 ip=192.168.2.115 endpoint=/metrics caller=WebServ
+2026-07-19T06:24:27,446 (TomcatPool) exec-12311 [INFO] []in method: generateLicensseDetailsData | req_id=cba25d42814e endpoint=/api/v2/restore caller=BackupAgent      
+2026-07-19T06:24:27,747 (TomcatPool) exec-04987 [INFO] []in method: generateLicensseDetailsData | req_id=2374a64080fa ip=192.168.1.50 endpoint=/api/v1/auth/login cpu_u
+2026-07-19T06:27:06,747 (TomcatPool) exec-09178 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=f590710f8db1 endpoint=/api/v1/backup/create cpu_util=81% mem_u
+2026-07-19T06:27:08,345 (TomcatPool) exec-09405 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 endpoint=/metrics caller=BackupAgent cpu_util=46%    
+2026-07-19T06:27:08,480 (TomcatPool) exec-12947 [INFO] []In the method loadPropertiesFile | req_id=48509235c108 caller=DbConnector mem_util=63% extra='ygz8hbryzt'
+2026-07-19T06:27:23,202 (TomcatPool) exec-15639 [INFO] []In the method loadPropertiesFile | caller=DbConnector cpu_util=15% extra='qwl3suergwsdns0hz21qkkmc4c2uk0'
+2026-07-19T06:27:24,789 (TomcatPool) exec-10408 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=7a95ee60fcba ip=192.168.2.115 endpoint=/api/v1/backup/create c
+2026-07-19T06:27:24,831 (TomcatPool) exec-14465 [INFO] []In the method loadPropertiesFile | caller=ConfigManager cpu_util=53% mem_util=59% extra='41xusfglsbwnpid'
+2026-07-19T06:27:30,353 (TomcatPool) exec-12763 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=60c535c26fc4 ip=192.168.1.50 endpoint=/api/v1/backup/create cp
+2026-07-19T06:28:52,353 (TomcatPool) exec-14319 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=11c66f78498f ip=192.168.2.115 mem_util=89% extra='98xyqhg1m4k7'
+2026-07-19T06:31:11,353 (TomcatPool) exec-12208 [INFO] []In the method loadPropertiesFile | req_id=9441c9f0b469 endpoint=/api/v2/restore caller=WebServiceHelper 
+2026-07-19T06:31:15,907 (TomcatPool) exec-13535 [INFO] []in method: generateLicensseDetailsData | ip=192.168.2.115 endpoint=/api/v1/system/status extra='qfbyf9gwhpzre8'
+2026-07-19T06:31:19,125 (TomcatPool) exec-02884 [INFO] []in method: generateLicensseDetailsData | cpu_util=25% mem_util=59% extra='z1k25ptcrjkmxrrqapf2bexe5nm0lu9drrv3'
+2026-07-19T06:31:24,075 (TomcatPool) exec-16135 [INFO] []in method: generateLicensseDetailsData | req_id=993ca9a475bc endpoint=/api/v1/auth/login caller=BackupAgent   
+2026-07-19T06:31:24,222 (TomcatPool) exec-16184 [INFO] []In the method loadPropertiesFile | caller=ConfigManager cpu_util=77% mem_util=51% extra='u5e7z5i1avzin54'
+2026-07-19T06:31:28,001 (TomcatPool) exec-17043 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 endpoint=/api/v1/system/status cpu_util=26% extra='ysv1e'
+2026-07-19T06:31:30,325 (TomcatPool) exec-02430 [INFO] []in method: generateLicensseDetailsData | req_id=bd24dc97906e endpoint=/metrics caller=WebServiceHelper cpu_uti
+2026-07-19T06:33:10,325 (TomcatPool) exec-19709 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 mem_util=85% extra='87f91ye4z0jpoqg7iz8zj53n29l0b2ftc'
+2026-07-19T06:33:10,792 (TomcatPool) exec-05475 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=d111d90809bf ip=172.16.254.1 endpoint=/api/v1/backup/create me
+2026-07-19T06:33:11,194 (TomcatPool) exec-15299 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 endpoint=/api/v1/backup/create caller=DbConnector       
+2026-07-19T06:33:11,229 (TomcatPool) exec-15198 [INFO] []in method: generateLicensseDetailsData | req_id=d9bead2cea26 ip=192.168.1.50 endpoint=/api/v1/backup/create ca
+2026-07-19T06:37:02,229 (TomcatPool) exec-11911 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/backup/create mem_util=78% extra='zlfx1t49n3qmu9gwu9'
+2026-07-19T06:37:02,476 (TomcatPool) exec-03074 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=2b15fe068ac8 ip=172.16.254.1 extra='46p75c5xqdhssj7urvgwvk2vky'
+2026-07-19T06:37:06,420 (TomcatPool) exec-18884 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=TomcatAccessFilter cpu_util=82% extra='rhzlqho3he99n27y8neiwa9'
+2026-07-19T06:37:10,194 (TomcatPool) exec-09607 [INFO] []in method: generateLicensseDetailsData | req_id=601fb108bf78 extra='fn95xuxzqpskfp8jviuzkv5m3vacz9mc9pijne7yp1'
+2026-07-19T06:37:10,337 (TomcatPool) exec-06176 [INFO] []in method: generateLicensseDetailsData | caller=TomcatAccessFilter cpu_util=34% mem_util=51% extra='q8pbzpsvi2'
+2026-07-19T06:37:23,010 (TomcatPool) exec-04313 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=329c6c46966b ip=192.168.1.50 caller=TomcatAccessFilter        
+2026-07-19T06:37:23,092 (TomcatPool) exec-16333 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 cpu_util=11% mem_util=76% extra='u2zsqevpd701yyn8n5i4'
+2026-07-19T06:37:23,385 (TomcatPool) exec-01075 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 caller=DbConnector mem_util=88% extra='e03i4xpkmkirmd'
+2026-07-19T06:37:25,708 (TomcatPool) exec-16379 [INFO] []in method: generateLicensseDetailsData | req_id=fc88d5dad5ea ip=192.168.2.115 endpoint=/api/v1/backup/create c
+2026-07-19T06:37:29,538 (TomcatPool) exec-08550 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 caller=BackupAgent cpu_util=35% mem_util=56% extra='v'
+2026-07-19T06:47:29,538 (TomcatPool) exec-11047 [INFO] []In the method loadPropertiesFile | req_id=bf1509264a82 caller=BackupAgent cpu_util=15% mem_util=53%     
+2026-07-19T06:47:29,909 (TomcatPool) exec-15332 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v2/restore mem_util=32% extra='vje05ztorzxi104chazag6ex'
+2026-07-19T06:47:30,954 (TomcatPool) exec-02270 [INFO] []in method: generateLicensseDetailsData | req_id=11a8b62d0e5b ip=192.168.1.50 endpoint=/api/v1/auth/login cpu_u
+2026-07-19T06:47:33,217 (TomcatPool) exec-08945 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | trace_id=77ccd36ed0bc4d96 extra='a9sol5oul58977in0b359a7yfg9e24w28ikp'
+2026-07-19T06:47:35,891 (TomcatPool) exec-06493 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | caller=WebServiceHelper cpu_util=27% mem_util=54% extra='x84xk11xv6rq'
+2026-07-19T06:47:50,078 (TomcatPool) exec-04699 [INFO] []in method: generateLicensseDetailsData | req_id=f8dcd9cae32d ip=10.0.0.12 caller=WebServiceHelper extra='bindt'
+2026-07-19T06:47:54,154 (TomcatPool) exec-14068 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=9b6e84e7dc6c endpoint=/api/v1/backup/create cpu_util=10% mem_u
+2026-07-19T06:47:56,658 (TomcatPool) exec-02340 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | mem_util=38% extra='wgefadtu5qnjtpo5w6uyx3cqc72z8mccgtk5g068s583u23k5'
+2026-07-19T06:47:56,734 (TomcatPool) exec-08610 [INFO] []in method: generateLicensseDetailsData | req_id=4b69b696226e ip=192.168.1.50 endpoint=/api/v1/auth/login      
+2026-07-19T06:48:01,612 (TomcatPool) exec-12702 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | cpu_util=59% mem_util=73% extra='xvkotuxqz8f80pb613ucbxl0bm68wkxdpb3a'
+2026-07-19T06:48:11,947 (TomcatPool) exec-18977 [INFO] []In the method loadPropertiesFile | endpoint=/api/v1/system/status caller=BackupAgent extra='1y0bswn5ctmn'
+2026-07-19T06:48:16,444 (TomcatPool) exec-11353 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=7cd9f72c9c2a ip=192.168.1.50 endpoint=/api/v2/restore caller=B
+2026-07-19T06:48:21,425 (TomcatPool) exec-19550 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 endpoint=/metrics caller=WebServiceHelper cpu_util=43
+2026-07-19T06:49:58,425 (TomcatPool) exec-04341 [INFO] []in method: generateLicensseDetailsData | req_id=50a4423dff99 cpu_util=65% mem_util=33% extra='ke8roba0isukdmqb'
+2026-07-19T06:53:14,425 (TomcatPool) exec-05227 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=d0f377efc696 ip=192.168.2.115 endpoint=/api/v1/auth/login cpu_
+2026-07-19T06:53:14,720 (TomcatPool) exec-16208 [INFO] []In the method loadPropertiesFile | req_id=6affb0f36a23 ip=192.168.2.115 caller=DbConnector extra='ok9l6s'
+2026-07-19T06:53:20,480 (TomcatPool) exec-06736 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/backup/create caller=BackupAgent cpu_util=52%       
+2026-07-19T06:53:26,011 (TomcatPool) exec-10136 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=6fc24c0d170a cpu_util=82% mem_util=77% extra='amdehr9cudlpnyds'
+2026-07-19T06:53:31,924 (TomcatPool) exec-15708 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=0d5c9053a717 endpoint=/metrics cpu_util=72% mem_util=39%      
+2026-07-19T06:56:44,924 (TomcatPool) exec-08113 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v2/restore caller=ConfigManager mem_util=40% extra='4no'
+2026-07-19T06:56:45,283 (TomcatPool) exec-10170 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 caller=WebServiceHelper mem_util=41% extra='6tyczwfgd'
+2026-07-19T06:56:45,296 (TomcatPool) exec-19092 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 caller=DbConnector cpu_util=79% mem_util=45% extra='t'
+2026-07-19T07:02:45,296 (TomcatPool) exec-08066 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 caller=DbConnector cpu_util=51% extra='f1ge98fuy53ukw'
+2026-07-19T07:02:49,451 (TomcatPool) exec-11224 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/auth/login caller=ConfigManager cpu_util=68%        
+2026-07-19T07:04:19,451 (TomcatPool) exec-12098 [INFO] []in method: generateLicensseDetailsData | ip=192.168.2.115 endpoint=/metrics cpu_util=27% extra='qjwze0uzb2cl66'
+2026-07-19T07:05:43,451 (TomcatPool) exec-09971 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 endpoint=/metrics cpu_util=31% mem_util=70% extra='y'
+2026-07-19T07:09:18,451 (TomcatPool) exec-06980 [INFO] []In the method loadPropertiesFile | req_id=b61bf7ab8858 endpoint=/api/v1/backup/create caller=DbConnector
+2026-07-19T07:09:20,229 (TomcatPool) exec-02169 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=faa3e485ffb8 endpoint=/api/v1/backup/create cpu_util=69% mem_u
+2026-07-19T07:09:24,030 (TomcatPool) exec-01527 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=d6cdea48a274 endpoint=/api/v1/auth/login mem_util=74% extra='1'
+2026-07-19T07:09:35,089 (TomcatPool) exec-10310 [INFO] []In the method loadPropertiesFile | req_id=59199d67cf6b endpoint=/api/v1/backup/create caller=TomcatAcces
+2026-07-19T07:11:14,089 (TomcatPool) exec-15550 [INFO] []in method: generateLicensseDetailsData | endpoint=/metrics caller=WebServiceHelper mem_util=90% extra='ce22wvk'
+2026-07-19T07:11:27,391 (TomcatPool) exec-04614 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=27e2050c8364 endpoint=/api/v1/auth/login mem_util=87% extra='q'
+2026-07-19T07:11:32,706 (TomcatPool) exec-17039 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 caller=DbConnector mem_util=67% extra='20tr3sungpdoxmiyr'
+2026-07-19T07:11:34,115 (TomcatPool) exec-05679 [INFO] []in method: generateLicensseDetailsData | req_id=3624cea2df90 ip=192.168.1.50 endpoint=/api/v2/restore extra='m'
+2026-07-19T07:11:36,259 (TomcatPool) exec-05163 [INFO] []in method: generateLicensseDetailsData | caller=DbConnector extra='u1gsjyjt6qq4rzz1n1l1dbothqob1d7ryvk1myqizlm'
+2026-07-19T07:11:36,342 (TomcatPool) exec-19929 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=707f5c983adc caller=ConfigManager mem_util=85% extra='texyyrpm'
+2026-07-19T07:11:36,633 (TomcatPool) exec-17743 [INFO] []In the method loadPropertiesFile | ip=192.168.1.50 cpu_util=73% extra='lxbc165jv7tno3ybh8xzlm48knnsic1h1'
+2026-07-19T07:11:37,659 (TomcatPool) exec-01540 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 cpu_util=50% mem_util=36% extra='pa5nhm33wp21rgvu3zpi'
+2026-07-19T07:13:04,659 (TomcatPool) exec-06540 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=17a6918fe656 ip=192.168.2.115 caller=WebServiceHelper cpu_util
+2026-07-19T07:16:52,659 (TomcatPool) exec-18873 [INFO] []In the method loadPropertiesFile | req_id=3dc456977ac2 endpoint=/api/v1/backup/create cpu_util=30% mem_u
+2026-07-19T07:16:52,734 (TomcatPool) exec-16589 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 endpoint=/metrics caller=WebServiceHelper mem_util=5
+2026-07-19T07:16:58,477 (TomcatPool) exec-09547 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 caller=ConfigManager extra='kwnasbftzopf6rdnnl078i57a'
+2026-07-19T07:17:02,840 (TomcatPool) exec-09358 [INFO] []In the method loadPropertiesFile | req_id=1f0d299365da endpoint=/api/v1/system/status cpu_util=24% mem_u
+2026-07-19T07:19:02,840 (TomcatPool) exec-12145 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 caller=DbConnector mem_util=56% extra='pku8u26r8voqh'
+2026-07-19T07:19:02,950 (TomcatPool) exec-05748 [INFO] []In the method loadPropertiesFile | req_id=37fcc2b086d3 cpu_util=83% extra='ctowfeb03mjlm6a0lon5rfebvjdho'
+2026-07-19T07:19:03,318 (TomcatPool) exec-03653 [INFO] []in method: generateLicensseDetailsData | ip=10.0.0.12 caller=BackupAgent cpu_util=52% mem_util=74% extra='0v0z'
+2026-07-19T07:20:55,318 (TomcatPool) exec-15030 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=3968dcd0d1d5 caller=ConfigManager cpu_util=68% mem_util=47%   
+2026-07-19T07:21:06,542 (TomcatPool) exec-01243 [INFO] []in method: generateLicensseDetailsData | ip=10.0.0.12 endpoint=/api/v1/backup/create caller=DbConnector cpu_ut
+2026-07-19T07:21:22,111 (TomcatPool) exec-06129 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/auth/login caller=DbConnector mem_util=71% extra='0g'
+2026-07-19T07:21:22,532 (TomcatPool) exec-15758 [INFO] []in method: generateLicensseDetailsData | req_id=8b6cb6350c48 ip=192.168.2.115 endpoint=/api/v1/backup/create c
+2026-07-19T07:21:23,004 (TomcatPool) exec-14264 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 endpoint=/metrics cpu_util=18% mem_util=34% extra='bo'
+2026-07-19T07:21:23,456 (TomcatPool) exec-03923 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/system/status cpu_util=77% extra='keutvqnsrjhrnyw17j'
+2026-07-19T07:21:27,693 (TomcatPool) exec-09040 [INFO] []in method: generateLicensseDetailsData | req_id=ba88efc0e6bc ip=10.0.0.12 endpoint=/api/v1/auth/login mem_util
+2026-07-19T07:21:28,153 (TomcatPool) exec-03582 [INFO] []In the method loadPropertiesFile | endpoint=/api/v1/system/status caller=DbConnector mem_util=66%       
+2026-07-19T07:21:34,091 (TomcatPool) exec-17600 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/system/status caller=ConfigManager cpu_util=79%     
+2026-07-19T07:21:34,324 (TomcatPool) exec-19143 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 endpoint=/api/v1/backup/create caller=ConfigManager cpu_
+2026-07-19T07:21:37,851 (TomcatPool) exec-15713 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/backup/create cpu_util=82% mem_util=64% extra='7e7r8'
+2026-07-19T07:21:48,868 (TomcatPool) exec-17568 [INFO] []In the method loadPropertiesFile | req_id=20de9e173bd2 endpoint=/api/v1/system/status caller=BackupAgent
+2026-07-19T07:21:53,350 (TomcatPool) exec-09210 [INFO] []in method: generateLicensseDetailsData | ip=10.0.0.12 endpoint=/api/v2/restore caller=WebServiceHelper        
+2026-07-19T07:21:53,786 (TomcatPool) exec-03354 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 endpoint=/api/v1/auth/login caller=BackupAgent mem_util=
+2026-07-19T07:21:54,209 (TomcatPool) exec-16294 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v2/restore caller=ConfigManager mem_util=68% extra='vks'
+2026-07-19T07:21:55,220 (TomcatPool) exec-01793 [INFO] []In the method loadPropertiesFile | req_id=94b0fdde740e ip=192.168.1.50 mem_util=33% extra='7d47ao9cg41cu'
+2026-07-19T07:21:57,687 (TomcatPool) exec-06643 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.2.115 caller=DbConnector cpu_util=12% extra='rqp77rmmn3159'
+2026-07-19T07:22:02,632 (TomcatPool) exec-17004 [INFO] []in method: generateLicensseDetailsData | req_id=0d5768e55eb3 extra='8fdwip6xv3xx04ohxd5l988o1pewd6stfi1tnlhlhb'
+2026-07-19T07:22:18,583 (TomcatPool) exec-15614 [INFO] []In the method loadPropertiesFile | req_id=53efeeef8092 caller=WebServiceHelper cpu_util=46% extra='hi2u1'
+2026-07-19T07:22:18,649 (TomcatPool) exec-09973 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=f7db679bf80e mem_util=59% extra='t93ixsykuj4d24xewnm0zvzghfzwy'
+2026-07-19T07:22:18,919 (TomcatPool) exec-05265 [INFO] []in method: generateLicensseDetailsData | endpoint=/metrics caller=TomcatAccessFilter extra='bmg0f00uuvahfbnsu6'
+2026-07-19T07:22:24,570 (TomcatPool) exec-19830 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | cpu_util=62% extra='wpxgut3gyut2zcb572hs3ny930lpuubmk1as6zdzi62tzpll8'
+2026-07-19T07:22:25,004 (TomcatPool) exec-19760 [INFO] []In the method loadPropertiesFile | cpu_util=77% mem_util=90% extra='ljn87m5rjedpg2qxtk2c8s6kxgsbcjapte1l'
+2026-07-19T07:22:30,860 (TomcatPool) exec-11058 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.2.115 mem_util=44% extra='uf5rjc1txxmxm9thgdnd2rjuzpn12w30'
+2026-07-19T07:22:33,869 (TomcatPool) exec-12132 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=8bd69a7c4245 endpoint=/api/v1/auth/login caller=ConfigManager 
+2026-07-19T07:24:38,869 (TomcatPool) exec-10719 [INFO] []in method: generateLicensseDetailsData | req_id=57b14c829664 ip=10.0.0.12 endpoint=/api/v1/backup/create calle
+2026-07-19T07:24:39,257 (TomcatPool) exec-05533 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | caller=DbConnector extra='87vzq6ah8n29u8z1cv84ztgj5wpninq3c9b7eb159pd'
+2026-07-19T07:24:39,362 (TomcatPool) exec-16006 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=3a517933b4b1 endpoint=/api/v1/system/status cpu_util=66%      
+2026-07-19T07:24:51,476 (TomcatPool) exec-14578 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=af4398714dee mem_util=64% extra='m5on1ekbr7jtrhkg47xnjtgw3cq0r'
+2026-07-19T07:24:55,820 (TomcatPool) exec-12031 [INFO] []in method: generateLicensseDetailsData | req_id=26c1700ed116 ip=10.0.0.12 cpu_util=68% mem_util=45% extra='vga'
+2026-07-19T07:24:56,028 (TomcatPool) exec-16797 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=d985a2538db8 extra='3d2939z1ns7lo0zyq3e8e9yxxb3mlxqpl6pz1mxpxh'
+2026-07-19T07:33:56,028 (TomcatPool) exec-12999 [INFO] []In the method loadPropertiesFile | cpu_util=71% extra='xnnliazbow0j4z7pxne7myoxualhfjn63kayd2asopolzo1yh'
+2026-07-19T07:34:11,942 (TomcatPool) exec-06348 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 endpoint=/api/v2/restore caller=ConfigManager mem_uti
+2026-07-19T07:34:17,136 (TomcatPool) exec-06078 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 caller=BackupAgent cpu_util=33% extra='t80xqqzapdp7z8'
+2026-07-19T07:38:14,136 (TomcatPool) exec-12421 [INFO] []In the method loadPropertiesFile | req_id=4847988590df caller=DbConnector cpu_util=84% extra='nvtebypidq'
+2026-07-19T07:38:27,577 (TomcatPool) exec-08816 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=ad2c83945229 caller=ConfigManager mem_util=57% extra='4h0ryp7u'
+2026-07-19T07:38:32,513 (TomcatPool) exec-15899 [INFO] []In the method loadPropertiesFile | req_id=a9c2fe0d8ea3 endpoint=/api/v1/backup/create cpu_util=28%      
+2026-07-19T07:38:32,663 (TomcatPool) exec-19214 [INFO] []in method: generateLicensseDetailsData | req_id=f4da66e5a0b1 caller=DbConnector extra='d9t8awwf2xycpnar1iuwy5y'
+2026-07-19T07:41:58,663 (TomcatPool) exec-03469 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=5973707d1289 caller=DbConnector extra='2hhf3alzcbzv108jsn7mu83'
+2026-07-19T07:42:10,148 (TomcatPool) exec-14565 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=09ae61e190f3 endpoint=/api/v1/system/status caller=WebServiceH
+2026-07-19T07:47:10,148 (TomcatPool) exec-19194 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=276c635bf772 ip=192.168.2.115 extra='46x7jka46h9pl2krawyszgerr'
+2026-07-19T07:47:13,959 (TomcatPool) exec-11191 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/backup/create cpu_util=21% extra='oesi60uswd01j5sjxw'
+2026-07-19T07:49:09,959 (TomcatPool) exec-17439 [INFO] []In the method loadPropertiesFile | req_id=56dc94637c11 ip=10.0.0.12 cpu_util=47% mem_util=89% extra='vow'
+2026-07-19T07:49:20,469 (TomcatPool) exec-16823 [INFO] []in method: generateLicensseDetailsData | req_id=1bdf56855720 cpu_util=18% extra='jqtl79kmatqkrq1v7qemp6fkb3puv'
+2026-07-19T07:49:34,897 (TomcatPool) exec-01782 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 extra='kpqkd07o6y1bmt7pee994jyscilrwkyx5n5hqpk77shdrjf0j'
+2026-07-19T07:49:37,928 (TomcatPool) exec-11955 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=f65e69750071 extra='80kw40sfcm4a7z9rdjfgzp4nglris6mslvlnrwwoyk'
+2026-07-19T07:49:43,526 (TomcatPool) exec-19141 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 endpoint=/api/v1/backup/create cpu_util=40% extra='2c'
+2026-07-19T07:50:59,526 (TomcatPool) exec-11466 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/auth/login caller=TomcatAccessFilter cpu_util=80% me
+2026-07-19T07:51:15,454 (TomcatPool) exec-09085 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/backup/create caller=DbConnector mem_util=57%       
+2026-07-19T07:51:16,796 (TomcatPool) exec-18675 [INFO] []In the method loadPropertiesFile | ip=192.168.1.50 mem_util=44% extra='kszu4r6623g5k7oda3xb4ijjf8hu5nmr7'
+2026-07-19T07:55:02,796 (TomcatPool) exec-17571 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | mem_util=53% extra='tq6guah2fk1pt1msknd9gglbtmei42xocyjj4ssuk07oc4fmr'
+2026-07-19T07:55:07,813 (TomcatPool) exec-13465 [INFO] []in method: generateLicensseDetailsData | ip=10.0.0.12 mem_util=41% extra='71h6bnjnnu9gg31pguaa3kxhd87crq781tbo'
+2026-07-19T07:55:07,983 (TomcatPool) exec-08167 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=7ac5af7d40f2 cpu_util=85% extra='s0p5y9uiaku4pqhn8svqo6b7nplev'
+2026-07-19T07:55:10,594 (TomcatPool) exec-05954 [INFO] []In the method loadPropertiesFile | req_id=0f961b597ffa ip=10.0.0.12 endpoint=/api/v2/restore caller=WebS
+2026-07-19T07:55:12,457 (TomcatPool) exec-15039 [INFO] []In the method loadPropertiesFile | req_id=f38b2a4e7d11 endpoint=/api/v1/auth/login caller=ConfigManager 
+2026-07-19T07:56:12,457 (TomcatPool) exec-07913 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/auth/login caller=ConfigManager cpu_util=76% mem_uti
+2026-07-19T07:56:12,526 (TomcatPool) exec-19193 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 endpoint=/api/v1/system/status caller=DbConnector cp
+2026-07-19T07:56:12,714 (TomcatPool) exec-11690 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 endpoint=/metrics caller=BackupAgent cpu_util=48%    
+2026-07-19T07:56:14,436 (TomcatPool) exec-19931 [INFO] []In the method loadPropertiesFile | ip=192.168.2.115 mem_util=78% extra='ahv0hyghohheb6g9b3qmghpnngghv4ip'
+2026-07-19T07:56:19,328 (TomcatPool) exec-17825 [INFO] []in method: generateLicensseDetailsData | req_id=73cb3f061ae2 ip=172.16.254.1 endpoint=/api/v2/restore mem_util
+2026-07-19T07:56:30,533 (TomcatPool) exec-06542 [INFO] []in method: generateLicensseDetailsData | trace_id=810ba04e74ab490d extra='rp2kwikb4qwb0muv6ud96xdm0xaxzyuis3u4'
+2026-07-19T07:56:35,103 (TomcatPool) exec-13836 [INFO] []in method: generateLicensseDetailsData | req_id=4fd5220652c7 ip=10.0.0.12 endpoint=/api/v2/restore extra='b5dl'
+2026-07-19T07:56:35,142 (TomcatPool) exec-11590 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/system/status extra='e8ovgs0dhik1syqqwnephsr98g7jmmp'
+2026-07-19T08:03:35,142 (TomcatPool) exec-18287 [INFO] []in method: generateLicensseDetailsData | req_id=fb626490730a endpoint=/api/v2/restore cpu_util=78% extra='u8c7'
+2026-07-19T08:03:35,636 (TomcatPool) exec-19961 [INFO] []in method: generateLicensseDetailsData | req_id=eb9354020b7e ip=192.168.1.50 endpoint=/api/v1/auth/login calle
+2026-07-19T08:03:38,357 (TomcatPool) exec-06638 [INFO] []in method: generateLicensseDetailsData | req_id=bf8a6070fba1 caller=ConfigManager cpu_util=58% mem_util=67%   
+2026-07-19T08:03:38,395 (TomcatPool) exec-12411 [INFO] []In the method loadPropertiesFile | req_id=6441033b274d ip=172.16.254.1 extra='absp73yba2hiva6ar7t6pjxiak'
+2026-07-19T08:03:44,152 (TomcatPool) exec-10114 [INFO] []In the method loadPropertiesFile | ip=192.168.1.50 endpoint=/api/v2/restore cpu_util=27% extra='odv2zsc8'
+2026-07-19T08:03:55,042 (TomcatPool) exec-06766 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=936fa451c668 endpoint=/api/v2/restore extra='6bdkusn3wmz33z5kc'
+2026-07-19T08:04:07,933 (TomcatPool) exec-02429 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=f6328b2bf253 caller=DbConnector mem_util=75% extra='0xqj7zdr7c'
+2026-07-19T08:04:08,164 (TomcatPool) exec-18557 [INFO] []in method: generateLicensseDetailsData | req_id=76f1afae44d7 endpoint=/api/v1/auth/login caller=WebServiceHelp
+2026-07-19T08:04:10,203 (TomcatPool) exec-14503 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=10.0.0.12 caller=DbConnector mem_util=72% extra='0hggpsr54bri14es7'
+2026-07-19T08:06:53,203 (TomcatPool) exec-16658 [INFO] []in method: generateLicensseDetailsData | endpoint=/metrics extra='s92wi66r76ohl3f1f6gasp050kg5pqg8e3truopoc2lr'
+2026-07-19T08:06:55,539 (TomcatPool) exec-07295 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=aada559a9135 ip=10.0.0.12 endpoint=/api/v1/backup/create calle
+2026-07-19T08:06:55,925 (TomcatPool) exec-08317 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=40e7c17523f5 ip=10.0.0.12 endpoint=/api/v1/auth/login cpu_util
+2026-07-19T08:07:01,454 (TomcatPool) exec-15094 [INFO] []in method: generateLicensseDetailsData | req_id=2edec7517b25 endpoint=/api/v1/auth/login mem_util=64% extra='h'
+2026-07-19T08:07:15,681 (TomcatPool) exec-18809 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=e3cee5cbad59 extra='6ds4i6dfikz6xlx72de5mzcryfjndu5g076d4693e9'
+2026-07-19T08:07:16,173 (TomcatPool) exec-17992 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 cpu_util=60% extra='sl7prj81op95o32cp2b52x75talhdyv2z'
+2026-07-19T08:07:18,223 (TomcatPool) exec-05182 [INFO] []In the method loadPropertiesFile | ip=192.168.2.115 cpu_util=34% extra='og8xt8kdn3xoow42cizlm9d76yrthpn6'
+2026-07-19T08:07:32,658 (TomcatPool) exec-09410 [INFO] []in method: generateLicensseDetailsData | req_id=b595bf60a421 ip=172.16.254.1 caller=WebServiceHelper mem_util=
+2026-07-19T08:07:33,119 (TomcatPool) exec-18904 [INFO] []In the method loadPropertiesFile | endpoint=/api/v1/backup/create extra='e6q5o9x0hl2s3n0oy0ps8ld17orrgyk'
+2026-07-19T08:07:33,618 (TomcatPool) exec-14473 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 endpoint=/api/v1/backup/create caller=DbConnector cpu
+2026-07-19T08:09:59,618 (TomcatPool) exec-18953 [INFO] []In the method loadPropertiesFile | req_id=5e215df59791 caller=TomcatAccessFilter mem_util=52% extra='bsb'
+2026-07-19T08:10:02,538 (TomcatPool) exec-06744 [INFO] []in method: generateLicensseDetailsData | caller=ConfigManager mem_util=51% extra='rq1fs0dky80d62axwlmgmj6ze5uv'
+2026-07-19T08:10:02,634 (TomcatPool) exec-07630 [INFO] []in method: generateLicensseDetailsData | req_id=084c0082d52a ip=172.16.254.1 caller=ConfigManager extra='tlijc'
+2026-07-19T08:18:02,634 (TomcatPool) exec-13602 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 endpoint=/api/v1/system/status caller=ConfigManager  
+2026-07-19T08:18:02,856 (TomcatPool) exec-15851 [INFO] []In the method loadPropertiesFile | endpoint=/metrics cpu_util=66% mem_util=43% extra='yswta81zlxsyseyfvu'
+2026-07-19T08:18:13,808 (TomcatPool) exec-14872 [INFO] []in method: generateLicensseDetailsData | req_id=4c7b32e48a55 caller=TomcatAccessFilter cpu_util=19% mem_util=5
+2026-07-19T08:18:18,341 (TomcatPool) exec-13591 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=f41ec927f27d endpoint=/api/v1/system/status caller=BackupAgent
+2026-07-19T08:18:30,593 (TomcatPool) exec-03839 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=403c2e0ae9d1 ip=192.168.2.115 caller=BackupAgent cpu_util=52% 
+2026-07-19T08:18:41,190 (TomcatPool) exec-15037 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 cpu_util=16% mem_util=42% extra='bnqxvme7n0e9kfr3sxzr'
+2026-07-19T08:18:41,359 (TomcatPool) exec-11536 [INFO] []In the method loadPropertiesFile | req_id=c03d83767182 ip=10.0.0.12 endpoint=/api/v1/auth/login caller=B
+2026-07-19T08:18:56,340 (TomcatPool) exec-01125 [INFO] []In the method loadPropertiesFile | req_id=c9c30bfed7da ip=10.0.0.12 caller=BackupAgent cpu_util=32% mem_
+2026-07-19T08:19:08,364 (TomcatPool) exec-06230 [INFO] []in method: generateLicensseDetailsData | req_id=b78610d9f04a mem_util=38% extra='ct58575k4dzls8hf213yaltquwcpr'
+2026-07-19T08:31:08,364 (TomcatPool) exec-14795 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=ConfigManager extra='7th4ltgzk7tofnoj7518ftplomogmsadisdbi5ayo'
+2026-07-19T08:31:10,495 (TomcatPool) exec-06173 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=DbConnector mem_util=54% extra='tbfglgumw1raa7gj5lcplroz5enzia'
+2026-07-19T08:31:10,724 (TomcatPool) exec-08096 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=ce9514cd8928 ip=192.168.1.50 endpoint=/api/v1/auth/login cpu_u
+2026-07-19T08:31:10,879 (TomcatPool) exec-12522 [INFO] []in method: generateLicensseDetailsData | cpu_util=60% extra='jfhqshv4oy5r9ppd4aqgk56rj2oge5tag63clwzw7xk8d321a'
+2026-07-19T08:31:10,984 (TomcatPool) exec-03122 [INFO] []In the method loadPropertiesFile | endpoint=/api/v1/system/status cpu_util=46% mem_util=69% extra='medzh'
+2026-07-19T08:31:24,469 (TomcatPool) exec-10122 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=8c0712d8ea15 ip=192.168.1.50 endpoint=/metrics extra='ugpcqye0'
+2026-07-19T08:31:24,563 (TomcatPool) exec-08928 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | cpu_util=39% extra='e7t5xvih69g8e5gyrn2k4mh229urs8colq86zkvmbd0pnazat'
+2026-07-19T08:31:24,676 (TomcatPool) exec-03753 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=6da3fa996d3f ip=10.0.0.12 mem_util=45% extra='zz2zo6ldblrgfe48'
+2026-07-19T08:31:28,961 (TomcatPool) exec-02028 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | caller=BackupAgent extra='lv06mxhq2y6kziruyp4dv4nl1m8hlmzkfk3kd2hyx8z'
+2026-07-19T08:33:20,961 (TomcatPool) exec-12535 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=9de5b405a167 endpoint=/api/v1/auth/login cpu_util=32% extra='t'
+2026-07-19T08:33:21,445 (TomcatPool) exec-02761 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 caller=BackupAgent cpu_util=62% extra='nuolhbs7d9f7i2l8f'
+2026-07-19T08:33:22,677 (TomcatPool) exec-15569 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=10.0.0.12 endpoint=/api/v2/restore cpu_util=71% mem_util=45%      
+2026-07-19T08:33:28,204 (TomcatPool) exec-04470 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=5dd2974f5e91 caller=ConfigManager cpu_util=71% extra='j4er0wk1'
+2026-07-19T08:33:28,657 (TomcatPool) exec-16750 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=8d7c9b389d94 endpoint=/api/v2/restore caller=WebServiceHelper 
+2026-07-19T08:33:28,927 (TomcatPool) exec-14612 [INFO] []in method: generateLicensseDetailsData | req_id=0c8efb53d31f ip=172.16.254.1 caller=TomcatAccessFilter cpu_uti
+2026-07-19T08:33:29,084 (TomcatPool) exec-03349 [INFO] []in method: generateLicensseDetailsData | req_id=f59e1233b3f0 caller=DbConnector cpu_util=70% mem_util=79%     
+2026-07-19T08:33:29,518 (TomcatPool) exec-13948 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=dc65ac53bb37 cpu_util=12% mem_util=53% extra='t8u4rt6g2iw3zr6u'
+2026-07-19T08:33:29,917 (TomcatPool) exec-07034 [INFO] []In the method loadPropertiesFile | req_id=03c16d3bf5d6 cpu_util=10% mem_util=33% extra='6tqtym4a6buv7jvy'
+2026-07-19T08:33:33,192 (TomcatPool) exec-12476 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 endpoint=/api/v2/restore caller=ConfigManager cpu_util=4
+2026-07-19T08:35:43,192 (TomcatPool) exec-07171 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=612f6d20743a endpoint=/api/v2/restore extra='5a8huugc6tvqaiivm'
+2026-07-19T08:35:54,699 (TomcatPool) exec-16354 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=b15e46235652 endpoint=/api/v1/backup/create caller=BackupAgent
+2026-07-19T08:35:54,845 (TomcatPool) exec-01470 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/system/status cpu_util=17% mem_util=62% extra='dkpqj'
+2026-07-19T08:37:40,845 (TomcatPool) exec-08346 [INFO] []in method: generateLicensseDetailsData | req_id=43b8e1ac4f4c ip=172.16.254.1 endpoint=/api/v1/backup/create me
+2026-07-19T08:37:43,412 (TomcatPool) exec-19039 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 endpoint=/api/v1/system/status mem_util=60% extra='q3'
+2026-07-19T08:37:49,132 (TomcatPool) exec-09397 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=844fc0aaaf3a endpoint=/api/v1/auth/login cpu_util=62% mem_util
+2026-07-19T08:37:52,393 (TomcatPool) exec-15022 [INFO] []in method: generateLicensseDetailsData | req_id=868ad8f7be4d ip=192.168.1.50 endpoint=/api/v1/backup/create me
+2026-07-19T08:37:52,693 (TomcatPool) exec-09671 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 endpoint=/api/v1/system/status extra='ikzx0y7htcj48gto51'
+2026-07-19T08:37:52,750 (TomcatPool) exec-16062 [INFO] []in method: generateLicensseDetailsData | req_id=01dfe90c8658 endpoint=/api/v1/auth/login caller=TomcatAccessFi
+2026-07-19T08:37:52,764 (TomcatPool) exec-01132 [INFO] []In the method loadPropertiesFile | req_id=7ba23ecb8b97 extra='k5w80awwa1ozh20w7cryzkyylnbt59b1qqzq8qhtbk'
+2026-07-19T08:38:03,479 (TomcatPool) exec-19408 [INFO] []In the method loadPropertiesFile | endpoint=/api/v1/backup/create cpu_util=52% mem_util=39% extra='kaah7'
+2026-07-19T08:40:25,479 (TomcatPool) exec-02394 [INFO] []In the method loadPropertiesFile | req_id=b77fa19797ec ip=10.0.0.12 endpoint=/api/v1/system/status cpu_u
+2026-07-19T08:40:30,275 (TomcatPool) exec-14559 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/system/status caller=TomcatAccessFilter mem_util=33%
+2026-07-19T08:40:33,740 (TomcatPool) exec-07121 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 endpoint=/api/v1/auth/login cpu_util=67% extra='giwde'
+2026-07-19T08:40:36,585 (TomcatPool) exec-19995 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=6bc7c8106b0d endpoint=/api/v2/restore caller=ConfigManager cpu
+2026-07-19T08:40:36,692 (TomcatPool) exec-02896 [INFO] []In the method loadPropertiesFile | req_id=233d814277b2 endpoint=/api/v1/auth/login caller=DbConnector cp
+2026-07-19T08:40:36,937 (TomcatPool) exec-11559 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v2/restore caller=TomcatAccessFilter cpu_util=74%      
+2026-07-19T08:40:38,077 (TomcatPool) exec-01820 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=WebServiceHelper cpu_util=77% extra='42s59rmopnwgscs5620ms566n'
+2026-07-19T08:40:38,200 (TomcatPool) exec-10841 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=10.0.0.12 extra='hoici024zen8mpujc9dnbczqvzymcqn0tzwjr8h9m6as193zc'
+2026-07-19T08:40:43,752 (TomcatPool) exec-12134 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 cpu_util=57% mem_util=31% extra='gb87a3pzg8bpr74kwpar'
+2026-07-19T08:40:46,719 (TomcatPool) exec-05590 [INFO] []in method: generateLicensseDetailsData | req_id=d88e63cb4339 ip=192.168.1.50 caller=WebServiceHelper mem_util=
+2026-07-19T08:44:42,719 (TomcatPool) exec-08286 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=87f7907d2f54 ip=192.168.1.50 endpoint=/api/v2/restore mem_util
+2026-07-19T08:44:47,953 (TomcatPool) exec-06054 [INFO] []In the method loadPropertiesFile | req_id=4331bf7a20ae ip=192.168.1.50 cpu_util=35% extra='89ev0pg0yw0qx'
+2026-07-19T08:44:49,438 (TomcatPool) exec-16261 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=4f08b1ae85c3 ip=192.168.1.50 mem_util=61% extra='c0awr4xlk0jue'
+2026-07-19T08:44:49,896 (TomcatPool) exec-03824 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=0973c541b925 ip=192.168.1.50 endpoint=/api/v1/backup/create ca
+2026-07-19T08:44:50,142 (TomcatPool) exec-18912 [INFO] []in method: generateLicensseDetailsData | req_id=a6e5fe42189a ip=10.0.0.12 extra='pif1fn9g5mlqevqrgywpzjn86oju2'
+2026-07-19T08:44:54,350 (TomcatPool) exec-03685 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | trace_id=1f9f8ab976eb45e1 extra='sibpzvmdbwxdptfo1zkzrxd5xd2expu5elvq'
+2026-07-19T08:44:54,528 (TomcatPool) exec-17427 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | mem_util=65% extra='4h48tgy3lr30zdotvd3sufzmlo89pvehjl0djx2xu9bdhw8bn'
+2026-07-19T08:45:04,806 (TomcatPool) exec-15533 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=a8d1847ea7dd ip=10.0.0.12 caller=BackupAgent extra='7nxmqrxgpo'
+2026-07-19T08:45:06,753 (TomcatPool) exec-15149 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=BackupAgent       
+2026-07-19T08:45:21,546 (TomcatPool) exec-12939 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=01bb5698e3dc ip=172.16.254.1 endpoint=/api/v1/backup/create ca
+2026-07-19T08:45:22,903 (TomcatPool) exec-04740 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 endpoint=/metrics caller=ConfigManager cpu_util=59%  
+2026-07-19T08:45:27,960 (TomcatPool) exec-06262 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.2.115 caller=TomcatAccessFilter mem_util=84% extra='nnejpb'
+2026-07-19T08:48:35,960 (TomcatPool) exec-12825 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=92138b52b71e caller=BackupAgent extra='vcoszteap2n5fkbw4yevewk'
+2026-07-19T08:48:51,748 (TomcatPool) exec-03057 [INFO] []in method: generateLicensseDetailsData | mem_util=37% extra='xtxi6h1uc5me3pardmvcj9r80dnbrdc4uvst4hytnvyewiyon'
+2026-07-19T08:48:55,073 (TomcatPool) exec-12717 [INFO] []in method: generateLicensseDetailsData | req_id=07b9fafa55ca extra='gdsaekyplxnej6zfdk5vu6fw4isyq9galxdbwngigx'
+2026-07-19T08:48:55,342 (TomcatPool) exec-08570 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=TomcatAccessFilter extra='9qoqtzrl4ypsephaea1tzbdtqn2l1l6j5tt6'
+2026-07-19T08:48:58,566 (TomcatPool) exec-02784 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/auth/login mem_util=32% extra='kcjcxnbvj828o5u1oq4nd'
+2026-07-19T08:49:13,806 (TomcatPool) exec-02377 [INFO] []in method: generateLicensseDetailsData | req_id=ed53ab1f1856 ip=172.16.254.1 endpoint=/api/v1/auth/login calle
+2026-07-19T08:49:13,966 (TomcatPool) exec-14198 [INFO] []In the method loadPropertiesFile | req_id=a850d7381d0f ip=192.168.2.115 cpu_util=44% mem_util=30%       
+2026-07-19T08:49:13,988 (TomcatPool) exec-01149 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 cpu_util=10% extra='bf36ckmxmsyyfacbxp69qbtffiz7e7ar1'
+2026-07-19T09:04:13,988 (TomcatPool) exec-03455 [INFO] []in method: generateLicensseDetailsData | ip=10.0.0.12 endpoint=/api/v2/restore caller=WebServiceHelper        
+2026-07-19T09:04:15,118 (TomcatPool) exec-17507 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=3807ef02455c endpoint=/api/v1/backup/create caller=ConfigManag
+2026-07-19T09:04:17,648 (TomcatPool) exec-13338 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/auth/login mem_util=37% extra='u8m0yptw0rnwzzxni48a0'
+2026-07-19T09:04:22,815 (TomcatPool) exec-08153 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/auth/login cpu_util=27% mem_util=84% extra='0p05ismy'
+2026-07-19T09:04:23,182 (TomcatPool) exec-17670 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=c36c37369e1d endpoint=/metrics caller=TomcatAccessFilter cpu_u
+2026-07-19T09:04:23,328 (TomcatPool) exec-14224 [INFO] []in method: generateLicensseDetailsData | req_id=c02d52df4722 ip=192.168.1.50 endpoint=/api/v1/auth/login calle
+2026-07-19T09:12:23,328 (TomcatPool) exec-09903 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=69988eb1b910 extra='swgyv7btqm8bz20hssqlynezpr12n8l16n5szjl02t'
+2026-07-19T09:12:23,716 (TomcatPool) exec-11099 [INFO] []in method: generateLicensseDetailsData | req_id=eba49e2d66dd endpoint=/api/v1/backup/create caller=BackupAgent
+2026-07-19T09:12:35,304 (TomcatPool) exec-17813 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 endpoint=/api/v1/auth/login cpu_util=13% mem_util=89%
+2026-07-19T09:14:13,304 (TomcatPool) exec-08353 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 endpoint=/api/v1/auth/login caller=DbConnector cpu_ut
+2026-07-19T09:16:05,304 (TomcatPool) exec-05901 [INFO] []in method: generateLicensseDetailsData | endpoint=/metrics caller=BackupAgent extra='j76pb5zb8v67s5506kjlh0kux'
+2026-07-19T09:16:05,445 (TomcatPool) exec-11488 [INFO] []In the method loadPropertiesFile | req_id=4c240b2055ff endpoint=/api/v1/auth/login caller=WebServiceHelp
+2026-07-19T09:16:05,483 (TomcatPool) exec-19327 [INFO] []in method: generateLicensseDetailsData | req_id=19d763ee43b0 endpoint=/api/v1/system/status cpu_util=53% mem_u
+2026-07-19T09:16:08,650 (TomcatPool) exec-13752 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 endpoint=/metrics caller=BackupAgent cpu_util=34% mem
+2026-07-19T09:16:19,382 (TomcatPool) exec-06782 [INFO] []in method: generateLicensseDetailsData | caller=WebServiceHelper extra='gji2q63wc0unsd8jignsdc66ndjv3j5w9w2g1c'
+2026-07-19T09:18:13,382 (TomcatPool) exec-02436 [INFO] []In the method loadPropertiesFile | req_id=192afac1f2e2 ip=192.168.1.50 cpu_util=17% mem_util=64%        
+2026-07-19T09:18:13,408 (TomcatPool) exec-07960 [INFO] []In the method loadPropertiesFile | cpu_util=31% extra='q3gdaz2d45m6z6ps4d01hknubwfwm3w6ocvo9hbotb4pm4sym'
+2026-07-19T09:18:13,751 (TomcatPool) exec-10100 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 endpoint=/api/v1/backup/create caller=WebServiceHelper  
+2026-07-19T09:18:17,425 (TomcatPool) exec-10403 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=9a998ebcf82f ip=192.168.1.50 endpoint=/api/v2/restore extra='j'
+2026-07-19T09:18:17,560 (TomcatPool) exec-05703 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 cpu_util=38% mem_util=47% extra='klyt3w7yh0nxzp66hfv2fn4'
+2026-07-19T09:18:22,965 (TomcatPool) exec-14399 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=06ad766c8f9f cpu_util=24% extra='23n0gezsmx61hpbjx4o4h8jck0sc7'
+2026-07-19T09:18:25,872 (TomcatPool) exec-02984 [INFO] []in method: generateLicensseDetailsData | ip=192.168.2.115 caller=ConfigManager cpu_util=32% extra='2j580td3wzu'
+2026-07-19T09:18:31,032 (TomcatPool) exec-19395 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 cpu_util=44% mem_util=37% extra='v6ecfp1iybydbxweoqa6'
+2026-07-19T09:18:31,478 (TomcatPool) exec-15766 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=74c5c1c3d94f ip=192.168.2.115 caller=TomcatAccessFilter       
+2026-07-19T09:18:34,648 (TomcatPool) exec-05604 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | caller=BackupAgent cpu_util=51% extra='kxdvo8rdltvszwq29px8xjlqmab4k7'
+2026-07-19T09:18:50,127 (TomcatPool) exec-19927 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | cpu_util=65% mem_util=82% extra='sjs9p9kzwb7ymdkmt545l4a40caayncnjlwq'
+2026-07-19T09:19:00,323 (TomcatPool) exec-19020 [INFO] []In the method loadPropertiesFile | req_id=b5361b2b26d6 endpoint=/metrics extra='oz6xwwj4o2tnzbs4fxtejyud'
+2026-07-19T09:19:04,895 (TomcatPool) exec-05095 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=e43cd193ec03 ip=10.0.0.12 endpoint=/api/v1/system/status calle
+2026-07-19T09:19:08,366 (TomcatPool) exec-14597 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=ac492985ffc7 ip=10.0.0.12 caller=ConfigManager cpu_util=32% me
+2026-07-19T09:19:08,406 (TomcatPool) exec-15148 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=d689a630004d caller=WebServiceHelper extra='lisjlqt4wk9al5o3g5'
+2026-07-19T09:19:18,710 (TomcatPool) exec-13185 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=111b7389b4d7 caller=DbConnector cpu_util=35% extra='zikb7dumoq'
+2026-07-19T09:19:18,753 (TomcatPool) exec-17356 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=5d56bc17a89f cpu_util=36% mem_util=46% extra='i7z5o27yu8mrb04u'
+2026-07-19T09:19:19,195 (TomcatPool) exec-04189 [INFO] []in method: generateLicensseDetailsData | endpoint=/metrics caller=ConfigManager cpu_util=36% mem_util=73%     
+2026-07-19T09:19:23,811 (TomcatPool) exec-03534 [INFO] []in method: generateLicensseDetailsData | caller=WebServiceHelper extra='ry3cmsu8n00rc1bhrbufs5gdv6cnxcti3jroyd'
+2026-07-19T09:19:24,270 (TomcatPool) exec-18735 [INFO] []in method: generateLicensseDetailsData | req_id=ecbd6de48bad cpu_util=84% extra='loyo7d991riz2hcq5ks2mmhgeurlp'
+2026-07-19T09:19:27,555 (TomcatPool) exec-12548 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=cf05474c5e58 endpoint=/api/v1/backup/create caller=TomcatAcces
+2026-07-19T09:19:42,216 (TomcatPool) exec-15475 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/metrics caller=ConfigManager cpu_util=74% mem_util=67%     
+2026-07-19T09:19:42,446 (TomcatPool) exec-04528 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=96e8b78f4f6f ip=192.168.2.115 endpoint=/api/v1/auth/login cpu_
+2026-07-19T09:19:42,798 (TomcatPool) exec-07408 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=9ca85c9821b6 ip=192.168.2.115 endpoint=/metrics caller=BackupA
+2026-07-19T09:19:43,072 (TomcatPool) exec-07120 [INFO] []in method: generateLicensseDetailsData | req_id=ecb8a8c91423 mem_util=83% extra='91w7bxwojk7znz504648i5yvvhg26'
+2026-07-19T09:19:56,307 (TomcatPool) exec-02432 [INFO] []in method: generateLicensseDetailsData | req_id=f01e40f4ec4e ip=192.168.1.50 endpoint=/api/v2/restore cpu_util
+2026-07-19T09:20:08,587 (TomcatPool) exec-02329 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/auth/login caller=DbConnector cpu_util=85% extra='5n'
+2026-07-19T09:20:12,171 (TomcatPool) exec-01804 [INFO] []In the method loadPropertiesFile | req_id=0f295592489c endpoint=/api/v2/restore extra='7g73yjtdn0pmkh7fo'
+2026-07-19T09:20:14,880 (TomcatPool) exec-05218 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=DbConnector cpu_util=50% extra='sacqlbt1alq7enszfxgde44f11p7m3'
+2026-07-19T09:20:16,799 (TomcatPool) exec-04504 [INFO] []In the method loadPropertiesFile | req_id=eda82c0fabd3 ip=192.168.2.115 extra='12xe9sw7v0sjbzo4rtzjrx4lb'
+2026-07-19T09:20:18,580 (TomcatPool) exec-19529 [INFO] []In the method loadPropertiesFile | trace_id=5a34955cffd240b7 extra='7l4rswyoi0ngrjukti6k2g4x35rwyohyj938'
+2026-07-19T09:20:31,090 (TomcatPool) exec-09369 [INFO] []In the method loadPropertiesFile | ip=192.168.2.115 caller=BackupAgent extra='1obik1adraw5meyqxzexhbq922'
+2026-07-19T09:24:08,090 (TomcatPool) exec-10084 [INFO] []In the method loadPropertiesFile | caller=ConfigManager cpu_util=27% extra='3f6h4n5y7labc3ikr8t5ffz0l9yw'
+2026-07-19T09:24:23,427 (TomcatPool) exec-01472 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=250b933d3e25 ip=10.0.0.12 caller=ConfigManager cpu_util=31% me
+2026-07-19T09:38:23,427 (TomcatPool) exec-19430 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=0d321d1dcd2d ip=10.0.0.12 endpoint=/metrics caller=BackupAgent
+2026-07-19T09:38:25,957 (TomcatPool) exec-04469 [INFO] []in method: generateLicensseDetailsData | req_id=a683819ee794 ip=10.0.0.12 endpoint=/api/v2/restore caller=Back
+2026-07-19T09:38:26,097 (TomcatPool) exec-04220 [INFO] []in method: generateLicensseDetailsData | req_id=dbb8e0b341c2 endpoint=/metrics cpu_util=34% extra='33c72khct5f'
+2026-07-19T09:38:26,197 (TomcatPool) exec-16451 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=7d268de44832 endpoint=/api/v1/auth/login mem_util=58% extra='n'
+2026-07-19T09:38:26,370 (TomcatPool) exec-17331 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=10.0.0.12 endpoint=/api/v1/system/status caller=WebServiceHelper c
+2026-07-19T09:40:55,370 (TomcatPool) exec-14378 [INFO] []In the method loadPropertiesFile | ip=192.168.1.50 caller=TomcatAccessFilter mem_util=62% extra='uiox614'
+2026-07-19T09:42:18,370 (TomcatPool) exec-13168 [INFO] []In the method loadPropertiesFile | req_id=43cb2bd9a619 endpoint=/api/v1/system/status mem_util=31%      
+2026-07-19T09:42:21,445 (TomcatPool) exec-03483 [INFO] []In the method loadPropertiesFile | req_id=2cba042acd39 caller=ConfigManager cpu_util=18% mem_util=86%   
+2026-07-19T09:42:37,343 (TomcatPool) exec-11385 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=DbConnector cpu_util=85% mem_util=70% extra='gjwch7so5httyxp0i'
+2026-07-19T09:42:41,832 (TomcatPool) exec-05961 [INFO] []In the method loadPropertiesFile | req_id=1891a5a0476f caller=WebServiceHelper cpu_util=77% mem_util=66%
+2026-07-19T09:42:42,202 (TomcatPool) exec-15522 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 caller=TomcatAccessFilter cpu_util=52% mem_util=42%  
+2026-07-19T09:42:42,221 (TomcatPool) exec-01346 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=b52f489eeaa2 ip=172.16.254.1 caller=DbConnector cpu_util=79% m
+2026-07-19T09:42:44,387 (TomcatPool) exec-12210 [INFO] []in method: generateLicensseDetailsData | caller=ConfigManager cpu_util=46% mem_util=31% extra='qcnwk3q3d04jtit'
+2026-07-19T09:42:47,009 (TomcatPool) exec-08989 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 extra='rgn3fee4lwx5sd7pj3osmeeh02ucnjhvsbgwwd1vug7t12'
+2026-07-19T09:43:01,577 (TomcatPool) exec-17800 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v2/restore cpu_util=19% extra='brqk1lvf1ogw1ft5hptovdhs'
+2026-07-19T09:43:06,316 (TomcatPool) exec-14633 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=1501409b3705 ip=192.168.1.50 caller=DbConnector mem_util=68%  
+2026-07-19T09:43:06,652 (TomcatPool) exec-06586 [INFO] []In the method loadPropertiesFile | req_id=f924d9d47e1b ip=192.168.1.50 endpoint=/api/v2/restore caller=W
+2026-07-19T09:43:09,674 (TomcatPool) exec-12641 [INFO] []in method: generateLicensseDetailsData | req_id=80e93f8fd9da endpoint=/api/v1/system/status caller=BackupAgent
+2026-07-19T09:43:12,288 (TomcatPool) exec-02134 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=cfa86c1b09ff caller=ConfigManager extra='cqycy4ykfyoo06dwy1y9e'
+2026-07-19T09:43:12,416 (TomcatPool) exec-18324 [INFO] []In the method loadPropertiesFile | req_id=e4966e928fa9 endpoint=/metrics caller=TomcatAccessFilter mem_u
+2026-07-19T09:43:14,404 (TomcatPool) exec-01070 [INFO] []in method: generateLicensseDetailsData | caller=ConfigManager cpu_util=79% mem_util=45% extra='3y7uzpl5cxikbgx'
+2026-07-19T09:43:14,781 (TomcatPool) exec-05070 [INFO] []In the method loadPropertiesFile | caller=DbConnector extra='kgmmb2vu771c7enurv1hsku45dfv9yt4amem24qs0xt'
+2026-07-19T09:43:20,678 (TomcatPool) exec-19334 [INFO] []in method: generateLicensseDetailsData | caller=DbConnector cpu_util=20% mem_util=56% extra='74hvi4m0l8k59r299'
+2026-07-19T09:43:23,842 (TomcatPool) exec-16575 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=e9435109ccb4 caller=ConfigManager extra='lfs2861gz4deo4jcopxzk'
+2026-07-19T09:44:45,842 (TomcatPool) exec-14558 [INFO] []in method: generateLicensseDetailsData | req_id=9cdf389850f7 ip=192.168.2.115 caller=WebServiceHelper cpu_util
+2026-07-19T09:46:26,842 (TomcatPool) exec-19911 [INFO] []In the method loadPropertiesFile | req_id=ee7a47b373d6 caller=WebServiceHelper cpu_util=66% extra='ralpe'
+2026-07-19T09:46:30,446 (TomcatPool) exec-06558 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 cpu_util=16% mem_util=39% extra='k3up0cnh9ixpkgs3rbwt'
+2026-07-19T10:00:30,446 (TomcatPool) exec-01062 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/auth/login cpu_util=28% mem_util=62% extra='3xuo0qe7'
+2026-07-19T10:04:06,446 (TomcatPool) exec-15665 [INFO] []In the method loadPropertiesFile | req_id=fcbca54e8ff4 caller=WebServiceHelper cpu_util=34% mem_util=52%
+2026-07-19T10:04:06,853 (TomcatPool) exec-14185 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/auth/login caller=BackupAgent cpu_util=20% mem_util=
+2026-07-19T10:04:06,978 (TomcatPool) exec-03993 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/system/status mem_util=85% extra='o1ae39xphumvhymdx7'
+2026-07-19T10:04:07,301 (TomcatPool) exec-08464 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/auth/login caller=TomcatAccessFilter cpu_util=77%   
+2026-07-19T10:04:07,627 (TomcatPool) exec-17982 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 caller=WebServiceHelper cpu_util=49% mem_util=52%       
+2026-07-19T10:04:08,060 (TomcatPool) exec-06322 [INFO] []In the method loadPropertiesFile | caller=WebServiceHelper cpu_util=18% mem_util=39% extra='9ekwxg0ipq8i'
+2026-07-19T10:04:10,594 (TomcatPool) exec-09493 [INFO] []In the method loadPropertiesFile | req_id=302d1126e921 ip=172.16.254.1 endpoint=/api/v1/auth/login calle
+2026-07-19T10:04:10,914 (TomcatPool) exec-16020 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=108e1bf29e5d mem_util=78% extra='zkw8zzzcuiuxj14arvzzdyo5fleur'
+2026-07-19T10:06:53,914 (TomcatPool) exec-07654 [INFO] []In the method loadPropertiesFile | req_id=2645103b0204 ip=172.16.254.1 endpoint=/api/v1/backup/create me
+2026-07-19T10:13:53,914 (TomcatPool) exec-02664 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 endpoint=/api/v1/auth/login cpu_util=61% mem_util=44%   
+2026-07-19T10:17:30,914 (TomcatPool) exec-09879 [INFO] []in method: generateLicensseDetailsData | req_id=b59e03c7cee4 ip=10.0.0.12 cpu_util=56% extra='78tzm4tswnig8hah'
+2026-07-19T10:17:31,199 (TomcatPool) exec-08588 [INFO] []in method: generateLicensseDetailsData | req_id=9c1873fc7357 endpoint=/api/v2/restore caller=BackupAgent mem_u
+2026-07-19T10:17:31,643 (TomcatPool) exec-16345 [INFO] []in method: generateLicensseDetailsData | req_id=a688847c3413 ip=172.16.254.1 endpoint=/metrics caller=BackupAg
+2026-07-19T10:17:33,510 (TomcatPool) exec-15235 [INFO] []in method: generateLicensseDetailsData | ip=10.0.0.12 endpoint=/metrics extra='epd3kbmtia45ifiss500uu4za28b100'
+2026-07-19T10:17:33,852 (TomcatPool) exec-09248 [INFO] []In the method loadPropertiesFile | req_id=4905bdf7bac8 ip=172.16.254.1 caller=DbConnector cpu_util=16% m
+2026-07-19T10:17:34,227 (TomcatPool) exec-16511 [INFO] []in method: generateLicensseDetailsData | req_id=608f110aabea ip=192.168.1.50 cpu_util=16% extra='01bl5hjquk77y'
+2026-07-19T10:17:36,392 (TomcatPool) exec-11081 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/auth/login cpu_util=26% mem_util=42% extra='cgr8985y'
+2026-07-19T10:17:36,451 (TomcatPool) exec-19082 [INFO] []In the method loadPropertiesFile | req_id=ab1782be9b1d ip=10.0.0.12 endpoint=/api/v2/restore caller=WebS
+2026-07-19T10:17:36,779 (TomcatPool) exec-02548 [INFO] []In the method loadPropertiesFile | req_id=ada51d096200 ip=10.0.0.12 endpoint=/api/v1/auth/login cpu_util
+2026-07-19T10:17:36,973 (TomcatPool) exec-18224 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=ConfigManager cpu_
+2026-07-19T10:17:37,389 (TomcatPool) exec-18629 [INFO] []In the method loadPropertiesFile | ip=192.168.2.115 endpoint=/api/v2/restore cpu_util=20% extra='16q2l5s'
+2026-07-19T10:17:38,639 (TomcatPool) exec-12342 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=e2bcc1733541 endpoint=/api/v1/system/status extra='d9np23ywi4r'
+2026-07-19T10:17:51,191 (TomcatPool) exec-04450 [INFO] []In the method loadPropertiesFile | req_id=585507f77bd2 caller=ConfigManager extra='7zgiwf88zofv0egparasd'
+2026-07-19T10:17:51,311 (TomcatPool) exec-03058 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=2a4644dab700 ip=10.0.0.12 caller=BackupAgent cpu_util=52% mem_
+2026-07-19T10:17:51,742 (TomcatPool) exec-13526 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=fbc14356476c caller=DbConnector cpu_util=40% mem_util=59%     
+2026-07-19T10:20:52,742 (TomcatPool) exec-07486 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=41ff8c467699 endpoint=/api/v1/auth/login cpu_util=32% extra='s'
+2026-07-19T10:20:54,632 (TomcatPool) exec-08882 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 caller=WebServiceHelper extra='f54qp5eq6ymd5psx0f1c83'
+2026-07-19T10:20:54,896 (TomcatPool) exec-05322 [INFO] []In the method loadPropertiesFile | endpoint=/api/v2/restore cpu_util=74% mem_util=41% extra='ed0nbfuw22n'
+2026-07-19T10:21:09,718 (TomcatPool) exec-10329 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 endpoint=/metrics caller=BackupAgent extra='viijz79j6'
+2026-07-19T10:21:23,187 (TomcatPool) exec-02897 [INFO] []in method: generateLicensseDetailsData | req_id=a9bb25d6f89a cpu_util=55% mem_util=77% extra='iwdjnft6u338d8et'
+2026-07-19T10:21:36,183 (TomcatPool) exec-04811 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=b3c42de5c2ac caller=DbConnector cpu_util=71% mem_util=58%     
+2026-07-19T10:21:37,863 (TomcatPool) exec-05956 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/metrics extra='t2qbwr5e8inznbfuighjy245acpxx5xzauusjkxa3hoc'
+2026-07-19T10:21:40,149 (TomcatPool) exec-14263 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=df9914e289ff ip=192.168.2.115 caller=BackupAgent mem_util=45% 
+2026-07-19T10:21:40,583 (TomcatPool) exec-18685 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=66636c0cff7e mem_util=62% extra='q2uvs575kbxzh1rfh1psf2gq42isp'
+2026-07-19T10:21:40,627 (TomcatPool) exec-10122 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=807e5b2cd0b8 ip=192.168.2.115 caller=TomcatAccessFilter       
+2026-07-19T10:36:40,627 (TomcatPool) exec-19169 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=7fbef6b65e53 mem_util=64% extra='1mga63gbv93rshd7r9j7ctl0d52l4'
+2026-07-19T10:36:46,211 (TomcatPool) exec-08786 [INFO] []in method: generateLicensseDetailsData | req_id=311804d4f45c ip=10.0.0.12 caller=DbConnector cpu_util=43% mem_
+2026-07-19T10:36:49,007 (TomcatPool) exec-14546 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | cpu_util=29% extra='plrqyuaoj2328zv13xiwaqmy4xizrstiwr1pcfvq81zc4fq23'
+2026-07-19T10:36:52,321 (TomcatPool) exec-06999 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | mem_util=72% extra='2ilkifivid0efqoj871udb3p9ldm62ev4o1idrvq5wgi0lx36'
+2026-07-19T10:36:52,738 (TomcatPool) exec-15886 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 endpoint=/metrics caller=TomcatAccessFilter extra='cu'
+2026-07-19T10:36:55,341 (TomcatPool) exec-06933 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 endpoint=/api/v1/system/status extra='dl5jcp2d2rdu7gb'
+2026-07-19T10:40:27,341 (TomcatPool) exec-05892 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 cpu_util=50% extra='hz9fc5kjsbsxtao3rhzpv8vi2jnn0egl9'
+2026-07-19T10:40:43,202 (TomcatPool) exec-08608 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/system/status caller=BackupAgent extra='ijzl9ift2o8t'
+2026-07-19T10:40:47,089 (TomcatPool) exec-17922 [INFO] []in method: generateLicensseDetailsData | req_id=53f44e45f4a6 ip=10.0.0.12 endpoint=/api/v1/auth/login cpu_util
+2026-07-19T10:40:47,366 (TomcatPool) exec-07596 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.2.115 extra='pxg08dma3uv8zc9l8yd71a8gatxw1mpjh6v62vmp2bwtc'
+2026-07-19T10:40:49,211 (TomcatPool) exec-02382 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v2/restore caller=ConfigManager cpu_util=16% mem_util=9
+2026-07-19T10:40:54,977 (TomcatPool) exec-01414 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | trace_id=66d89d6a97e94c4a extra='pjhqdbd97lexp58vd6oyycspti49uw38aqtj'
+2026-07-19T10:40:55,065 (TomcatPool) exec-01565 [INFO] []in method: generateLicensseDetailsData | ip=192.168.2.115 caller=ConfigManager mem_util=45% extra='1a5rbv0ulok'
+2026-07-19T10:41:08,672 (TomcatPool) exec-13507 [INFO] []in method: generateLicensseDetailsData | caller=TomcatAccessFilter mem_util=61% extra='0kweq0lrqf7nraefvs7g0s3'
+2026-07-19T10:41:08,875 (TomcatPool) exec-18470 [INFO] []In the method loadPropertiesFile | ip=192.168.1.50 mem_util=45% extra='bfi6u31f9ymptoy2l2duz681jkcdu4123'
+2026-07-19T10:41:24,770 (TomcatPool) exec-10332 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | cpu_util=77% extra='hsv6xepsv923ky8eaaa22lxfw5nloxpcubql9fpywdh2bbail'
+2026-07-19T10:42:40,770 (TomcatPool) exec-16491 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 endpoint=/api/v1/backup/create extra='jly8oadh28y9ka7z6x'
+2026-07-19T10:42:42,508 (TomcatPool) exec-11284 [INFO] []in method: generateLicensseDetailsData | req_id=0c2949453c3b ip=172.16.254.1 caller=BackupAgent extra='ixhuokd'
+2026-07-19T10:42:44,474 (TomcatPool) exec-04461 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/auth/login mem_util=55% extra='bci9znawjxkwtj1p3uajv'
+2026-07-19T10:42:48,602 (TomcatPool) exec-01102 [INFO] []in method: generateLicensseDetailsData | ip=10.0.0.12 caller=TomcatAccessFilter cpu_util=79% extra='mly1pzwm5o'
+2026-07-19T10:42:48,777 (TomcatPool) exec-07932 [INFO] []In the method loadPropertiesFile | req_id=44bc051798d4 endpoint=/api/v1/auth/login caller=DbConnector cp
+2026-07-19T10:42:49,033 (TomcatPool) exec-01034 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.2.115 endpoint=/api/v1/backup/create caller=DbConnector cp
+2026-07-19T10:42:52,090 (TomcatPool) exec-01993 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/system/status caller=ConfigManager extra='iwddyvgt8x'
+2026-07-19T10:42:52,186 (TomcatPool) exec-03267 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=bf513f61346d ip=192.168.1.50 endpoint=/api/v2/restore mem_util
+2026-07-19T10:45:59,186 (TomcatPool) exec-16939 [INFO] []In the method loadPropertiesFile | caller=BackupAgent mem_util=80% extra='s969dnnncf5x0ykxozfon05hg4reod'
+2026-07-19T10:45:59,322 (TomcatPool) exec-04851 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=10.0.0.12 cpu_util=70% extra='34i5w39om0z9ogas3qfmbphvl6adh2bvddoj'
+2026-07-19T10:45:59,471 (TomcatPool) exec-19165 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 endpoint=/api/v1/system/status caller=ConfigManager m
+2026-07-19T10:45:59,829 (TomcatPool) exec-18205 [INFO] []In the method loadPropertiesFile | caller=TomcatAccessFilter mem_util=77% extra='xf54bch7cjleb37qjfm7k9b'
+2026-07-19T10:46:00,018 (TomcatPool) exec-18343 [INFO] []in method: generateLicensseDetailsData | req_id=19219c703173 ip=192.168.1.50 mem_util=40% extra='6ozsu2jhl9k3v'
+2026-07-19T10:46:05,213 (TomcatPool) exec-16210 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=8510b3f542c1 caller=TomcatAccessFilter cpu_util=34% mem_util=9
+2026-07-19T10:46:09,916 (TomcatPool) exec-14309 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=2e7a162141cf ip=172.16.254.1 mem_util=68% extra='fs2os0ies7u1s'
+2026-07-19T10:46:12,370 (TomcatPool) exec-02984 [INFO] []in method: generateLicensseDetailsData | req_id=787f086bd326 endpoint=/api/v1/backup/create extra='jhwl1q1m9mm'
+2026-07-19T10:46:18,204 (TomcatPool) exec-17244 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=37cff13a4475 ip=10.0.0.12 endpoint=/metrics cpu_util=72% mem_u
+2026-07-19T10:46:18,242 (TomcatPool) exec-18398 [INFO] []in method: generateLicensseDetailsData | req_id=6751f907473b cpu_util=73% extra='qs3s7a3qoaoeoqkm7g0ggqq0uyg1q'
+2026-07-19T10:46:30,566 (TomcatPool) exec-07389 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=e8357557ec37 ip=10.0.0.12 caller=BackupAgent extra='n1a6qad9bz'
+2026-07-19T10:46:36,089 (TomcatPool) exec-17328 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 caller=TomcatAccessFilter cpu_util=38% mem_util=75%  
+2026-07-19T10:46:36,520 (TomcatPool) exec-10490 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 caller=WebServiceHelper cpu_util=22% extra='cmfyaaacd'
+2026-07-19T10:46:36,733 (TomcatPool) exec-07394 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=b75e54d96a30 endpoint=/metrics extra='w2cruytc96bdk0htsrppm1ck'
+2026-07-19T10:46:41,067 (TomcatPool) exec-15978 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/backup/create caller=DbConnector cpu_util=79% mem_ut
+2026-07-19T10:46:41,166 (TomcatPool) exec-09216 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/auth/login caller=TomcatAccessFilter cpu_util=64%   
+2026-07-19T10:46:53,846 (TomcatPool) exec-02221 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=ead55178bc49 extra='r71efvv7d867cqhq6nkiamck91p3feswqvdm8htj4u'
+2026-07-19T10:46:54,200 (TomcatPool) exec-11395 [INFO] []In the method loadPropertiesFile | req_id=e8b55d5ea33c caller=DbConnector mem_util=34% extra='p5swdyxzrs'
+2026-07-19T10:46:57,424 (TomcatPool) exec-15279 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/system/status cpu_util=78% mem_util=78% extra='ixx5i'
+2026-07-19T10:47:00,942 (TomcatPool) exec-18507 [INFO] []In the method loadPropertiesFile | req_id=548ac94b18f7 ip=192.168.2.115 endpoint=/metrics cpu_util=19%  
+2026-07-19T10:47:01,239 (TomcatPool) exec-15205 [INFO] []in method: generateLicensseDetailsData | req_id=94b12111fa55 ip=192.168.1.50 caller=WebServiceHelper mem_util=
+2026-07-19T10:47:05,312 (TomcatPool) exec-02271 [INFO] []In the method loadPropertiesFile | endpoint=/api/v1/backup/create cpu_util=28% mem_util=43% extra='cg6fj'
+2026-07-19T10:47:11,186 (TomcatPool) exec-07380 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=f9804cae325e mem_util=53% extra='98pcctoy0et59izmlfj78dqchxk0q'
+2026-07-19T10:47:16,693 (TomcatPool) exec-12624 [INFO] []In the method loadPropertiesFile | req_id=5c04fa1ad11d ip=172.16.254.1 cpu_util=34% mem_util=52%        
+2026-07-19T10:49:20,693 (TomcatPool) exec-06397 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=21245e6c289f ip=172.16.254.1 endpoint=/metrics mem_util=75%   
+2026-07-19T10:49:23,543 (TomcatPool) exec-10791 [INFO] []in method: generateLicensseDetailsData | req_id=ce50950e8468 cpu_util=11% mem_util=39% extra='vkgplf2hl375v716'
+2026-07-19T10:49:24,694 (TomcatPool) exec-02199 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/system/status caller=BackupAgent cpu_util=53%       
+2026-07-19T10:49:26,437 (TomcatPool) exec-17132 [INFO] []In the method loadPropertiesFile | req_id=f042eae85d43 ip=172.16.254.1 endpoint=/metrics mem_util=86%   
+2026-07-19T10:49:26,919 (TomcatPool) exec-14949 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=9b30a3ed5bd7 extra='t1cn25y0bdvsj4k95m1ym7e7qh9wk8k8onmf2ldrej'
+2026-07-19T10:49:30,465 (TomcatPool) exec-01846 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 endpoint=/api/v2/restore caller=TomcatAccessFilter c
+2026-07-19T10:53:10,465 (TomcatPool) exec-16044 [INFO] []In the method loadPropertiesFile | caller=DbConnector cpu_util=12% mem_util=76% extra='eq80dvbj8dp3rtzlr'
+2026-07-19T10:53:10,938 (TomcatPool) exec-02110 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.2.115 caller=TomcatAccessFilter extra='36kwj24zgke2unotflf'
+2026-07-19T10:54:20,938 (TomcatPool) exec-17320 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=826e56bec2fe caller=ConfigManager cpu_util=36% mem_util=51%   
+2026-07-19T10:54:23,595 (TomcatPool) exec-19722 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=9b55d5fc0152 ip=192.168.2.115 endpoint=/api/v2/restore caller=
+2026-07-19T10:54:26,762 (TomcatPool) exec-18433 [INFO] []in method: generateLicensseDetailsData | ip=10.0.0.12 endpoint=/api/v1/backup/create extra='070kraarjyui16bgsy'
+2026-07-19T10:56:08,762 (TomcatPool) exec-04247 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=3fa7ec5cf8eb caller=ConfigManager cpu_util=33% extra='f35f3lo'
+2026-07-19T10:56:11,879 (TomcatPool) exec-19271 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | caller=DbConnector cpu_util=44% extra='kk39ob9dyr83e8yrhq17e62839t5n'
+2026-07-19T10:56:11,914 (TomcatPool) exec-17069 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=d2f1b6eb2137 ip=192.168.2.115 endpoint=/api/v1/system/status 
+2026-07-19T10:56:25,493 (TomcatPool) exec-02926 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=a9db5ce9b056 ip=192.168.2.115 endpoint=/api/v1/system/status 
+2026-07-19T11:08:25,493 (TomcatPool) exec-14785 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=89c21db51ee8 caller=TomcatAccessFilter cpu_util=25% mem_util=
+2026-07-19T11:08:27,394 (TomcatPool) exec-04730 [INFO] []in method: generateLicensseDetailsData | req_id=9868b613aa95 cpu_util=23% mem_util=53% extra='4cb6ed1txjcdwgt'
+2026-07-19T11:09:58,394 (TomcatPool) exec-10996 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=603c0ec317bc ip=10.0.0.12 cpu_util=40% mem_util=39% extra='im'
+2026-07-19T11:09:59,927 (TomcatPool) exec-04761 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v2/restore mem_util=67% extra='w1na5he9of1ktyj530ku290'
+2026-07-19T11:10:02,356 (TomcatPool) exec-08978 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=172.16.254.1 endpoint=/metrics caller=BackupAgent extra='t52x9n8m'
+2026-07-19T11:10:15,075 (TomcatPool) exec-07096 [INFO] []in method: generateLicensseDetailsData | endpoint=/metrics extra='wenvkqktuzx5c5bqwfn0wmcr9ty3tgco6cdf0xu9x1e'
+2026-07-19T11:10:25,412 (TomcatPool) exec-12169 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 endpoint=/metrics caller=DbConnector cpu_util=17% me
+2026-07-19T11:10:30,610 (TomcatPool) exec-19638 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=cb8c15277a88 ip=172.16.254.1 endpoint=/api/v1/backup/create c
+2026-07-19T11:10:30,766 (TomcatPool) exec-09827 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | mem_util=54% extra='wvu28u2wubsfalaqigtz4ba4nnlwd0c2otuve9qntdcwg0ap'
+2026-07-19T11:10:41,267 (TomcatPool) exec-15635 [INFO] []in method: generateLicensseDetailsData | ip=192.168.2.115 caller=ConfigManager cpu_util=25% extra='618c072kh5'
+2026-07-19T11:10:41,276 (TomcatPool) exec-06556 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=6801559dcf71 caller=TomcatAccessFilter cpu_util=41% mem_util=
+2026-07-19T11:10:46,817 (TomcatPool) exec-17613 [INFO] []In the method loadPropertiesFile | caller=ConfigManager cpu_util=55% extra='5pvdcoxf8etrzlesd0945xao5ql'
+2026-07-19T11:10:47,168 (TomcatPool) exec-01643 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/auth/login caller=WebServiceHelper cpu_util=16%    
+2026-07-19T11:10:47,504 (TomcatPool) exec-16420 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v1/auth/login extra='gwksaysg6ntapwnv09mevqojxzb28yyza'
+2026-07-19T11:14:12,504 (TomcatPool) exec-09119 [INFO] []In the method loadPropertiesFile | req_id=c9c05aca0b78 extra='kyajecbdqbe16mu4p7t3suoz95f8nddz1f2m2bols'
+2026-07-19T11:14:12,551 (TomcatPool) exec-06752 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=3223d04f9868 extra='esafk7d0yv12ywx1zy2yfyhtq66oc75yt3mj7ni6b'
+2026-07-19T11:14:12,704 (TomcatPool) exec-06991 [INFO] []In the method loadPropertiesFile | cpu_util=63% mem_util=78% extra='6y2j0e707dalh3t9txf8t7o5iypgaohzi0b'
+2026-07-19T11:14:13,135 (TomcatPool) exec-04195 [INFO] []In the method loadPropertiesFile | req_id=bc34af68dca1 endpoint=/api/v2/restore caller=ConfigManager me
+2026-07-19T11:20:13,135 (TomcatPool) exec-02496 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 endpoint=/api/v1/system/status mem_util=32% extra='3'
+2026-07-19T11:20:14,422 (TomcatPool) exec-01658 [INFO] []in method: generateLicensseDetailsData | cpu_util=18% mem_util=30% extra='u19th8zevqhehrmuu9kltybhgo1rym15a8m'
+2026-07-19T11:20:28,292 (TomcatPool) exec-19291 [INFO] []in method: generateLicensseDetailsData | req_id=e074283122fd ip=10.0.0.12 endpoint=/api/v1/auth/login caller=
+2026-07-19T11:20:28,743 (TomcatPool) exec-02995 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=62409d4a7dd6 cpu_util=73% mem_util=57% extra='fpqr95m1vhvca5y'
+2026-07-19T11:20:39,242 (TomcatPool) exec-06678 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=b8f070976423 ip=10.0.0.12 caller=DbConnector extra='ea90egcac'
+2026-07-19T11:20:39,357 (TomcatPool) exec-10069 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 caller=DbConnector extra='vyszhi5ezx3scwm0bnhpre95l9'
+2026-07-19T11:20:39,394 (TomcatPool) exec-13201 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=10.0.0.12 mem_util=46% extra='ze0j9awotzdfckytnoz4yps8pm5r2ca27sz'
+2026-07-19T11:22:15,394 (TomcatPool) exec-02585 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=WebServiceHelper extra='4umg8nvqnggk954kv399309hsnqp33u0j20te'
+2026-07-19T11:22:30,410 (TomcatPool) exec-08321 [INFO] []In the method loadPropertiesFile | req_id=811f0074158c caller=WebServiceHelper extra='ev3rvvdp6frcva8hf'
+2026-07-19T11:26:08,410 (TomcatPool) exec-18149 [INFO] []in method: generateLicensseDetailsData | ip=192.168.2.115 endpoint=/api/v1/backup/create cpu_util=75%        
+2026-07-19T11:26:22,681 (TomcatPool) exec-01894 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=a90d441461d8 caller=WebServiceHelper extra='w0lupkuz30kpfc10q'
+2026-07-19T11:26:23,167 (TomcatPool) exec-13227 [INFO] []in method: generateLicensseDetailsData | req_id=a05671f4a082 cpu_util=69% mem_util=80% extra='3rt08lcc1jx5hi2'
+2026-07-19T11:26:28,363 (TomcatPool) exec-04467 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 endpoint=/api/v2/restore mem_util=34% extra='z49ffjrmbc'
+2026-07-19T11:26:42,234 (TomcatPool) exec-13118 [INFO] []In the method loadPropertiesFile | ip=192.168.2.115 endpoint=/api/v2/restore mem_util=79% extra='ggr2n2'
+2026-07-19T11:37:42,234 (TomcatPool) exec-10842 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 endpoint=/api/v1/system/status caller=WebServiceHelp
+2026-07-19T11:37:43,560 (TomcatPool) exec-04312 [INFO] []in method: generateLicensseDetailsData | req_id=f3160992097c ip=192.168.1.50 extra='jb2t0zm7uwspvl6qafgznfo28'
+2026-07-19T11:37:46,535 (TomcatPool) exec-03733 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=0ff6244f86d6 ip=172.16.254.1 mem_util=48% extra='x6x7uu32ehez'
+2026-07-19T11:38:48,535 (TomcatPool) exec-14639 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/system/status caller=ConfigManager mem_util=76%    
+2026-07-19T11:38:53,250 (TomcatPool) exec-02450 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=3f56b0c10b4c endpoint=/metrics cpu_util=48% mem_util=81%     
+2026-07-19T11:39:03,549 (TomcatPool) exec-02708 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=efcf7b0adfc0 caller=BackupAgent cpu_util=51% extra='0h00zmx17'
+2026-07-19T11:42:38,549 (TomcatPool) exec-05754 [INFO] []In the method loadPropertiesFile | req_id=0ceaeabf9771 endpoint=/api/v1/system/status caller=BackupAgen
+2026-07-19T11:42:52,126 (TomcatPool) exec-02863 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 endpoint=/metrics caller=BackupAgent cpu_util=66%   
+2026-07-19T11:44:49,126 (TomcatPool) exec-13839 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.2.115 endpoint=/api/v2/restore extra='9hv85q216oaroix3v88'
+2026-07-19T11:44:49,240 (TomcatPool) exec-07960 [INFO] []in method: generateLicensseDetailsData | req_id=fc95c50c1e61 ip=10.0.0.12 cpu_util=61% extra='lofhrpd9jo5rr25'
+2026-07-19T11:44:49,692 (TomcatPool) exec-03105 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/system/status mem_util=68% extra='bvr0x21f4w8emheg0'
+2026-07-19T11:45:01,984 (TomcatPool) exec-06235 [INFO] []In the method loadPropertiesFile | req_id=0abfb829829c ip=172.16.254.1 caller=ConfigManager cpu_util=72
+2026-07-19T11:45:14,178 (TomcatPool) exec-10735 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=ConfigManager cpu_util=39% mem_util=62% extra='5fogwugg7jgmcu'
+2026-07-19T11:45:28,696 (TomcatPool) exec-18326 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=10.0.0.12 cpu_util=33% mem_util=48% extra='ueho4bwbip4ytyvax8s3il'
+2026-07-19T11:45:28,816 (TomcatPool) exec-02045 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v2/restore caller=ConfigManager cpu_util=60% extra='uu'
+2026-07-19T11:45:28,842 (TomcatPool) exec-12694 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=17f8df8792b1 ip=192.168.2.115 endpoint=/api/v1/system/status 
+2026-07-19T11:45:29,073 (TomcatPool) exec-14138 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=2902a810bcc6 endpoint=/api/v1/system/status cpu_util=64% mem_
+2026-07-19T11:45:29,388 (TomcatPool) exec-12476 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 endpoint=/metrics mem_util=40% extra='mmkpam6fe56avrtdn'
+2026-07-19T11:45:29,521 (TomcatPool) exec-10764 [INFO] []in method: generateLicensseDetailsData | caller=DbConnector cpu_util=43% extra='ezvz17lsx3kfv08bi0hjb5juojh0k'
+2026-07-19T11:49:05,521 (TomcatPool) exec-08423 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=29a0e36b8246 endpoint=/api/v2/restore caller=TomcatAccessFilt
+2026-07-19T11:49:06,828 (TomcatPool) exec-08465 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=0e59d81482ac endpoint=/api/v2/restore mem_util=71% extra='jwr'
+2026-07-19T11:49:07,118 (TomcatPool) exec-19535 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | cpu_util=70% mem_util=81% extra='niczivh9r0jan5uiwsfpq6acakguy4ukfos'
+2026-07-19T11:49:07,449 (TomcatPool) exec-17655 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=113bd5d2872a ip=192.168.2.115 endpoint=/api/v2/restore caller
+2026-07-19T11:49:11,618 (TomcatPool) exec-11810 [INFO] []in method: generateLicensseDetailsData | req_id=e8f86329a383 endpoint=/api/v1/backup/create caller=WebService
+2026-07-19T11:49:13,065 (TomcatPool) exec-05813 [INFO] []in method: generateLicensseDetailsData | req_id=593a7ae01963 endpoint=/api/v1/backup/create cpu_util=31% mem_
+2026-07-19T11:49:13,225 (TomcatPool) exec-03379 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 endpoint=/api/v2/restore extra='5z5enitacvu6cpu6lxgq23v'
+2026-07-19T11:57:13,225 (TomcatPool) exec-07537 [INFO] []in method: generateLicensseDetailsData | ip=192.168.2.115 endpoint=/api/v1/auth/login cpu_util=22% extra='bm4'
+2026-07-19T11:57:14,593 (TomcatPool) exec-15850 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=26a5654a5d40 ip=192.168.1.50 extra='vcox3xrk73mq2cshg7pwidfe4'
+2026-07-19T11:57:16,846 (TomcatPool) exec-15116 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=73b7eb86f20e ip=192.168.2.115 endpoint=/api/v1/auth/login cal
+2026-07-19T11:57:19,094 (TomcatPool) exec-12348 [INFO] []In the method loadPropertiesFile | req_id=b5f1e6607b6d ip=192.168.2.115 endpoint=/metrics caller=DbConn
+2026-07-19T11:57:19,389 (TomcatPool) exec-09381 [INFO] []In the method loadPropertiesFile | trace_id=ab740ca263054b77 extra='mk0mg9lw2ke9nnwgquwp2pza2u1dfjulypp'
+2026-07-19T12:00:34,389 (TomcatPool) exec-09962 [INFO] []In the method loadPropertiesFile | caller=TomcatAccessFilter cpu_util=28% mem_util=81% extra='k25bvtbal'
+2026-07-19T12:00:35,948 (TomcatPool) exec-06944 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/auth/login mem_util=60% extra='l7kextmu3kdu0t0eaxk2'
+2026-07-19T12:00:37,760 (TomcatPool) exec-10977 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=10.0.0.12 endpoint=/api/v1/system/status caller=WebServiceHelper 
+2026-07-19T12:00:42,580 (TomcatPool) exec-13079 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=4935ea0bfdf1 endpoint=/metrics caller=TomcatAccessFilter     
+2026-07-19T12:00:42,779 (TomcatPool) exec-08694 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=f28a5e69bb60 ip=172.16.254.1 cpu_util=83% mem_util=46%       
+2026-07-19T12:02:11,779 (TomcatPool) exec-06416 [INFO] []in method: generateLicensseDetailsData | req_id=8c529ac5a186 ip=10.0.0.12 caller=ConfigManager cpu_util=25%  
+2026-07-19T12:02:14,667 (TomcatPool) exec-17352 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=f5091c1c0e57 caller=BackupAgent cpu_util=77% mem_util=71%    
+2026-07-19T12:02:14,928 (TomcatPool) exec-19735 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 endpoint=/api/v1/auth/login caller=BackupAgent cpu_u
+2026-07-19T12:02:16,270 (TomcatPool) exec-17552 [INFO] []in method: generateLicensseDetailsData | caller=WebServiceHelper mem_util=80% extra='j4njf70y0d9yp1vveexd6bia'
+2026-07-19T12:04:48,270 (TomcatPool) exec-17529 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=WebServiceHelper cpu_util=17% extra='tax8cl4yqe4pdp12cu5x72ex'
+2026-07-19T12:05:03,433 (TomcatPool) exec-17179 [INFO] []In the method loadPropertiesFile | req_id=1a702fa11bf4 ip=172.16.254.1 caller=DbConnector mem_util=67% 
+2026-07-19T12:05:03,614 (TomcatPool) exec-11892 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 caller=ConfigManager cpu_util=52% mem_util=63%      
+2026-07-19T12:07:31,614 (TomcatPool) exec-01059 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=d51fd3a421d3 endpoint=/api/v1/auth/login cpu_util=48%        
+2026-07-19T12:07:33,057 (TomcatPool) exec-05075 [INFO] []In the method loadPropertiesFile | endpoint=/api/v1/system/status caller=DbConnector mem_util=46%      
+2026-07-19T12:09:28,057 (TomcatPool) exec-15728 [INFO] []in method: generateLicensseDetailsData | ip=192.168.1.50 endpoint=/api/v1/system/status extra='jlfg0sch2g2iro'
+2026-07-19T12:09:42,806 (TomcatPool) exec-02397 [INFO] []In the method loadPropertiesFile | caller=WebServiceHelper cpu_util=27% mem_util=41% extra='9k1pn6jf1g5'
+2026-07-19T12:09:54,178 (TomcatPool) exec-16504 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=bbec193838d0 ip=192.168.1.50 endpoint=/api/v1/system/status c
+2026-07-19T12:09:57,659 (TomcatPool) exec-08881 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=95e52d0a48d3 endpoint=/api/v1/auth/login caller=ConfigManager
+2026-07-19T12:09:59,239 (TomcatPool) exec-19658 [INFO] []In the method loadPropertiesFile | ip=10.0.0.12 caller=BackupAgent extra='3qu6b0bscxiubj2okhh2bggd7fqtb'
+2026-07-19T12:09:59,520 (TomcatPool) exec-05214 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/metrics extra='cfg9qjftaqtr0cnupl3ivjcxi6hfzn54ba73pee6fme'
+2026-07-19T12:09:59,802 (TomcatPool) exec-13590 [INFO] []In the method loadPropertiesFile | req_id=c9d10f72f1b2 endpoint=/metrics extra='6tbpqp3v2f6glt30dmdpkpn'
+2026-07-19T12:10:02,458 (TomcatPool) exec-17133 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/system/status cpu_util=11% mem_util=85% extra='fzqo'
+2026-07-19T12:10:05,660 (TomcatPool) exec-12510 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 endpoint=/api/v1/backup/create extra='l28vhxqjxca6njq43'
+2026-07-19T12:10:06,083 (TomcatPool) exec-04542 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=eeab9be2da7c caller=ConfigManager cpu_util=28% mem_util=42%  
+2026-07-19T12:10:06,311 (TomcatPool) exec-13554 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=431e1dca5125 ip=10.0.0.12 cpu_util=26% extra='rr8m99yiip0hnox'
+2026-07-19T12:10:08,708 (TomcatPool) exec-02964 [INFO] []in method: generateLicensseDetailsData | req_id=1a47d8212821 endpoint=/api/v1/auth/login extra='hsik5xqndcqq3'
+2026-07-19T12:10:21,357 (TomcatPool) exec-12710 [INFO] []In the method loadPropertiesFile | caller=WebServiceHelper extra='l2ft5atpple73a68rksi0y7ifn2ge7b05dy0h'
+2026-07-19T12:10:25,971 (TomcatPool) exec-02303 [INFO] []In the method loadPropertiesFile | ip=192.168.1.50 cpu_util=19% extra='q8wx5j5k92y111geot62w1cnakhiplqc'
+2026-07-19T12:19:25,971 (TomcatPool) exec-12198 [INFO] []In the method loadPropertiesFile | req_id=8baa138fcbc3 extra='u34cb44bvkbppobat0msp5jd4xw58qjdxhhh5v1xv'
+2026-07-19T12:19:26,316 (TomcatPool) exec-01514 [INFO] []in method: generateLicensseDetailsData | req_id=d944adb153a4 caller=DbConnector cpu_util=83% mem_util=40%    
+2026-07-19T12:19:29,390 (TomcatPool) exec-05788 [INFO] []in method: generateLicensseDetailsData | req_id=220ba83a8628 ip=10.0.0.12 caller=WebServiceHelper extra='96zd'
+2026-07-19T12:19:32,355 (TomcatPool) exec-14701 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | caller=WebServiceHelper extra='khgdpbciwcke3rjzj3oqzukabmzg8xee4rnis'
+2026-07-19T12:21:12,355 (TomcatPool) exec-18975 [INFO] []in method: generateLicensseDetailsData | ip=172.16.254.1 endpoint=/api/v2/restore caller=ConfigManager mem_ut
+2026-07-19T12:23:56,355 (TomcatPool) exec-07423 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=14aef3b41d43 ip=192.168.1.50 endpoint=/api/v1/system/status c
+2026-07-19T12:24:10,169 (TomcatPool) exec-01852 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | caller=BackupAgent cpu_util=35% mem_util=54% extra='w3r8nu12ihawlc04'
+2026-07-19T12:24:14,494 (TomcatPool) exec-13658 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 endpoint=/api/v1/backup/create caller=TomcatAccessFilte
+2026-07-19T12:24:14,623 (TomcatPool) exec-05872 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=3ab48f5ff45b endpoint=/metrics mem_util=50% extra='y8k2wg0sf8'
+2026-07-19T12:24:17,630 (TomcatPool) exec-06073 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=17964aedb0b8 caller=TomcatAccessFilter cpu_util=55% mem_util=
+2026-07-19T12:24:17,746 (TomcatPool) exec-08918 [INFO] []In the method loadPropertiesFile | req_id=839c0bc4a440 ip=192.168.2.115 endpoint=/metrics cpu_util=56% 
+2026-07-19T12:24:28,562 (TomcatPool) exec-15280 [INFO] []In the method loadPropertiesFile | req_id=63f1bf344378 mem_util=86% extra='bty2dhzouplwv1vjkroso5zvekmz'
+2026-07-19T12:24:34,011 (TomcatPool) exec-04388 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=3d56eb42a626 cpu_util=26% mem_util=42% extra='d7rrnpnl63h2y92'
+2026-07-19T12:24:34,134 (TomcatPool) exec-15521 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 caller=TomcatAccessFilter cpu_util=10% extra='5b9bll4ad'
+2026-07-19T12:27:48,134 (TomcatPool) exec-08277 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=TomcatAccessFilter mem_util=45% extra='xssss6zfz21pwnxylclg25'
+2026-07-19T12:27:48,423 (TomcatPool) exec-17557 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.2.115 endpoint=/api/v1/backup/create caller=DbConnector m
+2026-07-19T12:27:52,778 (TomcatPool) exec-12783 [INFO] []in method: generateLicensseDetailsData | req_id=85690a42a779 endpoint=/api/v1/auth/login caller=BackupAgent  
+2026-07-19T12:27:55,414 (TomcatPool) exec-01654 [INFO] []In the method loadPropertiesFile | req_id=368cba7fc989 cpu_util=22% extra='9213fmjme9k4a1ju0aitnvmro8ep'
+2026-07-19T12:28:07,381 (TomcatPool) exec-04759 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 caller=BackupAgent mem_util=47% extra='jhyez2foh8tbh'
+2026-07-19T12:28:10,316 (TomcatPool) exec-03991 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=e71c208b2663 caller=TomcatAccessFilter mem_util=82% extra='c4'
+2026-07-19T12:28:10,504 (TomcatPool) exec-11536 [INFO] []In the method loadPropertiesFile | endpoint=/metrics cpu_util=42% mem_util=71% extra='i8cu0962pk09prpc0'
+2026-07-19T12:28:10,952 (TomcatPool) exec-11895 [INFO] []in method: generateLicensseDetailsData | req_id=0962a2711764 ip=172.16.254.1 endpoint=/api/v2/restore caller=
+2026-07-19T12:28:14,228 (TomcatPool) exec-15469 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 endpoint=/api/v1/system/status mem_util=76% extra='i'
+2026-07-19T12:28:14,332 (TomcatPool) exec-19218 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=15aac1182440 ip=10.0.0.12 endpoint=/api/v1/auth/login cpu_uti
+2026-07-19T12:28:20,027 (TomcatPool) exec-15759 [INFO] []in method: generateLicensseDetailsData | req_id=0cbb75f6bf48 endpoint=/metrics cpu_util=46% extra='p4elo3pijp'
+2026-07-19T12:31:54,027 (TomcatPool) exec-15129 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=19c6470508a2 endpoint=/api/v1/backup/create caller=BackupAgen
+2026-07-19T12:31:54,409 (TomcatPool) exec-19357 [INFO] []in method: generateLicensseDetailsData | caller=ConfigManager mem_util=69% extra='rqiggga993g152xtflcwhej2o2j'
+2026-07-19T12:31:54,802 (TomcatPool) exec-19805 [INFO] []In the method loadPropertiesFile | caller=DbConnector mem_util=42% extra='qyg54rpmp429rtp5pafq5s9zyhgce'
+2026-07-19T12:31:57,030 (TomcatPool) exec-01778 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=d72fda275775 endpoint=/api/v1/backup/create cpu_util=25%     
+2026-07-19T12:31:57,201 (TomcatPool) exec-19923 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=192.168.1.50 caller=WebServiceHelper cpu_util=24% mem_util=33%   
+2026-07-19T12:31:58,863 (TomcatPool) exec-12078 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=018579b9395a ip=10.0.0.12 endpoint=/api/v1/auth/login caller=
+2026-07-19T12:32:01,706 (TomcatPool) exec-11561 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=TomcatAccessFilter cpu_util=62% mem_util=34% extra='k434anhms'
+2026-07-19T12:38:01,706 (TomcatPool) exec-05110 [INFO] []In the method loadPropertiesFile | req_id=cbd5ced2bc9c ip=10.0.0.12 caller=TomcatAccessFilter cpu_util=
+2026-07-19T12:38:02,097 (TomcatPool) exec-03840 [INFO] []In the method loadPropertiesFile | req_id=eeebc285b91a ip=10.0.0.12 extra='14hcotvbnl4oii5991cb0wjbl1a5'
+2026-07-19T12:39:47,097 (TomcatPool) exec-12356 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=bb39ad074385 caller=ConfigManager mem_util=72% extra='4izo2z4'
+2026-07-19T12:39:47,493 (TomcatPool) exec-01504 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/auth/login caller=ConfigManager extra='9j6vwv7zp3tg'
+2026-07-19T12:39:51,476 (TomcatPool) exec-06008 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | endpoint=/api/v2/restore caller=BackupAgent cpu_util=45% extra='xxsa'
+2026-07-19T12:40:04,257 (TomcatPool) exec-13118 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=069efe882fcd caller=TomcatAccessFilter cpu_util=31% extra='x7'
+2026-07-19T12:40:09,107 (TomcatPool) exec-13979 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=ca357800c81a ip=172.16.254.1 caller=BackupAgent cpu_util=57% 
+2026-07-19T12:40:11,851 (TomcatPool) exec-13212 [INFO] []In the method loadPropertiesFile | req_id=3fa816d99107 ip=172.16.254.1 endpoint=/api/v1/auth/login mem_
+2026-07-19T12:40:13,929 (TomcatPool) exec-08007 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=BackupAgent mem_u
+2026-07-19T12:40:13,951 (TomcatPool) exec-15907 [INFO] []in method: generateLicensseDetailsData | req_id=5bdb804e62ba caller=BackupAgent extra='jy4y5v67u5zbmwrg0unig6'
+2026-07-19T12:40:14,154 (TomcatPool) exec-18093 [INFO] []in method: generateLicensseDetailsData | req_id=0e309136f680 caller=WebServiceHelper mem_util=43% extra='v3as'
+2026-07-19T12:40:18,464 (TomcatPool) exec-14152 [INFO] []In the method loadPropertiesFile | req_id=4c0a0b8405aa endpoint=/api/v1/system/status cpu_util=29%     
+2026-07-19T12:40:21,045 (TomcatPool) exec-15769 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=f3f8601b3a40 ip=192.168.1.50 extra='wlipdjneqi9gjnlhbl6uph1yr'
+2026-07-19T12:40:21,070 (TomcatPool) exec-14176 [INFO] []In the method loadPropertiesFile | req_id=6ea76eb4037b endpoint=/api/v1/auth/login extra='v81b7wdaw43kw'
+2026-07-19T12:40:22,964 (TomcatPool) exec-13972 [INFO] []In the method loadPropertiesFile | ip=172.16.254.1 endpoint=/api/v1/backup/create caller=WebServiceHelp
+2026-07-19T12:40:23,408 (TomcatPool) exec-02288 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | endpoint=/api/v1/system/status caller=WebServiceHelper mem_util=38% 
+2026-07-19T12:40:28,740 (TomcatPool) exec-15329 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=acb908aa028f caller=WebServiceHelper cpu_util=36% mem_util=36
+2026-07-19T12:40:29,116 (TomcatPool) exec-16144 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=093bcc348b1c endpoint=/api/v1/backup/create caller=DbConnecto
+2026-07-19T12:40:29,414 (TomcatPool) exec-17008 [INFO] []In the method loadPropertiesFile | req_id=c2347f34ae02 endpoint=/api/v1/auth/login caller=BackupAgent c
+2026-07-19T12:40:30,461 (TomcatPool) exec-12204 [INFO] []In the method loadPropertiesFile | req_id=99196756f25c ip=192.168.1.50 endpoint=/api/v2/restore mem_uti
+2026-07-19T12:40:36,167 (TomcatPool) exec-05263 [INFO] []In the method loadPropertiesFile | ip=192.168.1.50 endpoint=/api/v1/backup/create extra='ifn40dhsr4y226'
+2026-07-19T12:40:50,138 (TomcatPool) exec-06679 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=3bd5d1e46b27 ip=192.168.1.50 endpoint=/metrics caller=DbConne
+2026-07-19T12:40:50,611 (TomcatPool) exec-06655 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=192.168.1.50 endpoint=/api/v1/backup/create mem_util=58% extra='5'
+2026-07-19T12:40:50,903 (TomcatPool) exec-12125 [INFO] []in method: generateLicensseDetailsData | cpu_util=14% extra='dx5tvw1od72s6gvhhe7iaez3ory26fu36q2s5tlkzfy622e3'
+2026-07-19T12:54:50,903 (TomcatPool) exec-03432 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=b11271f14a4a ip=192.168.1.50 cpu_util=28% mem_util=49%       
+2026-07-19T12:54:51,337 (TomcatPool) exec-12317 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=f86c57c0d5c6 ip=172.16.254.1 endpoint=/api/v1/system/status c
+2026-07-19T12:54:54,813 (TomcatPool) exec-11206 [INFO] []In the method loadPropertiesFile | endpoint=/api/v2/restore caller=BackupAgent cpu_util=47% extra='pyj0'
+2026-07-19T12:54:59,985 (TomcatPool) exec-10131 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | ip=10.0.0.12 endpoint=/metrics caller=WebServiceHelper mem_util=71% 
+2026-07-19T12:55:00,092 (TomcatPool) exec-10598 [INFO] []in method: generateLicensseDetailsData | req_id=3c1609cf7d04 caller=DbConnector mem_util=51% extra='jzfxtfcth'
+2026-07-19T12:55:02,586 (TomcatPool) exec-09985 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | trace_id=68b2e85cc29c42eb extra='30cqczx9tvqeehtmm86s8qc8m54e739vem0'
+2026-07-19T12:55:18,316 (TomcatPool) exec-17067 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v2/restore caller=BackupAgent cpu_util=30% mem_util=69
+2026-07-19T12:55:23,973 (TomcatPool) exec-18761 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=e0c11471a05f ip=192.168.2.115 endpoint=/api/v1/system/status 
+2026-07-19T12:55:28,741 (TomcatPool) exec-18101 [INFO] []in method: generateLicensseDetailsData | endpoint=/api/v1/backup/create cpu_util=37% extra='9globanvq68vurxs5'
+2026-07-19T12:55:31,121 (TomcatPool) exec-17678 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=be21bff23807 ip=192.168.2.115 mem_util=49% extra='vx372zr2t19'
+2026-07-19T12:55:31,449 (TomcatPool) exec-03982 [INFO] []In the method loadPropertiesFile | req_id=d816717039b2 endpoint=/api/v1/auth/login caller=ConfigManager
+2026-07-19T12:55:31,931 (TomcatPool) exec-12281 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | ip=172.16.254.1 cpu_util=59% extra='wcrvbx3z6z4girck0st1djq2w0dq3x0v'
+2026-07-19T12:55:32,167 (TomcatPool) exec-05631 [INFO] []In the method loadPropertiesFile | req_id=c4e6210ed590 ip=192.168.1.50 mem_util=73% extra='65q50qaxnlwo'
+2026-07-19T12:55:32,470 (TomcatPool) exec-18784 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | req_id=18daf01bf7cb endpoint=/api/v1/auth/login extra='rl5zxhoai0d1y'
+2026-07-19T12:55:45,725 (TomcatPool) exec-10739 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=ba3868fb7268 caller=BackupAgent cpu_util=15% extra='olch452j6'
+2026-07-19T12:56:01,463 (TomcatPool) exec-16754 [INFO] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery SUCCEEDED: RC=0 | caller=ConfigManager mem_util=54% extra='51qkcx92li5uzg4cjtp684e4a2l'
+2026-07-19T12:56:01,779 (TomcatPool) exec-03692 [INFO] [][TomcatAccessFilter]doFilter(): Incoming request verified successfully | req_id=7fb114d4037b cpu_util=16% mem_util=80% extra='r9y24hnwov2nqvl'
+2026-07-19T13:03:01,779 (TomcatPool) exec-07960 [INFO] []in method: generateLicensseDetailsData | endpoint=/metrics mem_util=62% extra='uvv2o4ttam4uibm0hm0d8c4f3nznqr'
+2026-07-19T13:03:02,265 (TomcatPool) exec-01597 [INFO] []in method: generateLicensseDetailsData | req_id=819169cb3696 ip=10.0.0.12 cpu_util=53% extra='31j6fgbdt8m6tli'
+2026-07-19T13:03:02,339 (TomcatPool) exec-08934 [INFO] []in method: generateLicensseDetailsData | req_id=93513cb3eec3 ip=192.168.2.115 endpoint=/api/v1/backup/create 
+2026-07-19T13:03:02,477 (TomcatPool) exec-02019 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | req_id=be4dc034d1aa ip=192.168.2.115 endpoint=/api/v1/backup/create 
+2026-07-19T13:03:02,773 (TomcatPool) exec-08136 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=e03eec501573 ip=192.168.2.115 mem_util=62% extra='d3bq826dvcf'
+2026-07-19T13:03:02,792 (TomcatPool) exec-01124 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | endpoint=/metrics extra='zzkp73v8ibsh8t4qbgaikjk38lqbfvmljtssca4v2im'
+2026-07-19T13:03:07,814 (TomcatPool) exec-05803 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | ip=172.16.254.1 caller=BackupAgent extra='c6hgo4ulsfunucrpg04ausncc4'
+2026-07-19T13:03:08,180 (TomcatPool) exec-08226 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | caller=WebServiceHelper cpu_util=59% extra='8xjy2bvh4leyssavmtjealld'
+2026-07-19T13:03:08,345 (TomcatPool) exec-01448 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | req_id=fcc0899db51f ip=192.168.1.50 endpoint=/metrics caller=BackupA
+2026-07-19T13:03:13,062 (TomcatPool) exec-04033 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=434c1b1caaa6 ip=192.168.1.50 extra='q5iazprbgl3no0zc9uf2t3x2n'
+2026-07-19T13:03:16,626 (TomcatPool) exec-02616 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | req_id=de3060f42715 ip=10.0.0.12 endpoint=/api/v1/backup/create call
+2026-07-19T13:17:16,626 (TomcatPool) exec-19914 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | ip=10.0.0.12 cpu_util=20% extra='zvavphkxq90jkvqshymrrkdu1xgcddfblp7'
+2026-07-19T13:17:18,707 (TomcatPool) exec-07011 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | req_id=227de4aa261e ip=192.168.2.115 endpoint=/api/v1/auth/login cpu
+2026-07-19T13:17:22,422 (TomcatPool) exec-17458 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=1afd1a8134e1 ip=10.0.0.12 extra='xbkx30mhkm1cn8csz299c81avc3p'
+2026-07-19T13:17:22,725 (TomcatPool) exec-19700 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | ip=192.168.2.115 caller=DbConnector mem_util=36% extra='4lmbptex5nur'
+2026-07-19T13:17:23,071 (TomcatPool) exec-03235 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | req_id=b1e65b70a63d ip=192.168.1.50 caller=WebServiceHelper cpu_util
+2026-07-19T13:17:28,708 (TomcatPool) exec-09932 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | req_id=e4d600596a7c ip=172.16.254.1 caller=DbConnector cpu_util=59% 
+2026-07-19T13:17:29,032 (TomcatPool) exec-17541 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | caller=TomcatAccessFilter cpu_util=43% mem_util=34% extra='04ddkgbot'
+2026-07-19T13:17:33,176 (TomcatPool) exec-13865 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=e5ee3628f310 ip=192.168.2.115 cpu_util=76% extra='vsrx2welrf4'
+2026-07-19T13:17:43,762 (TomcatPool) exec-15251 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | mem_util=73% extra='bdyyx7ib26mjgni7ltg9w823itsi90afzmqyenvjosbu8eta'
+2026-07-19T13:17:49,683 (TomcatPool) exec-03067 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | req_id=c773d0526342 ip=172.16.254.1 caller=BackupAgent mem_util=30% 
+2026-07-19T13:18:50,683 (TomcatPool) exec-01526 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | ip=172.16.254.1 endpoint=/api/v2/restore caller=TomcatAccessFilter m
+2026-07-19T13:19:03,909 (TomcatPool) exec-01400 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | endpoint=/metrics caller=ConfigManager cpu_util=29% extra='b38ew3oei'
+2026-07-19T13:20:06,909 (TomcatPool) exec-01110 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | caller=TomcatAccessFilter cpu_util=39% mem_util=67% extra='x8jm6qkkg'
+2026-07-19T13:20:09,458 (TomcatPool) exec-12319 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | endpoint=/api/v1/system/status cpu_util=55% mem_util=43% extra='ruq1'
+2026-07-19T13:21:45,458 (TomcatPool) exec-12245 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=24bee613fe98 endpoint=/metrics caller=TomcatAccessFilter     
+2026-07-19T13:21:45,646 (TomcatPool) exec-04174 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | endpoint=/api/v2/restore caller=DbConnector extra='0ttuv87w1fbha1aob'
+2026-07-19T13:22:01,252 (TomcatPool) exec-01444 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | ip=172.16.254.1 caller=TomcatAccessFilter mem_util=51% extra='xh9q26'
+2026-07-19T13:25:51,252 (TomcatPool) exec-15698 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | req_id=769e2d9cf7d5 ip=192.168.2.115 endpoint=/api/v1/auth/login mem
+2026-07-19T13:26:05,468 (TomcatPool) exec-19305 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | req_id=12e7330a5272 ip=10.0.0.12 mem_util=31% extra='csgj2dcrbqom1re'
+2026-07-19T13:26:09,659 (TomcatPool) exec-12802 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | req_id=81f18f99a32d endpoint=/api/v1/auth/login mem_util=47%        
+2026-07-19T13:27:18,659 (TomcatPool) exec-18188 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | ip=172.16.254.1 caller=ConfigManager extra='68qoi95wkkjs1nysj1ons7ta'
+2026-07-19T13:27:18,677 (TomcatPool) exec-08911 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=28b41fbbb666 endpoint=/metrics caller=BackupAgent extra='xy1j'
+2026-07-19T13:27:19,087 (TomcatPool) exec-05445 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=ba988ba906f8 ip=172.16.254.1 endpoint=/metrics cpu_util=50%  
+2026-07-19T13:27:19,104 (TomcatPool) exec-13988 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | caller=BackupAgent cpu_util=75% extra='llv54gkobhal0e0inckpkxstx5qjk'
+2026-07-19T13:27:22,447 (TomcatPool) exec-17122 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=45a7a2345a63 endpoint=/api/v1/backup/create caller=BackupAgen
+2026-07-19T13:29:04,447 (TomcatPool) exec-19378 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | req_id=eb4bba7dfe8d endpoint=/api/v1/system/status cpu_util=66% mem_
+2026-07-19T13:29:10,289 (TomcatPool) exec-11333 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | req_id=01561a4df90b cpu_util=20% extra='fxho8r8fsrl7as1y6lyqhkru59zq'
+2026-07-19T13:32:16,289 (TomcatPool) exec-18229 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | ip=172.16.254.1 endpoint=/api/v1/backup/create mem_util=36% extra='1'
+2026-07-19T13:32:16,459 (TomcatPool) exec-06472 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | caller=BackupAgent cpu_util=79% mem_util=77% extra='kocnqtq230cszy4j'
+2026-07-19T13:32:26,726 (TomcatPool) exec-10364 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=017ed20be580 ip=192.168.1.50 endpoint=/api/v1/system/status c
+2026-07-19T13:32:30,484 (TomcatPool) exec-05356 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | req_id=32e8bb478fd3 ip=172.16.254.1 caller=ConfigManager cpu_util=22
+2026-07-19T13:32:42,953 (TomcatPool) exec-09990 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | cpu_util=36% mem_util=76% extra='d6hdodcub3hrkkkochb0s9ajuvx2b0mw8uu'
+2026-07-19T13:32:47,336 (TomcatPool) exec-05232 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | req_id=6573885700c2 endpoint=/api/v2/restore caller=TomcatAccessFilt
+2026-07-19T13:33:01,318 (TomcatPool) exec-09669 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | ip=192.168.2.115 endpoint=/api/v2/restore caller=BackupAgent cpu_uti
+2026-07-19T13:33:06,746 (TomcatPool) exec-18147 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | req_id=70af3d1d9d39 endpoint=/api/v1/system/status cpu_util=83% mem_
+2026-07-19T13:33:08,080 (TomcatPool) exec-19151 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=DbConnector cpu_u
+2026-07-19T13:33:08,124 (TomcatPool) exec-14337 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | req_id=ed418fa369a4 endpoint=/api/v1/backup/create cpu_util=30% mem_
+2026-07-19T13:36:16,124 (TomcatPool) exec-05289 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | ip=192.168.2.115 endpoint=/api/v1/auth/login caller=TomcatAccessFilt
+2026-07-19T13:36:16,181 (TomcatPool) exec-15837 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=87bf4f8a9b01 endpoint=/api/v1/system/status caller=DbConnecto
+2026-07-19T13:36:20,911 (TomcatPool) exec-08629 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | req_id=0ef1baed87ef ip=192.168.2.115 endpoint=/api/v1/system/status 
+2026-07-19T13:36:25,591 (TomcatPool) exec-10214 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | ip=172.16.254.1 cpu_util=67% mem_util=53% extra='umg7i0ame1nhyo6ylup'
+2026-07-19T13:36:35,753 (TomcatPool) exec-01849 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | req_id=133c7f07a8a9 ip=192.168.1.50 cpu_util=81% extra='1dkw8ca3yyg9'
+2026-07-19T13:40:26,753 (TomcatPool) exec-01682 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | req_id=7c16313514af cpu_util=78% extra='eji4mzlaps8kuu6x14nd5l7kkd7l'
+2026-07-19T13:40:27,043 (TomcatPool) exec-12947 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | req_id=35a91f32ec5a ip=172.16.254.1 caller=BackupAgent mem_util=62% 
+2026-07-19T13:40:27,307 (TomcatPool) exec-10418 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | cpu_util=17% extra='j9hugv9fkoyzzxjn0a3jhzq8n8pyhn2zh0m3y98tj1166gjt'
+2026-07-19T13:40:27,406 (TomcatPool) exec-05598 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=ccac06ad0205 endpoint=/metrics caller=ConfigManager cpu_util=
+2026-07-19T13:40:39,289 (TomcatPool) exec-02947 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | ip=172.16.254.1 cpu_util=83% extra='h4tmowr66um7ji73mkvwr62bwfvecuvx'
+2026-07-19T13:40:39,564 (TomcatPool) exec-12660 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | ip=192.168.2.115 endpoint=/api/v1/system/status cpu_util=31% mem_uti
+2026-07-19T13:40:39,863 (TomcatPool) exec-02698 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | endpoint=/api/v1/auth/login extra='vw91o8rh53lrm1is1aw8naenp1jyfovgb'
+2026-07-19T13:40:45,276 (TomcatPool) exec-16040 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | ip=10.0.0.12 cpu_util=38% mem_util=90% extra='c0hq1uc2e0s99b4789x5pa'
+2026-07-19T13:40:45,499 (TomcatPool) exec-03743 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | req_id=e65137e2a50d ip=10.0.0.12 endpoint=/metrics caller=ConfigMana
+2026-07-19T13:40:48,692 (TomcatPool) exec-13055 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | trace_id=247bfec4b04248e7 extra='giz3wukk3fjviefl6tjturr7zc6b05yo7el'
+2026-07-19T13:40:50,789 (TomcatPool) exec-09710 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | ip=192.168.2.115 endpoint=/api/v1/auth/login caller=BackupAgent cpu_
+2026-07-19T13:40:56,676 (TomcatPool) exec-11309 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=d8b46e94d563 ip=192.168.2.115 mem_util=76% extra='js3pi45m5pi'
+2026-07-19T13:40:56,894 (TomcatPool) exec-03924 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | ip=10.0.0.12 endpoint=/api/v2/restore caller=TomcatAccessFilter cpu_
+2026-07-19T13:42:32,894 (TomcatPool) exec-04999 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | caller=DbConnector cpu_util=76% extra='7vtl2zo6a9nk76j25ddf6ogwt2tez'
+2026-07-19T13:46:08,894 (TomcatPool) exec-01780 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | ip=192.168.1.50 cpu_util=69% mem_util=44% extra='rqeb7ieeh9iwgpsnf3c'
+2026-07-19T13:47:22,894 (TomcatPool) exec-18652 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=1332a7b104fd ip=10.0.0.12 mem_util=61% extra='ne5ddjtjl13hg32'
+2026-07-19T13:47:36,784 (TomcatPool) exec-10461 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | req_id=b8b8a00dba63 extra='p4sbnl6x887vh9g64z8sf61tym5k2xroc19jhg5ck'
+2026-07-19T13:47:49,880 (TomcatPool) exec-15416 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=d85ee37dd824 endpoint=/api/v1/system/status cpu_util=57%     
+2026-07-19T13:48:02,695 (TomcatPool) exec-01038 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | req_id=ea204c1026e1 ip=172.16.254.1 endpoint=/api/v1/auth/login call
+2026-07-19T13:48:02,949 (TomcatPool) exec-19267 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | trace_id=695c47e5008f4c7f extra='fxzjar1i07sqxz0nnmdtfvf5c7v56ietrgf'
+2026-07-19T13:48:03,334 (TomcatPool) exec-08556 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | ip=172.16.254.1 endpoint=/api/v1/backup/create caller=BackupAgent   
+2026-07-19T13:48:03,460 (TomcatPool) exec-14695 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | cpu_util=15% mem_util=45% extra='zloe9wtf093yq1xrufnudl4ba97ozdewbv4'
+2026-07-19T13:48:04,629 (TomcatPool) exec-19955 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | endpoint=/api/v1/system/status caller=TomcatAccessFilter cpu_util=68
+2026-07-19T13:48:04,903 (TomcatPool) exec-18899 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=b1b39acf2f40 endpoint=/api/v1/auth/login caller=DbConnector m
+2026-07-19T13:48:05,380 (TomcatPool) exec-08191 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=2fd9279f2ff1 endpoint=/api/v2/restore mem_util=34% extra='hik'
+2026-07-19T13:48:05,522 (TomcatPool) exec-19758 [WARN] [][TomcatAccessFilter]doFilter(): Disk usage exceeds 95% warning threshold | req_id=e1911812f4ff ip=10.0.0.12 endpoint=/api/v2/restore caller=Tom
+2026-07-19T13:48:05,742 (TomcatPool) exec-12941 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | req_id=88022ef535e3 ip=192.168.2.115 caller=BackupAgent cpu_util=18%
+2026-07-19T13:48:11,089 (TomcatPool) exec-19637 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | caller=ConfigManager mem_util=39% extra='eeglh9ya5bji3my9era5fwruviw'
+2026-07-19T13:48:14,170 (TomcatPool) exec-16457 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | mem_util=40% extra='2uucoe7up88n1c2daoqj7xx1p9gpsg0aw9iy34gejwne3r73'
+2026-07-19T13:48:17,156 (TomcatPool) exec-19889 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | endpoint=/metrics cpu_util=84% mem_util=52% extra='pgh5cmwea5k7lwmav'
+2026-07-19T13:48:32,885 (TomcatPool) exec-03640 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | cpu_util=21% mem_util=34% extra='urf8ynxywfiii6rtxa6d6s54bg8oj0lcx1d'
+2026-07-19T13:48:32,913 (TomcatPool) exec-04924 [ERROR] [][TempFileManager]createTempFile(): Failed to write temp buffer file: java.io.IOException: There is not enough space on the disk | caller=ConfigManager mem_util=89% extra='ao26123hg6q6lg8vf36jpt4n2ro'
+2026-07-19T13:48:33,028 (TomcatPool) exec-01490 [ERROR] [][LicenseModuleWrapper]getExpiryTime():GetLicenseQuery FAILED: RC=7399 | req_id=0f3da8d8db61 ip=172.16.254.1 mem_util=67% extra='nfni5k8q5hk4'

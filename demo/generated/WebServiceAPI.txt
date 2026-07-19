@@ -1,0 +1,1021 @@
+[2026/07/19 01:15:00:000   00   12345   13999             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1fb5f758de5d endpoint=/api/v1
+[2026/07/19 01:16:27:000   00   12345   02225             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=71% mem_util=82% extra='jjg'
+[2026/07/19 01:16:28:138   00   12345   09519             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status cpu_u
+[2026/07/19 01:19:28:138   00   12345   11489             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d650dbc4f3bc endpoint=/api/v1
+[2026/07/19 01:19:28:305   00   12345   15762             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=DbConnector cpu_util=83%     
+[2026/07/19 01:19:42:991   00   12345   15348             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create cpu_u
+[2026/07/19 01:19:42:999   00   12345   01223             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/system
+[2026/07/19 01:19:43:039   00   12345   15506             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0260aace2d32 endpoint=/api/v2
+[2026/07/19 01:22:19:039   00   12345   18237             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=415132caf648 mem_util=81%    
+[2026/07/19 01:22:24:294   00   12345   17342             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=02e1961d6528 ip=192.168.2.115
+[2026/07/19 01:22:35:444   00   12345   11719             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/metrics c
+[2026/07/19 01:22:35:576   00   12345   09587             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=93c5c454b068 endpoint=/api/v2
+[2026/07/19 01:22:38:808   00   12345   06699             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=161d81857ebc endpoint=/api/v2
+[2026/07/19 01:22:43:784   00   12345   17014             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5b6420e3b4f4 endpoint=/api/v1
+[2026/07/19 01:22:44:192   00   12345   06380             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=2ba180457425 mem_util=44%    
+[2026/07/19 01:35:44:192   00   12345   05263             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/metrics ca
+[2026/07/19 01:35:44:230   00   12345   04389             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 caller=WebServiceHel
+[2026/07/19 01:35:44:528   00   12345   03353             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6abe110b6d27 endpoint=/api/v1
+[2026/07/19 01:35:56:651   00   12345   15740             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=49ea4e53b480 extra='1nnmhf9ny'
+[2026/07/19 01:36:11:321   00   12345   17419             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 cpu_util=20% mem_ut
+[2026/07/19 01:36:14:541   00   12345   08469             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f87f4de41f19 ip=10.0.0.12 end
+[2026/07/19 01:36:14:689   00   12345   02804             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=C
+[2026/07/19 01:36:14:737   00   12345   16794             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=566b6042fa7d ip=10.0.0.12 cal
+[2026/07/19 01:36:28:711   00   12345   09108             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=TomcatAccessF
+[2026/07/19 01:36:28:870   00   12345   16016             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 cpu_util=22% mem_util=3
+[2026/07/19 01:36:31:443   00   12345   04242             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=582c6f555157 endpoint=/api/v1
+[2026/07/19 01:36:31:889   00   12345   16630             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=2b9b769222da cpu_util=64%    
+[2026/07/19 01:36:32:271   00   12345   04209             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=BackupAgent 
+[2026/07/19 01:36:34:530   00   12345   11185             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/auth/l
+[2026/07/19 01:36:36:404   00   12345   01126             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c2f9bbeda7c7 caller=ConfigMan
+[2026/07/19 01:36:36:535   00   12345   09142             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login mem_util
+[2026/07/19 01:36:51:871   00   12345   03471             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=D
+[2026/07/19 01:37:07:576   00   12345   17269             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=WebServiceHelper
+[2026/07/19 01:37:07:648   00   12345   12915             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ee80e36a22ff endpoint=/api/v2
+[2026/07/19 01:39:03:648   00   12345   05925             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 cpu_util=70% extra='xpc'
+[2026/07/19 01:39:03:755   00   12345   07254             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=466d7d2439d9 caller=DbConnect
+[2026/07/19 01:39:03:831   00   12345   08985             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=107f61a9eb64 endpoint=/api/v1
+[2026/07/19 01:39:16:974   00   12345   10117             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create cpu_u
+[2026/07/19 01:39:17:012   00   12345   12143             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent cpu_util=47% mem_
+[2026/07/19 01:39:18:879   00   12345   15816             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login mem_util
+[2026/07/19 01:39:21:528   00   12345   18635             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=816360f9d24b caller=BackupAge
+[2026/07/19 01:39:21:661   00   12345   12562             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status mem_u
+[2026/07/19 01:39:21:974   00   12345   10234             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 extra='fglpwoxjjv1a0m6r'
+[2026/07/19 01:39:22:022   00   12345   19873             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v2/re
+[2026/07/19 01:39:35:819   00   12345   19086             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f95d9841bc36 caller=DbConnect
+[2026/07/19 01:39:40:309   00   12345   04859             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 caller=ConfigManager
+[2026/07/19 01:39:54:166   00   12345   18854             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent cpu_util=26% mem_
+[2026/07/19 01:39:59:259   00   12345   05954             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=9d4e948b3fa3 endpoint=/api/v1
+[2026/07/19 01:40:00:372   00   12345   07254             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=ConfigManager me
+[2026/07/19 01:40:04:550   00   12345   12081             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/auth/l
+[2026/07/19 01:40:04:693   00   12345   19650             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=929b167761bd ip=192.168.1.50 
+[2026/07/19 01:49:04:693   00   12345   09663             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=01afcba00147 endpoint=/metric
+[2026/07/19 01:49:17:222   00   12345   03224             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ce6c413ece24 ip=192.168.2.115
+[2026/07/19 01:49:21:573   00   12345   07329             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=BackupAgent cpu_
+[2026/07/19 01:49:22:002   00   12345   02852             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ff00052dcd3e ip=10.0.0.12 cal
+[2026/07/19 01:49:22:471   00   12345   15009             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3e4365634a61 endpoint=/api/v1
+[2026/07/19 01:49:26:802   00   12345   10305             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent extra='mvh5xt3j26'
+[2026/07/19 01:49:27:204   00   12345   15551             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/metrics cpu_u
+[2026/07/19 01:49:31:573   00   12345   10916             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=209e64f15cda endpoint=/api/v1
+[2026/07/19 01:49:35:344   00   12345   19287             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=bf75e702824b endpoint=/api/v1
+[2026/07/19 01:51:50:344   00   12345   08369             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3fa18cdc9b93 caller=DbConnect
+[2026/07/19 01:54:49:344   00   12345   07311             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 extra='9bvd6qo4nxpbonuf'
+[2026/07/19 01:54:49:544   00   12345   17741             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=76647f300416 endpoint=/api/v1
+[2026/07/19 01:54:49:983   00   12345   10590             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d5761110d56e ip=192.168.2.115
+[2026/07/19 02:07:49:983   00   12345   15699             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status calle
+[2026/07/19 02:07:50:034   00   12345   14849             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v2/res
+[2026/07/19 02:07:52:149   00   12345   16959             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d5bf55fdd2dd ip=192.168.1.50 
+[2026/07/19 02:08:58:149   00   12345   05764             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 caller=WebServiceHel
+[2026/07/19 02:09:03:501   00   12345   02985             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1a3e7fb40630 cpu_util=15% mem
+[2026/07/19 02:09:08:592   00   12345   09761             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=46% extra='32qtj56azewzfb8b'
+[2026/07/19 02:09:10:947   00   12345   12460             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login extra='s'
+[2026/07/19 02:09:16:613   00   12345   15601             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=91938ba5c2a0 endpoint=/api/v1
+[2026/07/19 02:09:18:760   00   12345   10638             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v2/res
+[2026/07/19 02:09:19:036   00   12345   16879             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | mem_util=47% extra='81cvm4itcyhsyx02'
+[2026/07/19 02:09:19:139   00   12345   10253             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 extra='k5fwh1t4g7rq5sah'
+[2026/07/19 02:09:19:544   00   12345   08962             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=TomcatAccessFilter cpu_util=2
+[2026/07/19 02:09:19:681   00   12345   15067             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c0c32b949be0 ip=192.168.2.115
+[2026/07/19 02:09:23:148   00   12345   19409             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 mem_util=57%        
+[2026/07/19 02:09:25:395   00   12345   14543             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/bac
+[2026/07/19 02:09:29:526   00   12345   01466             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/system
+[2026/07/19 02:09:32:198   00   12345   03257             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e9bbe57049cc caller=TomcatAcc
+[2026/07/19 02:09:34:389   00   12345   04564             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7b114d6998a0 ip=10.0.0.12 cpu
+[2026/07/19 02:11:48:389   00   12345   15425             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=18fb2432b66b ip=172.16.254.1 
+[2026/07/19 02:11:48:613   00   12345   13740             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6b5764d50ea7 ip=10.0.0.12 end
+[2026/07/19 02:11:48:696   00   12345   09709             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=C
+[2026/07/19 02:11:50:886   00   12345   09822             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=90d01f65727c ip=192.168.2.115
+[2026/07/19 02:12:04:512   00   12345   08186             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=277fd862e878 caller=ConfigMan
+[2026/07/19 02:12:05:000   00   12345   08271             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=TomcatAccessFilter cpu_util=7
+[2026/07/19 02:12:05:363   00   12345   06340             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5d8b726f82f9 ip=172.16.254.1 
+[2026/07/19 02:12:05:645   00   12345   10858             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore mem_util=88
+[2026/07/19 02:15:00:645   00   12345   18093             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=61ab1b4ee877 endpoint=/api/v1
+[2026/07/19 02:15:00:661   00   12345   15941             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/system
+[2026/07/19 02:17:29:661   00   12345   07162             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/ba
+[2026/07/19 02:17:34:188   00   12345   07729             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=06bb20dcc751 cpu_util=18% mem
+[2026/07/19 02:17:34:675   00   12345   16335             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=DbConnector 
+[2026/07/19 02:17:38:296   00   12345   09075             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c8612f88ee0b endpoint=/api/v1
+[2026/07/19 02:17:38:334   00   12345   13935             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=afb482bf21f3 ip=172.16.254.1 
+[2026/07/19 02:17:42:240   00   12345   07242             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/aut
+[2026/07/19 02:17:44:124   00   12345   12605             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=00aeabdd6f5f ip=172.16.254.1 
+[2026/07/19 02:19:12:124   00   12345   04882             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5847d876363f caller=ConfigMan
+[2026/07/19 02:22:50:124   00   12345   07121             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/metrics m
+[2026/07/19 02:22:50:367   00   12345   18814             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3ea54f3a4d4a ip=192.168.1.50 
+[2026/07/19 02:22:55:006   00   12345   18149             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v2/res
+[2026/07/19 02:22:57:678   00   12345   15692             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=77407d834a9a ip=10.0.0.12    
+[2026/07/19 02:24:12:678   00   12345   03875             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics caller=DbConnector
+[2026/07/19 02:24:13:102   00   12345   06973             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=61c0181190b44956 extra='zud'
+[2026/07/19 02:24:26:496   00   12345   03884             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status calle
+[2026/07/19 02:25:28:496   00   12345   03490             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5b14b1921e46 ip=172.16.254.1 
+[2026/07/19 02:25:28:907   00   12345   13663             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=79470f926d11 caller=DbConnect
+[2026/07/19 02:29:16:907   00   12345   16628             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore caller=Tomc
+[2026/07/19 02:31:26:907   00   12345   03906             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5b4281245c7c ip=172.16.254.1 
+[2026/07/19 02:31:31:321   00   12345   19614             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=da849bea3d00 endpoint=/api/v1
+[2026/07/19 02:33:35:321   00   12345   04429             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=9c97f37f6f0d ip=192.168.1.50 
+[2026/07/19 02:37:25:321   00   12345   17478             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=463391506022 endpoint=/api/v1
+[2026/07/19 02:39:43:321   00   12345   15731             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=367257f6faf0 ip=192.168.1.50 
+[2026/07/19 02:39:43:618   00   12345   15046             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=822d2f534e3c mem_util=33%    
+[2026/07/19 02:39:48:116   00   12345   18015             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics cpu_util=49%      
+[2026/07/19 02:39:58:479   00   12345   01340             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=80f4c3d67a0a endpoint=/api/v1
+[2026/07/19 02:48:58:479   00   12345   04257             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/backup
+[2026/07/19 02:49:02:992   00   12345   04313             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=12e97ef776c7 ip=192.168.1.50 
+[2026/07/19 02:49:04:179   00   12345   09483             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create mem_u
+[2026/07/19 02:49:16:367   00   12345   09221             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | mem_util=59% extra='jqfj7jcpm87qd0qt'
+[2026/07/19 02:49:31:197   00   12345   16097             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status cpu_u
+[2026/07/19 02:49:33:832   00   12345   07301             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=dc11e6fb79ab endpoint=/api/v2
+[2026/07/19 02:49:34:124   00   12345   15521             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8ae4885ae2aa endpoint=/metric
+[2026/07/19 02:49:34:479   00   12345   11855             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=17b4e11d2a63 ip=192.168.1.50 
+[2026/07/19 02:49:46:889   00   12345   06597             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c25397c204b3 ip=192.168.1.50 
+[2026/07/19 02:49:52:241   00   12345   05643             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=90f4b7933fbc caller=DbConnect
+[2026/07/19 02:49:52:405   00   12345   18642             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8a13a1f05fd7 caller=DbConnect
+[2026/07/19 02:49:52:774   00   12345   03139             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 mem_util=56% extra='q7l'
+[2026/07/19 02:49:53:066   00   12345   09218             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 cpu_util=35%       
+[2026/07/19 02:50:06:421   00   12345   13970             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics caller=WebServiceH
+[2026/07/19 02:50:09:265   00   12345   10973             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=B
+[2026/07/19 02:50:22:526   00   12345   18290             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=79969a37827d caller=BackupAge
+[2026/07/19 02:51:24:526   00   12345   13920             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d4e9991f2f01 endpoint=/api/v1
+[2026/07/19 02:51:29:478   00   12345   15630             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=10% mem_util=56% extra='na3'
+[2026/07/19 02:52:59:478   00   12345   10390             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=80ba99ff9621 ip=192.168.2.115
+[2026/07/19 02:52:59:550   00   12345   04856             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b5457e0ca47e caller=ConfigMan
+[2026/07/19 02:53:05:394   00   12345   19231             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5f59051fcb74 ip=10.0.0.12 cpu
+[2026/07/19 02:54:32:394   00   12345   03187             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/metrics c
+[2026/07/19 02:54:32:785   00   12345   10362             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7bbbb3db12a9 ip=192.168.1.50 
+[2026/07/19 02:54:34:176   00   12345   05832             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 extra='1n3ogphcibuqu'
+[2026/07/19 02:54:44:470   00   12345   09965             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=28c0931e3d79 cpu_util=34% mem
+[2026/07/19 02:54:56:442   00   12345   03579             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=41% mem_util=61% extra='v00'
+[2026/07/19 02:54:56:824   00   12345   04107             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e93e6cbea5f8 caller=TomcatAcc
+[2026/07/19 02:55:00:949   00   12345   19649             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/bac
+[2026/07/19 02:55:00:982   00   12345   05203             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0742cc161899 endpoint=/api/v1
+[2026/07/19 02:55:01:101   00   12345   18285             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a655a95e0a87 endpoint=/api/v1
+[2026/07/19 02:55:11:963   00   12345   02384             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=57e94dd96b10 endpoint=/api/v1
+[2026/07/19 02:55:17:935   00   12345   12719             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/sys
+[2026/07/19 02:55:30:021   00   12345   11725             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create cpu_u
+[2026/07/19 02:55:30:073   00   12345   07202             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics extra='y9czty3gbxs'
+[2026/07/19 02:55:30:491   00   12345   17211             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=bce815e6b276 ip=172.16.254.1 
+[2026/07/19 02:55:33:641   00   12345   03935             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ae8612bb9536 ip=10.0.0.12 cpu
+[2026/07/19 02:55:38:175   00   12345   05525             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status      
+[2026/07/19 02:55:42:752   00   12345   15019             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b3e54157ed1d ip=10.0.0.12 end
+[2026/07/19 02:55:55:355   00   12345   14438             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=42c1d9941073 endpoint=/api/v1
+[2026/07/19 02:55:56:435   00   12345   16686             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=ConfigManager mem_util=37%   
+[2026/07/19 02:55:56:682   00   12345   03850             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 extra='bttv5oglte35u'
+[2026/07/19 02:56:12:526   00   12345   05508             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e8277d719fba ip=192.168.1.50 
+[2026/07/19 03:05:12:526   00   12345   10334             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=688363ef0dde caller=ConfigMan
+[2026/07/19 03:05:12:748   00   12345   17865             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=35d18c9c42bd endpoint=/metric
+[2026/07/19 03:05:14:184   00   12345   18727             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=70a773c23cc7 ip=192.168.1.50 
+[2026/07/19 03:05:16:249   00   12345   04813             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=042d56539401 ip=172.16.254.1 
+[2026/07/19 03:07:26:249   00   12345   05444             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/bac
+[2026/07/19 03:07:27:463   00   12345   14978             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=74% extra='lkylotey2op1xznt'
+[2026/07/19 03:07:27:615   00   12345   18074             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=3a1cb77bfdd7494d extra='wiq'
+[2026/07/19 03:07:27:998   00   12345   16580             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3bdcf9c4340a ip=10.0.0.12 mem
+[2026/07/19 03:07:28:122   00   12345   02329             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 cpu_util=56% mem_ut
+[2026/07/19 03:07:40:297   00   12345   05667             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=55b4c39a39fa cpu_util=65%    
+[2026/07/19 03:07:40:569   00   12345   05444             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=9e118ea64582 endpoint=/api/v1
+[2026/07/19 03:07:40:727   00   12345   07017             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b66d17666190 ip=192.168.2.115
+[2026/07/19 03:07:40:819   00   12345   11981             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3a45cf9ef40c endpoint=/metric
+[2026/07/19 03:07:55:642   00   12345   15330             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ee8377b65a12 ip=10.0.0.12 cpu
+[2026/07/19 03:08:00:175   00   12345   19705             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=TomcatAccessFilter cpu_util=7
+[2026/07/19 03:08:02:010   00   12345   14899             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b8346cc6f064 endpoint=/api/v1
+[2026/07/19 03:08:02:498   00   12345   04198             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=T
+[2026/07/19 03:10:09:498   00   12345   01278             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6d488c4f9e6f ip=192.168.2.115
+[2026/07/19 03:10:09:595   00   12345   05254             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore cpu_util=19
+[2026/07/19 03:10:12:035   00   12345   17165             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=ConfigManager cpu_util=58%   
+[2026/07/19 03:10:24:445   00   12345   18843             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=69b9213eaa73 ip=192.168.2.115
+[2026/07/19 03:10:27:126   00   12345   13651             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v2/res
+[2026/07/19 03:10:27:252   00   12345   16184             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=43bbc39c6bab endpoint=/api/v1
+[2026/07/19 03:10:27:624   00   12345   09351             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ca3c1831ed84 cpu_util=24%    
+[2026/07/19 03:10:27:819   00   12345   06171             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent mem_util=37%     
+[2026/07/19 03:10:27:822   00   12345   16037             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=844188b8438d ip=172.16.254.1 
+[2026/07/19 03:19:27:822   00   12345   18057             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b6fb2536ff28 endpoint=/metric
+[2026/07/19 03:19:28:028   00   12345   18670             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=bc3f731a7502 endpoint=/api/v1
+[2026/07/19 03:19:28:286   00   12345   05765             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=B
+[2026/07/19 03:19:32:091   00   12345   17589             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=47cd52fd5efe caller=BackupAge
+[2026/07/19 03:19:36:252   00   12345   04012             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/metrics c
+[2026/07/19 03:19:41:240   00   12345   19272             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics caller=WebServiceH
+[2026/07/19 03:19:41:468   00   12345   15495             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/system
+[2026/07/19 03:19:41:910   00   12345   08999             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=adb7045a790c ip=172.16.254.1 
+[2026/07/19 03:19:45:074   00   12345   16786             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d876cd28f762 endpoint=/api/v1
+[2026/07/19 03:19:45:321   00   12345   02701             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b2027b2ba4fd endpoint=/api/v2
+[2026/07/19 03:19:45:792   00   12345   08358             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics caller=TomcatAcces
+[2026/07/19 03:19:46:946   00   12345   12960             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b6909d1f3b31 endpoint=/api/v1
+[2026/07/19 03:19:47:381   00   12345   13603             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7377154a5f0c cpu_util=63%    
+[2026/07/19 03:19:47:684   00   12345   17833             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=51% extra='lbkaxmdq4sdwk04b'
+[2026/07/19 03:19:47:929   00   12345   09196             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=62c94816b3c0 caller=BackupAge
+[2026/07/19 03:19:48:172   00   12345   16026             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5e73e2147b44 extra='zxwoplt72'
+[2026/07/19 03:19:48:617   00   12345   19247             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/aut
+[2026/07/19 03:19:48:701   00   12345   17454             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7ec2c8e41412 caller=WebServic
+[2026/07/19 03:19:51:129   00   12345   14021             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=TomcatAccessFilter extra='0sm'
+[2026/07/19 03:19:56:524   00   12345   10037             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=2601dbab744d caller=BackupAg
+[2026/07/19 03:21:05:524   00   12345   09542             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | mem_util=69% extra='0cyot9qtugvfang'
+[2026/07/19 03:21:07:731   00   12345   11950             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore caller=Tom
+[2026/07/19 03:21:11:594   00   12345   12388             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics cpu_util=77%     
+[2026/07/19 03:21:13:797   00   12345   14514             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3eeef43b8cd1 endpoint=/api/v
+[2026/07/19 03:30:13:797   00   12345   16583             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5d81ee9ee7e3 endpoint=/api/v
+[2026/07/19 03:30:23:880   00   12345   14336             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=50c0404d458a43e8 extra='9h'
+[2026/07/19 03:44:23:880   00   12345   09717             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=59a6686912d1 endpoint=/api/v
+[2026/07/19 03:49:23:880   00   12345   10356             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=502eb41354f6 cpu_util=85%   
+[2026/07/19 03:49:25:161   00   12345   06841             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=26% mem_util=79% extra='aa'
+[2026/07/19 03:52:28:161   00   12345   18466             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/au
+[2026/07/19 03:53:32:161   00   12345   08393             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 cpu_util=66% mem_u
+[2026/07/19 03:53:34:897   00   12345   11851             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e56f65c18563 endpoint=/api/v
+[2026/07/19 03:53:35:359   00   12345   05445             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=DbConnector cpu_util=17% mem
+[2026/07/19 03:53:45:901   00   12345   18777             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v2/resto
+[2026/07/19 03:53:46:097   00   12345   19222             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8c3d73e2ba0f endpoint=/api/v
+[2026/07/19 03:53:47:608   00   12345   11501             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 caller=TomcatAccess
+[2026/07/19 03:53:47:912   00   12345   05025             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=cc3a7e3d0c7a caller=WebServi
+[2026/07/19 03:53:58:955   00   12345   13558             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=952280dfab03 cpu_util=17% me
+[2026/07/19 03:54:11:217   00   12345   15354             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3d9271763358 caller=DbConnec
+[2026/07/19 03:54:13:443   00   12345   09020             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=WebServiceHelper extra='r8y3'
+[2026/07/19 03:54:16:405   00   12345   11295             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/sy
+[2026/07/19 03:54:27:018   00   12345   17973             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1275342d687f ip=172.16.254.1
+[2026/07/19 03:54:27:269   00   12345   16732             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/a
+[2026/07/19 03:56:17:269   00   12345   14198             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ccc1448837e2 cpu_util=12% me
+[2026/07/19 03:56:17:701   00   12345   11306             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create cpu_
+[2026/07/19 03:58:36:701   00   12345   12515             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/ba
+[2026/07/19 03:58:37:755   00   12345   04792             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/a
+[2026/07/19 03:58:37:872   00   12345   12789             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7a3fc417f94d cpu_util=30% me
+[2026/07/19 04:00:47:872   00   12345   17751             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 mem_util=59%       
+[2026/07/19 04:00:48:093   00   12345   15677             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore cpu_util=3
+[2026/07/19 04:00:53:283   00   12345   16666             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d85973b15c5e endpoint=/api/v
+[2026/07/19 04:00:53:312   00   12345   11330             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v2/resto
+[2026/07/19 04:01:08:039   00   12345   19562             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d4769b0de76f caller=ConfigMa
+[2026/07/19 04:01:22:535   00   12345   17584             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/backu
+[2026/07/19 04:01:38:024   00   12345   18912             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status cpu_
+[2026/07/19 04:01:38:475   00   12345   15125             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=9bf2902430d3 ip=192.168.2.11
+[2026/07/19 04:01:38:675   00   12345   06532             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 cpu_util=46%       
+[2026/07/19 04:01:40:365   00   12345   19370             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=DbConnector extra='po8bnqfzy'
+[2026/07/19 04:01:45:333   00   12345   10115             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/metrics m
+[2026/07/19 04:01:57:534   00   12345   09255             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=90a5a8b0ea44 endpoint=/metri
+[2026/07/19 04:02:00:190   00   12345   10756             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=207b98f86e84 ip=10.0.0.12 en
+[2026/07/19 04:04:52:190   00   12345   08346             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 mem_util=58% extra='px'
+[2026/07/19 04:04:57:754   00   12345   13046             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/s
+[2026/07/19 04:05:00:596   00   12345   09689             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c870649a5dc8 mem_util=58%   
+[2026/07/19 04:06:11:596   00   12345   11547             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=49% extra='y5npz3mlbc5bqt1'
+[2026/07/19 04:06:11:872   00   12345   05147             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/metrics 
+[2026/07/19 04:06:23:580   00   12345   02515             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=832fdffc8f01 ip=10.0.0.12 en
+[2026/07/19 04:06:23:633   00   12345   16228             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=9a6952c8ffe74d1b extra='of'
+[2026/07/19 04:06:23:995   00   12345   07482             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8389f3721c3f ip=10.0.0.12 en
+[2026/07/19 04:06:26:473   00   12345   02192             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=66d5279f9fdf caller=WebServi
+[2026/07/19 04:06:42:229   00   12345   10380             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create call
+[2026/07/19 04:10:20:229   00   12345   12664             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=9f0a8544f2ed endpoint=/metri
+[2026/07/19 04:10:25:839   00   12345   17871             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=507e1d9bf215 caller=ConfigMa
+[2026/07/19 04:10:25:942   00   12345   01800             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/auth/
+[2026/07/19 04:10:31:552   00   12345   16470             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8e2945cf4b94 ip=10.0.0.12 en
+[2026/07/19 04:14:03:552   00   12345   13672             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a146173bebaf endpoint=/api/v
+[2026/07/19 04:14:04:669   00   12345   05954             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status call
+[2026/07/19 04:14:06:759   00   12345   02752             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 caller=ConfigManage
+[2026/07/19 04:14:08:268   00   12345   13478             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7f7feaa3d0c4 ip=10.0.0.12 cp
+[2026/07/19 04:14:08:583   00   12345   18015             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7e3014ca94db ip=192.168.1.50
+[2026/07/19 04:14:13:021   00   12345   05634             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3da16a1ce12a endpoint=/api/v
+[2026/07/19 04:14:13:243   00   12345   12018             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=DbConnector 
+[2026/07/19 04:14:28:658   00   12345   01027             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 cpu_util=38% mem_u
+[2026/07/19 04:14:28:664   00   12345   18128             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status cpu_
+[2026/07/19 04:14:42:219   00   12345   06623             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d917f4ae125b cpu_util=70%   
+[2026/07/19 04:14:56:381   00   12345   07537             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/au
+[2026/07/19 04:14:56:735   00   12345   06696             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6335f67ee3b5 cpu_util=50% me
+[2026/07/19 04:15:08:893   00   12345   09948             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6344457cca18 ip=192.168.2.11
+[2026/07/19 04:15:09:388   00   12345   18759             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b0e7aed311d1 ip=172.16.254.1
+[2026/07/19 04:15:09:525   00   12345   05357             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 cpu_util=46% mem_ut
+[2026/07/19 04:15:09:597   00   12345   07148             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=15b16ce20fd2 ip=192.168.2.11
+[2026/07/19 04:15:13:145   00   12345   18945             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/metrics 
+[2026/07/19 04:15:18:723   00   12345   10922             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 extra='8t0foxg50wm0'
+[2026/07/19 04:15:18:896   00   12345   14386             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=cf557e94b73e cpu_util=22%   
+[2026/07/19 04:15:19:109   00   12345   03406             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent cpu_util=43%    
+[2026/07/19 04:15:30:017   00   12345   08364             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/auth/
+[2026/07/19 04:15:30:151   00   12345   05898             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=598a8040b3b8 ip=172.16.254.1
+[2026/07/19 04:15:34:290   00   12345   16333             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d5d5ba18429d ip=192.168.1.50
+[2026/07/19 04:15:34:669   00   12345   03726             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/ba
+[2026/07/19 04:18:37:669   00   12345   04565             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 caller=BackupAgent 
+[2026/07/19 04:18:38:059   00   12345   11798             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e928601cd805 caller=BackupAg
+[2026/07/19 04:18:38:322   00   12345   12060             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 caller=DbConnector 
+[2026/07/19 04:28:38:322   00   12345   19111             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=TomcatAccessFilter extra='6x'
+[2026/07/19 04:28:40:354   00   12345   03056             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 cpu_util=30% extra='nz'
+[2026/07/19 04:28:40:794   00   12345   10472             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7bcddcd3a1d8 ip=172.16.254.1
+[2026/07/19 04:28:40:959   00   12345   17059             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=51% extra='cpswqd1avcregju'
+[2026/07/19 04:28:42:279   00   12345   11974             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=19701086fcc5 cpu_util=28% me
+[2026/07/19 04:28:47:653   00   12345   14144             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0b8d970131cf caller=WebServi
+[2026/07/19 04:28:53:053   00   12345   04468             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d00bfc6d0ef1 ip=192.168.2.11
+[2026/07/19 04:28:55:871   00   12345   17560             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=847efc38d06e ip=192.168.1.50
+[2026/07/19 04:29:10:029   00   12345   10072             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=
+[2026/07/19 04:29:13:649   00   12345   14255             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=WebServiceHe
+[2026/07/19 04:32:37:649   00   12345   04541             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create cpu_
+[2026/07/19 04:32:39:755   00   12345   13877             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=764dee278d98 endpoint=/metri
+[2026/07/19 04:32:55:537   00   12345   01762             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/auth/
+[2026/07/19 04:32:55:875   00   12345   18517             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=97939beaeef4 ip=172.16.254.1
+[2026/07/19 04:32:56:199   00   12345   08157             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f17d36702079 caller=WebServi
+[2026/07/19 04:32:56:680   00   12345   07117             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8d6df514587e ip=192.168.2.11
+[2026/07/19 04:32:57:727   00   12345   11928             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5623861d20c6 endpoint=/api/v
+[2026/07/19 04:32:57:843   00   12345   11140             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 cpu_util=33%      
+[2026/07/19 04:32:58:192   00   12345   11342             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f72410db8899 ip=192.168.1.50
+[2026/07/19 04:32:58:246   00   12345   05949             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/auth/
+[2026/07/19 04:34:28:246   00   12345   17073             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5632bba14ec0 ip=192.168.1.50
+[2026/07/19 04:34:29:902   00   12345   01332             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create mem_
+[2026/07/19 04:34:40:432   00   12345   14150             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=9095ce539d61 ip=10.0.0.12 me
+[2026/07/19 04:34:45:739   00   12345   06831             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore cpu_util=6
+[2026/07/19 04:34:45:897   00   12345   05660             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 cpu_util=66% mem_ut
+[2026/07/19 04:34:51:281   00   12345   15601             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7d3faed8f99f ip=10.0.0.12   
+[2026/07/19 04:34:55:223   00   12345   14507             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/a
+[2026/07/19 04:34:55:299   00   12345   19083             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=32fd696ef2e0 ip=192.168.2.11
+[2026/07/19 04:34:59:901   00   12345   13302             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ac284a72fc44 endpoint=/api/v
+[2026/07/19 04:35:13:318   00   12345   03691             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=760a1a4e0adb ip=192.168.1.50
+[2026/07/19 04:35:14:893   00   12345   15474             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=BackupAgent
+[2026/07/19 04:35:28:542   00   12345   02347             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=552a5158a0f0 extra='cfshtflk'
+[2026/07/19 04:35:28:670   00   12345   02744             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=08ec13b0ef62 ip=192.168.1.50
+[2026/07/19 04:35:32:548   00   12345   04540             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics caller=WebService
+[2026/07/19 04:35:32:779   00   12345   11527             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent cpu_util=57% mem
+[2026/07/19 04:35:45:972   00   12345   13872             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics caller=TomcatAcce
+[2026/07/19 04:35:46:256   00   12345   17449             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a74dcb79fbe9 endpoint=/api/v
+[2026/07/19 04:35:51:851   00   12345   17195             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 mem_util=38%      
+[2026/07/19 04:35:53:145   00   12345   15044             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=WebServiceHe
+[2026/07/19 04:35:54:413   00   12345   16668             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1ac3ca659614 ip=192.168.2.11
+[2026/07/19 04:38:41:413   00   12345   17859             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=efe6ec6a7253 endpoint=/api/v
+[2026/07/19 04:38:42:750   00   12345   03194             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=31899ded5215 ip=192.168.2.11
+[2026/07/19 04:38:55:269   00   12345   16359             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=eaf8a18730c9 ip=172.16.254.1
+[2026/07/19 04:38:57:517   00   12345   15885             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f26a28ddc06e endpoint=/api/v
+[2026/07/19 04:38:57:581   00   12345   09704             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c0257bc2bb68 ip=172.16.254.1
+[2026/07/19 04:39:00:037   00   12345   09810             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v2/re
+[2026/07/19 04:39:00:380   00   12345   16154             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status mem_
+[2026/07/19 04:39:11:026   00   12345   13325             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=WebServiceH
+[2026/07/19 04:39:12:403   00   12345   06356             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c580fa6995b0 ip=172.16.254.1
+[2026/07/19 04:39:12:547   00   12345   10985             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=558f5272f6d9 ip=192.168.2.11
+[2026/07/19 04:39:24:993   00   12345   14479             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create call
+[2026/07/19 04:39:30:470   00   12345   19244             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=470295c3be86 ip=172.16.254.1
+[2026/07/19 04:39:36:459   00   12345   18979             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore cpu_util=7
+[2026/07/19 04:39:36:864   00   12345   11833             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/sy
+[2026/07/19 04:39:47:542   00   12345   18462             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=ConfigManager cpu_util=42% m
+[2026/07/19 04:39:48:023   00   12345   08015             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=2c2729bb8dea ip=172.16.254.1
+[2026/07/19 04:39:58:882   00   12345   18335             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status call
+[2026/07/19 04:40:02:355   00   12345   12949             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 mem_util=80% extra='ee'
+[2026/07/19 04:40:08:220   00   12345   06728             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=DbConnector cpu
+[2026/07/19 04:42:51:220   00   12345   17553             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 cpu_util=44%       
+[2026/07/19 04:42:51:639   00   12345   05021             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a2f94c1c58e4 ip=10.0.0.12   
+[2026/07/19 04:42:55:464   00   12345   17239             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status cpu_
+[2026/07/19 04:44:26:464   00   12345   05567             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e06fe893c009 ip=192.168.2.11
+[2026/07/19 04:44:29:793   00   12345   18995             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c3b8b46607c7 endpoint=/api/v
+[2026/07/19 04:56:29:793   00   12345   09351             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=75e3ab4c0f89 endpoint=/api/v
+[2026/07/19 04:56:29:851   00   12345   19599             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | mem_util=43% extra='ioc8ko7ivr2mnkr'
+[2026/07/19 04:56:35:286   00   12345   19740             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=TomcatAccessFilter cpu_util=
+[2026/07/19 04:59:56:286   00   12345   13310             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=49ad15d4f372 endpoint=/metri
+[2026/07/19 05:00:02:020   00   12345   02452             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=95c38e247279 endpoint=/api/v
+[2026/07/19 05:00:06:448   00   12345   19071             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/ba
+[2026/07/19 05:00:10:593   00   12345   15901             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics caller=DbConnecto
+[2026/07/19 05:00:23:309   00   12345   18311             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e5275ce81313 ip=192.168.1.50
+[2026/07/19 05:00:26:864   00   12345   05592             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics mem_util=35%     
+[2026/07/19 05:00:26:938   00   12345   03442             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/au
+[2026/07/19 05:02:28:938   00   12345   17647             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=75f13e4ff217 ip=10.0.0.12 cp
+[2026/07/19 05:02:29:253   00   12345   10756             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b847922dcfe0 ip=192.168.2.11
+[2026/07/19 05:02:29:380   00   12345   18442             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status mem_
+[2026/07/19 05:02:32:506   00   12345   02572             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 mem_util=65%       
+[2026/07/19 05:02:37:940   00   12345   17898             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=TomcatAccessFil
+[2026/07/19 05:02:48:232   00   12345   08531             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b8de8a01330e ip=192.168.2.11
+[2026/07/19 05:02:48:292   00   12345   04757             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b278b358b12b endpoint=/metri
+[2026/07/19 05:02:48:310   00   12345   16234             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c42dae99ede3 endpoint=/metri
+[2026/07/19 05:02:52:420   00   12345   02517             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=dc855a19ad45 cpu_util=28%   
+[2026/07/19 05:05:51:420   00   12345   03697             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 mem_util=52%      
+[2026/07/19 05:05:51:908   00   12345   14708             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create cpu_
+[2026/07/19 05:05:53:849   00   12345   08630             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=DbConnector extra='9g1f0g66g'
+[2026/07/19 05:05:53:979   00   12345   02238             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d93b4556d955 ip=10.0.0.12 cp
+[2026/07/19 05:05:54:459   00   12345   11305             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=649b3960e143 ip=172.16.254.1
+[2026/07/19 05:05:59:404   00   12345   09678             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v2/re
+[2026/07/19 05:07:36:404   00   12345   15874             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore caller=Web
+[2026/07/19 05:11:23:404   00   12345   03453             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=eb65906ad34d ip=192.168.2.11
+[2026/07/19 05:11:28:902   00   12345   11105             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b0e629b16a10 endpoint=/api/v
+[2026/07/19 05:11:29:314   00   12345   06503             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0a1de1cbae2d caller=WebServi
+[2026/07/19 05:11:29:483   00   12345   04189             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=745afe14e27b ip=192.168.2.11
+[2026/07/19 05:11:30:737   00   12345   12274             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e770ec8922fa ip=192.168.2.11
+[2026/07/19 05:11:35:745   00   12345   03274             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 cpu_util=54% mem_u
+[2026/07/19 05:11:41:626   00   12345   10728             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=759ea0cd3748 endpoint=/api/v
+[2026/07/19 05:11:42:094   00   12345   18332             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/metrics  
+[2026/07/19 05:11:42:294   00   12345   02220             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=015bfe716317 ip=192.168.1.50
+[2026/07/19 05:11:46:439   00   12345   06903             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3f7c7a3b1713 ip=192.168.2.11
+[2026/07/19 05:12:01:353   00   12345   19861             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=ConfigManage
+[2026/07/19 05:12:04:670   00   12345   11795             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6ffb75bbf112 caller=TomcatAc
+[2026/07/19 05:12:09:654   00   12345   14283             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=66031113214b ip=10.0.0.12 en
+[2026/07/19 05:12:10:021   00   12345   19299             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=be38f276398f ip=192.168.2.11
+[2026/07/19 05:12:10:208   00   12345   12010             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=WebServiceHelper extra='xyoc'
+[2026/07/19 05:15:25:208   00   12345   02071             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 mem_util=50%      
+[2026/07/19 05:15:26:874   00   12345   08754             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d1ad50271730 caller=TomcatAc
+[2026/07/19 05:15:28:642   00   12345   18835             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1775347bec80 ip=10.0.0.12 cp
+[2026/07/19 05:18:32:642   00   12345   16714             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=dfa2d7eac239 ip=10.0.0.12 en
+[2026/07/19 05:18:37:790   00   12345   08763             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=cda3cf256f2d ip=192.168.2.11
+[2026/07/19 05:18:40:281   00   12345   11485             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b5e16d7c675c endpoint=/api/v
+[2026/07/19 05:18:43:379   00   12345   03703             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics cpu_util=17%     
+[2026/07/19 05:18:43:841   00   12345   10604             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1c46eca7f01f ip=192.168.1.50
+[2026/07/19 05:18:43:953   00   12345   15746             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=9e55caad2663 endpoint=/api/v
+[2026/07/19 05:18:46:802   00   12345   18856             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/sy
+[2026/07/19 05:18:46:978   00   12345   10743             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e774a95e0788 endpoint=/api/v
+[2026/07/19 05:18:50:672   00   12345   04578             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status call
+[2026/07/19 05:18:50:856   00   12345   11294             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore cpu_util=5
+[2026/07/19 05:18:52:031   00   12345   08372             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c8c412005d1e mem_util=69%   
+[2026/07/19 05:31:52:031   00   12345   07796             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=dd8692d8b933 ip=192.168.2.11
+[2026/07/19 05:40:52:031   00   12345   01530             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=462c0ef088c9 ip=192.168.2.11
+[2026/07/19 05:42:44:031   00   12345   02131             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=DbConnector cpu_util=54% mem
+[2026/07/19 05:42:45:295   00   12345   05615             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=TomcatAccessFilter cpu_util=
+[2026/07/19 05:42:48:959   00   12345   02545             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=WebServiceHelper mem_util=88
+[2026/07/19 05:42:51:660   00   12345   01548             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent extra='3808yy01y'
+[2026/07/19 05:43:07:347   00   12345   07894             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1ff7288df245 mem_util=41%   
+[2026/07/19 05:43:08:373   00   12345   08338             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create     
+[2026/07/19 05:43:08:507   00   12345   16829             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=ConfigManager extra='v5dvzi3'
+[2026/07/19 05:43:11:848   00   12345   14402             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=972c998e34334b3a extra='cs'
+[2026/07/19 05:43:16:914   00   12345   14920             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ceb98b0b3bc8 mem_util=55%   
+[2026/07/19 05:43:17:381   00   12345   19867             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 cpu_util=29%      
+[2026/07/19 05:44:32:381   00   12345   15016             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status call
+[2026/07/19 05:44:32:875   00   12345   11066             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status call
+[2026/07/19 05:44:46:401   00   12345   17805             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=9bd007a089e0 caller=DbConnec
+[2026/07/19 05:44:50:411   00   12345   09920             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=DbConnector mem
+[2026/07/19 05:44:52:637   00   12345   13107             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/metrics c
+[2026/07/19 05:44:53:077   00   12345   02619             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=86dd78ab1c22 caller=DbConnec
+[2026/07/19 05:44:53:377   00   12345   05532             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v2/re
+[2026/07/19 05:45:04:505   00   12345   08378             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=56429be6cd27 ip=172.16.254.1
+[2026/07/19 05:45:04:703   00   12345   04001             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics cpu_util=59% mem_
+[2026/07/19 05:45:04:795   00   12345   17548             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore extra='vun'
+[2026/07/19 05:57:04:795   00   12345   01993             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=2353b980f411 endpoint=/api/v
+[2026/07/19 05:57:07:712   00   12345   19281             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f3624c6f2f0f ip=192.168.2.11
+[2026/07/19 05:57:12:672   00   12345   10224             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/sy
+[2026/07/19 05:58:43:672   00   12345   02507             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c4174e6ae5df ip=172.16.254.1
+[2026/07/19 05:58:43:870   00   12345   16704             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore caller=Con
+[2026/07/19 05:58:44:235   00   12345   12022             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6137a49684d3 extra='doud40hw'
+[2026/07/19 05:58:54:754   00   12345   15676             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create call
+[2026/07/19 05:58:54:927   00   12345   09926             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=2986a0e56914 cpu_util=54%   
+[2026/07/19 05:58:55:395   00   12345   14180             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=2ff6380f217f endpoint=/api/v
+[2026/07/19 05:59:00:512   00   12345   19160             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=WebServiceHelper extra='ere8'
+[2026/07/19 06:00:55:512   00   12345   09321             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e6eb0de3f8fb ip=192.168.1.50
+[2026/07/19 06:02:01:512   00   12345   02568             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=2d85575ef779 ip=10.0.0.12 en
+[2026/07/19 06:02:01:744   00   12345   09131             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=cc77b199023b ip=192.168.1.50
+[2026/07/19 06:02:02:095   00   12345   03461             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent cpu_util=30%    
+[2026/07/19 06:02:04:478   00   12345   18955             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=WebServiceHelper cpu_util=22
+[2026/07/19 06:02:14:768   00   12345   07641             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5fb61326bd47 endpoint=/metri
+[2026/07/19 06:02:14:805   00   12345   10697             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=ConfigManage
+[2026/07/19 06:02:18:578   00   12345   15810             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ca64fe7468b8 endpoint=/api/v
+[2026/07/19 06:02:19:696   00   12345   08310             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/ba
+[2026/07/19 06:02:23:263   00   12345   09813             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0d81c814a232 ip=192.168.1.50
+[2026/07/19 06:02:26:176   00   12345   09747             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=39% extra='2dsf5ra41prq9w6'
+[2026/07/19 06:04:30:176   00   12345   03319             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e37ba0b93567 ip=192.168.1.50
+[2026/07/19 06:04:43:090   00   12345   11513             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c385eef9e21e mem_util=86%   
+[2026/07/19 06:04:43:169   00   12345   06204             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a5613c60e20b ip=192.168.2.11
+[2026/07/19 06:04:43:353   00   12345   11912             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ff39dda9200f caller=WebServi
+[2026/07/19 06:04:47:696   00   12345   11508             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent cpu_util=22%    
+[2026/07/19 06:04:48:836   00   12345   19576             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 extra='cxjtmyq6fn0b'
+[2026/07/19 06:04:51:288   00   12345   05027             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=86e97c229517 endpoint=/api/v
+[2026/07/19 06:04:51:546   00   12345   06012             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/syste
+[2026/07/19 06:04:55:281   00   12345   01425             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v2/r
+[2026/07/19 06:18:55:281   00   12345   07856             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=57% mem_util=87% extra='s8'
+[2026/07/19 06:18:55:458   00   12345   14652             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=61d19c82d32d ip=10.0.0.12 me
+[2026/07/19 06:22:45:458   00   12345   06154             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=80f5454a2de0 endpoint=/api/v
+[2026/07/19 06:22:45:664   00   12345   01008             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b6b827d29406 endpoint=/api/v
+[2026/07/19 06:30:45:664   00   12345   13242             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=44738690395e ip=172.16.254.1
+[2026/07/19 06:30:50:994   00   12345   14631             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1dfde2e0f62e ip=10.0.0.12 cp
+[2026/07/19 06:31:05:912   00   12345   04335             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6a803b3717d5 caller=WebServi
+[2026/07/19 06:31:06:256   00   12345   09727             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=
+[2026/07/19 06:31:06:687   00   12345   09399             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create call
+[2026/07/19 06:31:18:700   00   12345   08253             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v2/resto
+[2026/07/19 06:31:18:880   00   12345   14656             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/au
+[2026/07/19 06:31:22:682   00   12345   16610             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 cpu_util=16%       
+[2026/07/19 06:31:25:969   00   12345   05011             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login cpu_uti
+[2026/07/19 06:31:38:096   00   12345   06946             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=60% mem_util=68% extra='26'
+[2026/07/19 06:34:23:096   00   12345   02519             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v2/r
+[2026/07/19 06:34:23:315   00   12345   01756             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=113adea131b3 ip=172.16.254.1
+[2026/07/19 06:34:27:268   00   12345   14695             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=TomcatAccessFilter extra='o8'
+[2026/07/19 06:34:29:997   00   12345   07437             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c875e07bb192 extra='1ee9dpjn'
+[2026/07/19 06:34:30:066   00   12345   18041             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=BackupAgent
+[2026/07/19 06:34:30:295   00   12345   05658             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a610d607b5e7 ip=10.0.0.12 en
+[2026/07/19 06:34:32:561   00   12345   09611             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 extra='yncrhblxu84u'
+[2026/07/19 06:34:34:075   00   12345   14854             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f77dd90b3020 ip=192.168.1.50
+[2026/07/19 06:34:46:326   00   12345   18547             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ffce7eb9ef21 ip=192.168.1.50
+[2026/07/19 06:34:50:679   00   12345   01870             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=DbConnector extra='gpngbgih2'
+[2026/07/19 06:34:50:821   00   12345   07656             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=9390ee650e9c ip=192.168.1.50
+[2026/07/19 06:37:22:821   00   12345   09383             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=WebServiceHelpe
+[2026/07/19 06:37:22:958   00   12345   12005             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/metrics call
+[2026/07/19 06:37:24:977   00   12345   18653             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/metrics call
+[2026/07/19 06:37:25:360   00   12345   14708             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login mem_uti
+[2026/07/19 06:37:30:152   00   12345   15239             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=14c4cc0efffe endpoint=/api/v
+[2026/07/19 06:45:30:152   00   12345   06166             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1d7b47ee933d ip=192.168.2.11
+[2026/07/19 06:45:31:676   00   12345   11837             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=81db1b28dded endpoint=/api/v
+[2026/07/19 06:45:32:100   00   12345   09998             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login mem_uti
+[2026/07/19 06:45:32:307   00   12345   12993             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create cpu_
+[2026/07/19 06:47:44:307   00   12345   16918             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=2151fa71f585 endpoint=/api/v
+[2026/07/19 06:47:57:703   00   12345   12183             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/s
+[2026/07/19 06:47:59:626   00   12345   03248             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8316d3e501a1 ip=192.168.1.50
+[2026/07/19 06:50:22:626   00   12345   07717             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=
+[2026/07/19 06:50:26:351   00   12345   10636             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=19% mem_util=54% extra='11'
+[2026/07/19 06:52:19:351   00   12345   13876             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1ab129ea94b7 endpoint=/api/v
+[2026/07/19 06:52:19:803   00   12345   07532             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 extra='jkrflbdix9v8'
+[2026/07/19 06:52:23:660   00   12345   19423             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/auth/
+[2026/07/19 06:52:24:104   00   12345   17409             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b6fe0ec2edd2 cpu_util=43% me
+[2026/07/19 06:55:43:104   00   12345   01061             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=85b942663ff5 ip=10.0.0.12 ca
+[2026/07/19 06:55:57:888   00   12345   17311             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=881ea225a2ba ip=192.168.2.11
+[2026/07/19 06:56:02:488   00   12345   07662             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0fc76183752a caller=DbConnec
+[2026/07/19 06:56:05:438   00   12345   19223             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | mem_util=65% extra='9k3f8i7mwqcjl6c'
+[2026/07/19 06:56:05:838   00   12345   14613             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 cpu_util=19% mem_ut
+[2026/07/19 06:56:07:692   00   12345   11271             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7e90dec448e1 endpoint=/metri
+[2026/07/19 06:56:08:098   00   12345   12625             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=BackupAgent
+[2026/07/19 06:56:11:817   00   12345   12665             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=dfcc699ca437 ip=192.168.1.50
+[2026/07/19 06:56:12:247   00   12345   02170             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=795dc6d6fa1e ip=192.168.2.11
+[2026/07/19 06:56:12:507   00   12345   15929             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create mem_
+[2026/07/19 06:56:27:393   00   12345   15250             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7c7f33ec0939 endpoint=/api/v
+[2026/07/19 06:56:27:709   00   12345   09054             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics cpu_util=19% mem_
+[2026/07/19 06:56:29:573   00   12345   14417             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=23dd8c577b7d caller=ConfigMa
+[2026/07/19 06:56:29:770   00   12345   17450             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3194ed11f4b1 endpoint=/api/v
+[2026/07/19 07:00:01:770   00   12345   13278             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=TomcatAccess
+[2026/07/19 07:00:07:496   00   12345   06400             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ccaabd74fd06 ip=10.0.0.12 en
+[2026/07/19 07:00:13:013   00   12345   13756             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3dfd84fd6ec9 endpoint=/api/v
+[2026/07/19 07:00:13:076   00   12345   16216             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8a6daf27c5ae ip=10.0.0.12 me
+[2026/07/19 07:00:13:417   00   12345   03353             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8cdb98cd14c8 ip=172.16.254.1
+[2026/07/19 07:00:15:937   00   12345   15374             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=edce939cd4e0 caller=TomcatAc
+[2026/07/19 07:00:16:382   00   12345   17771             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 caller=DbConnector 
+[2026/07/19 07:03:04:382   00   12345   12443             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0a7e6048b10d ip=192.168.2.11
+[2026/07/19 07:03:04:398   00   12345   13492             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login cpu_uti
+[2026/07/19 07:03:10:203   00   12345   06234             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 cpu_util=55%      
+[2026/07/19 07:03:14:366   00   12345   18070             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/au
+[2026/07/19 07:03:20:177   00   12345   18489             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 cpu_util=73% mem_u
+[2026/07/19 07:03:35:239   00   12345   14206             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics caller=DbConnecto
+[2026/07/19 07:03:45:996   00   12345   09631             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=BackupAgent 
+[2026/07/19 07:03:58:090   00   12345   10948             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=64b290b0c698 extra='xd8df3v6'
+[2026/07/19 07:04:01:059   00   12345   08087             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/b
+[2026/07/19 07:04:04:691   00   12345   13864             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics caller=ConfigMana
+[2026/07/19 07:04:15:026   00   12345   11730             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=TomcatAccessFilter mem_util=
+[2026/07/19 07:04:28:948   00   12345   17792             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8fe87170efdd ip=192.168.1.50
+[2026/07/19 07:04:29:216   00   12345   12883             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f40a48877e20 ip=192.168.2.11
+[2026/07/19 07:07:51:216   00   12345   12919             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ff10959cd2a7 endpoint=/api/v
+[2026/07/19 07:07:51:536   00   12345   13509             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=aeb34342762d endpoint=/api/v
+[2026/07/19 07:09:25:536   00   12345   01430             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=349129908a33 endpoint=/api/v
+[2026/07/19 07:09:29:445   00   12345   09922             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v2/r
+[2026/07/19 07:09:41:171   00   12345   01166             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 caller=ConfigManage
+[2026/07/19 07:09:46:797   00   12345   15136             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ba4c3544a91e cpu_util=55% me
+[2026/07/19 07:13:41:797   00   12345   08494             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=WebServiceHe
+[2026/07/19 07:16:54:797   00   12345   08686             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=6dfa1c750154498c extra='bc'
+[2026/07/19 07:19:42:797   00   12345   06226             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=08c499f43987 ip=172.16.254.1
+[2026/07/19 07:21:19:797   00   12345   05108             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status cpu_
+[2026/07/19 07:21:24:801   00   12345   12975             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 extra='4id8qiy8ygct'
+[2026/07/19 07:21:25:296   00   12345   11345             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=82% extra='90ofh9a48vo1x8f'
+[2026/07/19 07:21:27:573   00   12345   02767             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=WebServiceHelper extra='puj5'
+[2026/07/19 07:21:27:588   00   12345   13628             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=
+[2026/07/19 07:21:27:775   00   12345   12335             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6e10c7bb944a ip=10.0.0.12 cp
+[2026/07/19 07:21:31:391   00   12345   07462             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=ConfigManage
+[2026/07/19 07:21:35:144   00   12345   02574             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=38% extra='zp4hw2pkljg1wte'
+[2026/07/19 07:21:40:634   00   12345   02207             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ba913e842050 cpu_util=34%   
+[2026/07/19 07:24:43:634   00   12345   03033             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0c0aea9cdae5 endpoint=/metri
+[2026/07/19 07:24:48:115   00   12345   10853             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4d5ec3880c1c ip=10.0.0.12 en
+[2026/07/19 07:35:48:115   00   12345   16640             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d143864d0934 mem_util=77%   
+[2026/07/19 07:35:48:331   00   12345   16640             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/ba
+[2026/07/19 07:35:48:730   00   12345   16049             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=9f78d17947574bb8 extra='1p'
+[2026/07/19 07:35:48:887   00   12345   04287             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=9c7f86b2d40349e5 extra='31'
+[2026/07/19 07:35:51:693   00   12345   07971             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 mem_util=32% extra='ly'
+[2026/07/19 07:35:51:790   00   12345   18651             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=ConfigManager mem_util=53%  
+[2026/07/19 07:36:06:161   00   12345   05764             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=ConfigManager  
+[2026/07/19 07:36:10:427   00   12345   07763             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 extra='ut8v5zcuch4ufsb'
+[2026/07/19 07:36:10:465   00   12345   11038             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a6bdfa249134 ip=172.16.254.1
+[2026/07/19 07:36:10:670   00   12345   18226             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=cfad791b67a2 endpoint=/api/v
+[2026/07/19 07:36:10:900   00   12345   15975             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4e801ac3920c endpoint=/api/v
+[2026/07/19 07:36:14:697   00   12345   14750             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4ddf54c6ef75 cpu_util=82% me
+[2026/07/19 07:40:12:697   00   12345   15213             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics cpu_util=14%     
+[2026/07/19 07:40:13:023   00   12345   19961             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status mem_
+[2026/07/19 07:40:13:190   00   12345   14701             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=bafc1ed8ebad cpu_util=18%   
+[2026/07/19 07:40:13:496   00   12345   16478             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=fb08b0bce997 ip=172.16.254.1
+[2026/07/19 07:40:13:943   00   12345   13037             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status cpu_
+[2026/07/19 07:40:13:950   00   12345   16502             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=505a091600bb ip=192.168.2.11
+[2026/07/19 07:40:14:420   00   12345   13887             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6d90d7e5220f ip=172.16.254.1
+[2026/07/19 07:40:14:449   00   12345   18490             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login mem_uti
+[2026/07/19 07:40:30:440   00   12345   04535             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 cpu_util=45% mem_ut
+[2026/07/19 07:40:30:543   00   12345   05005             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=fc8e4720b0b5 ip=192.168.2.11
+[2026/07/19 07:40:30:746   00   12345   16096             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=
+[2026/07/19 07:40:30:989   00   12345   06550             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1df345f703bd caller=ConfigMa
+[2026/07/19 07:40:31:485   00   12345   12975             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create call
+[2026/07/19 07:40:31:519   00   12345   05178             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5ad24c10ff11 endpoint=/api/v
+[2026/07/19 07:40:31:555   00   12345   09652             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f925e1dfb92d endpoint=/metri
+[2026/07/19 07:40:42:950   00   12345   18463             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=47512b475513 caller=TomcatAc
+[2026/07/19 07:40:57:772   00   12345   09827             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=204bfc01024a ip=172.16.254.1
+[2026/07/19 07:40:57:862   00   12345   01179             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore caller=Con
+[2026/07/19 07:41:00:747   00   12345   03673             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=TomcatAcces
+[2026/07/19 07:43:04:747   00   12345   07071             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=TomcatAccessFil
+[2026/07/19 07:43:06:735   00   12345   17914             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4959842a1097 ip=10.0.0.12 cp
+[2026/07/19 07:43:06:807   00   12345   05753             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/a
+[2026/07/19 07:43:07:280   00   12345   06075             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=53d2745a8643 ip=192.168.1.50
+[2026/07/19 07:43:12:127   00   12345   07827             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=67c11d7f1394447f extra='jh'
+[2026/07/19 07:43:12:267   00   12345   17507             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=641059bbe311 ip=10.0.0.12 ca
+[2026/07/19 07:46:42:267   00   12345   05540             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=391c98a979e8 ip=172.16.254.1
+[2026/07/19 07:46:42:490   00   12345   04052             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=fb68e6b42436 caller=BackupAg
+[2026/07/19 07:46:42:816   00   12345   16753             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=ConfigManager extra='f0fp37y'
+[2026/07/19 07:46:44:051   00   12345   02069             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create     
+[2026/07/19 07:46:44:063   00   12345   14987             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c7f37e61cc79 ip=192.168.1.50
+[2026/07/19 07:46:57:264   00   12345   09698             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=23ae198e9f61 caller=DbConnec
+[2026/07/19 07:46:57:612   00   12345   06065             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/s
+[2026/07/19 07:46:59:878   00   12345   18843             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/b
+[2026/07/19 07:47:03:253   00   12345   14879             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5c7d0ab4fa70 endpoint=/api/v
+[2026/07/19 07:47:06:878   00   12345   07720             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=ConfigManage
+[2026/07/19 07:47:10:085   00   12345   03635             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=WebServiceHelper extra='mw6c'
+[2026/07/19 07:47:10:535   00   12345   12236             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/metrics c
+[2026/07/19 07:47:10:881   00   12345   01374             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=72% extra='uo6udj3inn3u5jz'
+[2026/07/19 07:47:14:653   00   12345   10032             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=047ec308c6da ip=192.168.2.11
+[2026/07/19 07:48:58:653   00   12345   11228             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=
+[2026/07/19 07:49:01:333   00   12345   17475             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5c25ed24a76a ip=172.16.254.1
+[2026/07/19 07:49:03:129   00   12345   03988             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=DbConnector
+[2026/07/19 07:49:03:542   00   12345   17947             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=98bb96aa8141 ip=10.0.0.12 en
+[2026/07/19 07:49:03:957   00   12345   02253             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status mem_
+[2026/07/19 07:49:04:413   00   12345   17398             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1a284e70fdd9 extra='b5juohi5'
+[2026/07/19 07:49:04:783   00   12345   14753             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=40685bcdec59 ip=192.168.2.11
+[2026/07/19 07:49:14:983   00   12345   08333             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=07fb9d3a7533 ip=10.0.0.12 cp
+[2026/07/19 07:49:19:215   00   12345   05939             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | mem_util=51% extra='6bw6t2hf0bepmro'
+[2026/07/19 07:49:31:291   00   12345   05909             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create call
+[2026/07/19 07:49:35:345   00   12345   01338             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7576a18a0cf6 ip=10.0.0.12 ca
+[2026/07/19 07:49:39:730   00   12345   12931             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 mem_util=76%       
+[2026/07/19 07:49:41:595   00   12345   04647             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d9da7f9c2391 ip=172.16.254.1
+[2026/07/19 07:49:41:718   00   12345   01898             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=39b4fe26a180 ip=192.168.2.11
+[2026/07/19 07:49:52:514   00   12345   18640             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore mem_util=5
+[2026/07/19 07:49:52:763   00   12345   06069             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=BackupAgent    
+[2026/07/19 07:49:56:659   00   12345   10179             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5792ee058eb6 endpoint=/metri
+[2026/07/19 07:49:57:156   00   12345   02304             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0f9dfc23f74e cpu_util=68%   
+[2026/07/19 07:50:00:152   00   12345   11228             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 cpu_util=46% mem_util=
+[2026/07/19 07:50:00:531   00   12345   02149             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/ba
+[2026/07/19 07:52:25:531   00   12345   17665             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 cpu_util=67% mem_ut
+[2026/07/19 07:56:20:531   00   12345   18178             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=89d7ac4bd92e ip=192.168.2.11
+[2026/07/19 07:56:20:884   00   12345   06646             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/au
+[2026/07/19 07:56:33:215   00   12345   03767             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=18ac868d3de1 endpoint=/api/v
+[2026/07/19 07:56:47:764   00   12345   04363             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status call
+[2026/07/19 07:56:53:633   00   12345   03293             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/ba
+[2026/07/19 07:56:53:977   00   12345   09691             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/b
+[2026/07/19 07:56:54:222   00   12345   04923             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/sy
+[2026/07/19 07:56:58:310   00   12345   04794             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a4379ff4d2a8 ip=192.168.1.50
+[2026/07/19 07:56:58:451   00   12345   14396             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=WebServiceHelper cpu_util=42
+[2026/07/19 07:57:01:868   00   12345   06738             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=bdc60d0621f3 mem_util=33%   
+[2026/07/19 07:57:06:930   00   12345   05297             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 mem_util=56%       
+[2026/07/19 07:57:09:667   00   12345   05659             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore caller=Bac
+[2026/07/19 07:57:09:799   00   12345   13303             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1b9b068dc9d1 ip=192.168.1.50
+[2026/07/19 07:57:09:970   00   12345   11664             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 caller=DbConnector 
+[2026/07/19 07:57:10:329   00   12345   18734             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f8c51d78090d ip=10.0.0.12 ca
+[2026/07/19 07:57:10:778   00   12345   12317             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=345190762295 endpoint=/metri
+[2026/07/19 07:57:13:853   00   12345   03906             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=abd723b5ef5b ip=172.16.254.1
+[2026/07/19 07:57:25:197   00   12345   07812             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4e332667c64d ip=172.16.254.1
+[2026/07/19 07:57:25:632   00   12345   04485             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0c7774b24218 caller=DbConnec
+[2026/07/19 07:57:28:978   00   12345   10319             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/sy
+[2026/07/19 07:57:30:988   00   12345   16482             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c135b4ef3876 ip=10.0.0.12 en
+[2026/07/19 07:57:31:309   00   12345   03539             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=87fc1c3aacc0 ip=192.168.1.50
+[2026/07/19 07:57:31:485   00   12345   18679             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=07449cd26d58 endpoint=/metri
+[2026/07/19 07:57:44:013   00   12345   09997             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c57ac155a6c9 ip=192.168.1.50
+[2026/07/19 07:57:44:076   00   12345   07488             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics cpu_util=36%     
+[2026/07/19 07:59:25:076   00   12345   12062             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=121cfb19a23c extra='9j53x9x9'
+[2026/07/19 07:59:27:303   00   12345   17620             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/sy
+[2026/07/19 07:59:27:347   00   12345   14747             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/sy
+[2026/07/19 07:59:27:754   00   12345   16684             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5a5d7a92ddd8 ip=172.16.254.1
+[2026/07/19 07:59:32:829   00   12345   02779             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c72f622d2eb9 ip=10.0.0.12 en
+[2026/07/19 07:59:33:276   00   12345   12153             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v2/r
+[2026/07/19 08:03:22:276   00   12345   08139             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=9670dd589c93 endpoint=/metri
+[2026/07/19 08:03:24:751   00   12345   10705             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics cpu_util=18% mem_
+[2026/07/19 08:03:25:082   00   12345   02354             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create mem_
+[2026/07/19 08:03:30:410   00   12345   02403             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | mem_util=69% extra='lce4kwqbrbdgg5l'
+[2026/07/19 08:03:34:622   00   12345   09048             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4f8e1f736ecb endpoint=/api/v
+[2026/07/19 08:05:00:622   00   12345   19564             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore caller=Con
+[2026/07/19 08:05:04:857   00   12345   01460             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4a2fb1164076 cpu_util=83% me
+[2026/07/19 08:05:05:261   00   12345   14728             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4449da1cff69 cpu_util=23%   
+[2026/07/19 08:05:05:595   00   12345   12127             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent cpu_util=38%    
+[2026/07/19 08:05:06:056   00   12345   15871             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1b3531d5f802 mem_util=66%   
+[2026/07/19 08:08:54:056   00   12345   01237             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=719e5791b64f ip=192.168.2.11
+[2026/07/19 08:08:54:349   00   12345   05244             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4204eb030f16 ip=192.168.2.11
+[2026/07/19 08:08:58:273   00   12345   10581             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4e4435eb050f endpoint=/api/v
+[2026/07/19 08:09:03:374   00   12345   01531             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=WebServiceHelper cpu_util=18
+[2026/07/19 08:09:03:553   00   12345   14098             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=01852e5e5708 endpoint=/api/v
+[2026/07/19 08:09:03:701   00   12345   10212             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/ba
+[2026/07/19 08:12:46:701   00   12345   14244             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v2/re
+[2026/07/19 08:12:49:171   00   12345   09625             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=80facc1cb7ca ip=172.16.254.1
+[2026/07/19 08:12:49:486   00   12345   03431             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ac1f02f3e120 caller=DbConnec
+[2026/07/19 08:12:49:671   00   12345   08740             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/s
+[2026/07/19 08:12:49:705   00   12345   13993             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status call
+[2026/07/19 08:13:04:967   00   12345   17459             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=BackupAgent
+[2026/07/19 08:13:07:816   00   12345   10545             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=947324712a7c ip=192.168.2.11
+[2026/07/19 08:13:09:349   00   12345   03270             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5af91c15c9c6 cpu_util=56%   
+[2026/07/19 08:13:23:558   00   12345   09936             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=24afebe35ed9 mem_util=62%   
+[2026/07/19 08:13:23:775   00   12345   15127             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6720df35722e endpoint=/api/v
+[2026/07/19 08:13:26:757   00   12345   07387             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=DbConnector
+[2026/07/19 08:13:27:790   00   12345   04511             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f7b5f24de78f ip=192.168.1.50
+[2026/07/19 08:13:32:884   00   12345   03112             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status call
+[2026/07/19 08:16:45:884   00   12345   14976             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=596c9b444204 ip=172.16.254.1
+[2026/07/19 08:16:46:217   00   12345   13342             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/a
+[2026/07/19 08:16:46:565   00   12345   11136             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=2ab87c5d3c6a ip=172.16.254.1
+[2026/07/19 08:17:02:462   00   12345   02084             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=WebServiceHelper extra='kxtc'
+[2026/07/19 08:17:06:969   00   12345   12684             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0c824821354d caller=TomcatAc
+[2026/07/19 08:32:06:969   00   12345   06993             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5e68a305abbf ip=10.0.0.12 en
+[2026/07/19 08:32:07:211   00   12345   16917             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d9f887cf645a caller=TomcatAc
+[2026/07/19 08:32:21:956   00   12345   16842             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=78bd9170e192 caller=DbConnec
+[2026/07/19 08:32:35:049   00   12345   10445             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent cpu_util=77%    
+[2026/07/19 08:32:47:989   00   12345   07358             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e1deab069cd6 ip=192.168.2.11
+[2026/07/19 08:32:49:487   00   12345   12268             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=DbConnector
+[2026/07/19 08:32:49:899   00   12345   17767             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=ConfigManage
+[2026/07/19 08:32:51:520   00   12345   12821             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create cpu_
+[2026/07/19 08:32:51:532   00   12345   09220             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=dcef88e30ce2 extra='r4r7kwcs'
+[2026/07/19 08:35:09:532   00   12345   05022             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=DbConnector 
+[2026/07/19 08:35:12:602   00   12345   08521             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/auth/
+[2026/07/19 08:35:12:753   00   12345   05879             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=TomcatAcces
+[2026/07/19 08:35:13:014   00   12345   04033             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d60705008b17 ip=172.16.254.1
+[2026/07/19 08:35:26:942   00   12345   11003             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5722908de2ff endpoint=/api/v
+[2026/07/19 08:35:28:591   00   12345   13108             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f0a0d4928878 ip=192.168.1.50
+[2026/07/19 08:38:54:591   00   12345   13931             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0f4bedd093b3 endpoint=/api/v
+[2026/07/19 08:38:54:717   00   12345   02588             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=be8eb44a386e4925 extra='7z'
+[2026/07/19 08:38:55:142   00   12345   13346             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0057ffc1ee34 endpoint=/api/v
+[2026/07/19 08:38:55:342   00   12345   04844             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f70465d46653 ip=192.168.2.11
+[2026/07/19 08:38:55:429   00   12345   05912             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/b
+[2026/07/19 08:39:10:178   00   12345   12256             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ce2752d8f5a5 ip=172.16.254.1
+[2026/07/19 08:39:10:246   00   12345   03479             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=bf38bd4ea076 ip=192.168.1.50
+[2026/07/19 08:39:10:525   00   12345   18919             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=669f418fcdc8 ip=192.168.2.11
+[2026/07/19 08:39:21:378   00   12345   01443             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=676288362fb6 ip=172.16.254.1
+[2026/07/19 08:39:25:553   00   12345   17590             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7143af1c5d08 ip=192.168.2.11
+[2026/07/19 08:39:30:217   00   12345   13430             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ee230f6a7e16 ip=10.0.0.12 en
+[2026/07/19 08:39:30:415   00   12345   17413             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create call
+[2026/07/19 08:39:30:860   00   12345   03491             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=366807e519d9 caller=BackupAg
+[2026/07/19 08:39:44:044   00   12345   17434             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=869e5dca094a extra='bqra7o6d'
+[2026/07/19 08:41:33:044   00   12345   01584             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=71ecab4f4ede caller=WebServi
+[2026/07/19 08:41:33:224   00   12345   12756             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=66% mem_util=62% extra='my'
+[2026/07/19 08:41:33:407   00   12345   14677             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=15% extra='2s3c1tcxrh101v6'
+[2026/07/19 08:41:34:681   00   12345   17751             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/au
+[2026/07/19 08:41:47:145   00   12345   06753             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/s
+[2026/07/19 08:41:52:149   00   12345   02422             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=eab48211f847 mem_util=44%   
+[2026/07/19 08:41:56:561   00   12345   13042             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=39bbde776651 endpoint=/api/v
+[2026/07/19 08:42:02:325   00   12345   11797             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e1ef40684476 endpoint=/api/v
+[2026/07/19 08:42:02:347   00   12345   08564             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a4476f72997a ip=10.0.0.12 cp
+[2026/07/19 08:42:12:851   00   12345   07776             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=081524dfd45e caller=ConfigMa
+[2026/07/19 08:42:23:214   00   12345   16029             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=837fd485ef07 cpu_util=41% me
+[2026/07/19 08:42:25:695   00   12345   07389             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b7b7593adfa3 caller=BackupAg
+[2026/07/19 08:42:26:111   00   12345   05965             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=2431e5baffc3 ip=192.168.2.11
+[2026/07/19 08:42:30:626   00   12345   18027             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 cpu_util=67%       
+[2026/07/19 08:42:33:785   00   12345   12997             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4b9fdb084b50 cpu_util=83%   
+[2026/07/19 08:42:33:902   00   12345   14082             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 cpu_util=12% mem_ut
+[2026/07/19 08:43:56:902   00   12345   19076             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 cpu_util=15%       
+[2026/07/19 08:43:58:479   00   12345   06282             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent cpu_util=40% mem
+[2026/07/19 08:45:18:479   00   12345   07295             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create mem_
+[2026/07/19 08:45:28:974   00   12345   14879             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=fe5de308ad94 ip=10.0.0.12 ca
+[2026/07/19 08:45:29:296   00   12345   19981             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=DbConnector cpu_util=67% mem
+[2026/07/19 08:45:29:728   00   12345   18028             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0d9a595f6f70 ip=192.168.1.50
+[2026/07/19 08:45:34:267   00   12345   02168             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=38ca25e6baf6 endpoint=/api/v
+[2026/07/19 08:45:36:180   00   12345   16024             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create call
+[2026/07/19 08:53:36:180   00   12345   01353             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent cpu_util=44% mem
+[2026/07/19 08:53:38:693   00   12345   01606             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=ConfigManag
+[2026/07/19 08:53:39:129   00   12345   02324             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=ConfigManager extra='jzpkrmg'
+[2026/07/19 08:53:44:111   00   12345   11164             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=055fd4ea926e caller=BackupAg
+[2026/07/19 08:56:21:111   00   12345   10927             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=DbConnector cpu
+[2026/07/19 08:56:21:511   00   12345   11702             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=BackupAgent    
+[2026/07/19 08:56:23:119   00   12345   09709             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e2151c8c674a mem_util=51%   
+[2026/07/19 09:09:23:119   00   12345   04330             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 cpu_util=82% extra='1s'
+[2026/07/19 09:09:23:579   00   12345   11029             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5db1bbfa1af0 endpoint=/metri
+[2026/07/19 09:09:28:918   00   12345   19823             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e58f8f11eb1b ip=192.168.1.50
+[2026/07/19 09:11:34:918   00   12345   06896             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent cpu_util=43% mem
+[2026/07/19 09:11:50:091   00   12345   03666             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b5067358fa82 ip=172.16.254.1
+[2026/07/19 09:11:50:372   00   12345   11267             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=
+[2026/07/19 09:12:01:706   00   12345   12068             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c5498237b0cb ip=172.16.254.1
+[2026/07/19 09:12:01:834   00   12345   18921             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=daefc021f636 ip=192.168.2.11
+[2026/07/19 09:12:04:505   00   12345   04609             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=WebServiceH
+[2026/07/19 09:12:15:651   00   12345   14543             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=fe4a9a8594f1 endpoint=/api/v
+[2026/07/19 09:12:17:187   00   12345   16836             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=00c7fc42803c endpoint=/api/v
+[2026/07/19 09:12:31:323   00   12345   07962             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=eb36044c37da461c extra='so'
+[2026/07/19 09:12:34:347   00   12345   01951             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=ConfigManager extra='cjkhqmt'
+[2026/07/19 09:12:34:541   00   12345   02918             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics extra='gc41l5c8xk'
+[2026/07/19 09:12:35:938   00   12345   15081             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4e1e03af36d7 ip=192.168.2.11
+[2026/07/19 09:12:41:718   00   12345   12377             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=75dc59d2100f ip=172.16.254.1
+[2026/07/19 09:12:42:186   00   12345   17159             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create     
+[2026/07/19 09:12:43:282   00   12345   05693             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=TomcatAccessFilter mem_util=
+[2026/07/19 09:12:47:364   00   12345   01989             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=TomcatAccessFilter cpu_util=
+[2026/07/19 09:12:47:657   00   12345   01667             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d75381e0d578 endpoint=/api/v
+[2026/07/19 09:13:00:163   00   12345   11896             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e13745cefe6f ip=172.16.254.1
+[2026/07/19 09:13:00:597   00   12345   09705             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v2/re
+[2026/07/19 09:13:06:127   00   12345   04376             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore caller=Bac
+[2026/07/19 09:13:06:321   00   12345   06252             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3bb71d401efe ip=172.16.254.1
+[2026/07/19 09:13:17:234   00   12345   15253             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8c628bd6a5bf ip=172.16.254.1
+[2026/07/19 09:13:19:949   00   12345   07374             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/b
+[2026/07/19 09:14:26:949   00   12345   09466             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8d839e0b54f8 endpoint=/api/v
+[2026/07/19 09:17:41:949   00   12345   13494             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent cpu_util=50% mem
+[2026/07/19 09:17:46:092   00   12345   19739             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v2/r
+[2026/07/19 09:21:16:092   00   12345   02235             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6234c2b1f250 endpoint=/api/v
+[2026/07/19 09:21:16:476   00   12345   15263             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=4972bfbeb56c4a7f extra='2u'
+[2026/07/19 09:22:34:476   00   12345   19447             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=WebServiceHelper cpu_util=41
+[2026/07/19 09:22:36:884   00   12345   12084             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=02718a4fdcb0 ip=10.0.0.12   
+[2026/07/19 09:22:36:921   00   12345   12853             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v2/resto
+[2026/07/19 09:22:37:297   00   12345   14820             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status     
+[2026/07/19 09:22:37:754   00   12345   03368             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0e3fd4c8bd86 endpoint=/api/v
+[2026/07/19 09:22:48:375   00   12345   02004             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 extra='h8ll9q2hogz1w26'
+[2026/07/19 09:24:14:375   00   12345   02062             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=TomcatAccess
+[2026/07/19 09:24:20:307   00   12345   08272             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=537687314b85 endpoint=/api/v
+[2026/07/19 09:24:31:755   00   12345   04778             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a3052ce94d66 ip=192.168.1.50
+[2026/07/19 09:24:31:900   00   12345   07783             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=ConfigManag
+[2026/07/19 09:24:31:933   00   12345   18262             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/b
+[2026/07/19 09:24:32:174   00   12345   11263             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=263d189bcbf5 endpoint=/api/v
+[2026/07/19 09:24:32:193   00   12345   06738             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=060cc18ac3a64614 extra='jt'
+[2026/07/19 09:24:32:432   00   12345   07967             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4f055bc89995 extra='ipboxi3m'
+[2026/07/19 09:24:45:029   00   12345   02607             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=10b5eb7a22c8 ip=172.16.254.1
+[2026/07/19 09:28:41:029   00   12345   04911             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=762521b22bf7 endpoint=/metri
+[2026/07/19 09:28:41:426   00   12345   08987             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=51% extra='5ffyq80jpbivv44'
+[2026/07/19 09:28:43:215   00   12345   18076             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=02cac97d0f4c ip=192.168.2.11
+[2026/07/19 09:28:54:734   00   12345   15981             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/ba
+[2026/07/19 09:28:59:795   00   12345   14827             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=fb03b301d0fe ip=172.16.254.1
+[2026/07/19 09:28:59:871   00   12345   16366             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=DbConnector cpu_util=22% mem
+[2026/07/19 09:29:01:243   00   12345   06508             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=85df6a93e024 ip=192.168.2.11
+[2026/07/19 09:29:01:718   00   12345   07761             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6f43884489ce ip=172.16.254.1
+[2026/07/19 09:29:07:132   00   12345   15314             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ca35fa59a147 endpoint=/metri
+[2026/07/19 09:29:08:373   00   12345   08252             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 extra='lwiab7fjbfzbo00'
+[2026/07/19 09:29:14:170   00   12345   19423             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/b
+[2026/07/19 09:29:14:245   00   12345   07490             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=73% extra='5370ovgxvxa8236'
+[2026/07/19 09:29:19:575   00   12345   13795             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=c91209fab9b6 ip=192.168.2.11
+[2026/07/19 09:29:19:761   00   12345   02126             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/backu
+[2026/07/19 09:29:19:883   00   12345   06849             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d43378bd83fe caller=DbConnec
+[2026/07/19 09:29:20:351   00   12345   12909             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/a
+[2026/07/19 09:29:33:193   00   12345   04989             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | mem_util=89% extra='k96jy6iu08xw24k'
+[2026/07/19 09:29:33:440   00   12345   01131             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1b2086e5c7af cpu_util=59%   
+[2026/07/19 09:29:33:469   00   12345   09468             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v2/re
+[2026/07/19 09:29:33:957   00   12345   14524             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 extra='n4vmgy42pmp3'
+[2026/07/19 09:29:34:400   00   12345   05848             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=76ba6a5bfcea endpoint=/api/v
+[2026/07/19 09:29:37:996   00   12345   14642             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7afa41094a1c ip=192.168.2.11
+[2026/07/19 09:29:38:311   00   12345   03324             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5b9c817da8e5 ip=192.168.1.50
+[2026/07/19 09:34:38:311   00   12345   11468             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=96a0005e75f0 ip=192.168.2.11
+[2026/07/19 09:34:38:719   00   12345   06632             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=524ee4d1764f endpoint=/api/v
+[2026/07/19 09:34:38:860   00   12345   07452             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=828d6fa9d069 endpoint=/api/v
+[2026/07/19 09:34:44:436   00   12345   17125             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6e1e3cfce3c7 ip=172.16.254.1
+[2026/07/19 09:34:49:752   00   12345   09169             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=dd2adb300194 cpu_util=26% me
+[2026/07/19 09:34:50:012   00   12345   02550             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0b665c4334ec ip=10.0.0.12 cp
+[2026/07/19 09:35:02:988   00   12345   04406             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7070d645860f ip=192.168.2.11
+[2026/07/19 09:35:03:264   00   12345   13769             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8f536367c148 ip=192.168.1.50
+[2026/07/19 09:36:18:264   00   12345   10326             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=WebServiceHelper cpu_util=76
+[2026/07/19 09:36:29:673   00   12345   13463             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=69ea072163dd caller=BackupAg
+[2026/07/19 09:36:29:869   00   12345   03886             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=9e72be359320 ip=192.168.1.50
+[2026/07/19 09:39:50:869   00   12345   19811             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=DbConnector 
+[2026/07/19 09:39:51:164   00   12345   08122             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status call
+[2026/07/19 09:39:54:975   00   12345   17795             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create call
+[2026/07/19 09:40:09:578   00   12345   19710             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=829fadb1cc1c endpoint=/api/v
+[2026/07/19 09:40:12:951   00   12345   18679             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=38% mem_util=50% extra='66'
+[2026/07/19 09:40:13:185   00   12345   18402             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e7dc9c218cbe mem_util=54%   
+[2026/07/19 09:40:18:552   00   12345   08665             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a35844eef71f ip=10.0.0.12 en
+[2026/07/19 09:40:24:082   00   12345   10587             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore caller=Con
+[2026/07/19 09:40:36:897   00   12345   10742             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8e983c86ff45 ip=192.168.1.50
+[2026/07/19 09:44:34:897   00   12345   02942             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=TomcatAccessFil
+[2026/07/19 09:44:37:525   00   12345   08219             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/ba
+[2026/07/19 09:44:43:250   00   12345   19572             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3fe33388bada endpoint=/metri
+[2026/07/19 09:44:57:589   00   12345   02921             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/b
+[2026/07/19 09:44:57:795   00   12345   16500             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1aeb7c0d9f04 ip=10.0.0.12 en
+[2026/07/19 09:44:57:845   00   12345   16784             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b986b7da3f0a ip=192.168.1.50
+[2026/07/19 09:45:00:282   00   12345   03009             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/syste
+[2026/07/19 09:56:00:282   00   12345   06825             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=74ccc24c2f37 endpoint=/api/v
+[2026/07/19 09:59:00:282   00   12345   18950             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=68cd7fcdae0f endpoint=/api/v
+[2026/07/19 09:59:12:305   00   12345   07984             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=dbb5d7211d35 caller=TomcatAc
+[2026/07/19 10:02:08:305   00   12345   19731             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=
+[2026/07/19 10:02:08:643   00   12345   04126             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=de56ca541d32 endpoint=/api/v
+[2026/07/19 10:02:20:650   00   12345   07427             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f5794291f711 caller=WebServi
+[2026/07/19 10:02:25:962   00   12345   14976             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | mem_util=32% extra='mer4z2pp7jvljk5'
+[2026/07/19 10:02:30:838   00   12345   10422             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3cf8f8fd6c9a endpoint=/metri
+[2026/07/19 10:02:31:144   00   12345   14566             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics caller=DbConnecto
+[2026/07/19 10:02:31:581   00   12345   09574             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=91453b58efab cpu_util=43% me
+[2026/07/19 10:02:34:342   00   12345   09627             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=994308bf6a44 ip=172.16.254.1
+[2026/07/19 10:02:34:763   00   12345   06728             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=b7591e591d4e ip=172.16.254.1
+[2026/07/19 10:02:36:935   00   12345   13359             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=029ba0dca376 endpoint=/metri
+[2026/07/19 10:02:37:109   00   12345   03014             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=77fe0b603f8d ip=10.0.0.12 en
+[2026/07/19 10:02:39:047   00   12345   07670             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 cpu_util=19%       
+[2026/07/19 10:02:40:595   00   12345   01297             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=ConfigManager cpu_util=69%  
+[2026/07/19 10:02:40:831   00   12345   09502             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=WebServiceH
+[2026/07/19 10:02:41:328   00   12345   12600             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=BackupAgent 
+[2026/07/19 10:06:03:328   00   12345   18578             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/a
+[2026/07/19 10:06:03:441   00   12345   03520             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=BackupAgent cpu
+[2026/07/19 10:08:45:441   00   12345   06259             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore extra='mzr'
+[2026/07/19 10:08:51:007   00   12345   13317             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status call
+[2026/07/19 10:09:06:639   00   12345   16927             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=TomcatAccessFilter mem_util=
+[2026/07/19 10:09:20:070   00   12345   02803             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=740565089821 ip=10.0.0.12 me
+[2026/07/19 10:22:20:070   00   12345   04230             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login        
+[2026/07/19 10:24:41:070   00   12345   08545             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=88d2518f9c65 ip=192.168.1.50
+[2026/07/19 10:24:56:192   00   12345   15364             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d01f15d5803b ip=172.16.254.1
+[2026/07/19 10:25:10:568   00   12345   18038             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=19573dc1b463 endpoint=/metri
+[2026/07/19 10:25:13:107   00   12345   08774             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=ConfigManage
+[2026/07/19 10:25:18:069   00   12345   06327             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v2/resto
+[2026/07/19 10:25:32:438   00   12345   07895             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=75389f968a86474b extra='77'
+[2026/07/19 10:25:32:568   00   12345   13853             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=ConfigManag
+[2026/07/19 10:25:32:991   00   12345   13412             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/metrics c
+[2026/07/19 10:25:46:322   00   12345   08542             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=dab6c4a64cda extra='3f5so5b6'
+[2026/07/19 10:25:46:804   00   12345   04919             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3162e3f5787c ip=172.16.254.1
+[2026/07/19 10:25:58:567   00   12345   02904             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login mem_uti
+[2026/07/19 10:26:01:619   00   12345   14204             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=973f74b124e6 endpoint=/api/v
+[2026/07/19 10:26:01:700   00   12345   19627             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=ConfigManager cpu_util=34%  
+[2026/07/19 10:26:02:074   00   12345   10562             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login        
+[2026/07/19 10:26:03:829   00   12345   18151             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 cpu_util=46% mem_u
+[2026/07/19 10:26:03:907   00   12345   05905             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=cdcdbb74e7b9 endpoint=/api/v
+[2026/07/19 10:26:06:890   00   12345   05579             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 cpu_util=39%      
+[2026/07/19 10:28:22:890   00   12345   04706             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/b
+[2026/07/19 10:32:11:890   00   12345   04561             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=WebServiceHe
+[2026/07/19 10:33:22:890   00   12345   02008             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/metrics c
+[2026/07/19 10:33:22:928   00   12345   13667             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/b
+[2026/07/19 10:33:28:433   00   12345   07729             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5b0891cc99de ip=192.168.1.50
+[2026/07/19 10:37:00:433   00   12345   11902             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=ConfigManager m
+[2026/07/19 10:37:01:832   00   12345   18431             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/backu
+[2026/07/19 10:37:02:153   00   12345   01358             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 cpu_util=65%      
+[2026/07/19 10:40:34:153   00   12345   02274             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=TomcatAcces
+[2026/07/19 10:40:35:714   00   12345   04737             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=dbf7cc76a8fb ip=10.0.0.12 en
+[2026/07/19 10:40:36:881   00   12345   08639             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=d036e6ad6ad7 ip=192.168.2.11
+[2026/07/19 10:40:47:795   00   12345   10087             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4fa8e59c190f caller=DbConnec
+[2026/07/19 10:40:47:803   00   12345   19946             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 extra='3eiagee3bv0w'
+[2026/07/19 10:40:58:607   00   12345   13605             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | mem_util=82% extra='afiibkxf73d8n38'
+[2026/07/19 10:44:57:607   00   12345   01506             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=DbConnector cpu_util=36% mem
+[2026/07/19 10:45:01:432   00   12345   13074             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3716e0d18f60 ip=10.0.0.12 en
+[2026/07/19 10:48:41:432   00   12345   18253             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=DbConnector cpu_util=48% mem
+[2026/07/19 10:48:41:837   00   12345   05676             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=TomcatAcces
+[2026/07/19 10:48:45:767   00   12345   17673             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=BackupAgent cpu_util=58% mem
+[2026/07/19 10:48:55:938   00   12345   18759             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/a
+[2026/07/19 10:49:00:382   00   12345   10630             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/auth/
+[2026/07/19 10:49:00:385   00   12345   04140             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=9e6f39b79c68 ip=192.168.2.11
+[2026/07/19 10:49:00:394   00   12345   16895             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/metrics call
+[2026/07/19 10:49:10:737   00   12345   13648             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e5184f70d9a3 ip=192.168.2.11
+[2026/07/19 10:49:11:237   00   12345   13413             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=7a4c860c54a4 extra='ukudnohw'
+[2026/07/19 10:51:21:237   00   12345   06695             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/backu
+[2026/07/19 10:51:26:144   00   12345   03943             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 caller=DbConnector
+[2026/07/19 10:51:31:069   00   12345   12096             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=74bb0a186ffe ip=192.168.1.50
+[2026/07/19 10:52:36:069   00   12345   18328             ] WebServiceAPI::API: Token refreshed successfully   {WebServiceAPI.exe::API.dll(1.2.3)} | trace_id=5d3ca969aded4e83 extra='xn'
+[2026/07/19 10:52:36:110   00   12345   17291             ] WebServiceAPI::API: Parsing user authorization claims   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=87bbf14170cb ip=172.16.254.1
+[2026/07/19 10:54:02:110   00   12345   12196             ] WebServiceAPI::API: Received HTTP request status code 200   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3bd22fa37e16 endpoint=/metri
+[2026/07/19 10:57:25:110   00   12345   05209   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=0ffd015f58c7 endpoint=/api/v
+[2026/07/19 11:00:15:110   00   12345   05468   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=278414cd4be1 ip=172.16.254.1
+[2026/07/19 11:00:19:033   00   12345   19527   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a43bd2a12f63 endpoint=/api/v
+[2026/07/19 11:00:19:259   00   12345   14033   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v1/b
+[2026/07/19 11:06:19:259   00   12345   08249   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | mem_util=63% extra='bfcb4ffj0x6sthz'
+[2026/07/19 11:06:33:522   00   12345   12267   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=2e49e548b2d2 ip=10.0.0.12 en
+[2026/07/19 11:06:48:390   00   12345   08434   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a341b4ca24d7 endpoint=/api/v
+[2026/07/19 11:12:48:390   00   12345   19516   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore caller=DbC
+[2026/07/19 11:13:50:390   00   12345   07493   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=962d414639d6 endpoint=/api/v
+[2026/07/19 11:14:02:118   00   12345   15683   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=067d33a87404 endpoint=/api/v
+[2026/07/19 11:14:15:975   00   12345   13493   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=fba8e4a01359 ip=172.16.254.1
+[2026/07/19 11:14:16:474   00   12345   19370   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a8540b6dc5ed endpoint=/api/v
+[2026/07/19 11:14:16:505   00   12345   09447   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create call
+[2026/07/19 11:14:27:888   00   12345   09723   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics extra='dropsj47hd'
+[2026/07/19 11:14:28:039   00   12345   06269   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login cpu_uti
+[2026/07/19 11:14:28:132   00   12345   13567   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=42a8bee5cd37 ip=192.168.1.50
+[2026/07/19 11:15:56:132   00   12345   09963   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ff246b0f5fee ip=172.16.254.1
+[2026/07/19 11:15:59:107   00   12345   15473   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=TomcatAccessFil
+[2026/07/19 11:16:00:232   00   12345   06038   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore extra='38q'
+[2026/07/19 11:16:03:431   00   12345   14927   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=07e81370e7db extra='o5t5qgoa'
+[2026/07/19 11:16:03:642   00   12345   14147   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6a606f21ed6a endpoint=/api/v
+[2026/07/19 11:16:06:392   00   12345   10326   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=03a8a9bf437d ip=10.0.0.12 ca
+[2026/07/19 11:16:09:500   00   12345   09799   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/au
+[2026/07/19 11:21:09:500   00   12345   12279   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 cpu_util=49% mem_util=
+[2026/07/19 11:21:23:379   00   12345   18392   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6b0a5c52e6ba ip=192.168.2.11
+[2026/07/19 11:21:27:138   00   12345   12097   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=BackupAgent 
+[2026/07/19 11:21:29:743   00   12345   05720   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/ba
+[2026/07/19 11:21:33:048   00   12345   12448   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics cpu_util=55% mem_
+[2026/07/19 11:21:34:690   00   12345   01362   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login cpu_uti
+[2026/07/19 11:21:34:952   00   12345   04648   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore caller=Web
+[2026/07/19 11:21:37:490   00   12345   18813   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics mem_util=52%     
+[2026/07/19 11:23:16:490   00   12345   06780   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4dec9b078aa6 ip=192.168.1.50
+[2026/07/19 11:23:21:550   00   12345   19216   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=ConfigManager cpu_util=85% m
+[2026/07/19 11:23:21:701   00   12345   16083   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=1c12ea1d6b6e ip=10.0.0.12 ca
+[2026/07/19 11:23:24:231   00   12345   19191   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=6bb99ef689a3 ip=192.168.2.11
+[2026/07/19 11:25:58:231   00   12345   09959   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/syste
+[2026/07/19 11:26:03:557   00   12345   06752   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/au
+[2026/07/19 11:26:13:663   00   12345   02444   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 mem_util=44% extra='no'
+[2026/07/19 11:28:14:663   00   12345   14585   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=9b0b236c9c7f extra='qy6lwrwj'
+[2026/07/19 11:28:15:036   00   12345   15909   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/metrics caller=DbConnecto
+[2026/07/19 11:28:15:470   00   12345   06397   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status cpu_
+[2026/07/19 11:28:15:545   00   12345   04680   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=
+[2026/07/19 11:29:22:545   00   12345   10686   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5226f5b154f6 ip=192.168.2.11
+[2026/07/19 11:29:24:932   00   12345   19254   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 cpu_util=53% extra='dg'
+[2026/07/19 11:29:25:080   00   12345   15656   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 extra='hkejfmnqh89pqr8'
+[2026/07/19 11:29:27:260   00   12345   10882   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=ConfigManager extra='b23gocl'
+[2026/07/19 11:29:38:074   00   12345   17210   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=60% extra='xnalhkw9qqwhktg'
+[2026/07/19 11:30:50:074   00   12345   11093   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | mem_util=43% extra='2ly8l11vrpmb3ib'
+[2026/07/19 11:30:50:499   00   12345   11588   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=4a22468e5ce0 ip=192.168.2.11
+[2026/07/19 11:30:52:454   00   12345   03040   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 caller=TomcatAccess
+[2026/07/19 11:30:52:769   00   12345   03578   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=
+[2026/07/19 11:30:52:922   00   12345   10626   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status cpu_
+[2026/07/19 11:30:53:127   00   12345   07267   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 cpu_util=12% mem_util=
+[2026/07/19 11:30:54:862   00   12345   14469   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=790e801e7a48 endpoint=/api/v
+[2026/07/19 11:30:55:224   00   12345   01410   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/api/v1/au
+[2026/07/19 11:30:55:562   00   12345   18413   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=29c5a94a1fe7 ip=192.168.2.11
+[2026/07/19 11:30:55:813   00   12345   03767   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 cpu_util=53% extra='1c'
+[2026/07/19 11:30:55:852   00   12345   01447   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=DbConnector cpu_util=26%    
+[2026/07/19 11:30:56:197   00   12345   15618   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v2/resto
+[2026/07/19 11:31:00:838   00   12345   10291   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 caller=WebServiceHelpe
+[2026/07/19 11:31:04:536   00   12345   06713   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 mem_util=68% extra='86'
+[2026/07/19 11:31:04:648   00   12345   13364   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a6ccf59a5ff1 caller=DbConnec
+[2026/07/19 11:31:05:933   00   12345   01789   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=810186f8b9d6 ip=10.0.0.12 ca
+[2026/07/19 11:31:17:494   00   12345   19324   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/syste
+[2026/07/19 11:31:17:895   00   12345   05947   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=ConfigManager mem_util=86%  
+[2026/07/19 11:31:18:389   00   12345   12800   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | caller=TomcatAccessFilter extra='3o'
+[2026/07/19 11:31:19:677   00   12345   10066   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v1/sy
+[2026/07/19 11:31:19:964   00   12345   16002   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e1cdd0b2c942 ip=10.0.0.12 en
+[2026/07/19 11:31:23:610   00   12345   16061   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/system/status mem_
+[2026/07/19 11:31:34:374   00   12345   17792   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 endpoint=/api/v2/re
+[2026/07/19 11:31:35:738   00   12345   13256   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=59% mem_util=79% extra='pj'
+[2026/07/19 11:31:35:996   00   12345   13740   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=ce7b0551ec22 ip=192.168.2.11
+[2026/07/19 11:31:36:182   00   12345   12397   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5d6507f0eb79 endpoint=/metri
+[2026/07/19 11:31:36:441   00   12345   14559   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | mem_util=77% extra='2wvwoas1t1di4jb'
+[2026/07/19 11:34:08:441   00   12345   16712   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.1.50 endpoint=/metrics c
+[2026/07/19 11:34:11:796   00   12345   07842   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=75a9db9b2ffa caller=BackupAg
+[2026/07/19 11:34:24:971   00   12345   09884   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=a8113987c831 endpoint=/metri
+[2026/07/19 11:34:36:532   00   12345   16357   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=f7bd4ef6ab0f ip=192.168.1.50
+[2026/07/19 11:34:37:711   00   12345   18807   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=8c4865026cb3 ip=10.0.0.12 en
+[2026/07/19 11:34:43:308   00   12345   06910   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=10.0.0.12 endpoint=/api/v1/syste
+[2026/07/19 11:34:43:764   00   12345   18190   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=9cdb5aa75e93 endpoint=/api/v
+[2026/07/19 11:34:44:100   00   12345   01371   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=172.16.254.1 caller=WebServiceHe
+[2026/07/19 11:34:46:428   00   12345   13852   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 cpu_util=47%      
+[2026/07/19 11:34:58:726   00   12345   14384   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=313cfb911bcd mem_util=59%   
+[2026/07/19 11:37:32:726   00   12345   17388   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=42% mem_util=69% extra='uz'
+[2026/07/19 11:37:33:148   00   12345   16832   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=71ebc9d280fe endpoint=/api/v
+[2026/07/19 11:37:38:759   00   12345   02325   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=3b2d982e3b42 extra='tnxck2eo'
+[2026/07/19 11:37:54:325   00   12345   10367   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=e8013633390e endpoint=/metri
+[2026/07/19 11:37:58:510   00   12345   18621   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=80% mem_util=41% extra='do'
+[2026/07/19 11:38:11:957   00   12345   07505   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=5633a0869528 ip=192.168.1.50
+[2026/07/19 11:38:23:576   00   12345   18508   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/auth/login caller=
+[2026/07/19 11:40:48:576   00   12345   19969   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=257a49c7550e caller=ConfigMa
+[2026/07/19 11:40:53:869   00   12345   19390   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=75edc77d6614 endpoint=/api/v
+[2026/07/19 11:40:58:041   00   12345   13655   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=276fa1c6580d endpoint=/api/v
+[2026/07/19 11:41:08:931   00   12345   16557   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v2/restore caller=Tom
+[2026/07/19 11:41:08:938   00   12345   03001   0X00000001] WebServiceAPI::API: Database write connection lost or failed. EC=112   {WebServiceAPI.exe::API.dll(1.2.3)} | ip=192.168.2.115 endpoint=/api/v2/r
+[2026/07/19 11:41:13:597   00   12345   16619   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | cpu_util=31% extra='o7myyrbkxmy4nxp'
+[2026/07/19 11:41:24:484   00   12345   19738   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | endpoint=/api/v1/backup/create cpu_
+[2026/07/19 11:44:24:484   00   12345   09550   0X00000070] WebServiceAPI::API: Failed to serialize session state: EC=112 There is not enough space on the disk   {WebServiceAPI.exe::API.dll(1.2.3)} | req_id=2fb884dcdc08 caller=TomcatAc
