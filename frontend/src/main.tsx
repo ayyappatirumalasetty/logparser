@@ -51,10 +51,10 @@ const formatSeconds = (value?: number | null) => value == null ? 'calculating...
 const FILTER_OPTIONS = ['ERROR', 'WARN', 'INFO', 'Warning', 'Failed', 'Corrupt'];
 
 function App() {
-  const [folder, setFolder] = useState('D:\\loganalyser\\temptes');
-  const [target, setTarget] = useState('2026-07-18 08:00:51');
-  const [windowSeconds, setWindowSeconds] = useState(3);
-  const [patterns, setPatterns] = useState('WebService*.log*, RPSWebService.log*, CRP*');
+  const [folder, setFolder] = useState('D:\\loganalyser\\demo\\generated');
+  const [target, setTarget] = useState('2026-07-19 14:08:15');
+  const [windowSeconds, setWindowSeconds] = useState(65);
+  const [patterns, setPatterns] = useState('*.log*, Backup*.log, WebService.log.*');
   
   const [checkedKeywords, setCheckedKeywords] = useState<string[]>([]);
   const [timelineSearch, setTimelineSearch] = useState('');
@@ -371,34 +371,34 @@ function App() {
         </section>
 
         <section className="card context">
-          <h3>What the engine does</h3>
+          <h3>Investigation Pipeline</h3>
           <ol>
             <li>
               <span>01</span>
               <div>
-                <strong>Recursive Pattern Scan</strong>
-                <p>Recursively scans folder for files matching selected pattern(s)</p>
+                <strong>Scan & Correlate</strong>
+                <p>Recursively scans folders, normalizes timestamps, reconstructs stack traces, and correlates events in a time window</p>
               </div>
             </li>
             <li>
               <span>02</span>
               <div>
-                <strong>Timestamp Normalization</strong>
-                <p>Normalizes formats (ISO-8601, slashes, syslog, AM/PM, millisecond precision)</p>
+                <strong>Interactive Timeline</strong>
+                <p>Combines events chronologically across all logs into a single, searchable, unified chronological timeline</p>
               </div>
             </li>
             <li>
               <span>03</span>
               <div>
-                <strong>Java Stack Trace Assembly</strong>
-                <p>Groups and joins multiline exception traces to their trigger event</p>
+                <strong>Dynamic Filtering</strong>
+                <p>Filters log entries instantly by level (ERROR, WARN, INFO) or custom keywords to isolate critical failures</p>
               </div>
             </li>
             <li>
               <span>04</span>
               <div>
-                <strong>Window Correlation</strong>
-                <p>Correlates and orders events inside the configured seconds window</p>
+                <strong>AI Support Agent</strong>
+                <p>Analyzes the filtered logs alongside user context to generate safe, actionable troubleshooting advice</p>
               </div>
             </li>
           </ol>
