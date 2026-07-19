@@ -45,7 +45,7 @@ type Progress = {
   estimated_remaining_seconds?: number | null; 
 };
 
-const API = 'http://localhost:8000';
+const API = import.meta.env.VITE_API_URL || (window.location.port === '5173' ? 'http://localhost:8000' : window.location.origin);
 const formatSeconds = (value?: number | null) => value == null ? 'calculating...' : `${Math.ceil(value)}s`;
 
 const FILTER_OPTIONS = ['ERROR', 'WARN', 'INFO', 'Warning', 'Failed', 'Corrupt'];
@@ -116,6 +116,24 @@ function App() {
       setError(reason instanceof Error ? reason.message : 'Unable to reach backend'); 
     } finally { 
       setLoading(false); 
+    }
+  }
+
+  async function handleBrowse() {
+    try {
+      const response = await fetch(`${API}/api/browse`, { method: 'POST' });
+      if (response.ok) {
+        const data = await response.json();
+        if (data.folder_path) {
+          setFolder(data.folder_path);
+        }
+      } else {
+        const errData = await response.json().catch(() => ({}));
+        alert(errData.detail || "Folder browsing is not available in this environment.");
+      }
+    } catch (reason) {
+      console.error("Failed to open directory browser:", reason);
+      alert("Could not connect to the folder browser. Ensure the backend is running and reachable.");
     }
   }
 
@@ -280,11 +298,15 @@ function App() {
           
           <div className="form-group">
             <label>Log folder path</label>
-            <input 
-              value={folder} 
-              onChange={event => setFolder(event.target.value)} 
-              placeholder="D:\logs\production"
-            />
+            <div className="folder-input-container">
+              <input 
+                value={folder} 
+                onChange={event => setFolder(event.target.value)} 
+                placeholder="D:\logs\production"
+              />
+              <button type="button" onClick={handleBrowse}>Browse</button>
+            </div>
+            <span className="input-hint">For demo purposes, please keep the log folder size under 2 MB.</span>
           </div>
 
           <div className="twocol">

@@ -34,6 +34,25 @@ app.add_middleware(CORSMiddleware, allow_origins=["http://localhost:5173"], allo
 def health() -> dict[str, str]: return {"status": "ok"}
 
 
+@app.post("/api/browse")
+def browse_folder() -> dict[str, str]:
+    try:
+        import tkinter as tk
+        from tkinter import filedialog
+        
+        root = tk.Tk()
+        root.withdraw()
+        root.attributes('-topmost', True)
+        folder_path = filedialog.askdirectory(parent=root, title="Select Log Folder")
+        root.destroy()
+        return {"folder_path": folder_path}
+    except Exception as exc:
+        raise HTTPException(
+            status_code=501,
+            detail="Folder browsing is only supported when running locally with a graphical display."
+        ) from exc
+
+
 @app.post("/api/investigations", response_model=InvestigationResult)
 def create_investigation(request: InvestigationRequest) -> InvestigationResult:
     try: return investigate(request)
@@ -174,3 +193,10 @@ def export(format: str, result: InvestigationResult):
         canvas.drawText(text); canvas.save(); buffer.seek(0)
         return StreamingResponse(buffer, media_type="application/pdf", headers={"Content-Disposition": "attachment; filename=incident-report.pdf"})
     raise HTTPException(400, "Supported formats: txt, md, html, pdf")
+
+
+# Serve frontend static files if the directory exists
+from fastapi.staticfiles import StaticFiles
+frontend_dist = Path(__file__).resolve().parents[2] / "frontend" / "dist"
+if frontend_dist.exists():
+    app.mount("/", StaticFiles(directory=str(frontend_dist), html=True), name="frontend")

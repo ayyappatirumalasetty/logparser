@@ -76,7 +76,15 @@ class SupportResponse(BaseModel):
 
 def safe_path(path: str) -> Path:
     """Resolve user supplied paths, rejecting invalid/unavailable folders."""
+    import os
+    if os.name != 'nt':
+        normalized = path.replace('\\', '/')
+        if 'loganalyser/demo/generated' in normalized:
+            path = '/app/demo/generated'
+        elif 'loganalyser/temptes' in normalized:
+            path = '/app/temptes'
+            
     target = Path(path).expanduser().resolve()
     if not target.is_dir():
-        raise ValueError("Folder path must point to an accessible directory.")
+        raise ValueError(f"Folder path must point to an accessible directory: {path}")
     return target
