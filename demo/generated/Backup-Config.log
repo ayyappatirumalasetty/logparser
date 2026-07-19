@@ -1,0 +1,1117 @@
+[2026/07/19 01:02:00:000   00   15000   13125   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trace
+[2026/07/19 01:02:00:407   00   15000   06722   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:02:06:125   00   15000   07697   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:02:20:269   00   15000   19148   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:02:20:679   00   15000   06046   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:02:23:713   00   15000   06117   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:03:38:713   00   15000   05348   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:03:41:481   00   15000   01798   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 01:03:41:511   00   15000   04001   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:03:41:907   00   15000   06874   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:03:46:434   00   15000   03141   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:03:58:760   00   15000   14757   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:04:03:369   00   15000   09655   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 01:04:08:722   00   15000   17442   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:04:13:934   00   15000   07056   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:04:14:108   00   15000   08271   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:04:14:250   00   15000   12729   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | mem_u
+[2026/07/19 01:04:28:300   00   15000   12150   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:04:28:689   00   15000   11380   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 01:04:28:770   00   15000   16066   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:04:31:925   00   15000   14172   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:04:32:384   00   15000   11647   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:06:11:384   00   15000   09229   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 01:06:11:452   00   15000   10784   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 01:06:15:382   00   15000   09040   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:06:15:824   00   15000   14937   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:06:27:606   00   15000   13492   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 01:06:27:612   00   15000   15985   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 01:06:40:993   00   15000   12927   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:06:42:071   00   15000   03918   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:06:47:784   00   15000   16682   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:06:47:876   00   15000   05000   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:06:48:124   00   15000   16013   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:07:04:111   00   15000   13807   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:07:15:411   00   15000   07413   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 01:08:16:411   00   15000   02781   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:08:30:821   00   15000   03535   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:08:35:148   00   15000   05028   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 01:08:35:351   00   15000   02111   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 01:08:36:851   00   15000   09016   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:08:49:890   00   15000   07457   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:09:02:691   00   15000   07966   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:09:02:961   00   15000   13207   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:09:03:005   00   15000   15884   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:11:46:005   00   15000   02007   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:11:51:483   00   15000   02224   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:11:55:582   00   15000   17479   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:12:08:745   00   15000   08019   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 01:12:10:309   00   15000   16251   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:12:20:368   00   15000   12073   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:12:20:854   00   15000   11493   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:12:21:209   00   15000   16273   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 01:12:23:567   00   15000   18869   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 01:12:25:488   00   15000   03498   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:12:25:831   00   15000   01131   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:12:39:278   00   15000   08476   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:14:31:278   00   15000   10025   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:17:59:278   00   15000   15143   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:17:59:675   00   15000   16697   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 01:17:59:827   00   15000   08491   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:18:01:796   00   15000   05084   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:18:01:890   00   15000   11397   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:18:02:172   00   15000   12681   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:18:02:237   00   15000   08089   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 01:18:03:929   00   15000   06396   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:18:07:822   00   15000   12965   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_u
+[2026/07/19 01:18:23:459   00   15000   18827   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:18:26:024   00   15000   17383   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:18:26:156   00   15000   13651   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:18:26:350   00   15000   13518   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 01:18:31:773   00   15000   13755   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:18:32:037   00   15000   08824   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:21:24:037   00   15000   16414   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 01:21:24:382   00   15000   09150   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 01:21:40:285   00   15000   06868   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:21:45:960   00   15000   13456   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:21:46:348   00   15000   04817   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:23:35:348   00   15000   12292   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:23:49:966   00   15000   14867   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:23:50:059   00   15000   13814   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_u
+[2026/07/19 01:23:50:450   00   15000   03968   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 01:23:50:825   00   15000   14419   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 01:23:51:298   00   15000   07677   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:23:51:610   00   15000   04577   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:23:51:659   00   15000   05612   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:27:22:659   00   15000   13262   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:27:22:850   00   15000   14373   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:27:23:091   00   15000   02902   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:27:33:705   00   15000   15859   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:27:33:864   00   15000   11328   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:27:34:277   00   15000   11053   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 01:30:33:277   00   15000   04808   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:30:33:443   00   15000   15495   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:30:33:518   00   15000   19069   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 01:30:39:143   00   15000   13902   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:30:39:362   00   15000   12422   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:30:39:404   00   15000   14257   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:30:53:786   00   15000   14997   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 01:30:53:884   00   15000   18404   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_u
+[2026/07/19 01:30:57:528   00   15000   10204   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 01:31:02:198   00   15000   15376   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:31:02:662   00   15000   10327   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:31:02:705   00   15000   11661   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 01:31:07:611   00   15000   04265   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 01:31:08:032   00   15000   08384   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:41:08:032   00   15000   10787   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 01:44:11:032   00   15000   18383   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:47:26:032   00   15000   19356   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:47:31:782   00   15000   16319   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 01:49:31:782   00   15000   04098   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:49:37:582   00   15000   03470   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_u
+[2026/07/19 01:49:37:907   00   15000   15956   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:49:38:156   00   15000   07998   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trace
+[2026/07/19 01:49:38:260   00   15000   01109   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:49:40:767   00   15000   14183   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:49:40:815   00   15000   12417   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_u
+[2026/07/19 01:49:42:028   00   15000   16908   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trace
+[2026/07/19 01:49:42:228   00   15000   10993   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:49:42:709   00   15000   19014   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:49:56:281   00   15000   07235   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:49:56:377   00   15000   01515   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:52:36:377   00   15000   12350   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:52:37:970   00   15000   19898   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 01:52:40:513   00   15000   16578   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 01:54:13:513   00   15000   02092   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:54:13:665   00   15000   15954   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 01:54:13:956   00   15000   18004   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 01:54:14:068   00   15000   14077   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_u
+[2026/07/19 01:54:18:474   00   15000   02853   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 01:54:22:225   00   15000   11777   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:54:26:394   00   15000   18752   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_u
+[2026/07/19 01:54:27:527   00   15000   11144   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 01:54:29:723   00   15000   13714   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_u
+[2026/07/19 01:57:15:723   00   15000   19608   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:57:17:853   00   15000   01722   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:57:19:714   00   15000   02094   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:57:22:835   00   15000   01353   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:57:24:254   00   15000   04359   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:57:24:303   00   15000   10612   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:57:24:345   00   15000   18051   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:57:24:467   00   15000   05158   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 01:57:24:826   00   15000   07726   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 01:57:38:258   00   15000   11390   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 02:01:05:258   00   15000   11379   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:01:06:462   00   15000   14879   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:01:20:087   00   15000   04935   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:01:25:514   00   15000   12047   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 02:01:40:166   00   15000   15741   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 02:03:55:166   00   15000   15954   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:03:58:482   00   15000   08801   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:06:35:482   00   15000   13162   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 02:06:38:764   00   15000   05727   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:06:39:122   00   15000   19529   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_u
+[2026/07/19 02:06:39:414   00   15000   01542   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:06:41:287   00   15000   14375   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_u
+[2026/07/19 02:13:41:287   00   15000   15063   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:13:44:293   00   15000   02912   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 02:13:47:131   00   15000   10587   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:13:49:506   00   15000   03733   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:13:52:276   00   15000   13461   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:13:53:311   00   15000   19095   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:13:53:396   00   15000   19823   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:16:52:396   00   15000   18392   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 02:16:57:194   00   15000   06626   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:17:00:405   00   15000   14498   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 02:17:04:848   00   15000   06046   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 02:17:04:951   00   15000   02491   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 02:17:16:935   00   15000   19942   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | mem_u
+[2026/07/19 02:17:19:793   00   15000   06823   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 02:17:25:427   00   15000   07513   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:17:39:809   00   15000   19885   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 02:17:39:813   00   15000   09978   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 02:17:40:003   00   15000   19013   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 02:17:43:294   00   15000   03676   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:19:20:294   00   15000   08590   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:22:37:294   00   15000   12120   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 02:22:37:572   00   15000   07516   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:22:47:679   00   15000   06124   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:22:50:320   00   15000   13727   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 02:22:50:551   00   15000   08918   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:22:53:622   00   15000   04615   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:22:55:508   00   15000   17052   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:22:59:958   00   15000   07527   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:23:00:120   00   15000   19206   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 02:23:00:220   00   15000   08269   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:23:12:392   00   15000   19585   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:23:27:142   00   15000   08175   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:23:27:588   00   15000   11830   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:23:31:773   00   15000   09318   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:23:32:964   00   15000   03482   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:23:38:814   00   15000   06688   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 02:23:51:125   00   15000   12670   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 02:23:51:277   00   15000   09385   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:23:51:383   00   15000   10628   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:23:51:716   00   15000   03908   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:23:55:345   00   15000   03300   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:24:10:375   00   15000   04263   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 02:24:10:603   00   15000   17240   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 02:24:21:313   00   15000   13080   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 02:24:24:514   00   15000   18926   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:24:24:888   00   15000   05942   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:24:29:903   00   15000   02734   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:24:34:691   00   15000   03036   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trace
+[2026/07/19 02:24:34:924   00   15000   14676   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:24:35:033   00   15000   08008   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:24:38:091   00   15000   06531   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:24:38:177   00   15000   13176   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:28:04:177   00   15000   06470   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 02:28:04:191   00   15000   11622   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:28:04:676   00   15000   11301   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:28:06:061   00   15000   01053   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:30:49:061   00   15000   13091   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:31:00:726   00   15000   10604   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:31:11:868   00   15000   05384   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:31:14:455   00   15000   15995   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:31:14:493   00   15000   05807   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 02:31:14:890   00   15000   07467   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:33:36:890   00   15000   11459   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 02:33:37:140   00   15000   01573   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:33:37:217   00   15000   08164   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:33:50:843   00   15000   10823   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 02:34:03:923   00   15000   16392   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 02:37:18:923   00   15000   09950   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:37:19:246   00   15000   13241   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:37:20:477   00   15000   05595   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:37:23:600   00   15000   13304   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:37:23:827   00   15000   13384   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:37:29:679   00   15000   12143   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 02:37:30:056   00   15000   04197   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 02:40:46:056   00   15000   13005   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:40:48:923   00   15000   14957   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:40:49:347   00   15000   05404   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 02:40:54:129   00   15000   06071   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:41:06:688   00   15000   15604   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:56:06:688   00   15000   08086   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:56:17:299   00   15000   14217   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:56:21:377   00   15000   04926   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 02:56:33:753   00   15000   09272   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 02:56:37:812   00   15000   11843   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:56:43:634   00   15000   03139   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:59:11:634   00   15000   02359   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 02:59:11:826   00   15000   01951   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | mem_u
+[2026/07/19 02:59:16:721   00   15000   14997   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:59:16:919   00   15000   01451   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:59:17:231   00   15000   09016   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:59:17:623   00   15000   17404   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 02:59:18:013   00   15000   04796   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:59:32:687   00   15000   10708   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:59:48:083   00   15000   16745   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:59:48:470   00   15000   09619   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 02:59:53:535   00   15000   02138   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 02:59:59:492   00   15000   09954   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:00:00:991   00   15000   14688   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 03:00:02:542   00   15000   03252   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 03:00:07:693   00   15000   03081   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 03:00:20:053   00   15000   01611   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:00:35:105   00   15000   07427   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 03:00:40:946   00   15000   15511   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:00:41:352   00   15000   07296   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:00:41:364   00   15000   11603   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:00:52:627   00   15000   12477   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 03:03:05:627   00   15000   03503   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_u
+[2026/07/19 03:03:10:197   00   15000   16812   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 03:03:13:938   00   15000   09538   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 03:03:29:586   00   15000   05188   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:03:35:152   00   15000   15411   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:06:22:152   00   15000   14982   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 03:08:20:152   00   15000   03570   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 03:08:21:524   00   15000   02001   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:08:21:993   00   15000   10036   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:08:32:747   00   15000   12702   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 03:08:32:843   00   15000   02015   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:08:34:319   00   15000   15573   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 03:08:37:540   00   15000   04441   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 03:08:37:976   00   15000   04249   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 03:08:49:984   00   15000   09333   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:08:50:043   00   15000   05415   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 03:08:52:331   00   15000   14466   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:09:08:186   00   15000   10497   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 03:09:08:238   00   15000   14994   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:09:08:684   00   15000   04524   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:09:09:085   00   15000   17694   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:09:10:334   00   15000   08113   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 03:09:14:892   00   15000   19304   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:09:15:190   00   15000   09045   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:09:26:810   00   15000   14085   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:09:28:442   00   15000   04989   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:12:03:442   00   15000   17317   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:15:10:442   00   15000   19549   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 03:15:22:063   00   15000   07323   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:15:22:237   00   15000   17784   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:15:23:582   00   15000   05091   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:15:23:621   00   15000   08385   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:19:21:621   00   15000   05422   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:19:26:082   00   15000   06896   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 03:19:26:144   00   15000   08670   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 03:19:29:945   00   15000   04564   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 03:19:32:054   00   15000   09784   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:34:32:054   00   15000   09866   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:34:33:496   00   15000   18962   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:34:33:952   00   15000   08196   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:34:36:245   00   15000   16912   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trace
+[2026/07/19 03:34:38:008   00   15000   12964   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:34:38:027   00   15000   10433   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 03:36:15:027   00   15000   11893   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:38:28:027   00   15000   19783   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:38:28:419   00   15000   19833   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:41:59:419   00   15000   10725   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:53:59:419   00   15000   13417   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:53:59:630   00   15000   15716   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:54:14:911   00   15000   14060   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:54:15:379   00   15000   04855   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:54:15:551   00   15000   06297   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trace
+[2026/07/19 03:54:15:989   00   15000   10459   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 03:54:16:390   00   15000   16536   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 03:54:21:215   00   15000   15996   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:54:23:009   00   15000   01844   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:54:26:388   00   15000   11554   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 03:54:37:787   00   15000   09092   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:54:41:530   00   15000   18408   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:56:41:530   00   15000   15914   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:56:46:781   00   15000   04418   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_u
+[2026/07/19 03:56:51:635   00   15000   15130   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:56:54:995   00   15000   18716   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 03:59:33:995   00   15000   10487   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:59:39:788   00   15000   14097   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:59:55:052   00   15000   17553   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 03:59:55:264   00   15000   13592   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 03:59:59:897   00   15000   02972   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:00:12:090   00   15000   09586   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:00:16:206   00   15000   06530   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:00:16:583   00   15000   01865   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:00:16:897   00   15000   07386   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 04:01:52:897   00   15000   06229   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:01:53:111   00   15000   04589   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 04:02:06:912   00   15000   14554   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 04:05:06:912   00   15000   19011   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:05:07:197   00   15000   06188   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:07:31:197   00   15000   08140   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 04:07:31:612   00   15000   15617   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:07:33:912   00   15000   19309   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 04:07:47:426   00   15000   06199   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 04:07:50:050   00   15000   17011   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:07:54:782   00   15000   08828   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:08:09:303   00   15000   01209   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 04:08:22:523   00   15000   13668   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 04:08:22:691   00   15000   02189   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 04:08:25:947   00   15000   07841   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:08:26:380   00   15000   09240   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 04:08:26:689   00   15000   04116   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:08:26:891   00   15000   07475   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 04:08:30:324   00   15000   03293   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 04:08:34:962   00   15000   12098   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 04:08:48:493   00   15000   09769   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 04:08:50:698   00   15000   12903   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 04:08:50:730   00   15000   13204   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 04:08:51:142   00   15000   10412   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:08:51:219   00   15000   03935   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 04:11:34:219   00   15000   05580   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 04:11:36:705   00   15000   13506   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_u
+[2026/07/19 04:11:47:357   00   15000   05131   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:11:48:429   00   15000   18767   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endpo
+[2026/07/19 04:12:01:585   00   15000   09579   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 04:12:01:720   00   15000   14169   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 04:12:02:176   00   15000   10526   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:14:44:176   00   15000   03032   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | mem_u
+[2026/07/19 04:14:48:318   00   15000   11446   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 04:14:48:496   00   15000   16887   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:18:01:496   00   15000   04492   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:20:32:496   00   15000   19837   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:20:44:109   00   15000   19826   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:22:07:109   00   15000   06020   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 04:22:07:377   00   15000   14593   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 04:22:07:691   00   15000   12527   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 04:22:09:343   00   15000   14801   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:22:09:730   00   15000   04266   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:22:10:151   00   15000   09139   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:22:14:733   00   15000   18077   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=10
+[2026/07/19 04:22:14:918   00   15000   16347   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:22:19:525   00   15000   19679   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:22:34:516   00   15000   11724   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=19
+[2026/07/19 04:24:54:516   00   15000   08720   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:24:54:633   00   15000   14447   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | calle
+[2026/07/19 04:25:09:439   00   15000   05224   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=17
+[2026/07/19 04:25:09:756   00   15000   09451   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:25:11:275   00   15000   13447   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:25:11:599   00   15000   16568   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:25:22:058   00   15000   04300   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:25:27:483   00   15000   02291   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_i
+[2026/07/19 04:25:37:614   00   15000   02126   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:25:43:392   00   15000   13315   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 04:25:43:525   00   15000   18977   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:25:44:006   00   15000   15274   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:25:44:108   00   15000   19383   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:25:44:171   00   15000   15546   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:25:58:463   00   15000   14187   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:25:58:776   00   15000   10707   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 04:26:04:370   00   15000   18247   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:26:05:590   00   15000   06460   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:26:09:184   00   15000   17460   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 04:26:12:174   00   15000   07669   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 04:26:16:888   00   15000   16160   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:26:17:271   00   15000   08926   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:26:22:679   00   15000   01773   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:26:22:884   00   15000   15500   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:26:37:544   00   15000   13062   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:26:37:725   00   15000   10300   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:26:50:158   00   15000   08006   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 04:26:54:427   00   15000   06059   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 04:26:57:501   00   15000   04637   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 04:26:59:133   00   15000   07762   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 04:27:03:056   00   15000   08209   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:29:28:056   00   15000   14471   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 04:29:30:044   00   15000   14173   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:29:34:348   00   15000   07144   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:29:34:821   00   15000   12705   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 04:29:48:756   00   15000   02799   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:30:00:575   00   15000   10646   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 04:30:14:561   00   15000   19692   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 04:30:16:688   00   15000   17512   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:30:17:020   00   15000   18478   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:32:36:020   00   15000   12133   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:32:37:221   00   15000   16694   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 04:32:37:649   00   15000   08044   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 04:32:38:092   00   15000   04168   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 04:32:38:198   00   15000   11243   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 04:34:39:198   00   15000   16248   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 04:34:39:418   00   15000   18023   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 04:34:39:902   00   15000   14491   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:34:43:546   00   15000   19041   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 04:34:53:769   00   15000   10137   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 04:36:03:769   00   15000   19165   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 04:36:08:956   00   15000   01315   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:36:13:488   00   15000   18575   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:36:13:868   00   15000   09798   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 04:36:13:923   00   15000   10955   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:46:13:923   00   15000   13858   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 04:46:14:049   00   15000   09490   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:46:16:259   00   15000   02382   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 04:46:21:369   00   15000   12179   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:46:27:308   00   15000   15006   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 04:46:40:877   00   15000   19956   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:46:42:917   00   15000   19276   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:46:47:118   00   15000   07544   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 04:46:51:712   00   15000   01462   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 04:55:51:712   00   15000   08569   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:56:05:758   00   15000   19231   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:56:06:059   00   15000   18683   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 04:56:09:982   00   15000   19553   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:58:08:982   00   15000   02221   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 04:58:14:931   00   15000   01195   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:58:15:320   00   15000   02634   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 04:58:15:435   00   15000   17804   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:58:15:930   00   15000   02731   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 04:58:31:551   00   15000   05273   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 04:58:31:709   00   15000   07001   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:01:01:709   00   15000   10043   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:01:04:871   00   15000   09675   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:01:05:100   00   15000   14728   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:03:41:100   00   15000   18855   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:03:41:540   00   15000   19008   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:03:44:442   00   15000   16130   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:03:44:572   00   15000   01649   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:03:44:585   00   15000   01929   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 05:03:45:046   00   15000   19689   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:03:45:416   00   15000   11783   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:03:49:285   00   15000   06393   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 05:06:22:285   00   15000   15678   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:06:37:005   00   15000   10426   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:06:37:010   00   15000   13735   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trac
+[2026/07/19 05:06:37:206   00   15000   12874   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:09:58:206   00   15000   13073   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:09:58:221   00   15000   08408   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:10:12:646   00   15000   04144   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 05:10:15:236   00   15000   11121   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:10:17:487   00   15000   14507   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:10:32:832   00   15000   02481   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:10:35:603   00   15000   17727   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:10:35:738   00   15000   12040   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:12:03:738   00   15000   15641   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:12:07:992   00   15000   09299   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:12:08:092   00   15000   17585   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:12:19:853   00   15000   04417   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:16:07:853   00   15000   03666   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:16:10:654   00   15000   03482   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:16:11:044   00   15000   16291   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:16:11:233   00   15000   12726   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:19:51:233   00   15000   02253   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:22:49:233   00   15000   05172   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:24:19:233   00   15000   09671   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | mem_
+[2026/07/19 05:24:20:489   00   15000   09599   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:24:20:539   00   15000   05114   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:24:20:592   00   15000   12970   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:24:22:860   00   15000   03716   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:24:26:846   00   15000   17259   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:25:41:846   00   15000   06114   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:25:45:156   00   15000   15698   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:25:50:314   00   15000   16519   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:25:53:710   00   15000   16696   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 05:26:05:299   00   15000   10479   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:26:07:389   00   15000   13020   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:26:07:509   00   15000   02917   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:26:07:563   00   15000   12536   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 05:26:08:032   00   15000   04960   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:26:13:719   00   15000   08309   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:26:13:926   00   15000   04768   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:26:13:967   00   15000   17293   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:26:14:163   00   15000   06194   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:26:14:631   00   15000   16448   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 05:26:14:779   00   15000   03223   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:26:17:291   00   15000   07536   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:26:29:112   00   15000   09739   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:26:40:137   00   15000   07181   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:26:55:449   00   15000   15216   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 05:26:55:578   00   15000   01250   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:26:55:848   00   15000   04411   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:26:59:786   00   15000   02230   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:30:38:786   00   15000   08635   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:30:39:169   00   15000   19200   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:30:43:193   00   15000   08651   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:30:55:100   00   15000   12204   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:31:08:497   00   15000   08523   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:31:13:589   00   15000   12701   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:31:13:613   00   15000   08571   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:31:29:189   00   15000   17959   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:31:42:262   00   15000   05132   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:31:56:492   00   15000   02217   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:35:17:492   00   15000   08635   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:35:17:688   00   15000   05443   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:35:22:974   00   15000   01251   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:37:58:974   00   15000   18177   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:38:03:795   00   15000   01087   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | mem_
+[2026/07/19 05:38:09:330   00   15000   19594   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:38:10:713   00   15000   16502   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:38:12:798   00   15000   17769   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:38:13:028   00   15000   16309   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:38:13:046   00   15000   12448   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:38:13:464   00   15000   03744   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:38:18:789   00   15000   11567   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:43:18:789   00   15000   10624   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 05:43:20:776   00   15000   02679   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 05:43:21:961   00   15000   10900   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:43:26:619   00   15000   16059   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:43:30:331   00   15000   04164   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:43:32:658   00   15000   08056   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:48:32:658   00   15000   02980   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 05:48:43:323   00   15000   02041   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:48:44:514   00   15000   06992   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:48:48:051   00   15000   15172   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:48:48:318   00   15000   19885   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:48:52:505   00   15000   19825   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:48:55:519   00   15000   16367   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 05:48:58:579   00   15000   10098   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:50:56:579   00   15000   04115   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:50:56:788   00   15000   11795   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 05:50:59:768   00   15000   13415   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 05:51:03:559   00   15000   14482   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:51:04:019   00   15000   01803   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:51:17:966   00   15000   02532   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:51:18:399   00   15000   17050   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 05:51:23:486   00   15000   01292   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:51:23:529   00   15000   15017   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:51:26:985   00   15000   13670   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:51:37:179   00   15000   06570   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:51:37:447   00   15000   17121   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:51:37:558   00   15000   10442   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trac
+[2026/07/19 05:51:38:058   00   15000   07863   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 05:51:38:135   00   15000   04748   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:51:38:196   00   15000   02808   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trac
+[2026/07/19 05:51:38:529   00   15000   07644   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:51:38:732   00   15000   03303   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:51:38:960   00   15000   08819   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:51:50:757   00   15000   11802   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:51:50:827   00   15000   13496   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:51:50:913   00   15000   01036   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:55:41:913   00   15000   09407   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:59:33:913   00   15000   07012   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:59:44:581   00   15000   12956   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:59:44:610   00   15000   16316   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 05:59:45:972   00   15000   17034   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 05:59:50:996   00   15000   13598   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:02:17:996   00   15000   18623   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:02:28:686   00   15000   02318   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 06:02:44:228   00   15000   07788   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:02:48:825   00   15000   13193   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:02:48:886   00   15000   16787   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:02:54:679   00   15000   02411   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:02:57:813   00   15000   03605   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:03:00:957   00   15000   04200   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:03:02:728   00   15000   19488   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:03:03:185   00   15000   13042   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:04:12:185   00   15000   01426   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:04:16:866   00   15000   05941   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:04:30:448   00   15000   14472   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:04:35:518   00   15000   06995   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 06:04:47:983   00   15000   04346   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:04:53:931   00   15000   17680   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 06:05:05:282   00   15000   14221   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:05:05:421   00   15000   14668   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:07:58:421   00   15000   12144   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:07:58:464   00   15000   10865   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:08:03:470   00   15000   01002   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 06:08:03:485   00   15000   17603   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:08:14:300   00   15000   06860   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:10:31:300   00   15000   17454   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:10:35:739   00   15000   05159   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:10:36:140   00   15000   11614   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:10:36:366   00   15000   19972   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:10:39:819   00   15000   09626   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:10:40:063   00   15000   12800   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:10:43:147   00   15000   09354   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:10:43:190   00   15000   16437   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:10:46:794   00   15000   17675   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:10:47:136   00   15000   08994   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:13:49:136   00   15000   19645   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 06:13:49:371   00   15000   03188   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 06:13:49:441   00   15000   08827   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:13:51:180   00   15000   15386   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:17:04:180   00   15000   07540   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:17:07:798   00   15000   19006   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:17:19:108   00   15000   17041   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:17:20:462   00   15000   15258   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 06:17:33:321   00   15000   10697   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:17:43:716   00   15000   11738   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:17:44:130   00   15000   16196   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:17:47:837   00   15000   05895   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:17:51:667   00   15000   01073   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:17:51:918   00   15000   07671   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 06:17:57:784   00   15000   16617   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:17:58:186   00   15000   08038   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:20:57:186   00   15000   13364   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:21:02:510   00   15000   17021   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:22:11:510   00   15000   05070   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:22:14:708   00   15000   10773   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:22:30:614   00   15000   17573   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:23:53:614   00   15000   18844   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:23:56:028   00   15000   16935   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:23:56:072   00   15000   08639   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:23:56:435   00   15000   07491   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:24:00:758   00   15000   03012   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:24:03:961   00   15000   05394   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:24:04:147   00   15000   17162   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:24:05:951   00   15000   07455   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trac
+[2026/07/19 06:24:09:177   00   15000   12816   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:24:09:408   00   15000   07477   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:24:10:908   00   15000   18085   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:24:26:040   00   15000   13786   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:24:41:700   00   15000   19787   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:24:41:778   00   15000   11744   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:24:44:933   00   15000   01345   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:24:44:959   00   15000   13959   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:24:45:356   00   15000   06595   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:24:45:395   00   15000   10141   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:28:22:395   00   15000   17307   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:34:22:395   00   15000   06488   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:34:22:837   00   15000   04625   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 06:36:24:837   00   15000   06907   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:36:25:119   00   15000   04797   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:44:25:119   00   15000   06707   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:44:39:510   00   15000   07699   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:48:16:510   00   15000   12094   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:48:16:886   00   15000   11132   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:50:03:886   00   15000   06520   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:50:17:321   00   15000   17192   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:50:18:463   00   15000   14825   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 06:50:21:126   00   15000   16429   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:50:21:430   00   15000   05864   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:50:21:894   00   15000   09218   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:50:22:157   00   15000   08057   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:52:30:157   00   15000   12499   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:52:33:645   00   15000   13607   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:52:33:753   00   15000   12092   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 06:52:39:279   00   15000   08007   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:55:08:279   00   15000   08567   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:55:08:561   00   15000   11336   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:55:11:131   00   15000   17436   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:55:11:272   00   15000   15126   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:55:11:772   00   15000   11828   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 06:55:13:389   00   15000   08244   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:55:13:865   00   15000   13289   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:55:14:338   00   15000   06711   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:55:19:705   00   15000   12740   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:55:22:352   00   15000   15912   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 06:55:26:828   00   15000   12208   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 06:55:41:862   00   15000   05810   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:55:43:758   00   15000   07091   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:55:56:758   00   15000   18486   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:56:00:208   00   15000   07179   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 06:58:59:208   00   15000   09817   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:01:32:208   00   15000   14468   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:01:37:301   00   15000   19792   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 07:01:42:312   00   15000   18221   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 07:01:55:721   00   15000   01450   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:02:00:245   00   15000   12776   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:02:00:558   00   15000   18767   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:02:15:318   00   15000   03141   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:02:15:729   00   15000   08042   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:02:21:629   00   15000   15351   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 07:05:29:629   00   15000   06148   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:05:30:114   00   15000   02838   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:05:30:492   00   15000   02365   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:05:31:812   00   15000   04058   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:06:31:812   00   15000   19540   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:09:44:812   00   15000   13233   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:09:46:442   00   15000   08375   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:09:46:695   00   15000   06122   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:13:16:695   00   15000   17095   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:13:20:100   00   15000   02266   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:13:30:130   00   15000   01393   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:23:30:130   00   15000   07460   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 07:23:34:862   00   15000   17886   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:26:10:862   00   15000   04577   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:26:13:374   00   15000   03018   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:26:16:604   00   15000   07275   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:26:16:972   00   15000   15983   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:26:28:203   00   15000   18099   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 07:26:28:495   00   15000   13161   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:36:28:495   00   15000   02713   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:36:32:406   00   15000   17398   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 07:36:33:605   00   15000   19683   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:36:36:023   00   15000   02494   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 07:36:36:217   00   15000   12291   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:36:36:535   00   15000   06144   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:36:38:854   00   15000   13544   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:39:01:854   00   15000   19195   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:39:02:115   00   15000   16887   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:39:02:515   00   15000   15689   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:39:06:609   00   15000   06312   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:39:06:642   00   15000   14248   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:39:21:172   00   15000   10250   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:39:34:677   00   15000   19719   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 07:39:34:904   00   15000   06414   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:39:38:264   00   15000   06012   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:39:38:288   00   15000   04646   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:42:43:288   00   15000   01164   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:42:55:084   00   15000   12557   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:42:55:322   00   15000   18616   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:42:56:891   00   15000   10920   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:43:01:439   00   15000   19013   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:43:15:238   00   15000   07206   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:43:15:299   00   15000   16582   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:43:15:595   00   15000   08970   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:43:29:970   00   15000   16827   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 07:45:31:970   00   15000   13140   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:45:44:844   00   15000   08528   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:45:57:086   00   15000   04407   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:45:58:528   00   15000   06137   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:46:02:903   00   15000   12474   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:48:55:903   00   15000   19071   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:48:55:942   00   15000   17767   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:49:01:879   00   15000   01785   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:49:05:586   00   15000   06419   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:49:18:511   00   15000   18133   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:49:18:590   00   15000   12165   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | mem_
+[2026/07/19 07:49:20:218   00   15000   10563   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 07:49:25:100   00   15000   18478   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:49:38:622   00   15000   14056   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 07:51:11:622   00   15000   01989   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:51:11:798   00   15000   15666   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:51:14:283   00   15000   17091   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 07:51:28:161   00   15000   18412   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:54:17:161   00   15000   10169   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 07:54:19:512   00   15000   02874   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:54:19:515   00   15000   03944   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:54:35:216   00   15000   13957   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 07:54:49:399   00   15000   06345   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 07:54:52:047   00   15000   08853   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:54:55:538   00   15000   18962   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:55:01:062   00   15000   06479   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:55:01:325   00   15000   13025   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:55:01:411   00   15000   16941   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:55:05:309   00   15000   02548   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:57:14:309   00   15000   15581   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 07:57:14:563   00   15000   02789   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:57:15:711   00   15000   02454   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:57:16:147   00   15000   12403   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:57:19:287   00   15000   03652   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:57:19:584   00   15000   16577   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:57:19:779   00   15000   16936   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:57:23:144   00   15000   02643   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:57:34:629   00   15000   02716   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 07:57:40:384   00   15000   19433   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 07:59:22:384   00   15000   12142   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:59:37:022   00   15000   10189   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:59:40:516   00   15000   06831   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 07:59:44:116   00   15000   09220   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 07:59:44:339   00   15000   14755   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:59:58:018   00   15000   17387   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 07:59:58:172   00   15000   10378   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:00:00:471   00   15000   14568   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 08:00:03:901   00   15000   09607   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:00:04:252   00   15000   12607   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 08:03:13:252   00   15000   01828   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:03:14:530   00   15000   02615   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 08:03:14:622   00   15000   12339   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:03:14:828   00   15000   12823   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:03:17:540   00   15000   14912   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:03:17:633   00   15000   16911   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:05:28:633   00   15000   04984   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:05:32:911   00   15000   11599   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:05:34:979   00   15000   05281   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:05:35:240   00   15000   11523   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:05:35:326   00   15000   12898   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:05:37:187   00   15000   10047   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:05:38:703   00   15000   18386   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:05:43:513   00   15000   05185   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:05:43:784   00   15000   07112   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:05:59:080   00   15000   07134   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:07:46:080   00   15000   14119   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:07:46:537   00   15000   17094   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:10:16:537   00   15000   11708   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:10:16:776   00   15000   13723   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | mem_
+[2026/07/19 08:10:17:238   00   15000   15542   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 08:10:30:125   00   15000   08453   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:10:41:147   00   15000   14948   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:10:51:168   00   15000   06276   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:10:51:444   00   15000   08009   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 08:10:54:398   00   15000   03107   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:11:08:609   00   15000   06470   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 08:12:23:609   00   15000   17711   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:15:57:609   00   15000   15169   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:15:59:716   00   15000   03326   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:16:05:172   00   15000   18877   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:16:05:195   00   15000   16579   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:16:10:705   00   15000   13054   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:16:16:040   00   15000   02025   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 08:16:16:412   00   15000   14024   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:16:16:515   00   15000   01048   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 08:17:49:515   00   15000   16971   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:17:49:987   00   15000   13395   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:17:52:167   00   15000   04446   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:17:54:834   00   15000   09017   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:17:54:849   00   15000   15724   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:17:55:172   00   15000   19172   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:18:08:543   00   15000   14523   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:18:21:303   00   15000   01577   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:18:21:471   00   15000   11278   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:18:21:645   00   15000   07766   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:19:54:645   00   15000   06552   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:19:54:885   00   15000   03375   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:20:05:923   00   15000   15449   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:20:18:743   00   15000   07240   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:20:18:919   00   15000   12023   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:20:22:843   00   15000   08696   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 08:20:22:954   00   15000   15213   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trac
+[2026/07/19 08:20:26:300   00   15000   19276   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:20:26:765   00   15000   18144   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:20:28:947   00   15000   10642   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 08:20:44:175   00   15000   04220   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 08:29:44:175   00   15000   09524   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:30:47:175   00   15000   06046   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:30:50:588   00   15000   03880   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:31:05:567   00   15000   07920   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | mem_
+[2026/07/19 08:31:21:270   00   15000   16308   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:31:21:509   00   15000   10823   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 08:31:21:540   00   15000   19863   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:31:24:579   00   15000   04609   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trac
+[2026/07/19 08:31:28:353   00   15000   13897   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:31:43:551   00   15000   06102   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trac
+[2026/07/19 08:31:48:165   00   15000   15128   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:31:58:934   00   15000   01446   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 08:34:39:934   00   15000   17778   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:47:39:934   00   15000   17745   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:47:45:274   00   15000   01050   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 08:47:46:303   00   15000   12394   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:47:46:487   00   15000   12601   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 08:47:48:866   00   15000   11456   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 08:51:37:866   00   15000   14510   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 08:51:37:916   00   15000   07428   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 08:51:40:491   00   15000   10035   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trac
+[2026/07/19 09:05:40:491   00   15000   15579   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:05:40:951   00   15000   15058   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:05:40:970   00   15000   03632   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trac
+[2026/07/19 09:05:45:636   00   15000   04916   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:05:45:843   00   15000   19824   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:09:42:843   00   15000   16252   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:09:46:022   00   15000   02014   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:09:47:727   00   15000   10329   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:11:57:727   00   15000   11917   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:11:57:790   00   15000   12907   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:12:01:069   00   15000   13628   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:12:04:005   00   15000   11635   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:12:04:193   00   15000   01981   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:13:11:193   00   15000   04347   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:13:11:394   00   15000   10242   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:13:26:623   00   15000   01300   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:13:29:011   00   15000   05277   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:13:41:769   00   15000   07602   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:13:44:586   00   15000   18206   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:13:44:733   00   15000   12747   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:13:45:890   00   15000   05437   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:13:46:243   00   15000   08049   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:13:52:182   00   15000   17739   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:14:03:675   00   15000   12939   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:17:06:675   00   15000   19277   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:19:40:675   00   15000   18070   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:19:41:144   00   15000   01311   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:19:42:275   00   15000   08544   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 09:19:42:329   00   15000   18690   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 09:19:47:403   00   15000   19851   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:19:47:526   00   15000   11734   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:23:13:526   00   15000   01773   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:23:27:759   00   15000   03793   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | mem_
+[2026/07/19 09:23:27:869   00   15000   06131   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 09:23:28:274   00   15000   07434   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:25:36:274   00   15000   19588   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:25:41:314   00   15000   16460   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:25:57:214   00   15000   07370   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:25:57:320   00   15000   01781   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:26:00:127   00   15000   15221   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:26:00:490   00   15000   15910   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:26:02:361   00   15000   09763   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:26:08:254   00   15000   06343   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trac
+[2026/07/19 09:26:12:098   00   15000   16700   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:26:17:003   00   15000   12770   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:29:12:003   00   15000   04476   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:29:13:406   00   15000   17968   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:29:13:616   00   15000   09290   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:29:13:639   00   15000   02761   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:29:13:708   00   15000   09420   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:29:16:568   00   15000   14660   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:29:17:027   00   15000   10785   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:29:21:992   00   15000   07060   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:31:12:992   00   15000   02145   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | mem_
+[2026/07/19 09:31:13:363   00   15000   11718   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:31:13:741   00   15000   01734   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:31:19:054   00   15000   16018   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:32:36:054   00   15000   12564   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:32:36:076   00   15000   03907   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trac
+[2026/07/19 09:32:36:414   00   15000   09615   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:32:41:700   00   15000   09779   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:32:41:892   00   15000   07267   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:32:44:654   00   15000   01605   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:32:47:153   00   15000   15009   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:32:52:794   00   15000   17071   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:32:57:803   00   15000   14781   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:32:58:151   00   15000   04910   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 09:32:58:428   00   15000   19117   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:33:03:785   00   15000   04026   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:33:06:866   00   15000   01980   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:33:08:704   00   15000   15390   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:33:08:827   00   15000   18473   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:33:14:446   00   15000   04037   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:35:04:446   00   15000   16916   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:35:18:546   00   15000   14295   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:35:19:823   00   15000   16841   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:35:19:902   00   15000   07457   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:35:20:360   00   15000   16428   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:38:27:360   00   15000   07609   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:38:28:861   00   15000   01555   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:38:29:235   00   15000   19927   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:38:34:188   00   15000   01440   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:38:34:362   00   15000   17972   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:38:34:615   00   15000   01384   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trac
+[2026/07/19 09:38:36:405   00   15000   10352   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:40:50:405   00   15000   07473   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:40:55:466   00   15000   07273   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:47:55:466   00   15000   09242   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:48:09:914   00   15000   07718   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:49:19:914   00   15000   02226   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:49:20:235   00   15000   01813   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:49:20:387   00   15000   05692   0X00000000] BackupEngine::ConfigBackup: Archiving config file logging.properties   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:49:24:235   00   15000   16171   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:49:29:234   00   15000   03482   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:49:32:243   00   15000   14287   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:49:34:176   00   15000   05978   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:53:15:176   00   15000   16073   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 09:53:15:278   00   15000   16484   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:53:15:317   00   15000   11892   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:53:15:362   00   15000   19205   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:53:26:048   00   15000   11672   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:53:26:326   00   15000   10311   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:53:31:919   00   15000   10087   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:53:32:340   00   15000   09100   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:53:36:122   00   15000   16780   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:53:36:130   00   15000   16548   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:53:36:396   00   15000   10892   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:56:39:396   00   15000   01085   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | mem_
+[2026/07/19 09:56:42:631   00   15000   08370   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:56:56:216   00   15000   04070   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:57:01:855   00   15000   05418   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:57:06:263   00   15000   17608   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:57:06:498   00   15000   18998   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:57:06:867   00   15000   15635   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:57:07:969   00   15000   19033   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:57:10:855   00   15000   12198   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:58:47:855   00   15000   15725   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:58:48:252   00   15000   14239   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:58:48:381   00   15000   16687   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:58:49:494   00   15000   19073   0X00000000] BackupEngine::ConfigBackup: Archiving config file server.xml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:58:49:651   00   15000   06948   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:58:49:770   00   15000   16113   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:58:49:771   00   15000   16922   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:58:53:909   00   15000   13462   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:58:58:985   00   15000   03599   0X00000000] BackupEngine::ConfigBackup: Archiving config file web.config   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 09:59:13:682   00   15000   16629   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:59:16:547   00   15000   06496   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:59:16:894   00   15000   06354   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:59:21:328   00   15000   11648   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:59:24:695   00   15000   18978   0X00000000] BackupEngine::ConfigBackup: Archiving config file database.yml   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:59:24:905   00   15000   13116   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:59:30:141   00   15000   05222   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:59:43:089   00   15000   18964   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 09:59:48:903   00   15000   07966   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:59:49:382   00   15000   18177   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 09:59:49:691   00   15000   03829   0X00000000] BackupEngine::ConfigBackup: Archiving config file appsettings.json   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 09:59:49:871   00   15000   18749   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:00:00:544   00   15000   15993   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:00:04:162   00   15000   01404   0X00000000] BackupEngine::ConfigBackup: Serializing system settings   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:00:09:825   00   15000   13677   0X00000000] BackupEngine::ConfigBackup: Compressing registry keys   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:00:24:619   00   15000   16063   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trac
+[2026/07/19 10:00:25:094   00   15000   08603   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:00:25:586   00   15000   17019   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:00:39:864   00   15000   01810   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:00:53:165   00   15000   11868   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:00:53:467   00   15000   01603   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:00:53:574   00   15000   14277   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:00:57:105   00   15000   17754   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:01:11:802   00   15000   14316   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:01:11:833   00   15000   11297   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 10:01:11:951   00   15000   18254   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:01:12:195   00   15000   17140   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:01:12:532   00   15000   19463   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:01:22:938   00   15000   07826   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:01:23:113   00   15000   08929   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:01:27:000   00   15000   09843   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:01:39:244   00   15000   05344   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:01:39:517   00   15000   16362   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:01:53:028   00   15000   06025   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:01:58:833   00   15000   08641   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:01:59:270   00   15000   17205   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:02:10:606   00   15000   14798   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:02:10:775   00   15000   07309   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:02:11:028   00   15000   13788   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:02:15:555   00   15000   14288   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:05:39:555   00   15000   09910   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:05:41:627   00   15000   06033   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 10:05:41:826   00   15000   14536   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | trac
+[2026/07/19 10:05:42:211   00   15000   09694   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:05:57:393   00   15000   14259   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:05:57:445   00   15000   06740   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:09:31:445   00   15000   04818   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:10:49:445   00   15000   08875   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:10:50:734   00   15000   13403   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 10:13:45:734   00   15000   16804   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 10:13:46:063   00   15000   19076   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:16:40:063   00   15000   09934   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:16:44:597   00   15000   10664   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:16:48:337   00   15000   07783   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:16:50:916   00   15000   17239   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:16:50:939   00   15000   02308   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:16:51:184   00   15000   09834   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:16:51:406   00   15000   13884   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:16:57:082   00   15000   18115   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:16:58:196   00   15000   08885   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:17:03:272   00   15000   05188   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:17:06:017   00   15000   13083   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 10:17:07:424   00   15000   03547   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | mem_
+[2026/07/19 10:17:07:869   00   15000   16283   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:17:11:826   00   15000   02681   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:17:15:531   00   15000   09378   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 10:17:19:301   00   15000   11066   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:17:19:767   00   15000   03203   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:17:35:286   00   15000   04521   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:17:39:047   00   15000   16088   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:17:53:151   00   15000   03680   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:17:53:570   00   15000   11903   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 10:17:53:652   00   15000   09774   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:17:58:296   00   15000   09302   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:18:02:627   00   15000   18129   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 10:18:02:703   00   15000   14097   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:19:04:703   00   15000   13601   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:19:10:143   00   15000   18417   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:19:10:221   00   15000   05719   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:19:13:548   00   15000   16791   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:19:13:783   00   15000   19118   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 10:28:13:783   00   15000   01716   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 10:28:18:800   00   15000   07120   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:28:18:826   00   15000   17309   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 10:28:34:340   00   15000   05093   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 10:28:38:031   00   15000   11797   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:28:42:481   00   15000   11491   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:28:45:492   00   15000   17741   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:28:50:019   00   15000   01483   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:29:05:305   00   15000   11618   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:29:08:529   00   15000   06182   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:29:20:790   00   15000   16017   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | endp
+[2026/07/19 10:29:20:813   00   15000   05886   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:29:21:220   00   15000   07167   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:29:21:432   00   15000   06793   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:29:24:303   00   15000   01203   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:32:31:303   00   15000   11215   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:32:43:722   00   15000   17606   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:32:58:829   00   15000   07337   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:33:03:080   00   15000   11215   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:33:03:149   00   15000   10654   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:33:04:738   00   15000   17158   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:33:07:715   00   15000   06198   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:33:07:875   00   15000   06364   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:34:25:875   00   15000   06680   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:34:26:304   00   15000   05748   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:34:30:145   00   15000   06797   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:34:33:358   00   15000   03891   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:34:33:501   00   15000   01560   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:34:38:706   00   15000   08663   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:34:43:996   00   15000   08152   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | cpu_
+[2026/07/19 10:35:49:996   00   15000   14942   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | call
+[2026/07/19 10:35:50:100   00   15000   08410   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:35:50:517   00   15000   04777   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:36:05:748   00   15000   17850   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:36:09:351   00   15000   08118   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:36:09:687   00   15000   08359   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:36:21:120   00   15000   12165   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:38:18:120   00   15000   08457   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | ip=1
+[2026/07/19 10:38:22:349   00   15000   12939   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:38:28:083   00   15000   13794   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_
+[2026/07/19 10:38:32:733   00   15000   14040   0X00000001] BackupEngine::ConfigBackup: Failed to write configuration archive. EC=112   {BackupEngine.exe::ConfigBackup.dll(2.0.0)} | req_

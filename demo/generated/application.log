@@ -1,0 +1,1089 @@
+2026-07-19 01:09:00,000 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=435863ea9307 ip=172.16.254.1 caller=TomcatAccessFilter cpu_util=42% mem_u
+2026-07-19 01:09:00,420 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.1.50 endpoint=/api/v1/system/status caller=WebServiceHelper mem_util=
+2026-07-19 01:09:00,858 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=10.0.0.12 caller=ConfigManager cpu_util=18% mem_util=63% extra='i9fimk120zzcy'
+2026-07-19 01:11:05,858 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=a58544de8dd1 ip=192.168.1.50 endpoint=/api/v2/restore caller=ConfigManage
+2026-07-19 01:11:18,244 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=41bfdc3009e5 ip=192.168.1.50 endpoint=/api/v1/system/status caller=Tomcat
+2026-07-19 01:11:18,681 [INFO] ApplicationService: Handled request successfully in 29ms | mem_util=67% extra='moa2tfpc2j1t9mfa6ypk5u6395ugm8394ttwrv153u50q3xbuik51u67oj2n'
+2026-07-19 01:11:30,359 [INFO] ApplicationService: Connection pool status: active=40, idle=21 | ip=172.16.254.1 caller=WebServiceHelper cpu_util=56% extra='p4gzhe4tbd717hencg5h'
+2026-07-19 01:11:31,706 [INFO] ApplicationService: Connection pool status: active=45, idle=20 | ip=172.16.254.1 extra='fmlrd9il3vkq6cb9omg3fywq9yyox72wuvkzqlv9qepples1r8zaewq72'
+2026-07-19 01:11:32,063 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/api/v1/auth/login caller=TomcatAccessFilter cpu_util=79% extra='jplj8f'
+2026-07-19 01:11:32,398 [INFO] ApplicationService: Connection pool status: active=32, idle=14 | req_id=a7b900f87f5c endpoint=/api/v1/auth/login caller=DbConnector extra='0ovtys'
+2026-07-19 01:11:35,260 [INFO] ApplicationService: Handled request successfully in 18ms | req_id=871bd01bc1ec ip=172.16.254.1 endpoint=/api/v1/auth/login caller=WebServic
+2026-07-19 01:11:35,385 [INFO] ApplicationService: Cleaned up expired user cache items | ip=10.0.0.12 caller=BackupAgent cpu_util=77% extra='znh3ni1lu42mzqk6oei8jmgimwiz'
+2026-07-19 01:11:35,644 [INFO] ApplicationService: Handled request successfully in 46ms | ip=192.168.2.115 cpu_util=23% mem_util=55% extra='o8ppkijdj2cfxs3kuk5xt7w7kqin42'
+2026-07-19 01:11:50,498 [INFO] ApplicationService: Handled request successfully in 20ms | ip=192.168.2.115 endpoint=/metrics mem_util=81% extra='ofpmoggj2isjja8kfxfctn89t'
+2026-07-19 01:11:50,912 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=e09679b9e02f ip=172.16.254.1 endpoint=/api/v1/auth/login caller=WebServic
+2026-07-19 01:13:32,912 [INFO] ApplicationService: Handled request successfully in 54ms | req_id=f1f6d9c03bcf ip=172.16.254.1 endpoint=/api/v2/restore caller=TomcatAccess
+2026-07-19 01:13:44,407 [INFO] ApplicationService: Connection pool status: active=38, idle=16 | req_id=c2486c1ed011 endpoint=/api/v2/restore caller=DbConnector mem_util=66%    
+2026-07-19 01:13:44,894 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 extra='q15nzwydjhvye7uewbfdnsl6tv98cvdjmaxeqb8jouwxku23lbs3akrda'
+2026-07-19 01:13:55,397 [INFO] ApplicationService: Cleaned up expired user cache items | ip=172.16.254.1 endpoint=/api/v1/backup/create caller=TomcatAccessFilter        
+2026-07-19 01:13:55,741 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 endpoint=/api/v1/system/status caller=WebServiceHelper extra='3'
+2026-07-19 01:13:58,159 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=c9201c37ec0d caller=ConfigManager cpu_util=46% mem_util=87% extra='8uuvm6'
+2026-07-19 01:24:58,159 [INFO] ApplicationService: Handled request successfully in 35ms | req_id=25413a31a22c ip=192.168.1.50 mem_util=90% extra='o3b03qdhk6piqz5tlupd5do0'
+2026-07-19 01:25:08,846 [INFO] ApplicationService: Handled request successfully in 35ms | ip=10.0.0.12 cpu_util=15% extra='uuk8as1u4j4o3anawpfh5tsaaf1mdldeu22u91iyfa2z2kv'
+2026-07-19 01:25:12,273 [INFO] ApplicationService: Handled request successfully in 59ms | ip=172.16.254.1 endpoint=/api/v2/restore caller=BackupAgent cpu_util=74% mem_uti
+2026-07-19 01:25:17,529 [INFO] ApplicationService: Connection pool status: active=33, idle=3 | caller=BackupAgent cpu_util=34% extra='u560goenhn4yyshwd4741yjwp1wv9zibfwzrcomb3'
+2026-07-19 01:25:29,798 [INFO] ApplicationService: Connection pool status: active=5, idle=4 | ip=10.0.0.12 caller=ConfigManager cpu_util=74% extra='5ajkgh8w4ysts8am5icjos7bbk'
+2026-07-19 01:25:32,695 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=31e600a0aff2 ip=192.168.1.50 caller=ConfigManager cpu_util=12% extra='twf'
+2026-07-19 01:25:46,744 [INFO] ApplicationService: Handled request successfully in 7ms | ip=192.168.2.115 caller=WebServiceHelper cpu_util=53% mem_util=38% extra='qgihjb'
+2026-07-19 01:25:50,482 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=e0f6a1574eee ip=192.168.1.50 endpoint=/api/v1/backup/create mem_util=83% 
+2026-07-19 01:25:55,628 [INFO] ApplicationService: Connection pool status: active=42, idle=19 | endpoint=/metrics cpu_util=43% extra='c5srxl947bxqtbklc2p17au6uqj13rc2nrekbmk7ux'
+2026-07-19 01:26:01,407 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=0f571bec0d9c extra='aobubroebm4stgbnkfed2ijzw6j1vzs9finuuj5amj6hje65imgva'
+2026-07-19 01:26:03,676 [INFO] ApplicationService: Handled request successfully in 55ms | req_id=ebeb7efa53da ip=192.168.2.115 endpoint=/api/v2/restore extra='hgc4o4e3iuf'
+2026-07-19 01:26:16,846 [INFO] ApplicationService: Handled request successfully in 34ms | ip=192.168.1.50 endpoint=/api/v1/backup/create caller=ConfigManager mem_util=61%
+2026-07-19 01:26:30,319 [INFO] ApplicationService: Handled request successfully in 34ms | req_id=a8f710af01d9 ip=192.168.1.50 caller=ConfigManager cpu_util=64% mem_util=4
+2026-07-19 01:26:31,386 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.2.115 mem_util=84% extra='d1xf3yfvotx28a8loi5jctyi4o3wk0xqi50af789suo'
+2026-07-19 01:26:31,387 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/api/v1/auth/login cpu_util=12% extra='k099hj6rl64q5es3h6sw12iw6eh3rk9x'
+2026-07-19 01:26:34,279 [INFO] ApplicationService: Connection pool status: active=38, idle=13 | caller=DbConnector mem_util=86% extra='myt7s3umzcxeuk4tys9uvtl7swplxv5uoxw30vual'
+2026-07-19 01:26:37,208 [INFO] ApplicationService: Handled request successfully in 31ms | req_id=241eacf4de42 ip=172.16.254.1 endpoint=/api/v1/backup/create caller=WebSer
+2026-07-19 01:26:37,358 [INFO] ApplicationService: Connection pool status: active=36, idle=12 | ip=10.0.0.12 endpoint=/api/v1/system/status caller=WebServiceHelper cpu_util=49%
+2026-07-19 01:26:38,942 [INFO] ApplicationService: Connection pool status: active=19, idle=17 | ip=192.168.1.50 caller=TomcatAccessFilter extra='va4zbvetuxkp3rom0zq620r5uw6p2dd'
+2026-07-19 01:26:50,066 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=172.16.254.1 endpoint=/api/v2/restore caller=ConfigManager extra='w2pt6qcq9wf'
+2026-07-19 01:26:50,302 [INFO] ApplicationService: Connection pool status: active=16, idle=14 | req_id=ff47290de605 endpoint=/metrics cpu_util=45% mem_util=53% extra='l9cgdsy5h'
+2026-07-19 01:28:10,302 [INFO] ApplicationService: Handled request successfully in 18ms | req_id=44e493f9f202 ip=172.16.254.1 endpoint=/api/v2/restore cpu_util=79%       
+2026-07-19 01:28:20,653 [INFO] ApplicationService: Handled request successfully in 58ms | endpoint=/metrics caller=BackupAgent cpu_util=38% extra='gr354dm3q367k4lwptbuaqd'
+2026-07-19 01:28:24,388 [INFO] ApplicationService: Connection pool status: active=28, idle=9 | req_id=8ee9631c37ae cpu_util=46% mem_util=54% extra='ryik5533fejnh8lv48y666toufh'
+2026-07-19 01:28:37,786 [INFO] ApplicationService: Connection pool status: active=26, idle=4 | req_id=a660485f9f59 ip=172.16.254.1 caller=DbConnector cpu_util=80% mem_util=73%
+2026-07-19 01:34:37,786 [INFO] ApplicationService: Handled request successfully in 49ms | req_id=07ce47303d88 endpoint=/metrics extra='famrkzsx94lmk4d5jc9aa13gemdp2hcf0hc'
+2026-07-19 01:42:37,786 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 endpoint=/api/v1/backup/create caller=ConfigManager mem_util=77
+2026-07-19 01:42:41,700 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=172.16.254.1 endpoint=/metrics mem_util=69% extra='tngq1i7sd1hesai4cltn3dh9xl'
+2026-07-19 01:42:43,218 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=dfe3ddcf8a57 caller=WebServiceHelper cpu_util=57% mem_util=67% extra='a5x'
+2026-07-19 01:42:43,269 [INFO] ApplicationService: Handled request successfully in 19ms | caller=DbConnector cpu_util=79% mem_util=43% extra='gyl5m5axtq5mq9wjh49ivv9gh0yd'
+2026-07-19 01:42:57,596 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v2/restore caller=TomcatAccessFilter cpu_util=32% mem_util=52%    
+2026-07-19 01:42:57,896 [INFO] ApplicationService: Cleaned up expired user cache items | ip=10.0.0.12 endpoint=/api/v1/backup/create cpu_util=28% extra='ph5pm2z2rl6g9ois'
+2026-07-19 01:42:58,158 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.1.50 caller=WebServiceHelper cpu_util=53% mem_util=43% extra='00qe4pn'
+2026-07-19 01:44:39,158 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=10.0.0.12 mem_util=90% extra='hozz64i6uqj17sy2zv8jrvhcmlwxko8nmt490bk81trs04o'
+2026-07-19 01:44:53,238 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/backup/create caller=DbConnector extra='07on0miwgs2wke1ckauxixc'
+2026-07-19 01:44:53,498 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=c4de75bdc441 ip=172.16.254.1 extra='k4by81u34j3jt856v0516fyqvxsinpr6q4ayj'
+2026-07-19 01:44:56,527 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=d488ef1e09f0 cpu_util=50% mem_util=69% extra='m2iymsghi00yw9dd2zeicyvvuu0'
+2026-07-19 01:48:34,527 [INFO] ApplicationService: Connection pool status: active=17, idle=18 | req_id=9e4ac1692f8e ip=192.168.2.115 endpoint=/metrics caller=WebServiceHelper m
+2026-07-19 01:48:39,484 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=9f0ee6cd7898 extra='vdu5tkuxippp5rwwu5h194h1yt7ot8ztjc4ydqrpd2j6r5ru4qdos'
+2026-07-19 01:48:53,562 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=47ff444f8381 caller=BackupAgent mem_util=76% extra='80xykskhnn6ykqnb5f7n4'
+2026-07-19 01:48:57,977 [INFO] ApplicationService: Handled request successfully in 51ms | req_id=e343656e0fe8 endpoint=/api/v2/restore caller=DbConnector cpu_util=24%    
+2026-07-19 01:49:02,056 [INFO] ApplicationService: Connection pool status: active=27, idle=25 | ip=10.0.0.12 endpoint=/api/v1/backup/create extra='angfpbvvvjraaqunwp951tbfahh67'
+2026-07-19 01:49:04,601 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=bd1c3e1f4b0e ip=10.0.0.12 caller=WebServiceHelper cpu_util=32% mem_util=8
+2026-07-19 01:49:09,808 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 caller=DbConnector cpu_util=46% extra='o4nteowyg3yjpx0zhnif4967j'
+2026-07-19 01:49:10,946 [INFO] ApplicationService: Connection pool status: active=48, idle=5 | caller=TomcatAccessFilter cpu_util=38% mem_util=84% extra='xh0maik4qnehav54370hh'
+2026-07-19 01:52:27,946 [INFO] ApplicationService: Connection pool status: active=39, idle=16 | req_id=4f8ff9c8d4f9 endpoint=/api/v1/auth/login mem_util=58% extra='rc1003krmp0b'
+2026-07-19 01:52:41,222 [INFO] ApplicationService: Connection pool status: active=9, idle=21 | req_id=afd04676e867 ip=192.168.1.50 endpoint=/metrics cpu_util=28% mem_util=76% 
+2026-07-19 01:52:46,785 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=3378486c1c1c caller=ConfigManager cpu_util=32% mem_util=73% extra='ldpckv'
+2026-07-19 01:52:47,973 [INFO] ApplicationService: Connection pool status: active=8, idle=8 | mem_util=61% extra='h9r0r5hlbz13d6gg5njh1ub2eza2utmxqle3e0na6narf8pir3pexkghkgqs'
+2026-07-19 01:52:50,822 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=04564b1a4892 endpoint=/api/v2/restore cpu_util=50% extra='xofudyrbdxmpjqb'
+2026-07-19 01:52:50,956 [INFO] ApplicationService: Handled request successfully in 15ms | req_id=4f9582170640 ip=192.168.1.50 endpoint=/api/v1/backup/create caller=Backup
+2026-07-19 01:52:52,675 [INFO] ApplicationService: Connection pool status: active=34, idle=21 | cpu_util=85% mem_util=47% extra='gmqr7zu7p4cznqp27ew5gnd4o71ezq6l49diw8vo096x1s7'
+2026-07-19 01:52:57,324 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=82e23c8ab549 endpoint=/api/v1/system/status cpu_util=27% extra='gncsneufd'
+2026-07-19 01:54:40,324 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=b7f09144f92f ip=192.168.2.115 cpu_util=43% extra='ramhqc2ei2x15dgplupq8e8'
+2026-07-19 01:54:40,377 [INFO] ApplicationService: Handled request successfully in 34ms | ip=172.16.254.1 endpoint=/api/v1/backup/create mem_util=58% extra='k5pop2j6dg8rp'
+2026-07-19 01:57:08,377 [INFO] ApplicationService: Cleaned up expired user cache items | ip=172.16.254.1 endpoint=/api/v1/system/status cpu_util=49% mem_util=57%        
+2026-07-19 01:57:08,796 [INFO] ApplicationService: Cleaned up expired user cache items | ip=172.16.254.1 caller=DbConnector mem_util=66% extra='c8c7zzq7zcpp1vbcveinlqs3c'
+2026-07-19 01:57:12,252 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/backup/create caller=WebServiceHelper mem_util=68% extra='3g83k'
+2026-07-19 01:57:12,541 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v2/restore caller=ConfigManager cpu_util=39% extra='p32688svl6cp64'
+2026-07-19 01:57:15,154 [INFO] ApplicationService: Connection pool status: active=50, idle=3 | ip=172.16.254.1 caller=BackupAgent mem_util=48% extra='l0cwmo1j5ide9zxjwqvnx971n'
+2026-07-19 01:57:15,171 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=b6191cc498b7 endpoint=/api/v1/backup/create cpu_util=62% extra='65hhpbyey'
+2026-07-19 01:57:27,311 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 endpoint=/api/v1/system/status cpu_util=18% mem_util=84%        
+2026-07-19 01:57:31,193 [INFO] ApplicationService: Handled request successfully in 27ms | req_id=5dbc4f985f99 ip=192.168.2.115 caller=DbConnector extra='8gqamcyh0ks0f4z9f'
+2026-07-19 01:57:31,468 [INFO] ApplicationService: Handled request successfully in 38ms | endpoint=/metrics cpu_util=71% extra='v82ffdanvla182ajgdl9fsw0hcr4ibhibiwcea2voe'
+2026-07-19 01:57:35,197 [INFO] ApplicationService: Handled request successfully in 9ms | ip=172.16.254.1 endpoint=/api/v2/restore cpu_util=45% mem_util=70% extra='cwux1f'
+2026-07-19 01:57:35,688 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=3e58cea88b0e ip=192.168.1.50 caller=ConfigManager cpu_util=81% extra='u4r'
+2026-07-19 01:57:35,734 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=1be40a6edc3e ip=172.16.254.1 extra='uujvta5pbceq3yz04ygb3bdbhgyajp2g94rr2'
+2026-07-19 01:57:49,379 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=a0be8dc55320 caller=WebServiceHelper cpu_util=19% extra='is92sz3f0a1mrosy'
+2026-07-19 01:57:49,671 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 endpoint=/api/v2/restore mem_util=39% extra='rfacm4l2xck96x5grw'
+2026-07-19 01:57:51,258 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=a3448103e1fb caller=TomcatAccessFilter mem_util=69% extra='9hqd9hv26wknd5'
+2026-07-19 01:57:52,995 [INFO] ApplicationService: Handled request successfully in 51ms | mem_util=87% extra='uuf4ap4o4fepapovj8a8j07eetuquhggmyolmdsh4345pr1jgjqby21hay7v'
+2026-07-19 01:57:58,961 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=0ac92fce2488 caller=BackupAgent extra='7y8mqgp63c4ldyhzvc54mb3c1fjxnn2q61'
+2026-07-19 02:00:57,961 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=10.0.0.12 caller=DbConnector cpu_util=18% mem_util=85% extra='b1d5j1cjy5xit14'
+2026-07-19 02:00:58,383 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=386bf31fd61b ip=192.168.1.50 endpoint=/api/v1/auth/login extra='wlyqecfsu'
+2026-07-19 02:01:03,966 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=eb2243d8b75d ip=10.0.0.12 endpoint=/api/v2/restore caller=DbConnector mem
+2026-07-19 02:02:42,966 [INFO] ApplicationService: Connection pool status: active=29, idle=15 | req_id=083fca4818a1 endpoint=/api/v1/system/status caller=TomcatAccessFilter mem
+2026-07-19 02:02:47,997 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=172.16.254.1 endpoint=/api/v1/system/status caller=ConfigManager mem_util=54%
+2026-07-19 02:02:50,643 [WARN] ApplicationService: Connection pool expansion threshold reached | mem_util=89% extra='ad20kyno7zvq4mid3ivnq72foje84fgwlpvig80vg2y7idbqnb3tfqj0t0do'
+2026-07-19 02:02:50,662 [INFO] ApplicationService: Connection pool status: active=19, idle=11 | req_id=e750e803c594 ip=172.16.254.1 endpoint=/api/v1/system/status caller=Backup
+2026-07-19 02:02:50,999 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 cpu_util=65% extra='53q16uuqnwdh8goy1e5krruv1v6vo4ja3ez6twpi1ps'
+2026-07-19 02:02:52,180 [INFO] ApplicationService: Handled request successfully in 20ms | req_id=a5ae0eb6fdfa endpoint=/api/v1/backup/create caller=ConfigManager mem_util
+2026-07-19 02:02:52,450 [INFO] ApplicationService: Connection pool status: active=47, idle=19 | req_id=bbcf44d8d0d5 ip=10.0.0.12 cpu_util=51% extra='ta62j2tujsyl8vi210sbxiajl8j'
+2026-07-19 02:02:52,696 [INFO] ApplicationService: Connection pool status: active=23, idle=16 | ip=172.16.254.1 caller=TomcatAccessFilter mem_util=70% extra='f8pq9lgfqtdlycd3uh'
+2026-07-19 02:02:58,315 [INFO] ApplicationService: Connection pool status: active=20, idle=9 | req_id=2b22dae8ab4e endpoint=/api/v1/auth/login extra='z2qnuvaygqjhtugp06ssvdkyk'
+2026-07-19 02:02:58,571 [INFO] ApplicationService: Connection pool status: active=41, idle=4 | endpoint=/api/v1/auth/login caller=ConfigManager extra='uh1ikamtdy4fqgz3g5bh3asd'
+2026-07-19 02:06:01,571 [WARN] ApplicationService: Connection pool expansion threshold reached | caller=WebServiceHelper extra='c3mg34ghqcfwmqf259jc4oaae9sgqvykim03984nfw60rcoph'
+2026-07-19 02:06:04,498 [INFO] ApplicationService: Connection pool status: active=41, idle=7 | req_id=5053fb29b7f6 caller=DbConnector mem_util=77% extra='itot4vvqx4tf95bk1jjwv'
+2026-07-19 02:06:04,570 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/system/status caller=BackupAgent mem_util=32% extra='7d9t8jzuzd'
+2026-07-19 02:06:07,554 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=f419ec86db11 caller=BackupAgent cpu_util=23% mem_util=85% extra='97ld6szn'
+2026-07-19 02:06:07,872 [INFO] ApplicationService: Handled request successfully in 17ms | ip=192.168.2.115 endpoint=/api/v1/system/status caller=WebServiceHelper cpu_util
+2026-07-19 02:06:08,240 [INFO] ApplicationService: Connection pool status: active=23, idle=7 | ip=192.168.1.50 endpoint=/api/v1/system/status mem_util=44% extra='6jb6ivhy31xxs'
+2026-07-19 02:06:09,644 [INFO] ApplicationService: Handled request successfully in 47ms | ip=192.168.1.50 cpu_util=67% extra='rw4z97uasmlh5ewoyygv82t7q3yp1pcm2fsu78w49wfb'
+2026-07-19 02:06:20,817 [INFO] ApplicationService: Handled request successfully in 12ms | req_id=1a24b124ed80 caller=ConfigManager extra='lmfx4x5ewis0tngpku59cklozxrnqvev'
+2026-07-19 02:06:20,939 [INFO] ApplicationService: Handled request successfully in 27ms | caller=WebServiceHelper mem_util=75% extra='6oa5k50nd6cnrgwwftzkousixtj9n1ragg9g'
+2026-07-19 02:06:21,246 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=5b4f5f221073 caller=WebServiceHelper cpu_util=58% mem_util=65% extra='ve8'
+2026-07-19 02:06:21,459 [INFO] ApplicationService: Connection pool status: active=46, idle=18 | req_id=b126da3bfd7b ip=172.16.254.1 endpoint=/api/v1/auth/login cpu_util=60% mem
+2026-07-19 02:06:25,830 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=bdbdf86852cf endpoint=/metrics caller=ConfigManager cpu_util=83% mem_util
+2026-07-19 02:06:31,517 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=0be98d3e0a0c endpoint=/metrics caller=DbConnector extra='2okqis31w4xobr0z'
+2026-07-19 02:06:31,597 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 endpoint=/metrics caller=WebServiceHelper cpu_util=75% mem_util=
+2026-07-19 02:18:31,597 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=947a9b80fd52 cpu_util=82% extra='lkuox3yfhuqewouu43prxird2ywmjvas7jomgmhn'
+2026-07-19 02:18:34,386 [INFO] ApplicationService: Handled request successfully in 22ms | req_id=2d495536380d caller=WebServiceHelper mem_util=43% extra='52163k4heof9tyaa'
+2026-07-19 02:21:41,386 [INFO] ApplicationService: Connection pool status: active=22, idle=2 | ip=10.0.0.12 endpoint=/metrics caller=BackupAgent cpu_util=73% extra='izi4miut4i'
+2026-07-19 02:21:41,479 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 caller=TomcatAccessFilter extra='rlufo82g1auedz1ufz6o0648ne7x4u'
+2026-07-19 02:21:41,642 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=9430ef9c9f8d endpoint=/api/v1/auth/login caller=DbConnector cpu_util=83% 
+2026-07-19 02:21:45,034 [INFO] ApplicationService: Connection pool status: active=12, idle=24 | ip=192.168.2.115 endpoint=/api/v2/restore cpu_util=76% extra='hf9b72rv4xupzl9lif'
+2026-07-19 02:21:46,588 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.2.115 cpu_util=24% extra='88wnht02rgxbr11bmt49wuat59qfl89zei98eb5ym94'
+2026-07-19 02:24:38,588 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.1.50 extra='vm8lf3ore6f0hejsv4ehz3jdet9l7nut139dc1qkifod3e7u0qelvxax0'
+2026-07-19 02:24:38,840 [INFO] ApplicationService: Connection pool status: active=28, idle=12 | ip=192.168.2.115 endpoint=/api/v2/restore caller=BackupAgent extra='2upc99436d5e'
+2026-07-19 02:24:44,744 [INFO] ApplicationService: Connection pool status: active=29, idle=21 | ip=172.16.254.1 mem_util=66% extra='9ulyxjoiyww2ludqgzkb21qc570pdqbt3a4lf9nkqool'
+2026-07-19 02:24:46,765 [INFO] ApplicationService: Connection pool status: active=26, idle=19 | req_id=b16f2f9302ef cpu_util=15% extra='1kkvryhy5f9j0qw7p43yoym809smzjtohx29tllv'
+2026-07-19 02:27:25,765 [INFO] ApplicationService: Handled request successfully in 15ms | req_id=8854e21e8834 ip=192.168.2.115 endpoint=/api/v1/backup/create caller=Confi
+2026-07-19 02:27:25,931 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 endpoint=/api/v1/backup/create cpu_util=78% extra='s48k9wccju7a'
+2026-07-19 02:27:28,034 [INFO] ApplicationService: Handled request successfully in 56ms | ip=172.16.254.1 endpoint=/api/v1/system/status extra='uu2w3kjudf6c8xq0cvxh19asq0'
+2026-07-19 02:27:29,241 [INFO] ApplicationService: Cleaned up expired user cache items | caller=WebServiceHelper mem_util=81% extra='5868iqihxe6wd6ud8rxdlorgg5qxbvhbh6g2'
+2026-07-19 02:27:32,995 [INFO] ApplicationService: Cleaned up expired user cache items | ip=10.0.0.12 mem_util=58% extra='d7dsn6k4l0hl6rempbwxk66z4vudsn9fdrn70khjxhyeoxp'
+2026-07-19 02:27:33,218 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=800778a9264a caller=DbConnector cpu_util=71% extra='2c61uivb5fs2z95le5g6w'
+2026-07-19 02:27:33,278 [INFO] ApplicationService: Handled request successfully in 48ms | ip=10.0.0.12 cpu_util=35% mem_util=54% extra='vrf394hsjrbkdow6j0zr9xnls1ho8td39a'
+2026-07-19 02:27:33,530 [INFO] ApplicationService: Handled request successfully in 9ms | req_id=50ebf6e8a04c ip=10.0.0.12 caller=WebServiceHelper cpu_util=42% extra='iqc'
+2026-07-19 02:27:33,730 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=3fb71721260d endpoint=/api/v1/auth/login caller=BackupAgent cpu_util=20% 
+2026-07-19 02:27:44,293 [INFO] ApplicationService: Connection pool status: active=32, idle=9 | req_id=b93576b5cdef ip=172.16.254.1 endpoint=/api/v2/restore caller=BackupAgent 
+2026-07-19 02:27:56,438 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=bae03dcf4553 ip=192.168.1.50 cpu_util=76% mem_util=88% extra='iz557nohi6x'
+2026-07-19 02:27:58,909 [WARN] ApplicationService: Connection pool expansion threshold reached | caller=DbConnector extra='mp04q22t51u57p38x45fbnxagii5o8ruqdygn4xadewy8itrkkdnu5'
+2026-07-19 02:29:26,909 [INFO] ApplicationService: Handled request successfully in 46ms | req_id=707f836803e4 ip=192.168.1.50 endpoint=/api/v1/backup/create cpu_util=45% 
+2026-07-19 02:29:38,118 [INFO] ApplicationService: Handled request successfully in 59ms | req_id=03196f9e217a ip=192.168.1.50 endpoint=/api/v2/restore caller=WebServiceHe
+2026-07-19 02:29:38,255 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=1bc101714915 endpoint=/api/v1/auth/login caller=WebServiceHelper cpu_util
+2026-07-19 02:29:43,795 [INFO] ApplicationService: Connection pool status: active=38, idle=15 | ip=10.0.0.12 endpoint=/metrics mem_util=54% extra='0mvmb1xzj8jzapb5aehsbn3bn93dp'
+2026-07-19 02:29:45,065 [INFO] ApplicationService: Handled request successfully in 29ms | req_id=a2e3c94ab396 endpoint=/api/v1/auth/login cpu_util=72% mem_util=73%       
+2026-07-19 02:29:45,337 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=a41a47d7c376 endpoint=/api/v1/auth/login caller=WebServiceHelper mem_util
+2026-07-19 02:29:47,634 [INFO] ApplicationService: Connection pool status: active=24, idle=20 | ip=192.168.1.50 caller=BackupAgent cpu_util=80% mem_util=56% extra='whtobmvwmpph'
+2026-07-19 02:29:52,003 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 mem_util=41% extra='an8gwzeirsq8tm71l0dpeg6vqgekbmsb1yzarlj1or55'
+2026-07-19 02:29:53,510 [INFO] ApplicationService: Handled request successfully in 18ms | ip=192.168.1.50 endpoint=/api/v1/auth/login cpu_util=64% extra='673kd7q5v5rhwhbs'
+2026-07-19 02:29:53,668 [INFO] ApplicationService: Cleaned up expired user cache items | caller=DbConnector cpu_util=15% extra='qlwa9yapuyfw7w7rsbjcfbvgfl8ig1om9fwow8bna'
+2026-07-19 02:30:06,533 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=4d3a772b1415 caller=WebServiceHelper extra='7yqtzh5bb9jxsggnt9bonrcgoszxo'
+2026-07-19 02:30:06,568 [INFO] ApplicationService: Connection pool status: active=9, idle=23 | req_id=cd8e2986f6b6 ip=192.168.2.115 caller=ConfigManager cpu_util=44% mem_util=
+2026-07-19 02:30:07,568 [INFO] ApplicationService: Handled request successfully in 37ms | caller=DbConnector extra='0eqf2k7ipwqtznaiuhutus9pf4souqgshil91mvgglci2ivnsdh536'
+2026-07-19 02:30:09,178 [INFO] ApplicationService: Connection pool status: active=48, idle=21 | ip=10.0.0.12 endpoint=/api/v1/auth/login cpu_util=23% extra='3pkzl560ljbknb5b70a'
+2026-07-19 02:30:09,339 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=4c2504149754 ip=192.168.2.115 caller=TomcatAccessFilter cpu_util=74% mem_
+2026-07-19 02:30:14,414 [INFO] ApplicationService: Connection pool status: active=48, idle=12 | endpoint=/api/v1/auth/login caller=BackupAgent extra='xkc7xbi72fvw8luwyprkxrowjy'
+2026-07-19 02:32:25,414 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=1cd334335fcf endpoint=/metrics caller=DbConnector mem_util=38% extra='78c'
+2026-07-19 02:32:41,090 [INFO] ApplicationService: Handled request successfully in 41ms | req_id=67ff84ade3f5 endpoint=/api/v1/system/status extra='d9wfdlmakcfeq7ycdtnor8'
+2026-07-19 02:32:43,927 [INFO] ApplicationService: Connection pool status: active=18, idle=25 | req_id=8193728ba07a endpoint=/api/v1/auth/login caller=TomcatAccessFilter mem_ut
+2026-07-19 02:32:44,385 [INFO] ApplicationService: Handled request successfully in 21ms | mem_util=78% extra='z52wf83jh1hcb6f1auwod6mzcyw22x85p6rgttwkwp3exlq1td2c6ilhwu02'
+2026-07-19 02:32:44,674 [INFO] ApplicationService: Handled request successfully in 55ms | req_id=29f47d2b5dae endpoint=/api/v1/system/status caller=DbConnector extra='jl7'
+2026-07-19 02:32:48,016 [INFO] ApplicationService: Connection pool status: active=30, idle=25 | req_id=b1f5e847c3d6 endpoint=/metrics caller=WebServiceHelper cpu_util=25%      
+2026-07-19 02:32:51,396 [INFO] ApplicationService: Connection pool status: active=12, idle=22 | ip=192.168.1.50 endpoint=/api/v1/auth/login cpu_util=68% mem_util=70% extra='kbn'
+2026-07-19 02:33:01,888 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=a703173891b3 endpoint=/metrics mem_util=77% extra='e7xw4l965p6ivzg7fygjm7'
+2026-07-19 02:33:01,989 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=df434f48ba25 ip=10.0.0.12 endpoint=/api/v2/restore cpu_util=36% mem_util=
+2026-07-19 02:33:04,112 [INFO] ApplicationService: Handled request successfully in 46ms | ip=192.168.2.115 endpoint=/api/v1/backup/create caller=DbConnector cpu_util=46% 
+2026-07-19 02:33:08,962 [INFO] ApplicationService: Connection pool status: active=9, idle=23 | req_id=ed17477bdb06 ip=172.16.254.1 endpoint=/api/v2/restore caller=BackupAgent 
+2026-07-19 02:34:54,962 [INFO] ApplicationService: Connection pool status: active=27, idle=12 | req_id=ebab336ec770 endpoint=/api/v2/restore caller=WebServiceHelper cpu_util=22
+2026-07-19 02:34:55,405 [INFO] ApplicationService: Connection pool status: active=17, idle=8 | caller=TomcatAccessFilter extra='xp1qpg8jp4kyejgbpxne7m3srclthqi17sisv0tdzlnb37v'
+2026-07-19 02:34:56,770 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=2794e7c825ac endpoint=/metrics caller=TomcatAccessFilter extra='ftezf9q3i'
+2026-07-19 02:34:56,995 [INFO] ApplicationService: Connection pool status: active=45, idle=6 | req_id=3663323ae258 ip=192.168.1.50 cpu_util=52% extra='796iruh6llasr0abh8ager9p'
+2026-07-19 02:38:36,995 [INFO] ApplicationService: Connection pool status: active=13, idle=16 | ip=172.16.254.1 extra='9k2f7vwwt6ieujf8jko2khdl2nlvpylg15myvakf30cqcj22luipii2a2'
+2026-07-19 02:38:37,133 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=5ad4b6ec4c6f caller=DbConnector cpu_util=50% mem_util=41% extra='q2v113px'
+2026-07-19 02:38:37,172 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/api/v1/system/status cpu_util=20% mem_util=33% extra='nm62h4r4h6mjh8ru'
+2026-07-19 02:38:41,632 [INFO] ApplicationService: Handled request successfully in 32ms | req_id=7cd9680f0c21 endpoint=/api/v2/restore extra='637gcitqp0vf83wjfonh226679mp'
+2026-07-19 02:38:44,687 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=7b1b461e6228 ip=192.168.2.115 endpoint=/api/v1/auth/login caller=BackupAg
+2026-07-19 02:38:44,901 [INFO] ApplicationService: Connection pool status: active=34, idle=8 | ip=10.0.0.12 caller=ConfigManager extra='3btxv4hv4gj2b39368mlt6uk0g280w6ygz2tx2p'
+2026-07-19 02:38:44,953 [INFO] ApplicationService: Connection pool status: active=26, idle=24 | ip=10.0.0.12 mem_util=33% extra='3q3cv2ct10zx45skinxsko6w2ouji9yphs0m25j7psrsoh1'
+2026-07-19 02:38:48,041 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.2.115 cpu_util=21% extra='f09v23dzebw7z6x0z7dkqrrzuu8gzbrwrd7u57aq865'
+2026-07-19 02:52:48,041 [INFO] ApplicationService: Connection pool status: active=35, idle=24 | ip=10.0.0.12 caller=DbConnector extra='famail56mbo7gldmdiz839zvekd0xirc1iexpn0he'
+2026-07-19 02:52:48,097 [INFO] ApplicationService: Handled request successfully in 57ms | req_id=41abdde970bb ip=192.168.2.115 caller=DbConnector cpu_util=16% extra='7l2f'
+2026-07-19 02:53:00,648 [INFO] ApplicationService: Connection pool status: active=12, idle=21 | req_id=d36f6bb484ae ip=10.0.0.12 endpoint=/api/v1/system/status cpu_util=39% mem
+2026-07-19 02:53:00,679 [INFO] ApplicationService: Handled request successfully in 53ms | req_id=7cbc1530be3a ip=192.168.1.50 cpu_util=64% mem_util=43% extra='ocjada69gyo'
+2026-07-19 02:56:45,679 [INFO] ApplicationService: Connection pool status: active=26, idle=15 | req_id=101fc12335e7 caller=WebServiceHelper cpu_util=34% extra='jzx3w9ocfxs4vf5q'
+2026-07-19 02:56:45,950 [INFO] ApplicationService: Handled request successfully in 56ms | ip=172.16.254.1 caller=ConfigManager mem_util=75% extra='jti3pwtui4323kuesg8iqbc'
+2026-07-19 02:56:58,064 [INFO] ApplicationService: Connection pool status: active=35, idle=17 | req_id=e472e1be2000 endpoint=/api/v2/restore extra='m57t4fz89ekt3l90861cm4twcjc5'
+2026-07-19 02:56:58,394 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=0d3ca1a6a523 ip=172.16.254.1 caller=ConfigManager extra='9zzuzeyk0ijsafzx'
+2026-07-19 02:57:00,372 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/api/v2/restore caller=BackupAgent extra='zc9fxbfkqeaa49jv522z93f3ry9w8'
+2026-07-19 02:59:39,372 [INFO] ApplicationService: Handled request successfully in 43ms | req_id=72a1c4d4afd0 endpoint=/metrics cpu_util=16% mem_util=79% extra='kvxhbghmx'
+2026-07-19 02:59:50,381 [INFO] ApplicationService: Connection pool status: active=27, idle=9 | req_id=b5e543d5243a ip=192.168.1.50 endpoint=/metrics mem_util=60% extra='wkb9gd'
+2026-07-19 02:59:50,717 [INFO] ApplicationService: Connection pool status: active=7, idle=5 | ip=10.0.0.12 cpu_util=22% mem_util=66% extra='lyjba1xjyfkv6txbta029zu91hepihlw1m'
+2026-07-19 02:59:54,406 [INFO] ApplicationService: Handled request successfully in 59ms | ip=172.16.254.1 endpoint=/api/v1/auth/login extra='s2noq6k4xzxwdslv8d2a588qw4eap'
+2026-07-19 03:14:54,406 [INFO] ApplicationService: Handled request successfully in 24ms | req_id=3980b1b4ae7e ip=172.16.254.1 caller=ConfigManager cpu_util=61% extra='6vu'
+2026-07-19 03:14:54,756 [INFO] ApplicationService: Connection pool status: active=8, idle=23 | endpoint=/api/v1/system/status caller=WebServiceHelper mem_util=90% extra='b3op8'
+2026-07-19 03:14:56,579 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=83a090ad5ec5 endpoint=/metrics caller=TomcatAccessFilter cpu_util=12% mem
+2026-07-19 03:15:10,026 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=9eb9443d13cd caller=DbConnector mem_util=36% extra='qy43gzwumwqgdgzvbxdzg'
+2026-07-19 03:15:10,367 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=4926f3e6683d ip=192.168.2.115 endpoint=/api/v1/system/status caller=Backu
+2026-07-19 03:15:11,948 [INFO] ApplicationService: Connection pool status: active=11, idle=23 | req_id=0bf7891c412d ip=10.0.0.12 extra='wg0ehhvfm46k7prpwjolawknyqddx3tmelf5a0wc'
+2026-07-19 03:15:12,332 [INFO] ApplicationService: Connection pool status: active=46, idle=5 | req_id=a3ed18252718 extra='x10ls6ryty5r8wvz72imc57wbrz5jber81axeepkier8e1ez6xwa9'
+2026-07-19 03:15:16,880 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=9df896c9ba71 ip=192.168.2.115 endpoint=/api/v1/backup/create cpu_util=35%
+2026-07-19 03:15:17,258 [INFO] ApplicationService: Connection pool status: active=5, idle=13 | caller=BackupAgent cpu_util=25% extra='5qtu8143b6kl9ozw694uang9q54tsmtt8f26g1hsr'
+2026-07-19 03:15:18,578 [INFO] ApplicationService: Handled request successfully in 20ms | req_id=7430e1537011 ip=172.16.254.1 cpu_util=62% mem_util=79% extra='5p2euk4nhiu'
+2026-07-19 03:15:24,123 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=2453c19dd03d endpoint=/api/v1/system/status caller=DbConnector extra='bny'
+2026-07-19 03:15:24,206 [INFO] ApplicationService: Cleaned up expired user cache items | caller=ConfigManager mem_util=51% extra='9yd31jbttaqw26c3qv3uqgl7j06or05w5f6rcqy'
+2026-07-19 03:15:24,378 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=c4c01a1e1b3e ip=172.16.254.1 endpoint=/api/v1/backup/create mem_util=32% 
+2026-07-19 03:17:02,378 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=81491b44e5e2 cpu_util=14% mem_util=68% extra='3uluw8r2kppo10p1cc55b17n558'
+2026-07-19 03:17:05,609 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 extra='b6neik18339047ie1nmx68se95mjvd5mc8zt3mi2xlm6kgnvnmbjprlm2'
+2026-07-19 03:17:07,335 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=37ad46bec211 cpu_util=38% extra='ub661vrqg4q5bur1un1ibjkhowmh2eae31w0klo6'
+2026-07-19 03:17:09,356 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=a4373324bb41 ip=192.168.2.115 caller=DbConnector mem_util=39% extra='nmng'
+2026-07-19 03:17:09,565 [INFO] ApplicationService: Handled request successfully in 28ms | ip=10.0.0.12 endpoint=/api/v1/system/status cpu_util=80% mem_util=35% extra='7m2'
+2026-07-19 03:17:14,818 [INFO] ApplicationService: Connection pool status: active=48, idle=21 | req_id=a39f7a38bb47 endpoint=/api/v2/restore cpu_util=10% mem_util=75% extra='fq'
+2026-07-19 03:17:15,240 [INFO] ApplicationService: Connection pool status: active=36, idle=9 | ip=172.16.254.1 endpoint=/api/v1/auth/login extra='aja99hqrc1hfi3fi265ye40qt9t0a'
+2026-07-19 03:17:20,140 [INFO] ApplicationService: Handled request successfully in 26ms | req_id=cd16c4eca953 ip=10.0.0.12 caller=BackupAgent mem_util=74% extra='resnxa67'
+2026-07-19 03:17:23,757 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=ed786fd0399c endpoint=/api/v1/backup/create cpu_util=60% mem_util=46%    
+2026-07-19 03:17:25,039 [INFO] ApplicationService: Connection pool status: active=37, idle=17 | ip=10.0.0.12 mem_util=87% extra='ug2vobyux0cxoli3hw2p2o4rf5rrza7c0u4uapztmfgcc13'
+2026-07-19 03:17:28,677 [INFO] ApplicationService: Cleaned up expired user cache items | ip=172.16.254.1 caller=BackupAgent mem_util=80% extra='iq9pwta9mqthgx6w20tks38nh'
+2026-07-19 03:17:29,144 [INFO] ApplicationService: Handled request successfully in 58ms | endpoint=/api/v1/auth/login caller=DbConnector cpu_util=73% extra='ocdvjixhoyx8o'
+2026-07-19 03:17:29,604 [INFO] ApplicationService: Handled request successfully in 34ms | req_id=f338ac8978ad ip=192.168.1.50 mem_util=34% extra='nys6vxuhc0kz930k5fanwki6'
+2026-07-19 03:17:30,087 [WARN] ApplicationService: Connection pool expansion threshold reached | cpu_util=71% extra='g8kx8i4t3updu4l22jz9vtbyjre1gdax3czxtqycf5d0oi1l9to4nwjitm4j'
+2026-07-19 03:17:32,097 [INFO] ApplicationService: Cleaned up expired user cache items | cpu_util=49% extra='2bu3li4hwlxt3xgrp3kgsl3n23s3k97yukihbdfwba7elpvgc903ibmf5atr'
+2026-07-19 03:17:43,462 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 endpoint=/api/v2/restore caller=BackupAgent cpu_util=79%        
+2026-07-19 03:17:43,590 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/system/status mem_util=82% extra='1gs4uaz7uhgnhrwad4kozarbqvh4v'
+2026-07-19 03:17:54,820 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.1.50 caller=BackupAgent cpu_util=22% mem_util=66% extra='ch9fuqdvae1z'
+2026-07-19 03:17:56,046 [INFO] ApplicationService: Connection pool status: active=25, idle=14 | req_id=d7634beac85e endpoint=/api/v1/auth/login caller=WebServiceHelper extra='v'
+2026-07-19 03:18:07,552 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=BackupAgent cpu_util=38% mem_
+2026-07-19 03:18:07,623 [INFO] ApplicationService: Handled request successfully in 27ms | ip=192.168.1.50 cpu_util=14% extra='3eh8fjnfweun5b9uounptna70ckml5vsk9up2xcn8p8p'
+2026-07-19 03:18:22,838 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=8e08619c0a56 ip=172.16.254.1 endpoint=/api/v1/backup/create caller=Config
+2026-07-19 03:18:26,968 [INFO] ApplicationService: Handled request successfully in 44ms | req_id=348ec13c2663 ip=192.168.2.115 endpoint=/metrics caller=BackupAgent       
+2026-07-19 03:18:27,349 [INFO] ApplicationService: Connection pool status: active=29, idle=21 | caller=WebServiceHelper cpu_util=58% extra='86f4iqfifratm317w72t0sm8ezglhp6kvau4'
+2026-07-19 03:18:31,742 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=bbeb96b7f44f ip=172.16.254.1 caller=DbConnector mem_util=50% extra='l6ws6'
+2026-07-19 03:22:16,742 [WARN] ApplicationService: Connection pool expansion threshold reached | caller=ConfigManager cpu_util=69% extra='opisat7o070gjd01splip2nnnds8tdpq3i1uhu8'
+2026-07-19 03:24:52,742 [INFO] ApplicationService: Handled request successfully in 12ms | ip=192.168.1.50 endpoint=/api/v1/system/status caller=BackupAgent cpu_util=20%  
+2026-07-19 03:25:08,286 [INFO] ApplicationService: Handled request successfully in 54ms | req_id=3e8e15d23859 ip=172.16.254.1 caller=ConfigManager cpu_util=82% extra='m2u'
+2026-07-19 03:25:08,503 [INFO] ApplicationService: Handled request successfully in 18ms | req_id=80e2de4ec53c cpu_util=76% mem_util=32% extra='ubuoqjv3rw24fxq9n2t8uy0a5lm'
+2026-07-19 03:25:10,665 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=372db91f4bda ip=172.16.254.1 endpoint=/api/v1/system/status caller=Config
+2026-07-19 03:25:10,710 [INFO] ApplicationService: Handled request successfully in 35ms | ip=192.168.2.115 endpoint=/api/v1/system/status cpu_util=27% mem_util=54%       
+2026-07-19 03:25:14,378 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.1.50 endpoint=/api/v2/restore cpu_util=40% extra='yv3c8vze9chy59vd40k'
+2026-07-19 03:25:16,955 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=10.0.0.12 endpoint=/api/v1/auth/login caller=BackupAgent extra='4jl8xa3ds3bqc'
+2026-07-19 03:25:17,443 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=43194e1af564 extra='v4y8w1xnuv5ufxv27ahm9xn70egg77rs2g3z9a5y9kikrg8rn476l'
+2026-07-19 03:25:17,735 [INFO] ApplicationService: Connection pool status: active=26, idle=4 | req_id=a52cd876d5c2 caller=WebServiceHelper extra='oy1vimogqmrt7w3nhwnaxsyxnth36'
+2026-07-19 03:25:18,088 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=baa03df77c88 endpoint=/api/v1/auth/login caller=ConfigManager mem_util=37
+2026-07-19 03:25:18,475 [INFO] ApplicationService: Handled request successfully in 55ms | endpoint=/api/v1/auth/login mem_util=84% extra='0rp1buc5gbucfra95fiz3666dnxj0sq4'
+2026-07-19 03:25:18,754 [INFO] ApplicationService: Connection pool status: active=26, idle=25 | req_id=8afd92ea0cd4 caller=DbConnector cpu_util=36% extra='1vfq6obmy881lfh1wphjx'
+2026-07-19 03:28:45,754 [INFO] ApplicationService: Connection pool status: active=17, idle=7 | endpoint=/api/v1/auth/login caller=ConfigManager mem_util=64% extra='pz5e149ysq5'
+2026-07-19 03:28:46,082 [INFO] ApplicationService: Handled request successfully in 42ms | req_id=3c6ce9cb4b78 ip=192.168.1.50 endpoint=/api/v1/auth/login caller=TomcatAcc
+2026-07-19 03:28:46,458 [INFO] ApplicationService: Connection pool status: active=15, idle=4 | req_id=114be01914d2 endpoint=/api/v1/system/status caller=DbConnector mem_util=6
+2026-07-19 03:28:59,991 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=fed8ba06b5f8 ip=192.168.2.115 endpoint=/metrics cpu_util=53% extra='rrlq8'
+2026-07-19 03:29:00,249 [INFO] ApplicationService: Connection pool status: active=11, idle=9 | caller=TomcatAccessFilter extra='67zbfsf53g16my42swxkhvh43gs6x47eqszpacr4cmbbus3'
+2026-07-19 03:29:10,375 [INFO] ApplicationService: Connection pool status: active=14, idle=15 | endpoint=/metrics mem_util=89% extra='nhh041q43m3z1qg2nec4tgmozx9epqtpglgqc6o0t2'
+2026-07-19 03:29:10,618 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/metrics cpu_util=72% mem_util=74% extra='45c3ce2ug9h1wujqttvji0rgcudfu'
+2026-07-19 03:29:15,051 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v2/restore caller=WebServiceHelper cpu_util=52% extra='w0zem32x0d2'
+2026-07-19 03:29:15,492 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=c9b4b201ff25 extra='fisutc2xkiu5xrtdiupby7j63ahehrrkb5t8coav7zp2zecl40yp8'
+2026-07-19 03:42:15,492 [INFO] ApplicationService: Handled request successfully in 52ms | req_id=88d82ae0d381 ip=10.0.0.12 caller=ConfigManager cpu_util=75% extra='tbyiwg'
+2026-07-19 03:42:15,642 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=e3f3041ba9ce ip=192.168.2.115 caller=DbConnector cpu_util=28% extra='3zo2'
+2026-07-19 03:42:17,035 [WARN] ApplicationService: Connection pool expansion threshold reached | cpu_util=33% extra='nhhi2cd1xn495ullel4x4jey5yuknt72xc0xgncas2akm90j51y8lo1wujt1'
+2026-07-19 03:42:30,149 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=9695d6579ca0 endpoint=/api/v1/system/status extra='bhtik0edbpbtl44kn2d0k7'
+2026-07-19 03:42:30,171 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/metrics caller=WebServiceHelper mem_util=45% extra='nticwvr2xeh37itq78'
+2026-07-19 03:42:33,465 [INFO] ApplicationService: Connection pool status: active=5, idle=5 | caller=WebServiceHelper extra='r71bagicyn1mw40rll4cwo0ulbvqrlnbsg6sdqq19bzqam2k0'
+2026-07-19 03:42:39,360 [INFO] ApplicationService: Connection pool status: active=34, idle=21 | req_id=b3cdcfc26515 mem_util=56% extra='59t2seorp3og6dih0oq474dk1a45jx5h9zbjl3u8'
+2026-07-19 03:42:51,711 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=a29ccf62a158 ip=172.16.254.1 endpoint=/api/v1/system/status caller=DbConn
+2026-07-19 03:42:51,991 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=1f98f4f34a75 extra='inwot8kjnxcy3zc5j7xylyxoa9rxcpjecv09y79o15zvj3rwbevfd'
+2026-07-19 03:42:52,398 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=10.0.0.12 caller=TomcatAccessFilter mem_util=34% extra='bpvg0ezjs1dct16p9jyor'
+2026-07-19 03:42:52,453 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=59c7bd6a035a caller=DbConnector cpu_util=82% mem_util=60% extra='o4yhxthg'
+2026-07-19 03:42:53,860 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=89be0bab679e ip=192.168.1.50 endpoint=/metrics caller=DbConnector cpu_uti
+2026-07-19 03:43:06,266 [INFO] ApplicationService: Connection pool status: active=32, idle=20 | ip=192.168.2.115 endpoint=/api/v2/restore caller=BackupAgent extra='irwz6x0wol6g'
+2026-07-19 03:43:08,118 [INFO] ApplicationService: Connection pool status: active=24, idle=20 | cpu_util=13% extra='ni7z6i5r0qen8omhpyrgnr48nlsumnvpdt7ee8l90kmvkcjvq2yhcag1dj9o'
+2026-07-19 03:43:22,186 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=86a02764b308 ip=172.16.254.1 cpu_util=24% extra='dad4x9hlrz0yfsn2sn3roqnv'
+2026-07-19 03:43:22,363 [INFO] ApplicationService: Handled request successfully in 24ms | trace_id=e8ddd89d074d4f1d extra='prfi31ry3468yx4c0cqrs66irz0wpy0mhnykq7gxv59xs7z'
+2026-07-19 03:43:22,837 [INFO] ApplicationService: Cleaned up expired user cache items | caller=BackupAgent extra='myy4hgc2wfu5a8gobivi76r96z3jypxih2ey09r7x36hlyopfm5g9o'
+2026-07-19 03:43:26,524 [INFO] ApplicationService: Connection pool status: active=47, idle=17 | req_id=53d8928e8fd0 caller=DbConnector cpu_util=65% extra='yx2vw8agnyv5ufuz30pio'
+2026-07-19 03:46:24,524 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=705a366a0997 caller=TomcatAccessFilter extra='1rwi58vfgwvu4mr82fwj9z5h36w'
+2026-07-19 03:46:24,943 [INFO] ApplicationService: Handled request successfully in 30ms | req_id=c15f134d5951 caller=TomcatAccessFilter cpu_util=32% extra='838vgi8nx18822'
+2026-07-19 03:48:20,943 [INFO] ApplicationService: Handled request successfully in 12ms | req_id=0590a5358405 endpoint=/api/v1/auth/login extra='w182n2lzywloltopv1gcomsvd'
+2026-07-19 03:48:21,084 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.2.115 endpoint=/metrics extra='mqkzopron5n2o3260l68dnyjmzc6w6okpafpd1'
+2026-07-19 03:48:37,003 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=10.0.0.12 endpoint=/metrics caller=BackupAgent extra='b9tjsa364mdr81dx370pwzz'
+2026-07-19 03:48:40,778 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=cdc87b9177b1 caller=TomcatAccessFilter cpu_util=18% mem_util=60% extra='y'
+2026-07-19 03:51:47,778 [INFO] ApplicationService: Handled request successfully in 44ms | ip=192.168.2.115 caller=ConfigManager cpu_util=45% extra='585r9r565tgugmhhwji2b5'
+2026-07-19 03:51:47,882 [INFO] ApplicationService: Connection pool status: active=31, idle=10 | req_id=1165d3c2a20c ip=172.16.254.1 caller=BackupAgent extra='90przswphuifni85uf'
+2026-07-19 03:57:47,882 [INFO] ApplicationService: Handled request successfully in 54ms | ip=10.0.0.12 cpu_util=78% extra='e41br6yjmu3ta7v0p50fup5um2imb6twtvbm9pswj55e02y'
+2026-07-19 03:57:59,260 [INFO] ApplicationService: Connection pool status: active=41, idle=14 | caller=TomcatAccessFilter extra='mo73g47sxij11ehxcuy1ofe54yt0oztjm0mb3paqxwalxl7'
+2026-07-19 03:58:00,442 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/metrics caller=TomcatAccessFilter cpu_util=78% mem_util=61% extra='dqx'
+2026-07-19 03:58:04,324 [INFO] ApplicationService: Connection pool status: active=8, idle=11 | req_id=babfb8b923d0 endpoint=/api/v1/auth/login cpu_util=76% extra='mgk3csrcpsxn'
+2026-07-19 03:58:05,605 [INFO] ApplicationService: Connection pool status: active=20, idle=4 | ip=192.168.1.50 caller=TomcatAccessFilter extra='0uy0f9au34pasii93cfgnp2dkfkbx2d'
+2026-07-19 03:58:06,878 [INFO] ApplicationService: Cleaned up expired user cache items | caller=WebServiceHelper mem_util=69% extra='7e7v3dli0r9gsdwf4agpewua94q5jvlxwe0p'
+2026-07-19 03:58:07,331 [INFO] ApplicationService: Handled request successfully in 60ms | caller=ConfigManager cpu_util=44% extra='ab170wq9nine8qdf4mnghh1rqwm398n7kfo60a7'
+2026-07-19 04:01:06,331 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=1c6521fe430e ip=192.168.2.115 endpoint=/api/v1/system/status extra='5r8m9'
+2026-07-19 04:01:08,202 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=1d6326f746c0 ip=192.168.2.115 endpoint=/api/v1/system/status cpu_util=11%
+2026-07-19 04:01:08,544 [INFO] ApplicationService: Connection pool status: active=21, idle=12 | ip=192.168.1.50 endpoint=/api/v1/auth/login mem_util=50% extra='awmtvujt9k16ybcy'
+2026-07-19 04:01:09,000 [INFO] ApplicationService: Cleaned up expired user cache items | ip=10.0.0.12 mem_util=82% extra='tg5s7n4fd0aevg0ok1wp82skmhw5arn0tcxtd80nvm9md9q'
+2026-07-19 04:15:09,000 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=f9c6f4edcad4 ip=192.168.2.115 endpoint=/api/v2/restore cpu_util=58% mem_u
+2026-07-19 04:15:10,002 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=35dc5d0969c7 ip=172.16.254.1 endpoint=/api/v1/auth/login caller=BackupAge
+2026-07-19 04:15:11,550 [INFO] ApplicationService: Cleaned up expired user cache items | mem_util=36% extra='81s415r7ui9y1z7ufru4j0fneauleo299236yyng058drsz5xaf7e4m5ufrz'
+2026-07-19 04:15:26,710 [WARN] ApplicationService: Connection pool expansion threshold reached | trace_id=0f5d2adafe9a4536 extra='mfcb2knm1s3f8ozxo3gm43o0q09f3uux8j9cv7tnn0dzmbe'
+2026-07-19 04:15:26,983 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/metrics caller=ConfigManager mem_util=59% extra='qks6ume4eopuuf0qt0j52'
+2026-07-19 04:15:27,289 [INFO] ApplicationService: Connection pool status: active=47, idle=20 | req_id=91256caecc7d ip=10.0.0.12 endpoint=/api/v1/backup/create caller=WebServic
+2026-07-19 04:15:27,637 [INFO] ApplicationService: Connection pool status: active=49, idle=25 | ip=10.0.0.12 extra='sj4ajvcqryguqtase7834uqw9mki8ugybl5s92ws7ghf1qonwo0wtstpxcgh'
+2026-07-19 04:17:58,637 [WARN] ApplicationService: Connection pool expansion threshold reached | caller=DbConnector mem_util=33% extra='n8w5ozlw498hxuxgsc3imwaca14kakj4q6cfplo4u'
+2026-07-19 04:17:58,947 [INFO] ApplicationService: Connection pool status: active=41, idle=17 | req_id=a3cabcd6329e endpoint=/api/v1/system/status cpu_util=67% extra='2u2e32kfd'
+2026-07-19 04:19:07,947 [INFO] ApplicationService: Connection pool status: active=9, idle=22 | ip=10.0.0.12 endpoint=/api/v2/restore extra='ff0g9j470cn95rjc6y8invg9qq6dy3lhrtx'
+2026-07-19 04:19:08,218 [INFO] ApplicationService: Connection pool status: active=29, idle=25 | endpoint=/api/v1/backup/create caller=WebServiceHelper cpu_util=64% mem_util=52%
+2026-07-19 04:19:08,413 [INFO] ApplicationService: Cleaned up expired user cache items | mem_util=57% extra='e8b5cn3ymt3qfh98ujj6h05jw1y0m96ebddp5x4c4kneltlhyoydbt3ic0wz'
+2026-07-19 04:19:08,501 [INFO] ApplicationService: Handled request successfully in 15ms | ip=172.16.254.1 cpu_util=36% mem_util=42% extra='bc1y6bhacpskr3ynm31qtz1odi1fh31'
+2026-07-19 04:19:19,434 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=1d4281042518 ip=10.0.0.12 caller=TomcatAccessFilter mem_util=31% extra='t'
+2026-07-19 04:19:19,661 [INFO] ApplicationService: Handled request successfully in 46ms | req_id=7b50b6ea014c ip=192.168.2.115 cpu_util=85% mem_util=85% extra='q3sai0bvod'
+2026-07-19 04:19:22,517 [INFO] ApplicationService: Connection pool status: active=6, idle=5 | endpoint=/api/v1/backup/create caller=WebServiceHelper extra='o2084bp533d3cpdxtu'
+2026-07-19 04:19:33,053 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=4576eeb2604e endpoint=/api/v1/auth/login caller=DbConnector cpu_util=42% 
+2026-07-19 04:19:35,357 [INFO] ApplicationService: Handled request successfully in 43ms | ip=172.16.254.1 endpoint=/api/v2/restore caller=BackupAgent cpu_util=67%        
+2026-07-19 04:19:38,049 [INFO] ApplicationService: Handled request successfully in 7ms | req_id=9957102e225b caller=TomcatAccessFilter mem_util=68% extra='6pha9xxl4ir068'
+2026-07-19 04:19:48,769 [INFO] ApplicationService: Connection pool status: active=10, idle=6 | req_id=3d5e09bcc7e2 ip=192.168.2.115 endpoint=/api/v2/restore mem_util=41%      
+2026-07-19 04:19:59,136 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=10.0.0.12 endpoint=/metrics caller=DbConnector cpu_util=62% mem_util=76%     
+2026-07-19 04:19:59,259 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/system/status cpu_util=15% mem_util=30% extra='arglr8qwh3pxb343'
+2026-07-19 04:23:22,259 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=b398471392e4 caller=TomcatAccessFilter mem_util=45% extra='hh7in6h6rz1by9'
+2026-07-19 04:23:22,507 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=985296207890 endpoint=/metrics cpu_util=31% extra='67hsdduowloqn2oawu0nwr'
+2026-07-19 04:23:22,602 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 endpoint=/api/v1/backup/create caller=ConfigManager cpu_util=81
+2026-07-19 04:23:28,249 [INFO] ApplicationService: Connection pool status: active=44, idle=22 | req_id=6ac1a666c9b9 endpoint=/api/v1/auth/login extra='kmscjfkydn24dqhlbv8ghfl6q'
+2026-07-19 04:23:39,717 [INFO] ApplicationService: Connection pool status: active=48, idle=17 | endpoint=/api/v1/backup/create caller=WebServiceHelper mem_util=86% extra='boiyj'
+2026-07-19 04:26:01,717 [INFO] ApplicationService: Connection pool status: active=27, idle=2 | endpoint=/api/v1/auth/login extra='oxh1chxxuatto2avwsg9j7f5yifjhc5d1q9uws0ek5ig1'
+2026-07-19 04:26:12,606 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=ac0e84761751 caller=ConfigManager extra='pnycvv9qhy7x4zs8dgcxqzudmeeu3fni'
+2026-07-19 04:26:13,782 [INFO] ApplicationService: Handled request successfully in 10ms | ip=192.168.2.115 endpoint=/metrics caller=ConfigManager extra='nwgwsrc5z8nxf27yw'
+2026-07-19 04:28:20,782 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=f3c1ac21fe81 ip=10.0.0.12 endpoint=/api/v2/restore cpu_util=67% extra='4d'
+2026-07-19 04:28:24,711 [INFO] ApplicationService: Connection pool status: active=25, idle=18 | ip=192.168.2.115 endpoint=/api/v1/system/status extra='4lba0alqkjmyr5wguncgakalq'
+2026-07-19 04:28:25,084 [INFO] ApplicationService: Cleaned up expired user cache items | caller=TomcatAccessFilter cpu_util=38% extra='2qal78h14kxcpe5xfmg32pv8lrif06emlp'
+2026-07-19 04:28:28,588 [INFO] ApplicationService: Handled request successfully in 34ms | endpoint=/api/v1/system/status mem_util=84% extra='c981n7alesdacj6ekw3870zkvv9h6'
+2026-07-19 04:28:30,169 [WARN] ApplicationService: Connection pool expansion threshold reached | cpu_util=48% extra='35lrhzve4gw952i94b10hunpw0e5bdcafr4vjt1eirn6n3npd8txw6mrgu37'
+2026-07-19 04:28:30,438 [WARN] ApplicationService: Connection pool expansion threshold reached | caller=DbConnector extra='snct79dal6wnk3uxdy6ypi4x5iq9bbaf9kmewov3uzco2b84grrwzf'
+2026-07-19 04:28:35,565 [INFO] ApplicationService: Connection pool status: active=46, idle=17 | endpoint=/api/v1/system/status cpu_util=83% extra='d90nfnan1ctb9yu0ef4xxllayl08h'
+2026-07-19 04:31:38,565 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=c385bd423d8e endpoint=/api/v2/restore caller=WebServiceHelper cpu_util=72
+2026-07-19 04:31:42,254 [INFO] ApplicationService: Connection pool status: active=43, idle=11 | req_id=f618af6eb91b endpoint=/api/v2/restore extra='knvg6oqz8iukvjh0eabe1co0oiva'
+2026-07-19 04:31:42,599 [INFO] ApplicationService: Handled request successfully in 3ms | req_id=f7a114a3ca88 ip=10.0.0.12 endpoint=/api/v1/system/status caller=DbConnect
+2026-07-19 04:31:46,611 [INFO] ApplicationService: Handled request successfully in 12ms | ip=192.168.2.115 caller=ConfigManager extra='cd1m3bpji1q34o4sdzh1zf3c0a8v571kinu'
+2026-07-19 04:31:50,565 [INFO] ApplicationService: Cleaned up expired user cache items | caller=WebServiceHelper cpu_util=54% mem_util=84% extra='yg6z66avfwc4lrs8vwf7p89'
+2026-07-19 04:31:50,642 [INFO] ApplicationService: Handled request successfully in 18ms | req_id=015d2d88d5d2 ip=172.16.254.1 endpoint=/api/v1/backup/create cpu_util=42% 
+2026-07-19 04:31:51,130 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/backup/create cpu_util=23% mem_util=73% extra='kr54gi16a2ams8yh'
+2026-07-19 04:31:55,651 [INFO] ApplicationService: Handled request successfully in 37ms | ip=192.168.1.50 extra='7kn0h4yd0xyn932289x4vzcp9kwjbd0ma4dpzyyqr2cvxx3p8xve1feoa'
+2026-07-19 04:32:11,394 [WARN] ApplicationService: Connection pool expansion threshold reached | caller=WebServiceHelper mem_util=75% extra='bubt6jgt5dwqov8zs3ufuwllwifo3iyhrsxj'
+2026-07-19 04:33:58,394 [INFO] ApplicationService: Handled request successfully in 38ms | ip=192.168.2.115 endpoint=/api/v1/auth/login caller=BackupAgent cpu_util=49%    
+2026-07-19 04:34:03,266 [INFO] ApplicationService: Connection pool status: active=15, idle=19 | req_id=6e3ebf5133db endpoint=/api/v1/backup/create extra='nhx6l3y4l4qbhwg563zdq6'
+2026-07-19 04:34:03,615 [INFO] ApplicationService: Connection pool status: active=12, idle=22 | req_id=d64fbf4276d4 caller=WebServiceHelper cpu_util=57% mem_util=51% extra='q1j'
+2026-07-19 04:34:06,254 [INFO] ApplicationService: Connection pool status: active=7, idle=25 | ip=10.0.0.12 caller=WebServiceHelper extra='fnihf546wwhhuji1kbhywbytv5682izfa6ey'
+2026-07-19 04:34:06,704 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=e8a3226c9973 ip=172.16.254.1 caller=BackupAgent mem_util=38% extra='k45rm'
+2026-07-19 04:34:16,926 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 mem_util=87% extra='e5302sfjmopp66b3as0xcfzubxplhvegfcoittgokl0'
+2026-07-19 04:34:17,084 [INFO] ApplicationService: Handled request successfully in 59ms | req_id=9451f1de50eb endpoint=/api/v1/auth/login mem_util=37% extra='sivul8ngraam'
+2026-07-19 04:34:28,511 [INFO] ApplicationService: Handled request successfully in 36ms | req_id=41fe1ce25a00 caller=BackupAgent cpu_util=76% mem_util=50% extra='b5bsdlce'
+2026-07-19 04:37:53,511 [INFO] ApplicationService: Connection pool status: active=6, idle=2 | ip=172.16.254.1 endpoint=/api/v2/restore cpu_util=24% mem_util=46% extra='2meehk'
+2026-07-19 04:37:57,029 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=491a91fc600a cpu_util=43% mem_util=62% extra='ggeup1smbrufqxloyvqw1yw2a9f'
+2026-07-19 04:37:57,367 [INFO] ApplicationService: Handled request successfully in 10ms | ip=192.168.1.50 caller=ConfigManager cpu_util=10% mem_util=81% extra='61lfgcz9qw'
+2026-07-19 04:46:57,367 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=62df43393fa1 caller=ConfigManager cpu_util=17% mem_util=84% extra='0pi7xm'
+2026-07-19 04:47:03,163 [INFO] ApplicationService: Cleaned up expired user cache items | cpu_util=10% extra='wlcue2lbwb1b4tpw74ypm08ivyd3ru3147vcqyo7mfup52xmqu5pyw6w3cwp'
+2026-07-19 04:48:37,163 [INFO] ApplicationService: Connection pool status: active=19, idle=19 | req_id=676b250e18e6 ip=10.0.0.12 endpoint=/api/v2/restore mem_util=41% extra='2i'
+2026-07-19 04:48:37,506 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=86467ab7fc6e endpoint=/metrics mem_util=79% extra='0z1ei3jr7n96av35a8hck0'
+2026-07-19 04:48:37,912 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=7a3f7e735cd7 ip=192.168.2.115 cpu_util=34% mem_util=88% extra='w5p3r680b9'
+2026-07-19 04:48:38,984 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=5aa8edaf4d88 endpoint=/api/v1/auth/login caller=WebServiceHelper extra='t'
+2026-07-19 04:48:53,834 [INFO] ApplicationService: Handled request successfully in 47ms | cpu_util=56% extra='k1rzguuqlpkp7fc5oma0fzucd2serjo45ly7orm4zd30aq6l218c6bv27c42'
+2026-07-19 04:48:53,948 [INFO] ApplicationService: Connection pool status: active=5, idle=18 | req_id=9275629bc043 endpoint=/api/v1/backup/create caller=DbConnector cpu_util=3
+2026-07-19 04:48:54,441 [INFO] ApplicationService: Handled request successfully in 12ms | trace_id=6d97096d7bc64b6d extra='3nbbb4z2dobbrui630nevu0yo2hbp3exoq1s3zz7x1fybwp'
+2026-07-19 04:48:54,507 [WARN] ApplicationService: Connection pool expansion threshold reached | cpu_util=65% extra='l9oz2vyi4zpcw4075w4y6wkaj01rqddadboas4y7gli5j37tu4ohvaxbozdx'
+2026-07-19 04:50:18,507 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/api/v1/auth/login extra='znyls50phrab118e22qhvz3xcqyu6nr4azxtaxkhywlzb'
+2026-07-19 04:53:10,507 [INFO] ApplicationService: Handled request successfully in 15ms | req_id=2a77b1c9b04c endpoint=/api/v2/restore caller=WebServiceHelper cpu_util=25
+2026-07-19 04:53:10,957 [INFO] ApplicationService: Handled request successfully in 37ms | req_id=3db59b6f2392 endpoint=/api/v1/auth/login cpu_util=20% extra='05ojlpx1dv61'
+2026-07-19 04:53:12,970 [INFO] ApplicationService: Handled request successfully in 16ms | req_id=ad6b7b8e1ff5 ip=192.168.2.115 endpoint=/api/v2/restore mem_util=41%      
+2026-07-19 04:53:17,170 [INFO] ApplicationService: Handled request successfully in 28ms | req_id=bd92fffab56f extra='rha42xx8zhbqoa2wdwnnd8acx210yboggxdew1r7mhjvptho8fgdv'
+2026-07-19 04:53:28,321 [INFO] ApplicationService: Connection pool status: active=43, idle=22 | req_id=1c5621dbfee5 caller=WebServiceHelper cpu_util=58% extra='t2yvljxaa4ew3wah'
+2026-07-19 04:53:31,704 [INFO] ApplicationService: Cleaned up expired user cache items | ip=172.16.254.1 endpoint=/api/v2/restore caller=DbConnector mem_util=54%        
+2026-07-19 04:53:31,978 [INFO] ApplicationService: Handled request successfully in 45ms | ip=10.0.0.12 endpoint=/api/v2/restore caller=ConfigManager mem_util=63% extra='z'
+2026-07-19 04:53:32,158 [INFO] ApplicationService: Handled request successfully in 36ms | req_id=a877f7b1f67b ip=10.0.0.12 endpoint=/api/v1/backup/create caller=WebServic
+2026-07-19 04:53:36,888 [INFO] ApplicationService: Handled request successfully in 55ms | req_id=192749d5fcd7 caller=DbConnector extra='6fv6jedn4zz4g7c8ptq450waq32qszik90'
+2026-07-19 04:53:37,332 [INFO] ApplicationService: Handled request successfully in 34ms | req_id=5b914fe8d7b9 ip=192.168.1.50 endpoint=/api/v1/system/status caller=WebSer
+2026-07-19 04:53:37,608 [INFO] ApplicationService: Handled request successfully in 42ms | ip=192.168.1.50 caller=TomcatAccessFilter extra='r4xjnwo0caxooqnwk54swd2mwb0wn66'
+2026-07-19 04:53:37,893 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.1.50 endpoint=/api/v2/restore caller=DbConnector extra='0l0bik7e1xfmw'
+2026-07-19 04:53:38,120 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 caller=TomcatAccessFilter cpu_util=28% mem_util=48% extra='w0rv'
+2026-07-19 04:53:48,612 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v2/restore extra='4rs2e7hh4r43pxi181ukabyeb08lbaa0op90su2ipdsq475o'
+2026-07-19 04:53:52,793 [INFO] ApplicationService: Handled request successfully in 27ms | req_id=8c637e861cbe ip=172.16.254.1 endpoint=/metrics cpu_util=57% mem_util=45% 
+2026-07-19 04:53:56,051 [INFO] ApplicationService: Connection pool status: active=40, idle=5 | ip=192.168.2.115 endpoint=/api/v1/auth/login caller=ConfigManager extra='1qf9icl'
+2026-07-19 04:53:56,277 [INFO] ApplicationService: Connection pool status: active=14, idle=8 | caller=TomcatAccessFilter extra='f9bi4djs3lj1d2j20yxeamugfklkvksqkzw8m9u7f7c4vlr'
+2026-07-19 04:54:08,485 [INFO] ApplicationService: Connection pool status: active=42, idle=2 | req_id=d6f8d94d2ecb ip=192.168.2.115 caller=DbConnector cpu_util=12% extra='bawu'
+2026-07-19 04:54:10,965 [INFO] ApplicationService: Handled request successfully in 18ms | ip=192.168.2.115 caller=WebServiceHelper cpu_util=13% mem_util=38% extra='6kpfj6'
+2026-07-19 04:54:23,516 [INFO] ApplicationService: Connection pool status: active=36, idle=20 | endpoint=/api/v1/backup/create cpu_util=39% extra='i7kkpctsz6e782slmr6qxtgv2ohrp'
+2026-07-19 04:54:27,003 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.2.115 caller=ConfigManager extra='1dtilykutuzht5jsqfxf9l71vgx7sqfceli'
+2026-07-19 04:54:29,661 [INFO] ApplicationService: Handled request successfully in 38ms | req_id=e3d2515a969b endpoint=/api/v1/system/status cpu_util=75% mem_util=56%    
+2026-07-19 04:54:41,928 [INFO] ApplicationService: Connection pool status: active=30, idle=6 | req_id=317e7cc7c70e endpoint=/api/v2/restore mem_util=53% extra='fblgx4a0i12feml'
+2026-07-19 04:54:47,385 [INFO] ApplicationService: Connection pool status: active=43, idle=20 | req_id=e138384811bc ip=172.16.254.1 cpu_util=53% mem_util=35% extra='exbqxz5wou2'
+2026-07-19 04:54:47,740 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=ff11be0463ac ip=192.168.1.50 caller=DbConnector mem_util=64% extra='uolw4'
+2026-07-19 04:54:47,773 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=307696ba30fe caller=WebServiceHelper cpu_util=54% extra='ly2fgzu2isk1xj9b'
+2026-07-19 04:54:51,843 [INFO] ApplicationService: Connection pool status: active=45, idle=12 | mem_util=67% extra='977jowrwuyd6zygcldi0aw2fqvlh7bcmb6z2yiupr2vs0ysdr3mr4go3u3dz'
+2026-07-19 04:54:55,981 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=aee0efb8816c ip=192.168.1.50 caller=WebServiceHelper cpu_util=33% mem_uti
+2026-07-19 04:55:01,881 [INFO] ApplicationService: Handled request successfully in 21ms | req_id=a51a22b536b3 ip=192.168.1.50 endpoint=/api/v1/system/status caller=Config
+2026-07-19 04:55:06,133 [INFO] ApplicationService: Connection pool status: active=26, idle=22 | req_id=ea33b5a8311d caller=WebServiceHelper cpu_util=50% mem_util=88% extra='f45'
+2026-07-19 04:55:21,591 [INFO] ApplicationService: Handled request successfully in 27ms | ip=192.168.2.115 caller=ConfigManager extra='gik34w2iie70itsvbgtrafrx2uooyfyi5ws'
+2026-07-19 04:55:23,144 [INFO] ApplicationService: Connection pool status: active=36, idle=7 | req_id=7fa3c60b9dfe ip=172.16.254.1 endpoint=/api/v2/restore cpu_util=37%       
+2026-07-19 04:55:23,160 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=c2d61dcd0465 endpoint=/api/v1/backup/create caller=ConfigManager mem_util
+2026-07-19 04:55:28,956 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=e3cfbf229bea endpoint=/api/v1/backup/create cpu_util=30% extra='266olpm2h'
+2026-07-19 04:55:31,423 [INFO] ApplicationService: Cleaned up expired user cache items | ip=10.0.0.12 cpu_util=48% mem_util=59% extra='wabl6di1huhu431o4rzdnhjmgi3fjsay6n'
+2026-07-19 04:55:31,717 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/system/status caller=ConfigManager mem_util=48% extra='v8f3f1my'
+2026-07-19 05:03:31,717 [INFO] ApplicationService: Connection pool status: active=49, idle=7 | cpu_util=80% extra='frmwn29wpn3awb2ba896hisxsmgyyzzy95xlhjcigo5fsl2trqnlt3kcdui2'
+2026-07-19 05:03:32,177 [INFO] ApplicationService: Cleaned up expired user cache items | caller=ConfigManager cpu_util=64% extra='xomvu7gdpqwby3gx8w28wly42somfmt49too8ch'
+2026-07-19 05:03:37,268 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/backup/create mem_util=49% extra='r73o3u3hmavm4g80j5pu5kk2x9rys'
+2026-07-19 05:03:37,678 [INFO] ApplicationService: Handled request successfully in 51ms | endpoint=/metrics caller=TomcatAccessFilter mem_util=63% extra='c4cf8oau5k8q45d1'
+2026-07-19 05:03:52,099 [INFO] ApplicationService: Handled request successfully in 27ms | req_id=4116d755b69f ip=10.0.0.12 caller=WebServiceHelper extra='kzk7nf90pg8twm1a'
+2026-07-19 05:03:53,742 [INFO] ApplicationService: Handled request successfully in 54ms | mem_util=36% extra='6csgz5bqtotjmi620aam95xs5skqqtw6ch47p6sh1s5eb2zmw0hkb49sgner'
+2026-07-19 05:03:54,132 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=799e5b0b5f7d caller=DbConnector cpu_util=79% extra='trraz07ddxutkwc7s0fwh'
+2026-07-19 05:05:36,132 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=719742ce8c77 endpoint=/api/v1/auth/login caller=DbConnector cpu_util=75% 
+2026-07-19 05:05:36,185 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=284694408f1d caller=ConfigManager cpu_util=61% mem_util=66% extra='a9w979'
+2026-07-19 05:05:40,800 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=91315fbaf1c2 ip=10.0.0.12 mem_util=69% extra='g5uugwqe94zvk6f2trafkt9hyk8'
+2026-07-19 05:05:53,525 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=fbf28b11d929 cpu_util=28% mem_util=53% extra='vhbdkrmlf0au0623rmhduby0gkl'
+2026-07-19 05:08:00,525 [INFO] ApplicationService: Connection pool status: active=17, idle=10 | req_id=4180ccc60044 ip=192.168.1.50 endpoint=/api/v1/auth/login caller=TomcatAcc
+2026-07-19 05:08:05,664 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 cpu_util=78% mem_util=72% extra='t6tekrvqt90vkwmd8qdtv6krp1zv8k5'
+2026-07-19 05:09:54,664 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=fccdc0d795d7 ip=192.168.2.115 cpu_util=63% mem_util=88% extra='6a1v67ysrz'
+2026-07-19 05:10:04,725 [INFO] ApplicationService: Connection pool status: active=45, idle=16 | endpoint=/api/v1/auth/login cpu_util=76% mem_util=37% extra='ba4zgmo8sj28im125c8'
+2026-07-19 05:10:09,874 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=35502dc93609 ip=192.168.1.50 caller=WebServiceHelper cpu_util=26%        
+2026-07-19 05:10:22,390 [INFO] ApplicationService: Connection pool status: active=5, idle=9 | req_id=1b15edd8940e endpoint=/api/v2/restore caller=ConfigManager cpu_util=85%  
+2026-07-19 05:10:25,072 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/metrics caller=TomcatAccessFilter extra='jldyul4i2fj2luk0wauqouy05sxqo'
+2026-07-19 05:21:25,072 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 cpu_util=65% mem_util=73% extra='9j5ryjwagi6xe8gfcqnfa5h8mas6n0u'
+2026-07-19 05:21:37,123 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=10.0.0.12 extra='xpn3ewbqtr4h5r3q4aksjqk1baxhdqyye7f0os09475t1fb4irck4xv2ys5s'
+2026-07-19 05:21:37,531 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=172.16.254.1 extra='fmgu8usu5jdqsau2lqujqs4ekdwxdvrka99f77h2sho96z29m5hn54tkg'
+2026-07-19 05:21:37,861 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=8e5226494637 caller=TomcatAccessFilter cpu_util=28% extra='0ahhvrzicncxnq'
+2026-07-19 05:21:49,766 [INFO] ApplicationService: Connection pool status: active=22, idle=10 | endpoint=/api/v2/restore caller=WebServiceHelper mem_util=53% extra='9ym8qkw66aa'
+2026-07-19 05:22:51,766 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/metrics extra='4d9j8due41d4s5x48gqlfsgnscg2li7x93vv4dnuoup2txgmqrmundh'
+2026-07-19 05:22:51,945 [INFO] ApplicationService: Cleaned up expired user cache items | ip=10.0.0.12 caller=WebServiceHelper cpu_util=82% mem_util=32% extra='fuyq2ceqh9'
+2026-07-19 05:22:52,242 [INFO] ApplicationService: Handled request successfully in 18ms | ip=192.168.2.115 mem_util=88% extra='v6psoibfbzc4ftwj84n08vu45ughafxsnmqx2i3l6ir'
+2026-07-19 05:22:56,124 [INFO] ApplicationService: Connection pool status: active=21, idle=11 | ip=172.16.254.1 endpoint=/api/v2/restore cpu_util=27% extra='rxolxd4lml3p8i22cp8'
+2026-07-19 05:23:09,829 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 endpoint=/api/v1/backup/create caller=BackupAgent extra='mb730u'
+2026-07-19 05:23:10,037 [INFO] ApplicationService: Connection pool status: active=44, idle=5 | req_id=b322a5b7117c ip=10.0.0.12 mem_util=34% extra='fxek7qc9tw64e54r51r9i97v2l8'
+2026-07-19 05:23:10,139 [INFO] ApplicationService: Connection pool status: active=13, idle=6 | ip=172.16.254.1 endpoint=/api/v2/restore extra='go2nrpys2ws0pvy8rmplxewv27d3eoav'
+2026-07-19 05:23:22,834 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/metrics cpu_util=21% mem_util=61% extra='2q4y5b54mipjh3snvrlznf2aujfnf'
+2026-07-19 05:23:23,107 [INFO] ApplicationService: Connection pool status: active=18, idle=18 | mem_util=51% extra='e7wo35xty14awhee30zxyloyde25e6bsp78jd1t6lqogdun12k7ienmy0b9f'
+2026-07-19 05:23:23,256 [INFO] ApplicationService: Handled request successfully in 35ms | req_id=cf5a84baeaf9 ip=192.168.1.50 endpoint=/api/v1/system/status mem_util=89% 
+2026-07-19 05:23:27,304 [INFO] ApplicationService: Handled request successfully in 41ms | req_id=a9ea66fedbb0 ip=192.168.1.50 cpu_util=55% extra='ff84kexlm5u9qqxsl7ui7dzq'
+2026-07-19 05:27:25,304 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=c937cbaabcfd cpu_util=84% mem_util=90% extra='emrkt1w3818ryiv47uappn2bh3q'
+2026-07-19 05:27:26,991 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=dcc915968770 ip=10.0.0.12 mem_util=62% extra='0zf0oxycr6elin8auhq2xho8u6p'
+2026-07-19 05:27:32,352 [INFO] ApplicationService: Connection pool status: active=36, idle=9 | req_id=9f291b549354 endpoint=/api/v1/system/status cpu_util=41% mem_util=86%    
+2026-07-19 05:27:32,629 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=c3567ace9744 endpoint=/api/v1/auth/login caller=BackupAgent mem_util=39% 
+2026-07-19 05:27:32,681 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=2deb5fd0d301 ip=192.168.2.115 endpoint=/api/v1/backup/create cpu_util=80%
+2026-07-19 05:27:47,096 [INFO] ApplicationService: Connection pool status: active=26, idle=12 | req_id=f679fbba0fc1 endpoint=/api/v1/backup/create caller=ConfigManager cpu_util
+2026-07-19 05:27:47,506 [INFO] ApplicationService: Handled request successfully in 37ms | ip=192.168.2.115 caller=WebServiceHelper mem_util=71% extra='zlvwtynegfvp1u8uxha'
+2026-07-19 05:27:49,131 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=efad0e5aefce ip=172.16.254.1 endpoint=/api/v1/backup/create caller=DbConn
+2026-07-19 05:27:53,963 [INFO] ApplicationService: Handled request successfully in 19ms | req_id=6496decceb63 ip=192.168.2.115 caller=ConfigManager cpu_util=21% mem_util=
+2026-07-19 05:27:54,162 [INFO] ApplicationService: Connection pool status: active=20, idle=20 | req_id=511fd15c7544 endpoint=/api/v1/system/status caller=ConfigManager mem_util
+2026-07-19 05:31:11,162 [INFO] ApplicationService: Handled request successfully in 5ms | caller=DbConnector mem_util=46% extra='k0hbtplff1j33ygr04c69li7mum7gyqahencyb3pf'
+2026-07-19 05:31:11,278 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=29f005ddb52e ip=192.168.2.115 endpoint=/metrics cpu_util=57% extra='bveek'
+2026-07-19 05:31:26,095 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=fc02a585718a endpoint=/metrics mem_util=57% extra='p6c763kdsvkmp41uhtobfs'
+2026-07-19 05:35:06,095 [INFO] ApplicationService: Connection pool status: active=34, idle=10 | req_id=5aab40b0cc64 ip=172.16.254.1 endpoint=/api/v1/backup/create extra='e7w1rf'
+2026-07-19 05:36:25,095 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=ba684efb2fba ip=192.168.2.115 endpoint=/metrics caller=WebServiceHelper c
+2026-07-19 05:36:28,515 [INFO] ApplicationService: Handled request successfully in 17ms | req_id=403d68710b74 ip=192.168.1.50 endpoint=/api/v1/auth/login mem_util=37%    
+2026-07-19 05:36:34,352 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=bdfe6343be6e ip=192.168.1.50 caller=DbConnector cpu_util=81% mem_util=42%
+2026-07-19 05:36:39,983 [INFO] ApplicationService: Handled request successfully in 45ms | req_id=e2bd97a95b39 endpoint=/api/v1/backup/create caller=BackupAgent extra='tli'
+2026-07-19 05:36:42,857 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v2/restore cpu_util=16% extra='qzcmwpmo1rf4jaj36q4tjlluor8orpyu8ku'
+2026-07-19 05:36:42,878 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=6820c1d30f09 ip=192.168.2.115 endpoint=/api/v1/backup/create caller=DbCon
+2026-07-19 05:38:50,878 [INFO] ApplicationService: Handled request successfully in 15ms | endpoint=/api/v1/backup/create caller=DbConnector mem_util=83% extra='h88id5syig'
+2026-07-19 05:38:51,182 [INFO] ApplicationService: Connection pool status: active=41, idle=16 | req_id=9685236cb23c ip=10.0.0.12 caller=ConfigManager mem_util=62% extra='fgp5ba'
+2026-07-19 05:39:07,075 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 cpu_util=67% mem_util=75% extra='9a1gxlrs6k5lonxho75m2z0m07svm29'
+2026-07-19 05:39:20,151 [INFO] ApplicationService: Connection pool status: active=27, idle=25 | endpoint=/api/v1/auth/login caller=ConfigManager cpu_util=38% mem_util=73%      
+2026-07-19 05:39:20,452 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=5d045eb1d8d0 caller=TomcatAccessFilter extra='4tyhcwu3zfn6bleeom2mupqn73m'
+2026-07-19 05:39:20,853 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=ee7f647a2b2e ip=10.0.0.12 caller=DbConnector extra='8qgp1p8n4oae2tqblkxvh'
+2026-07-19 05:47:20,853 [WARN] ApplicationService: Connection pool expansion threshold reached | trace_id=0922d06e38e54e47 extra='y0ch6q658uec9ocul4esjizzaqw7xx22lt2isoynibywtiv'
+2026-07-19 05:47:24,997 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=2150bd8e6364 ip=192.168.2.115 caller=BackupAgent extra='cvzma22r0xttqidrt'
+2026-07-19 05:47:28,222 [INFO] ApplicationService: Handled request successfully in 32ms | ip=172.16.254.1 caller=BackupAgent mem_util=64% extra='9h8pw0hea9o97ykax3fhzwlfr'
+2026-07-19 05:47:28,310 [INFO] ApplicationService: Connection pool status: active=32, idle=16 | req_id=225e18e2b5b8 endpoint=/api/v1/system/status extra='ajl17qcxn4h9hh71rbcmt1'
+2026-07-19 05:47:28,476 [INFO] ApplicationService: Connection pool status: active=38, idle=9 | req_id=fef654cda014 ip=192.168.2.115 caller=DbConnector mem_util=90% extra='7m1r'
+2026-07-19 05:47:30,396 [INFO] ApplicationService: Connection pool status: active=8, idle=5 | req_id=095bad350959 ip=192.168.1.50 endpoint=/metrics caller=ConfigManager cpu_u
+2026-07-19 05:47:32,972 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=d63025bb85f4 ip=192.168.1.50 caller=TomcatAccessFilter mem_util=80%      
+2026-07-19 05:47:34,949 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=e014ddaf7514 mem_util=81% extra='z1rmfjcmzkr2f4kxp01igtsluqm26khp80b86ijz'
+2026-07-19 05:47:37,046 [INFO] ApplicationService: Cleaned up expired user cache items | caller=BackupAgent cpu_util=19% mem_util=71% extra='8uq5j8qf28nwqnczie45p31z81f5'
+2026-07-19 05:47:38,768 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=4c7ffc109373 ip=172.16.254.1 endpoint=/api/v1/backup/create cpu_util=21% 
+2026-07-19 05:47:38,959 [INFO] ApplicationService: Connection pool status: active=21, idle=20 | req_id=92b12af4d1e0 ip=192.168.2.115 mem_util=30% extra='l6ld89042pyy8r3hk9eppmx'
+2026-07-19 05:47:54,179 [INFO] ApplicationService: Handled request successfully in 34ms | req_id=e8b3688a2363 ip=172.16.254.1 cpu_util=16% extra='1bsv6yvqaxuvxjus6yynzaf0'
+2026-07-19 05:47:56,005 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=10.0.0.12 caller=ConfigManager cpu_util=18% extra='psrn5yrt49oe5xgugtw02dk21n'
+2026-07-19 05:47:57,355 [INFO] ApplicationService: Connection pool status: active=11, idle=2 | req_id=f1e474f473d3 caller=TomcatAccessFilter mem_util=69% extra='c03o4ufmdix8rl'
+2026-07-19 05:47:59,973 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=82cbeb1ec9fc endpoint=/api/v1/auth/login caller=WebServiceHelper extra='8'
+2026-07-19 05:48:05,662 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/metrics mem_util=90% extra='op3a8han4t7bgzulizqvgtu2bwo23xkpr5bgmqa496'
+2026-07-19 05:48:08,062 [INFO] ApplicationService: Handled request successfully in 24ms | cpu_util=55% extra='cxl6eo2z8knfy8lg6m69xcyk693alh6mfd813ygalxsgwe8s5vfxpnkklc59'
+2026-07-19 05:48:08,239 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=41855f40a27d caller=BackupAgent extra='72l049teneybswll3ut7pfusjgsohkrf0k'
+2026-07-19 05:48:09,598 [INFO] ApplicationService: Connection pool status: active=40, idle=11 | caller=ConfigManager mem_util=64% extra='vpblte1yqdrlf51y2pgoqsahizk587cn6jdnzu7'
+2026-07-19 05:48:10,061 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=3b421e1a5c2e endpoint=/api/v2/restore cpu_util=32% extra='vxqj68a91ip5kc4'
+2026-07-19 05:48:10,548 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=7180de940bb6 ip=192.168.2.115 endpoint=/api/v1/backup/create caller=DbCon
+2026-07-19 05:48:14,952 [INFO] ApplicationService: Connection pool status: active=41, idle=10 | ip=10.0.0.12 endpoint=/metrics cpu_util=37% mem_util=43% extra='hwgmuhc3eq0qg6qw'
+2026-07-19 05:48:17,511 [INFO] ApplicationService: Handled request successfully in 27ms | req_id=d6ef01050cb7 mem_util=31% extra='h0gv8mmxxrqvf7out8t7f8ovjz4bk1fnf6znog5t'
+2026-07-19 05:48:19,320 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=562959403f41 endpoint=/metrics cpu_util=85% extra='lzacluagf3sm9b7cy0hclg'
+2026-07-19 05:48:23,184 [INFO] ApplicationService: Handled request successfully in 44ms | ip=192.168.2.115 endpoint=/api/v1/backup/create cpu_util=30% mem_util=77%       
+2026-07-19 05:48:23,608 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=622191c27377 endpoint=/api/v1/system/status caller=TomcatAccessFilter    
+2026-07-19 05:48:29,381 [INFO] ApplicationService: Handled request successfully in 48ms | cpu_util=61% extra='fffgghnfpkluokftx8rur1lyr9gh0cj9hzbq4oftzk2u45el3n9tdtp8shpz'
+2026-07-19 05:48:29,577 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 cpu_util=65% extra='32aci4m4h5s6hiom2cufwd38y5k4wg6k7awi93fdmxrq'
+2026-07-19 05:48:30,850 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.1.50 endpoint=/api/v1/auth/login cpu_util=24% mem_util=48% extra='j2n'
+2026-07-19 05:48:32,212 [INFO] ApplicationService: Connection pool status: active=42, idle=19 | ip=10.0.0.12 caller=DbConnector mem_util=31% extra='86jfxy5dhebhj21z7p6fyeclvor9'
+2026-07-19 05:50:35,212 [INFO] ApplicationService: Handled request successfully in 58ms | endpoint=/api/v2/restore cpu_util=83% extra='5sb28dxd2chg9xbza9kvl88e3nhcf8ervx3'
+2026-07-19 05:52:08,212 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=c5d9d3750b08 ip=10.0.0.12 mem_util=80% extra='ofmcfy3euvfqtc4fs0b6j08374h'
+2026-07-19 05:52:24,083 [INFO] ApplicationService: Connection pool status: active=47, idle=20 | req_id=995edbfaae67 cpu_util=29% extra='l0tk968fhilf2ft5d4ee8nijwktkr8z571vmxuen'
+2026-07-19 05:52:25,217 [INFO] ApplicationService: Handled request successfully in 14ms | caller=WebServiceHelper cpu_util=32% extra='yh77ej4cal0iogyzzmzbn07atl8cl88a2wel'
+2026-07-19 05:52:29,841 [INFO] ApplicationService: Handled request successfully in 41ms | req_id=7bd1be473a3c endpoint=/api/v1/system/status cpu_util=35% mem_util=41%    
+2026-07-19 05:52:29,858 [INFO] ApplicationService: Handled request successfully in 40ms | ip=172.16.254.1 cpu_util=41% extra='stuj7cs4bd1nvi7cb6wprqs9ywm023du06xd2ot1mcvo'
+2026-07-19 05:52:44,643 [INFO] ApplicationService: Handled request successfully in 43ms | req_id=1a7f1cab1122 ip=192.168.1.50 caller=TomcatAccessFilter mem_util=32%      
+2026-07-19 05:56:17,643 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=558e16fc3040 ip=192.168.2.115 endpoint=/metrics caller=TomcatAccessFilter
+2026-07-19 05:56:20,616 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=acba9e0e5859 caller=DbConnector cpu_util=15% extra='nuqzsab81cd97tb3mf17l'
+2026-07-19 05:56:21,041 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=4c9902c804bd endpoint=/api/v1/auth/login caller=WebServiceHelper cpu_util
+2026-07-19 05:57:41,041 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=172.16.254.1 endpoint=/metrics caller=TomcatAccessFilter mem_util=45%        
+2026-07-19 05:57:42,137 [INFO] ApplicationService: Connection pool status: active=27, idle=11 | caller=BackupAgent cpu_util=16% extra='b0sq263sgx39p0l7jaat4bo5jh6iki2dqrbivtp93'
+2026-07-19 05:57:44,264 [INFO] ApplicationService: Connection pool status: active=20, idle=14 | req_id=fef6e12ad624 cpu_util=58% extra='x02x6xmdnw5y04kbqxebzsy9c7lmkp6tx3sotptk'
+2026-07-19 05:57:49,730 [INFO] ApplicationService: Connection pool status: active=9, idle=22 | ip=172.16.254.1 endpoint=/api/v1/auth/login cpu_util=27% mem_util=88% extra='i5z'
+2026-07-19 05:57:49,936 [INFO] ApplicationService: Connection pool status: active=49, idle=6 | endpoint=/api/v1/auth/login caller=WebServiceHelper extra='3v2d9inz1szwpntkr11iq'
+2026-07-19 05:57:52,137 [INFO] ApplicationService: Cleaned up expired user cache items | cpu_util=85% extra='xw2h1q0amulzusop20r23i7yki6itnbkdhmvqy8g5qmud7a9rwdyebhjz7k6'
+2026-07-19 05:57:52,442 [INFO] ApplicationService: Handled request successfully in 6ms | req_id=4122edfa9f2e caller=BackupAgent cpu_util=17% mem_util=75% extra='e35fczmd'
+2026-07-19 05:57:55,818 [INFO] ApplicationService: Handled request successfully in 37ms | ip=192.168.1.50 caller=WebServiceHelper cpu_util=28% extra='mtsoormp42go9wf02whj'
+2026-07-19 05:58:00,546 [WARN] ApplicationService: Connection pool expansion threshold reached | cpu_util=73% mem_util=90% extra='p1kktsjn6tm99z5k0rwfx46a4cayj3yzs4892zz36hal2kd'
+2026-07-19 05:58:13,365 [WARN] ApplicationService: Connection pool expansion threshold reached | mem_util=39% extra='cqfpt7nu7n8m4n6emohr22emj4ycclrutoh59p4ppuaaiizgkcve7ggwmtu2'
+2026-07-19 05:58:13,672 [INFO] ApplicationService: Handled request successfully in 26ms | caller=WebServiceHelper mem_util=30% extra='47btbxphyg6oafwqufgw1xn9eucl6e58mtlo'
+2026-07-19 05:58:15,951 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=a79da98cc13b ip=192.168.1.50 endpoint=/api/v1/system/status caller=Backup
+2026-07-19 05:58:16,037 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=24929ae596f0 cpu_util=67% extra='w8446wyl813bu7s8z31stgknzry35sckl4o3dfmu'
+2026-07-19 05:58:18,279 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/system/status caller=WebServiceHelper extra='6gan2p9wefqa284gpn'
+2026-07-19 05:58:18,774 [INFO] ApplicationService: Handled request successfully in 33ms | ip=172.16.254.1 endpoint=/metrics extra='xmov09nk36ea1lxf7yfzgxe5z9h1cwp9hzj5fdu'
+2026-07-19 06:00:55,774 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=1a45a64cec9f ip=192.168.2.115 endpoint=/api/v2/restore caller=DbConnector
+2026-07-19 06:00:55,800 [INFO] ApplicationService: Handled request successfully in 15ms | req_id=cf1cd4a8be94 caller=BackupAgent mem_util=47% extra='nnxxizyt5jmll7shc5dly'
+2026-07-19 06:00:56,806 [INFO] ApplicationService: Connection pool status: active=47, idle=18 | req_id=3777fbd665fe caller=TomcatAccessFilter extra='5ztlglhfi86hmjnard6avcbrb7u'
+2026-07-19 06:02:29,806 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=65495ff164ed caller=DbConnector cpu_util=45% extra='t7tmophd0yavkjykvrxsn'
+2026-07-19 06:02:34,030 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=5b48f0b06b30 caller=WebServiceHelper cpu_util=70% extra='k1n4a5koenrxzobk'
+2026-07-19 06:02:36,255 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/system/status caller=DbConnector mem_util=86% extra='09u3g5mr0v'
+2026-07-19 06:02:50,304 [INFO] ApplicationService: Cleaned up expired user cache items | trace_id=c422045e27c9402a extra='rjlfh2b5xtzy6x35vlzn6urk9flmus63lbtw9ds1gfra0dt'
+2026-07-19 06:03:01,958 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=60c59ae794d4 endpoint=/metrics extra='pyj8ey1249hy7ci9brpemujwb7wgqsczxoy'
+2026-07-19 06:03:02,281 [INFO] ApplicationService: Handled request successfully in 33ms | cpu_util=19% extra='hzo5s4j2b2ly8qjekgo46lrhgqywwvx69i60vddnrlb0mchtelytdml9xw3z'
+2026-07-19 06:03:02,504 [INFO] ApplicationService: Connection pool status: active=46, idle=14 | cpu_util=70% extra='iw1j3hujyweo4cqpciqjff2nzueupo9e7459mpvk4jb9qplcsetok4il1wes'
+2026-07-19 06:03:04,227 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.1.50 caller=TomcatAccessFilter mem_util=53% extra='2cg7rnll0g1g23xi54'
+2026-07-19 06:03:04,595 [INFO] ApplicationService: Connection pool status: active=42, idle=9 | ip=172.16.254.1 extra='hjc9l0gef313tshpce1dxr1p5uon5n8rgbcn8hyan58uzut6kb0qx1128'
+2026-07-19 06:03:10,270 [INFO] ApplicationService: Handled request successfully in 57ms | req_id=e05f52e0ebc7 ip=172.16.254.1 endpoint=/api/v1/system/status caller=WebSer
+2026-07-19 06:03:12,054 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/system/status extra='aimskpiu00un97epmtxsvzf7uylqqu78ymvipeqxo8'
+2026-07-19 06:05:48,054 [INFO] ApplicationService: Handled request successfully in 44ms | caller=ConfigManager cpu_util=70% mem_util=90% extra='tcp1ccwx8so2mv1907lxqb5jx5'
+2026-07-19 06:05:48,343 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=b4005f2ee3fc ip=172.16.254.1 endpoint=/metrics caller=TomcatAccessFilter 
+2026-07-19 06:05:48,821 [INFO] ApplicationService: Handled request successfully in 14ms | req_id=7dec06411e1e endpoint=/api/v1/system/status caller=DbConnector mem_util=7
+2026-07-19 06:05:49,194 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=6f7b5b38cd8a endpoint=/api/v1/backup/create caller=WebServiceHelper      
+2026-07-19 06:08:08,194 [INFO] ApplicationService: Connection pool status: active=50, idle=6 | ip=10.0.0.12 mem_util=81% extra='0cgv8bj5ptdpfdp085mqjogv0xdtgdyejiysthgcrqbewha'
+2026-07-19 06:08:13,413 [INFO] ApplicationService: Connection pool status: active=21, idle=8 | ip=192.168.1.50 endpoint=/api/v1/auth/login extra='4ojdd6dszx0vzn9t2s0gymt88jpnx'
+2026-07-19 06:08:13,629 [WARN] ApplicationService: Connection pool expansion threshold reached | cpu_util=32% extra='n2x2zvputz71mcv98bajcum96y0tvm088x48ebpd41zirmritn0x2ogm4ung'
+2026-07-19 06:08:14,965 [INFO] ApplicationService: Connection pool status: active=19, idle=2 | req_id=3ad4f07a5126 endpoint=/metrics caller=TomcatAccessFilter cpu_util=66% mem
+2026-07-19 06:08:25,475 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=4ca7289634e3 endpoint=/api/v1/system/status extra='bdkevwu6xr6eu57q0a80vx'
+2026-07-19 06:08:30,706 [INFO] ApplicationService: Connection pool status: active=44, idle=12 | req_id=f4582c84109b mem_util=46% extra='u9ncvjot3rxf8befz0dtxzq37t7m2e5hgbrqj9ie'
+2026-07-19 06:08:35,762 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=5bb1499138fb ip=172.16.254.1 endpoint=/api/v1/backup/create caller=Config
+2026-07-19 06:08:50,322 [INFO] ApplicationService: Connection pool status: active=27, idle=12 | req_id=eef141600a76 ip=10.0.0.12 endpoint=/api/v1/system/status cpu_util=53%    
+2026-07-19 06:08:53,991 [INFO] ApplicationService: Connection pool status: active=16, idle=5 | caller=DbConnector cpu_util=58% extra='vezvsw6rf6of817ub8rh0e8ca85qr45vp8i9n9gbz'
+2026-07-19 06:08:55,407 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=d20b1b6d8fd0 ip=172.16.254.1 endpoint=/api/v1/auth/login caller=DbConnect
+2026-07-19 06:08:55,613 [INFO] ApplicationService: Connection pool status: active=18, idle=9 | req_id=0e38af9e9df2 ip=172.16.254.1 endpoint=/api/v1/backup/create caller=WebSer
+2026-07-19 06:08:55,886 [INFO] ApplicationService: Connection pool status: active=20, idle=17 | req_id=0470466ab7a4 ip=192.168.2.115 mem_util=56% extra='wkkwwxfeoo6s6wquale492k'
+2026-07-19 06:09:00,567 [INFO] ApplicationService: Connection pool status: active=42, idle=24 | req_id=44e886f7ccc7 endpoint=/api/v1/system/status caller=BackupAgent extra='bcm'
+2026-07-19 06:09:01,049 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=64b8668ca052 ip=192.168.1.50 endpoint=/api/v1/auth/login extra='c56069s87'
+2026-07-19 06:09:04,090 [INFO] ApplicationService: Handled request successfully in 19ms | req_id=d36858ebdcf1 ip=172.16.254.1 caller=DbConnector cpu_util=12% extra='mtutk'
+2026-07-19 06:09:04,530 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=a12a2471d1e4 endpoint=/api/v1/backup/create caller=BackupAgent cpu_util=5
+2026-07-19 06:09:04,987 [INFO] ApplicationService: Connection pool status: active=44, idle=10 | req_id=10086957b076 endpoint=/api/v1/system/status caller=TomcatAccessFilter cpu
+2026-07-19 06:09:10,192 [INFO] ApplicationService: Handled request successfully in 30ms | req_id=f8f6bd69064d ip=192.168.2.115 extra='x7ykosfeg6v01530iqblj5209kv17s19hkii'
+2026-07-19 06:13:00,192 [INFO] ApplicationService: Connection pool status: active=11, idle=24 | req_id=aeb363055188 endpoint=/api/v1/auth/login extra='q6bve88cplhnlg1pc04msq9uq'
+2026-07-19 06:13:00,591 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 endpoint=/api/v1/backup/create cpu_util=22% extra='ib7angmq69or'
+2026-07-19 06:13:00,825 [INFO] ApplicationService: Connection pool status: active=16, idle=18 | req_id=1320c233dc87 endpoint=/api/v1/system/status caller=TomcatAccessFilter cpu
+2026-07-19 06:13:01,038 [INFO] ApplicationService: Cleaned up expired user cache items | ip=10.0.0.12 cpu_util=59% mem_util=60% extra='y5cfbt36n47s8lmc4uoaia1ydf95tyg61z'
+2026-07-19 06:13:06,709 [INFO] ApplicationService: Connection pool status: active=10, idle=6 | req_id=07ce17322557 endpoint=/api/v1/backup/create cpu_util=10% extra='yowylpmvk'
+2026-07-19 06:13:07,029 [INFO] ApplicationService: Handled request successfully in 57ms | endpoint=/metrics cpu_util=76% extra='8z22obiqisggdp8fmo6k7v3u7y9gco6r7rkflsntq1'
+2026-07-19 06:13:08,166 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 endpoint=/api/v2/restore caller=ConfigManager cpu_util=40%      
+2026-07-19 06:13:08,420 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 endpoint=/api/v2/restore extra='a98t5uzw0kyvjyiyyv1s0o7w0l4dqna'
+2026-07-19 06:13:12,753 [INFO] ApplicationService: Handled request successfully in 33ms | req_id=6163ee3439ef caller=TomcatAccessFilter cpu_util=54% mem_util=57% extra='s'
+2026-07-19 06:13:17,911 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=db9ef768848e ip=10.0.0.12 cpu_util=66% mem_util=57% extra='edfnyjz12iqzcc'
+2026-07-19 06:13:17,931 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=5d6f5df3e536 endpoint=/metrics caller=BackupAgent extra='bymm1zvqs1blpojs'
+2026-07-19 06:13:21,684 [INFO] ApplicationService: Connection pool status: active=41, idle=10 | req_id=d8199a7e6367 caller=WebServiceHelper cpu_util=70% mem_util=45% extra='cil'
+2026-07-19 06:13:26,609 [INFO] ApplicationService: Handled request successfully in 59ms | req_id=1a3c31fdcb29 ip=192.168.2.115 endpoint=/api/v2/restore cpu_util=39% mem_u
+2026-07-19 06:13:26,798 [WARN] ApplicationService: Connection pool expansion threshold reached | cpu_util=37% mem_util=59% extra='vimd12q3q99dqg662p0h6iib5zchpmwh4xrkwllc3hrh0sy'
+2026-07-19 06:13:32,410 [INFO] ApplicationService: Connection pool status: active=30, idle=11 | caller=BackupAgent extra='n8wmaftwfs01mrabl8d4nyxdzb1tbnad2olr2e9peylprsaoutjo0p'
+2026-07-19 06:13:32,526 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v2/restore cpu_util=36% mem_util=68% extra='tx095z02mp4s329a65r5xm'
+2026-07-19 06:13:35,465 [INFO] ApplicationService: Cleaned up expired user cache items | ip=10.0.0.12 endpoint=/metrics extra='y5gt1pb511osil7t997hdzk8vc4bfa6yqy7lplss3g'
+2026-07-19 06:13:35,684 [INFO] ApplicationService: Cleaned up expired user cache items | cpu_util=61% extra='2rgemdvscfcq6zkkqzvebrzg2ybxtvar2fdv5jertqx0d7lrs7ruykvrnlyp'
+2026-07-19 06:13:41,426 [INFO] ApplicationService: Cleaned up expired user cache items | ip=10.0.0.12 cpu_util=24% mem_util=75% extra='mqn9jec4whdga90vmg72yxtky9d8ykvbqx'
+2026-07-19 06:13:44,578 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=99e073ba4076 caller=ConfigManager extra='895zembjiwd2zl7vtk401h7z6fcel3n1'
+2026-07-19 06:13:55,799 [INFO] ApplicationService: Connection pool status: active=11, idle=15 | req_id=3b0bb81817a2 ip=192.168.1.50 endpoint=/api/v1/backup/create cpu_util=19% 
+2026-07-19 06:14:08,601 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=5788d5f71624 ip=192.168.2.115 endpoint=/api/v1/backup/create caller=DbCon
+2026-07-19 06:14:10,135 [INFO] ApplicationService: Handled request successfully in 3ms | req_id=ab8960b8f197 cpu_util=71% mem_util=87% extra='wlvng3juu86n19mq1ednswhmt4d'
+2026-07-19 06:14:10,567 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/auth/login caller=TomcatAccessFilter cpu_util=39% mem_util=67% 
+2026-07-19 06:14:10,991 [INFO] ApplicationService: Handled request successfully in 32ms | req_id=09bffc4033c8 endpoint=/api/v1/backup/create caller=WebServiceHelper      
+2026-07-19 06:16:36,991 [INFO] ApplicationService: Handled request successfully in 33ms | req_id=6a3e05f391be caller=DbConnector extra='t2wjjtlpenq7rtbnh2vn1by18azg68aucx'
+2026-07-19 06:16:38,185 [INFO] ApplicationService: Connection pool status: active=21, idle=18 | endpoint=/metrics caller=BackupAgent cpu_util=48% extra='g7ho2mllzwaii7fj3tdneen'
+2026-07-19 06:16:38,231 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/system/status caller=TomcatAccessFilter mem_util=63% extra='cei'
+2026-07-19 06:16:38,578 [WARN] ApplicationService: Connection pool expansion threshold reached | cpu_util=85% extra='47ts7qujru83kl2y3888tiykgfqxyn40u9m7qrob1zoeltockufim0f32z50'
+2026-07-19 06:16:41,257 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=27115aa0b2a3 endpoint=/api/v1/backup/create cpu_util=38% extra='wkc5bw535'
+2026-07-19 06:16:41,305 [INFO] ApplicationService: Handled request successfully in 34ms | req_id=865f8682eaad ip=10.0.0.12 cpu_util=45% mem_util=88% extra='tgcr80bfl4qi32'
+2026-07-19 06:16:54,266 [INFO] ApplicationService: Connection pool status: active=38, idle=21 | endpoint=/api/v1/system/status extra='vohvme8x41z0298srpoa2wkn1hc4h6221iqm1nwhgq'
+2026-07-19 06:16:55,510 [INFO] ApplicationService: Connection pool status: active=22, idle=13 | endpoint=/metrics cpu_util=24% mem_util=58% extra='mzoswn9nsjxbuewncvf7r4hm4evqz'
+2026-07-19 06:16:55,814 [INFO] ApplicationService: Handled request successfully in 20ms | endpoint=/api/v2/restore caller=BackupAgent extra='eg9eqql5bf1l9edjln0ic49nsuwc7'
+2026-07-19 06:16:56,304 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=4e6cff746fcf endpoint=/api/v1/auth/login caller=DbConnector extra='d9kbqc'
+2026-07-19 06:16:56,642 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=f4b8cd86c17d ip=10.0.0.12 endpoint=/api/v1/system/status caller=DbConnect
+2026-07-19 06:16:59,379 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/backup/create caller=BackupAgent mem_util=76% extra='j6ae4g2h80'
+2026-07-19 06:17:00,516 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=31ad65943bdc endpoint=/api/v1/auth/login caller=BackupAgent cpu_util=55% 
+2026-07-19 06:19:39,516 [INFO] ApplicationService: Connection pool status: active=20, idle=16 | ip=10.0.0.12 endpoint=/api/v1/system/status caller=BackupAgent cpu_util=82% mem_
+2026-07-19 06:19:42,578 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 endpoint=/api/v1/auth/login extra='368avj1irx45271qrsmrj79i56b25'
+2026-07-19 06:19:42,923 [INFO] ApplicationService: Connection pool status: active=35, idle=10 | req_id=1e5f25a0657a caller=DbConnector cpu_util=31% mem_util=38% extra='e3i14mj1'
+2026-07-19 06:19:47,537 [INFO] ApplicationService: Connection pool status: active=8, idle=15 | ip=172.16.254.1 endpoint=/api/v1/backup/create caller=WebServiceHelper cpu_util=
+2026-07-19 06:19:47,570 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=66d1023006c2 ip=192.168.1.50 extra='7069g620n0pw7if7fmyd0q2yi5j1j343xdgt7'
+2026-07-19 06:19:53,432 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=3697a5def028 ip=192.168.1.50 endpoint=/api/v1/auth/login mem_util=70%    
+2026-07-19 06:19:59,003 [INFO] ApplicationService: Handled request successfully in 36ms | req_id=d923160811d9 endpoint=/metrics cpu_util=69% mem_util=34% extra='1ku8n9mxp'
+2026-07-19 06:19:59,436 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=389b3b65d1be endpoint=/api/v1/system/status cpu_util=43% mem_util=50%    
+2026-07-19 06:20:04,514 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=a0d380763fa1 ip=10.0.0.12 endpoint=/api/v2/restore caller=WebServiceHelpe
+2026-07-19 06:20:07,871 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/system/status extra='5ydk35g9jxo3octymcfzbs1qze9q2ht53l7psidxmt'
+2026-07-19 06:20:21,140 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=601128698c4f ip=192.168.2.115 extra='caxcxsy7emyjohk3ldu70sw5vlvp2ad1sv4p'
+2026-07-19 06:20:21,450 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=172.16.254.1 cpu_util=57% mem_util=87% extra='w65f7h4lf36relu3y8qhpmb54pnwlni'
+2026-07-19 06:21:49,450 [INFO] ApplicationService: Handled request successfully in 3ms | req_id=6de23e40f5de ip=192.168.2.115 mem_util=66% extra='wnbg0deazlk8jc83wkwm25f'
+2026-07-19 06:23:33,450 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=03eccef29e2c ip=192.168.1.50 extra='za5k5s5azmesb794jari77zosxsnrvpmr56wk'
+2026-07-19 06:23:34,747 [INFO] ApplicationService: Connection pool status: active=38, idle=18 | req_id=754b8e8e8afc ip=192.168.2.115 caller=TomcatAccessFilter cpu_util=77%     
+2026-07-19 06:23:35,051 [INFO] ApplicationService: Handled request successfully in 56ms | req_id=607448d221ac ip=192.168.1.50 cpu_util=59% mem_util=38% extra='zaryoohvwbd'
+2026-07-19 06:25:31,051 [INFO] ApplicationService: Handled request successfully in 20ms | req_id=4d11bdda22f2 ip=192.168.2.115 endpoint=/metrics mem_util=65% extra='cmdav'
+2026-07-19 06:25:32,640 [INFO] ApplicationService: Cleaned up expired user cache items | caller=ConfigManager cpu_util=44% extra='7o4kg59nxacd66cy77xfmt1tbc0uu51bmst1a81'
+2026-07-19 06:25:33,052 [INFO] ApplicationService: Connection pool status: active=16, idle=17 | ip=192.168.2.115 endpoint=/api/v2/restore caller=BackupAgent cpu_util=13% mem_ut
+2026-07-19 06:25:34,634 [INFO] ApplicationService: Handled request successfully in 7ms | req_id=9be409430f84 caller=WebServiceHelper mem_util=47% extra='9t55ka42lc050fhf'
+2026-07-19 06:25:38,862 [INFO] ApplicationService: Connection pool status: active=22, idle=6 | req_id=5477d465d508 caller=WebServiceHelper mem_util=53% extra='vran9x6zii43kvhw'
+2026-07-19 06:25:42,645 [INFO] ApplicationService: Cleaned up expired user cache items | cpu_util=22% mem_util=75% extra='0tu9yv4or7rh1gcpx6cz3zq476k0us9ppmiegp39gjjlbte'
+2026-07-19 06:25:42,981 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/api/v1/system/status mem_util=59% extra='o0bkcxmiyj3r53ifzbjt0vccqcd0y'
+2026-07-19 06:25:47,800 [INFO] ApplicationService: Handled request successfully in 47ms | endpoint=/api/v1/auth/login extra='v1wzulf9iauna322skzi5n4necmasr95cuec559bewd9y'
+2026-07-19 06:27:57,800 [INFO] ApplicationService: Connection pool status: active=46, idle=8 | req_id=53754befeb47 ip=192.168.2.115 caller=TomcatAccessFilter cpu_util=35%     
+2026-07-19 06:30:15,800 [INFO] ApplicationService: Handled request successfully in 57ms | req_id=e9d8a1f80cde ip=172.16.254.1 endpoint=/metrics caller=DbConnector cpu_uti
+2026-07-19 06:30:30,117 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=81429b6a45ad ip=172.16.254.1 cpu_util=23% extra='4f2k5v75r8o7j16y8p3ldf8w'
+2026-07-19 06:30:32,351 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=6cfbb0283065 endpoint=/api/v1/backup/create mem_util=69% extra='kyo35fgcy'
+2026-07-19 06:30:37,520 [INFO] ApplicationService: Connection pool status: active=31, idle=10 | caller=ConfigManager cpu_util=18% extra='r7f0vmzv3w9xf8wexdqyu0ss0h304cgcidv768n'
+2026-07-19 06:30:37,557 [INFO] ApplicationService: Cleaned up expired user cache items | ip=10.0.0.12 endpoint=/api/v1/backup/create caller=BackupAgent cpu_util=26%     
+2026-07-19 06:30:53,000 [INFO] ApplicationService: Cleaned up expired user cache items | trace_id=fbdb2337fcc94f75 extra='y6xthh1qfbxm3qm9o1g0x0exop3i4mw0hetkt25sfsnwudb'
+2026-07-19 06:31:04,610 [INFO] ApplicationService: Connection pool status: active=26, idle=16 | req_id=901ac3013869 endpoint=/api/v1/system/status caller=BackupAgent extra='uwu'
+2026-07-19 06:31:04,731 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=52cfa058d1d2 ip=10.0.0.12 endpoint=/api/v2/restore caller=BackupAgent mem
+2026-07-19 06:31:10,180 [INFO] ApplicationService: Cleaned up expired user cache items | ip=10.0.0.12 endpoint=/api/v2/restore caller=DbConnector cpu_util=71% extra='1y0'
+2026-07-19 06:35:05,180 [INFO] ApplicationService: Connection pool status: active=9, idle=14 | req_id=e7a9a8c88566 ip=10.0.0.12 endpoint=/api/v1/backup/create cpu_util=42% mem
+2026-07-19 06:35:05,375 [INFO] ApplicationService: Connection pool status: active=10, idle=10 | req_id=e1ea4a65a8a1 ip=172.16.254.1 cpu_util=30% mem_util=63% extra='wo7lzcfrk39'
+2026-07-19 06:38:54,375 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/api/v2/restore cpu_util=36% mem_util=87% extra='3cpr88ml73juupp51e0472'
+2026-07-19 06:42:09,375 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=72ebfd7332dc endpoint=/api/v1/backup/create mem_util=44% extra='a6lvc0ss7'
+2026-07-19 06:42:09,379 [INFO] ApplicationService: Connection pool status: active=38, idle=12 | req_id=9782a3f119ae caller=DbConnector mem_util=71% extra='nin6cu0ajl9y4gfgvyigw'
+2026-07-19 06:42:14,651 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=a31aefd67458 mem_util=32% extra='bsu27csraox8yyze3nmpvcdd6ctxtxssbmo6o68a'
+2026-07-19 06:42:14,659 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.1.50 cpu_util=11% extra='lyu00nsap9fif89ksy3dxq85tf9rq1xp2qz3z0eluosh'
+2026-07-19 06:42:17,634 [INFO] ApplicationService: Connection pool status: active=9, idle=15 | req_id=e0852a3e5c95 caller=DbConnector cpu_util=12% mem_util=63% extra='p78jzy7x'
+2026-07-19 06:42:29,532 [INFO] ApplicationService: Handled request successfully in 26ms | ip=10.0.0.12 endpoint=/api/v1/backup/create cpu_util=60% mem_util=82% extra='r27'
+2026-07-19 06:42:33,430 [INFO] ApplicationService: Handled request successfully in 44ms | endpoint=/api/v1/backup/create caller=BackupAgent cpu_util=68% mem_util=55%     
+2026-07-19 06:44:10,430 [INFO] ApplicationService: Connection pool status: active=7, idle=6 | req_id=bcd46f4f9564 ip=192.168.2.115 cpu_util=45% extra='g9m4spqd5sghdw3f5v59t3q'
+2026-07-19 06:44:10,553 [INFO] ApplicationService: Handled request successfully in 35ms | endpoint=/api/v2/restore extra='xcnoio0ync38sf35mz7nf5ye9tta39jolt2kjbhlehwb3uin'
+2026-07-19 06:44:11,028 [INFO] ApplicationService: Handled request successfully in 46ms | endpoint=/api/v2/restore cpu_util=24% extra='vhlcjitpde91c7t1zs1oogfl626ywp5y11j'
+2026-07-19 06:44:25,232 [INFO] ApplicationService: Connection pool status: active=44, idle=17 | ip=192.168.2.115 caller=BackupAgent cpu_util=47% mem_util=30% extra='y8ms2198rtb'
+2026-07-19 06:44:27,245 [INFO] ApplicationService: Handled request successfully in 46ms | caller=BackupAgent extra='39naaxo770w0vb6pov4j9lvbindbcde7ck9h49zckln2qzcowjnqu1'
+2026-07-19 06:44:27,390 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=79959575fe46 ip=172.16.254.1 endpoint=/api/v1/auth/login caller=ConfigMan
+2026-07-19 06:44:28,747 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=0a178ee9d6c3 caller=BackupAgent cpu_util=29% extra='9yqe15ac8c87brrbi5uxy'
+2026-07-19 06:44:33,272 [INFO] ApplicationService: Handled request successfully in 6ms | ip=172.16.254.1 endpoint=/api/v1/system/status extra='lqs7ivz8goy0lsfwf7gngh1jiq'
+2026-07-19 06:44:38,241 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=986d720bd214 ip=192.168.2.115 endpoint=/api/v1/backup/create cpu_util=20%
+2026-07-19 06:44:38,407 [INFO] ApplicationService: Handled request successfully in 39ms | endpoint=/api/v1/auth/login extra='hstp8c40lw8kg7ytbknjqj48pq7dau1ka0vejs0skb64c'
+2026-07-19 06:44:41,889 [INFO] ApplicationService: Cleaned up expired user cache items | ip=172.16.254.1 cpu_util=34% extra='2apo22ydaynwhvk9sioqpf7evk8phum12niwun18336i'
+2026-07-19 06:54:41,889 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=6e02e7816b3d endpoint=/api/v1/auth/login caller=DbConnector cpu_util=59% 
+2026-07-19 06:54:42,288 [INFO] ApplicationService: Handled request successfully in 32ms | req_id=955e4094cf89 ip=10.0.0.12 endpoint=/metrics extra='d84mvbjlc6nmotzqf6pxh5'
+2026-07-19 06:54:54,920 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=172.16.254.1 cpu_util=13% mem_util=56% extra='t6isqmngltkw1auiz0t786n54tc1zyb'
+2026-07-19 06:54:57,635 [WARN] ApplicationService: Connection pool expansion threshold reached | caller=DbConnector cpu_util=46% mem_util=42% extra='16ewrq7duohh5qeuskv12hxl9vfy'
+2026-07-19 06:56:41,635 [INFO] ApplicationService: Connection pool status: active=45, idle=7 | mem_util=32% extra='98b7rxhrjvlzoepocuzpr9tz68vpinv5xkera3a61y47rnjx3xzxccqf9sfo'
+2026-07-19 06:56:46,071 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=a11a8e59c0b3 ip=10.0.0.12 caller=ConfigManager extra='dignx94hlz75k6gcsbk'
+2026-07-19 06:59:41,071 [INFO] ApplicationService: Cleaned up expired user cache items | ip=172.16.254.1 caller=TomcatAccessFilter mem_util=52% extra='fklzwy5wbkswwvhnqz'
+2026-07-19 06:59:42,905 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=ed5caa739021 caller=TomcatAccessFilter extra='qjxx3z5gcl9krem9wxfrs9r3f1i'
+2026-07-19 06:59:44,011 [INFO] ApplicationService: Handled request successfully in 38ms | req_id=48c861967619 caller=ConfigManager mem_util=87% extra='561qj9xs7xufles7v9n'
+2026-07-19 06:59:44,462 [INFO] ApplicationService: Connection pool status: active=50, idle=6 | caller=TomcatAccessFilter mem_util=49% extra='ebji2xoz3kgxl4x6ry6lf1dqqfkjo2f8o1'
+2026-07-19 07:05:44,462 [WARN] ApplicationService: Connection pool expansion threshold reached | caller=WebServiceHelper extra='bnp8yb6x3gc8wmj3gyhgqt3x201fxv0f3cjt06rgslf23dnsn'
+2026-07-19 07:05:57,063 [WARN] ApplicationService: Connection pool expansion threshold reached | caller=BackupAgent extra='e652qu5050zh67bwfxj6m6qow8xrw9pr3s6ygi0hf86hhw3cq55l49'
+2026-07-19 07:07:27,063 [INFO] ApplicationService: Connection pool status: active=44, idle=9 | req_id=77c8c14b84c2 ip=172.16.254.1 caller=TomcatAccessFilter cpu_util=80%      
+2026-07-19 07:07:31,953 [INFO] ApplicationService: Handled request successfully in 48ms | req_id=20c152cb314d ip=192.168.1.50 cpu_util=85% extra='fz31wbrwxq7n4ujw8e620q0b'
+2026-07-19 07:07:31,982 [INFO] ApplicationService: Connection pool status: active=44, idle=12 | ip=10.0.0.12 caller=WebServiceHelper cpu_util=42% extra='s7iansv7mo08r8k47rca3it'
+2026-07-19 07:07:34,511 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=6226469242b1 endpoint=/api/v1/backup/create extra='hvbkbguin1ttlmb8kqhv5i'
+2026-07-19 07:07:36,102 [INFO] ApplicationService: Connection pool status: active=5, idle=16 | ip=192.168.2.115 endpoint=/api/v1/auth/login caller=WebServiceHelper cpu_util=16
+2026-07-19 07:07:36,379 [INFO] ApplicationService: Connection pool status: active=14, idle=22 | req_id=126fa037c206 ip=172.16.254.1 endpoint=/api/v1/system/status cpu_util=22% 
+2026-07-19 07:07:38,657 [INFO] ApplicationService: Connection pool status: active=38, idle=8 | req_id=cb9d63d683a6 ip=10.0.0.12 endpoint=/api/v2/restore mem_util=37% extra='05'
+2026-07-19 07:10:49,657 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=52a3e6e3e4f9 ip=10.0.0.12 caller=TomcatAccessFilter cpu_util=11% mem_util
+2026-07-19 07:10:54,283 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=c279836d6360 endpoint=/api/v1/auth/login caller=TomcatAccessFilter cpu_ut
+2026-07-19 07:11:09,868 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=d73387de13d6 ip=192.168.2.115 endpoint=/api/v1/system/status caller=Backu
+2026-07-19 07:11:09,897 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=21e04f71ef91 ip=172.16.254.1 cpu_util=66% mem_util=34% extra='p9jax806rue'
+2026-07-19 07:11:13,999 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 endpoint=/api/v1/auth/login caller=WebServiceHelper mem_util=58%
+2026-07-19 07:11:14,417 [INFO] ApplicationService: Connection pool status: active=11, idle=6 | caller=BackupAgent cpu_util=67% extra='zwigzj4ly7k0jadg3a7ckmfy43ghpmloqd37ygurr'
+2026-07-19 07:11:15,466 [INFO] ApplicationService: Handled request successfully in 29ms | endpoint=/api/v1/system/status cpu_util=84% mem_util=43% extra='hmfpjsa5dzawdh9v'
+2026-07-19 07:11:16,575 [INFO] ApplicationService: Handled request successfully in 47ms | req_id=58bbcf3f4f99 ip=172.16.254.1 cpu_util=46% extra='1befaquzzesh3rkv1ve2kg4k'
+2026-07-19 07:11:16,680 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=d440a5fc59f8 ip=192.168.2.115 mem_util=64% extra='i5p9clkostabkxof3r7dj7o'
+2026-07-19 07:11:16,892 [INFO] ApplicationService: Connection pool status: active=14, idle=5 | req_id=c938c2b1828f cpu_util=79% mem_util=30% extra='d4jo46gjt18mw3m43lx0wd87d75'
+2026-07-19 07:11:17,164 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=d57f8c4b8775 ip=192.168.2.115 cpu_util=10% extra='ksb08k5yi5uekghtwal0jsz'
+2026-07-19 07:11:20,087 [INFO] ApplicationService: Handled request successfully in 51ms | req_id=ed154bd0fadf endpoint=/api/v1/system/status caller=DbConnector mem_util=7
+2026-07-19 07:11:23,434 [INFO] ApplicationService: Connection pool status: active=44, idle=25 | req_id=0689acbd6139 ip=192.168.1.50 endpoint=/api/v1/backup/create caller=DbConn
+2026-07-19 07:11:27,049 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=49d66f269e46 ip=172.16.254.1 endpoint=/api/v1/auth/login cpu_util=43%    
+2026-07-19 07:11:27,323 [INFO] ApplicationService: Cleaned up expired user cache items | cpu_util=82% mem_util=31% extra='6dbl7v0id7sy9kepg10rvh8nabbo6vo1uyjwt7ceriqujnm'
+2026-07-19 07:11:38,807 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=16875a31f037 ip=192.168.2.115 cpu_util=49% mem_util=85% extra='0kejuhkuef'
+2026-07-19 07:11:40,169 [INFO] ApplicationService: Handled request successfully in 10ms | req_id=22284f5ae428 caller=BackupAgent mem_util=60% extra='vd0gy2tyo0qbfqz00xwk1'
+2026-07-19 07:15:27,169 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/api/v1/backup/create caller=ConfigManager extra='3gqdoirtmqnsel1jzfwm5'
+2026-07-19 07:15:32,552 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=172.16.254.1 endpoint=/api/v1/system/status caller=TomcatAccessFilter cpu_uti
+2026-07-19 07:15:32,834 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=7dfba5a9eaed ip=192.168.1.50 endpoint=/api/v2/restore mem_util=58%       
+2026-07-19 07:16:38,834 [INFO] ApplicationService: Handled request successfully in 6ms | req_id=a8f43822f367 ip=10.0.0.12 caller=ConfigManager cpu_util=48% mem_util=50% 
+2026-07-19 07:16:39,283 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=f97ae731efb0 extra='2z2jnxx5n0e8zxhkviknd5qzc0j2ezof2jrpp74rwgqji1yuphq7x'
+2026-07-19 07:16:42,766 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=10.0.0.12 endpoint=/api/v1/backup/create cpu_util=74% mem_util=81% extra='0af'
+2026-07-19 07:16:46,588 [INFO] ApplicationService: Cleaned up expired user cache items | trace_id=0b1d96b8122847c5 extra='8pcle0ougq1u605cxdwryyhr8ut5g5xxxc647kqxts3hw8g'
+2026-07-19 07:16:48,206 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=a94572e766f8 ip=192.168.2.115 endpoint=/metrics cpu_util=75% extra='j407g'
+2026-07-19 07:17:03,121 [INFO] ApplicationService: Handled request successfully in 44ms | trace_id=d844eb1929f649b3 extra='2tpo5hr4w6425f85qdyprmf0asgtle55q0c1vepf8a68m3q'
+2026-07-19 07:17:03,526 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=577e609200a4 caller=WebServiceHelper cpu_util=75% mem_util=83% extra='4o2'
+2026-07-19 07:17:03,876 [INFO] ApplicationService: Handled request successfully in 44ms | req_id=f1e1abdf84c6 ip=192.168.2.115 endpoint=/metrics extra='yk2r8selhd6k818jgg'
+2026-07-19 07:17:04,078 [INFO] ApplicationService: Connection pool status: active=43, idle=5 | caller=BackupAgent cpu_util=40% mem_util=73% extra='j9wb9spa5bfn620ojdmyfsla73w5'
+2026-07-19 07:19:22,078 [INFO] ApplicationService: Connection pool status: active=24, idle=25 | req_id=2c87da36ac33 ip=172.16.254.1 endpoint=/api/v2/restore caller=WebServiceHe
+2026-07-19 07:19:34,508 [INFO] ApplicationService: Cleaned up expired user cache items | ip=10.0.0.12 endpoint=/api/v1/auth/login caller=TomcatAccessFilter mem_util=60% 
+2026-07-19 07:19:45,313 [INFO] ApplicationService: Connection pool status: active=11, idle=9 | endpoint=/api/v1/backup/create caller=BackupAgent mem_util=89% extra='eyclkjqgwi'
+2026-07-19 07:19:49,120 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.1.50 endpoint=/api/v1/auth/login caller=TomcatAccessFilter mem_util=3
+2026-07-19 07:19:53,461 [INFO] ApplicationService: Handled request successfully in 48ms | endpoint=/metrics cpu_util=82% mem_util=88% extra='tnej70bem5dp1lk2wjq8zycct1wig'
+2026-07-19 07:19:56,313 [WARN] ApplicationService: Connection pool expansion threshold reached | trace_id=1cbfb2ccfb8d45ba extra='v4th0vqnc4v18skmbnk7x8aebw3e25y97knk4dpdov0ab41'
+2026-07-19 07:19:58,016 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 endpoint=/api/v1/backup/create mem_util=66% extra='zd2jxmtu0sjzi'
+2026-07-19 07:19:58,146 [INFO] ApplicationService: Connection pool status: active=6, idle=17 | req_id=51edaae34c15 ip=172.16.254.1 endpoint=/api/v1/auth/login extra='00pye0mmm'
+2026-07-19 07:20:09,982 [INFO] ApplicationService: Connection pool status: active=11, idle=17 | req_id=297be8b56c77 endpoint=/api/v1/auth/login caller=ConfigManager mem_util=45
+2026-07-19 07:20:14,774 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=DbConnector cpu_util=84% mem_
+2026-07-19 07:20:18,829 [INFO] ApplicationService: Connection pool status: active=25, idle=25 | req_id=950a250565c2 ip=192.168.2.115 endpoint=/metrics caller=WebServiceHelper  
+2026-07-19 07:25:18,829 [INFO] ApplicationService: Handled request successfully in 49ms | caller=BackupAgent mem_util=85% extra='i1ltwm5zgfu8nzi0ooss0siip507j4ygfsvroywmv'
+2026-07-19 07:25:23,326 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=10.0.0.12 caller=ConfigManager cpu_util=11% extra='4temz818ndpzp031ypi6kycf98'
+2026-07-19 07:25:39,063 [INFO] ApplicationService: Handled request successfully in 25ms | req_id=42b5954f2fe2 ip=192.168.1.50 cpu_util=77% mem_util=61% extra='xrpbjz9livh'
+2026-07-19 07:25:41,970 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.2.115 cpu_util=41% mem_util=30% extra='vst9sencxvx9b74cyft73mrqy7v67o'
+2026-07-19 07:25:57,466 [INFO] ApplicationService: Connection pool status: active=11, idle=4 | req_id=9b9976ffbd2b ip=192.168.2.115 mem_util=47% extra='r762b1e0566knvlwbb5vqcj'
+2026-07-19 07:26:08,576 [INFO] ApplicationService: Connection pool status: active=11, idle=9 | ip=192.168.2.115 mem_util=33% extra='909lkaznnzs0gl0xa83kuxrdgi6yvwheg6tmz3o4ewh'
+2026-07-19 07:30:02,576 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=41b46736e474 ip=10.0.0.12 mem_util=76% extra='wchxskiynffkf9pz92bqasj6b1c'
+2026-07-19 07:32:12,576 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=f2458fdec772 endpoint=/api/v2/restore caller=DbConnector cpu_util=14% mem
+2026-07-19 07:32:14,358 [INFO] ApplicationService: Cleaned up expired user cache items | cpu_util=58% mem_util=39% extra='ge47lxbju2ia6zo5rrsjheuc1qkb48v6ebzmhci3y6kpm6g'
+2026-07-19 07:32:14,588 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.2.115 cpu_util=33% extra='ipkl4njzh93wqwr5sdze73ilq6eb8vaux3fhljlgepw'
+2026-07-19 07:32:19,238 [INFO] ApplicationService: Handled request successfully in 58ms | ip=192.168.2.115 caller=DbConnector extra='vcgqbaodiid1uzktr2jbci9gj7l157hn17uk4'
+2026-07-19 07:32:19,395 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.1.50 caller=ConfigManager extra='xq0p1ew6sukhs5y5vyc8tbggn9te4ldr5e6b'
+2026-07-19 07:32:32,149 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=50c543588d7a endpoint=/api/v1/backup/create caller=BackupAgent cpu_util=5
+2026-07-19 07:32:45,985 [INFO] ApplicationService: Connection pool status: active=5, idle=15 | req_id=4c07429f8a4e caller=TomcatAccessFilter cpu_util=28% extra='ys3cagpvotrx31'
+2026-07-19 07:32:46,322 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=a39e5e2652a9 ip=172.16.254.1 endpoint=/api/v1/auth/login caller=ConfigMan
+2026-07-19 07:32:46,522 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=f41a1a8212e8 extra='41sisjlibaacg2ifcf6e3vsq8lyh6dofuqx1er9k60i3njjit80w4'
+2026-07-19 07:44:46,522 [INFO] ApplicationService: Cleaned up expired user cache items | caller=TomcatAccessFilter extra='mizu4bldfds7hso43qll51rsd4gh4zias6xttux056go01o'
+2026-07-19 07:44:46,828 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=b844410f03bf cpu_util=56% extra='i7klpg92jv1mtcx5ru0gsg3gh1scgvsu2jfryzl0'
+2026-07-19 07:45:02,549 [INFO] ApplicationService: Connection pool status: active=13, idle=18 | ip=172.16.254.1 caller=WebServiceHelper cpu_util=67% mem_util=80% extra='st5gxvp'
+2026-07-19 07:45:04,943 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=6fc876e72ba5 ip=192.168.1.50 endpoint=/api/v1/backup/create caller=WebSer
+2026-07-19 07:45:08,518 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=3c57863d5e6e ip=192.168.1.50 cpu_util=68% mem_util=34% extra='gxzlhd3mq7j'
+2026-07-19 07:45:08,539 [INFO] ApplicationService: Connection pool status: active=40, idle=21 | ip=172.16.254.1 caller=BackupAgent mem_util=65% extra='26bzg3578r41g4ytypllfqfjt'
+2026-07-19 07:45:18,609 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/metrics caller=DbConnector mem_util=61% extra='ky61lnvb5gyy5bc2gqelelw'
+2026-07-19 07:45:18,763 [INFO] ApplicationService: Handled request successfully in 52ms | req_id=e964e824ba7e endpoint=/api/v1/backup/create caller=TomcatAccessFilter cpu
+2026-07-19 07:45:18,805 [INFO] ApplicationService: Cleaned up expired user cache items | cpu_util=82% extra='r1oyvd3jmnhbnwxlnm27tjehben07hwwt78xfyxhojh4rsyopuynlguegy57'
+2026-07-19 07:45:31,510 [INFO] ApplicationService: Connection pool status: active=25, idle=13 | req_id=f50aaa4a0938 endpoint=/api/v1/system/status caller=ConfigManager mem_util
+2026-07-19 07:47:40,510 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=f5c54132306b ip=192.168.1.50 endpoint=/api/v2/restore caller=BackupAgent 
+2026-07-19 07:47:46,413 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=1050d77b5ace caller=WebServiceHelper cpu_util=10% mem_util=49% extra='hp'
+2026-07-19 07:47:49,004 [INFO] ApplicationService: Connection pool status: active=9, idle=10 | req_id=c920db0d7482 ip=172.16.254.1 cpu_util=44% extra='zbme086winwr7x6pe1lexda'
+2026-07-19 07:47:49,228 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=05077bf6f32a ip=192.168.1.50 mem_util=73% extra='tr33m7j6zbihp6b257ththw'
+2026-07-19 07:47:49,608 [INFO] ApplicationService: Handled request successfully in 59ms | req_id=02666bcf2995 ip=192.168.2.115 caller=ConfigManager mem_util=56% extra='f'
+2026-07-19 07:47:49,682 [INFO] ApplicationService: Handled request successfully in 27ms | ip=192.168.1.50 caller=BackupAgent extra='v9l8pp9v7k45zf5bgpunjbqugvjmjr15wxqek'
+2026-07-19 07:49:33,682 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=d3346c692823 caller=ConfigManager cpu_util=60% extra='3sourwp4ip76wjro5d'
+2026-07-19 07:49:37,539 [INFO] ApplicationService: Connection pool status: active=23, idle=5 | ip=10.0.0.12 mem_util=65% extra='xwnnr2zc19ojre9i3vl8sani7i9jea0fvncrp8hjvdtk4p'
+2026-07-19 07:50:55,539 [INFO] ApplicationService: Handled request successfully in 34ms | ip=192.168.2.115 caller=ConfigManager cpu_util=17% mem_util=64% extra='f0i0zcky'
+2026-07-19 07:50:56,019 [INFO] ApplicationService: Connection pool status: active=29, idle=9 | ip=172.16.254.1 mem_util=54% extra='rbbv9im1sj2omsjppptzegcz3x88yk9s8njre6g02lt'
+2026-07-19 07:50:56,080 [INFO] ApplicationService: Handled request successfully in 50ms | req_id=1beb3d483b90 endpoint=/api/v2/restore cpu_util=82% mem_util=84% extra='8'
+2026-07-19 07:50:56,322 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=d0e628354753 extra='lnd4kd49iwqsi7mu3mod9lv3pdovt0g5wpc1q4lyb2wpo76v33cw'
+2026-07-19 07:50:56,467 [INFO] ApplicationService: Handled request successfully in 14ms | req_id=b8b10a10e4f5 extra='ydeoqp51zpkq52r9g51plbx8pwr84dhkfof0qbigau0abnfzlvf9'
+2026-07-19 07:50:56,488 [INFO] ApplicationService: Cleaned up expired user cache items | caller=WebServiceHelper cpu_util=39% extra='26gk8wq8uudrk29yy0smrshuiex0sybtckn'
+2026-07-19 07:50:59,348 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.1.50 endpoint=/api/v1/auth/login cpu_util=47% mem_util=64% extra='4w'
+2026-07-19 07:51:00,838 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=2474a0f06947 ip=10.0.0.12 endpoint=/api/v1/backup/create caller=BackupAg
+2026-07-19 07:51:06,455 [INFO] ApplicationService: Connection pool status: active=11, idle=3 | req_id=416cdea858b6 ip=192.168.1.50 caller=TomcatAccessFilter mem_util=35%     
+2026-07-19 07:51:06,783 [INFO] ApplicationService: Connection pool status: active=28, idle=6 | caller=DbConnector cpu_util=24% extra='vac83si36745rpmb0ydoihsh0wrw5c27e0o8nqjk'
+2026-07-19 07:51:08,251 [INFO] ApplicationService: Handled request successfully in 49ms | ip=192.168.1.50 endpoint=/metrics caller=TomcatAccessFilter extra='1zdyy8p9lp32'
+2026-07-19 07:51:13,538 [INFO] ApplicationService: Handled request successfully in 17ms | req_id=46a8b77555a6 endpoint=/api/v2/restore caller=BackupAgent cpu_util=44%   
+2026-07-19 07:51:26,623 [INFO] ApplicationService: Connection pool status: active=18, idle=5 | ip=172.16.254.1 endpoint=/api/v1/backup/create cpu_util=56% extra='mjqbt7b8r678'
+2026-07-19 07:51:26,880 [INFO] ApplicationService: Handled request successfully in 32ms | mem_util=70% extra='k39fzq80s1ei0pu6pr73ap2zd0vkfr835hsrmkpiuh9obr56uxmvdq04a3t'
+2026-07-19 07:51:30,829 [INFO] ApplicationService: Connection pool status: active=40, idle=7 | caller=WebServiceHelper mem_util=58% extra='add0fi4ld8surnzl7w8pgvclmq6v772y0fw'
+2026-07-19 07:51:31,147 [INFO] ApplicationService: Connection pool status: active=48, idle=16 | req_id=9b1e74242948 ip=172.16.254.1 endpoint=/api/v1/auth/login caller=ConfigMa
+2026-07-19 07:51:42,570 [INFO] ApplicationService: Connection pool status: active=27, idle=25 | req_id=dec0a3c72813 cpu_util=35% extra='tk0mc577g08888t4ga8iski122cg2urgk47b628'
+2026-07-19 07:51:42,796 [INFO] ApplicationService: Handled request successfully in 12ms | req_id=0863fa8fa334 caller=ConfigManager cpu_util=25% extra='rv1umolk48hlrme8v4'
+2026-07-19 07:51:42,901 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=83bed5b2314d caller=BackupAgent extra='7ycc0ueyxsxtydc0nmh5qz20yrelft1f9'
+2026-07-19 07:51:44,398 [INFO] ApplicationService: Handled request successfully in 10ms | req_id=df48a0442888 cpu_util=44% extra='04a3nldggcxmz00pu3lquzejl070do488anrmdo'
+2026-07-19 07:51:44,468 [INFO] ApplicationService: Handled request successfully in 26ms | endpoint=/api/v2/restore cpu_util=48% extra='0mq6qsc5cdqr4yen9quk5k70r7z3dtbkdm'
+2026-07-19 07:51:44,677 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=10.0.0.12 endpoint=/api/v2/restore caller=BackupAgent mem_util=53% extra='du'
+2026-07-19 07:51:45,134 [INFO] ApplicationService: Connection pool status: active=44, idle=21 | endpoint=/api/v1/auth/login caller=ConfigManager cpu_util=25% extra='hfsge0sc6b'
+2026-07-19 07:51:57,226 [INFO] ApplicationService: Handled request successfully in 58ms | endpoint=/api/v1/system/status caller=DbConnector mem_util=62% extra='90h79f3ep'
+2026-07-19 07:56:57,226 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 cpu_util=16% mem_util=42% extra='f0vmb28hubme1mgvpii2sqp46u3911'
+2026-07-19 07:56:57,282 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=f5b1c17b2ac8 endpoint=/api/v1/auth/login caller=TomcatAccessFilter      
+2026-07-19 07:56:57,693 [INFO] ApplicationService: Connection pool status: active=21, idle=10 | mem_util=33% extra='jod6nlpkeiysgcuy2ibpg2806vn8ssckew494pma195phthsu8sa3fj3j0h'
+2026-07-19 07:57:01,212 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=99539d7103f3 ip=172.16.254.1 endpoint=/api/v1/auth/login extra='umx1ipu7'
+2026-07-19 07:57:12,696 [INFO] ApplicationService: Connection pool status: active=35, idle=20 | req_id=ecec85fbc553 ip=192.168.1.50 extra='fslsqrpw8aub3eubtk51wncvzttjd64eg4us'
+2026-07-19 07:57:13,129 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=dc534abed637 ip=192.168.1.50 cpu_util=38% extra='6ge48bzrzgqeoosklm2l387'
+2026-07-19 07:57:14,978 [INFO] ApplicationService: Connection pool status: active=16, idle=5 | req_id=960ac7f0f48a endpoint=/api/v1/auth/login caller=WebServiceHelper cpu_uti
+2026-07-19 07:57:17,191 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=da0fb7b10563 cpu_util=24% extra='ql797f62am49f9htadjow0vvvd51hia4svg912d'
+2026-07-19 07:57:21,489 [INFO] ApplicationService: Connection pool status: active=48, idle=25 | req_id=c4b0c2ed7fd2 ip=192.168.1.50 endpoint=/metrics caller=TomcatAccessFilter
+2026-07-19 07:58:49,489 [WARN] ApplicationService: Connection pool expansion threshold reached | caller=BackupAgent cpu_util=44% mem_util=53% extra='2814skcs56c7voo8vgo86ttuwsl'
+2026-07-19 07:58:49,577 [INFO] ApplicationService: Handled request successfully in 46ms | req_id=57ece5ad0528 endpoint=/metrics mem_util=66% extra='7w1fz5r7b3oaoq0okzrd6'
+2026-07-19 07:58:49,846 [INFO] ApplicationService: Cleaned up expired user cache items | caller=WebServiceHelper extra='ium5o0mx8mmzckbj8e83cypu6yejce4pqbgze5e5tcxqvmh2'
+2026-07-19 07:59:04,978 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=f78ab8c0bd33 ip=172.16.254.1 endpoint=/api/v2/restore mem_util=36%      
+2026-07-19 08:01:43,978 [INFO] ApplicationService: Connection pool status: active=35, idle=16 | req_id=dfce6828511a ip=192.168.1.50 endpoint=/api/v1/backup/create caller=Backu
+2026-07-19 08:01:44,434 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=8caec8965710 endpoint=/api/v2/restore caller=ConfigManager extra='qkepce'
+2026-07-19 08:01:44,683 [INFO] ApplicationService: Connection pool status: active=47, idle=15 | ip=192.168.1.50 caller=WebServiceHelper mem_util=77% extra='rnbh1kijad99d4dbxw4'
+2026-07-19 08:01:49,373 [INFO] ApplicationService: Handled request successfully in 6ms | req_id=b50bc9f6fe68 ip=192.168.1.50 caller=ConfigManager mem_util=65% extra='0c'
+2026-07-19 08:01:49,820 [INFO] ApplicationService: Connection pool status: active=14, idle=22 | req_id=f1de0275f40c endpoint=/api/v2/restore extra='fma5fq05e7tkd1nspzasi36oe1z'
+2026-07-19 08:01:50,204 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/api/v2/restore mem_util=63% extra='i0366whgwjjwypvvgdwcgcza4vgg5xq44y'
+2026-07-19 08:01:50,400 [INFO] ApplicationService: Handled request successfully in 45ms | req_id=f271a7c631d6 endpoint=/api/v2/restore caller=DbConnector mem_util=54%   
+2026-07-19 08:01:50,728 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/api/v1/backup/create extra='5xmxv8nj764csaalzpnuug1up1i6t52wyshxqiukg'
+2026-07-19 08:01:51,857 [INFO] ApplicationService: Connection pool status: active=10, idle=19 | ip=10.0.0.12 caller=WebServiceHelper mem_util=43% extra='nxcn3hsbgkpwqzpw38vc29'
+2026-07-19 08:01:57,602 [INFO] ApplicationService: Handled request successfully in 56ms | endpoint=/metrics caller=WebServiceHelper mem_util=48% extra='u6as42p5k1az53mb5'
+2026-07-19 08:02:11,624 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=172.16.254.1 endpoint=/api/v2/restore caller=BackupAgent mem_util=36%       
+2026-07-19 08:02:16,309 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/metrics cpu_util=75% mem_util=77% extra='bzulh73hkbptscygh5jfba6atea6'
+2026-07-19 08:02:16,752 [INFO] ApplicationService: Cleaned up expired user cache items | ip=172.16.254.1 endpoint=/api/v1/backup/create caller=WebServiceHelper cpu_util
+2026-07-19 08:02:16,772 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=81144abfa5e8 ip=172.16.254.1 caller=BackupAgent cpu_util=15% mem_util=47
+2026-07-19 08:02:17,779 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=be16a8567cdf mem_util=76% extra='f46gn282owk9s35o356ma8jtynwzgckwpt0ofxt'
+2026-07-19 08:02:17,826 [INFO] ApplicationService: Handled request successfully in 3ms | req_id=9f444d935ae2 ip=172.16.254.1 endpoint=/api/v1/system/status cpu_util=83%
+2026-07-19 08:02:17,900 [INFO] ApplicationService: Cleaned up expired user cache items | ip=172.16.254.1 endpoint=/api/v2/restore caller=WebServiceHelper extra='umb7sv9'
+2026-07-19 08:02:20,795 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=c20a74122813 ip=10.0.0.12 caller=BackupAgent cpu_util=81% mem_util=87%  
+2026-07-19 08:02:21,186 [INFO] ApplicationService: Connection pool status: active=19, idle=22 | req_id=f98c3a5d5e56 endpoint=/api/v2/restore caller=BackupAgent cpu_util=64%   
+2026-07-19 08:04:26,186 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/metrics caller=TomcatAccessFilter mem_util=42% extra='l490t5fa201qsdj'
+2026-07-19 08:04:37,891 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=abb728c0a5cf ip=10.0.0.12 endpoint=/metrics caller=DbConnector cpu_util=
+2026-07-19 08:06:44,891 [INFO] ApplicationService: Handled request successfully in 3ms | ip=192.168.2.115 extra='dj3ta7xmheatushfgqt7g0jomuql3e70jf7qvmcw2pdyg3r6kg22g6h'
+2026-07-19 08:06:45,052 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=d112b33d1a1a endpoint=/api/v1/auth/login caller=DbConnector cpu_util=34%
+2026-07-19 08:07:52,052 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/auth/login mem_util=38% extra='j4wipce0yyoskn0wfqg6xrpkk6hq8g7'
+2026-07-19 08:07:52,426 [INFO] ApplicationService: Handled request successfully in 38ms | req_id=9ace43fc8b24 cpu_util=21% extra='wokku1t99ag7ordzlqxxii1rvsdmpoau2x8iacp'
+2026-07-19 08:07:53,680 [INFO] ApplicationService: Connection pool status: active=41, idle=3 | ip=172.16.254.1 endpoint=/api/v2/restore cpu_util=69% mem_util=42% extra='bwuke'
+2026-07-19 08:07:57,923 [INFO] ApplicationService: Cleaned up expired user cache items | cpu_util=72% extra='ffnz6z7qgbzoigy32oocmxs4admy8168g45snzv3bxjgc99l3uz0gch1gwd'
+2026-07-19 08:07:58,096 [INFO] ApplicationService: Connection pool status: active=41, idle=12 | ip=192.168.2.115 mem_util=69% extra='a6sch1gv1hmnje2hrjo9dvhlg0y05hi40mjkbx1hv5'
+2026-07-19 08:07:58,319 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=ed256661372a ip=172.16.254.1 endpoint=/metrics cpu_util=84% mem_util=84%
+2026-07-19 08:08:12,929 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v2/restore caller=WebServiceHelper mem_util=70% extra='ki0q7l14hy'
+2026-07-19 08:08:25,031 [INFO] ApplicationService: Connection pool status: active=32, idle=5 | endpoint=/api/v1/backup/create caller=WebServiceHelper cpu_util=46% extra='76zz'
+2026-07-19 08:08:29,111 [INFO] ApplicationService: Connection pool status: active=45, idle=17 | req_id=425f953b45c3 ip=192.168.2.115 caller=WebServiceHelper extra='0lmibknlm4d'
+2026-07-19 08:21:29,111 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=d880b0a48bb5 endpoint=/api/v1/backup/create caller=TomcatAccessFilter me
+2026-07-19 08:36:29,111 [INFO] ApplicationService: Handled request successfully in 21ms | req_id=28187fb0a28d extra='4oem5r38yqjgaasizn5yzp6i8fla4wre70cm6ezzgoclwrfi0nl0'
+2026-07-19 08:36:29,573 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 caller=TomcatAccessFilter cpu_util=34% mem_util=46% extra='qmh4'
+2026-07-19 08:38:15,573 [INFO] ApplicationService: Connection pool status: active=9, idle=18 | ip=10.0.0.12 endpoint=/api/v1/system/status cpu_util=63% mem_util=69% extra='z6'
+2026-07-19 08:41:01,573 [INFO] ApplicationService: Cleaned up expired user cache items | ip=172.16.254.1 caller=DbConnector cpu_util=16% extra='jvj4gpxchfk6xe6q21b27kpv'
+2026-07-19 08:41:02,034 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=cfd86699769c endpoint=/api/v1/auth/login mem_util=44% extra='jn1tv6pyzpj'
+2026-07-19 08:46:02,034 [INFO] ApplicationService: Connection pool status: active=47, idle=15 | ip=172.16.254.1 endpoint=/api/v1/system/status caller=TomcatAccessFilter cpu_ut
+2026-07-19 08:46:04,868 [INFO] ApplicationService: Handled request successfully in 56ms | req_id=0780f9ece766 caller=DbConnector mem_util=35% extra='ktwg2d8fhwbxwj10kzr8'
+2026-07-19 08:46:05,144 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=34867366c3af endpoint=/api/v1/backup/create caller=BackupAgent mem_util=
+2026-07-19 08:46:17,235 [INFO] ApplicationService: Connection pool status: active=41, idle=25 | ip=172.16.254.1 endpoint=/api/v1/system/status extra='sdh820a0x3u3wy1406c0e6jar'
+2026-07-19 08:46:19,279 [INFO] ApplicationService: Connection pool status: active=30, idle=24 | ip=192.168.2.115 caller=BackupAgent cpu_util=19% extra='fgml35wvxi9cyuxm02o5w4w'
+2026-07-19 08:46:19,652 [INFO] ApplicationService: Handled request successfully in 44ms | req_id=0015948a3e4a ip=192.168.1.50 caller=BackupAgent extra='wj8bb89zcd7hbzwq2'
+2026-07-19 08:46:34,275 [INFO] ApplicationService: Connection pool status: active=40, idle=7 | endpoint=/api/v1/backup/create caller=DbConnector extra='lkvkpk5mvb5j3x7vrdfvy0'
+2026-07-19 08:46:34,330 [INFO] ApplicationService: Connection pool status: active=9, idle=7 | ip=172.16.254.1 caller=TomcatAccessFilter mem_util=77% extra='pez3fndejng65nqnu'
+2026-07-19 08:46:38,729 [INFO] ApplicationService: Connection pool status: active=6, idle=25 | req_id=5a16d582aa3f ip=192.168.2.115 extra='l6gudmltfckk25fx9dj6n1i749ks81pj9yw'
+2026-07-19 08:46:52,117 [INFO] ApplicationService: Connection pool status: active=48, idle=6 | req_id=bfc226df4726 ip=172.16.254.1 endpoint=/api/v1/auth/login mem_util=76%   
+2026-07-19 08:46:54,539 [INFO] ApplicationService: Cleaned up expired user cache items | cpu_util=34% mem_util=73% extra='36iait1adyecb0nctt1957v5iouvu0j8sfvj5olmvkkzxd'
+2026-07-19 08:46:59,939 [INFO] ApplicationService: Connection pool status: active=44, idle=20 | req_id=bb81819944ee cpu_util=77% extra='3d38bvu8jai1v9ae39esnb1fy1wv9w6gpqa71zb'
+2026-07-19 08:47:02,366 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=67a455529617 endpoint=/api/v1/backup/create caller=BackupAgent extra='18'
+2026-07-19 08:47:16,477 [INFO] ApplicationService: Handled request successfully in 18ms | req_id=4938e7e94fce ip=192.168.2.115 caller=ConfigManager cpu_util=55% mem_util
+2026-07-19 08:47:19,788 [INFO] ApplicationService: Connection pool status: active=9, idle=21 | req_id=8b381224779e endpoint=/api/v1/auth/login caller=WebServiceHelper cpu_uti
+2026-07-19 08:50:44,788 [INFO] ApplicationService: Handled request successfully in 18ms | req_id=d92b25957ce3 caller=TomcatAccessFilter extra='lifw0r8n0hp0y2z3gtcz463j7p'
+2026-07-19 08:51:52,788 [INFO] ApplicationService: Handled request successfully in 48ms | req_id=b408869ed636 ip=192.168.2.115 endpoint=/api/v1/system/status extra='097m'
+2026-07-19 08:51:54,809 [INFO] ApplicationService: Connection pool status: active=9, idle=6 | ip=172.16.254.1 endpoint=/api/v1/auth/login caller=BackupAgent extra='u6watfw90'
+2026-07-19 08:51:54,823 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=3a8d303d8db2 cpu_util=39% mem_util=40% extra='sz9jqz50xvlgwa4jwkk8jt1aw3'
+2026-07-19 08:51:57,587 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.2.115 caller=DbConnector cpu_util=46% mem_util=60% extra='dk9zknmxhl'
+2026-07-19 08:51:57,673 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=41481c43eea2 endpoint=/api/v1/backup/create cpu_util=68% mem_util=78%   
+2026-07-19 08:51:59,061 [INFO] ApplicationService: Connection pool status: active=44, idle=6 | endpoint=/api/v1/system/status caller=ConfigManager cpu_util=46% extra='fpktqtt'
+2026-07-19 08:51:59,432 [INFO] ApplicationService: Handled request successfully in 2ms | ip=10.0.0.12 cpu_util=75% mem_util=88% extra='96keg6reuw37dptc578z6661kntpncw9e'
+2026-07-19 08:52:00,504 [INFO] ApplicationService: Connection pool status: active=19, idle=11 | req_id=7622dd2aec40 ip=192.168.1.50 endpoint=/metrics cpu_util=15% extra='k0u9t'
+2026-07-19 08:52:02,087 [INFO] ApplicationService: Connection pool status: active=38, idle=16 | ip=10.0.0.12 endpoint=/metrics caller=ConfigManager cpu_util=42% extra='12uazei'
+2026-07-19 08:52:02,335 [INFO] ApplicationService: Connection pool status: active=37, idle=9 | req_id=4598f59f26b3 endpoint=/api/v1/system/status mem_util=48% extra='kneuntns'
+2026-07-19 08:52:02,705 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=3e1655fbe7e8 ip=192.168.2.115 endpoint=/api/v1/auth/login extra='kx4s58y'
+2026-07-19 08:52:05,006 [INFO] ApplicationService: Connection pool status: active=30, idle=9 | req_id=e5b257134a7f endpoint=/api/v1/auth/login mem_util=61% extra='s8k44bzvypa'
+2026-07-19 08:52:05,505 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=77e94288e4c4 endpoint=/api/v1/backup/create extra='z1ufuc2uo87125ekwqlao'
+2026-07-19 08:52:05,748 [INFO] ApplicationService: Handled request successfully in 48ms | caller=TomcatAccessFilter extra='q5gwubd2dn9xciucbs91e5kreubh2tp4fxp255wee5438v'
+2026-07-19 08:52:08,801 [INFO] ApplicationService: Connection pool status: active=27, idle=11 | req_id=153c015b454f endpoint=/metrics caller=WebServiceHelper cpu_util=84% mem_
+2026-07-19 08:52:09,280 [INFO] ApplicationService: Handled request successfully in 43ms | req_id=8440ee50ccd7 caller=BackupAgent cpu_util=22% mem_util=69% extra='q998zw1'
+2026-07-19 08:52:13,877 [INFO] ApplicationService: Connection pool status: active=46, idle=3 | ip=192.168.2.115 endpoint=/api/v1/backup/create cpu_util=80% mem_util=80%      
+2026-07-19 08:52:18,353 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=7571a7e6b605 endpoint=/api/v1/auth/login cpu_util=12% mem_util=39%      
+2026-07-19 08:52:18,419 [INFO] ApplicationService: Connection pool status: active=23, idle=10 | ip=192.168.1.50 endpoint=/api/v1/system/status mem_util=76% extra='e3kdknz3pt9w'
+2026-07-19 08:52:24,279 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=122934607735 caller=ConfigManager cpu_util=73% mem_util=66% extra='v4djr'
+2026-07-19 08:52:24,313 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/metrics extra='5qk0nhmib5k8sq3tr5hm8201cv353vcd033eogdjjngff7d6tbp8da'
+2026-07-19 08:52:29,332 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/api/v1/backup/create cpu_util=57% extra='3spq74srqlktu9d6ptyzha17mtmc'
+2026-07-19 08:52:42,120 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=26db720b51a0 ip=172.16.254.1 cpu_util=12% extra='xmbpwexygyd0ugh7xk1sze7'
+2026-07-19 08:52:45,706 [WARN] ApplicationService: Connection pool expansion threshold reached | caller=BackupAgent extra='plyahnsptlltbmfec7j7k6qcds9fxfr6yq601q6zktdvprff7pbxn'
+2026-07-19 08:52:45,747 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=74f409308667 ip=10.0.0.12 endpoint=/api/v1/backup/create caller=TomcatAc
+2026-07-19 08:52:50,450 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=53fd6b81b431 caller=WebServiceHelper cpu_util=21% mem_util=49% extra='ei'
+2026-07-19 08:52:50,833 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=10.0.0.12 endpoint=/metrics extra='ludu2f70jdou39br1ynvmq50nrsa5v3knqccng43o'
+2026-07-19 08:52:51,280 [INFO] ApplicationService: Connection pool status: active=33, idle=5 | req_id=27f39f5e7ece ip=10.0.0.12 caller=DbConnector cpu_util=20% mem_util=38%  
+2026-07-19 08:52:56,219 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=b0c6966792d8 cpu_util=78% extra='1uvd7whc611aap52fe8tneuliqr1684kq7fc7nj'
+2026-07-19 08:53:08,641 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 endpoint=/api/v2/restore extra='hvhyvcm4qop4i4u8ycc67q27rt6f7n'
+2026-07-19 08:53:18,911 [INFO] ApplicationService: Connection pool status: active=24, idle=2 | ip=172.16.254.1 endpoint=/api/v2/restore cpu_util=61% mem_util=74% extra='yq5tx'
+2026-07-19 08:53:23,372 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=1b949552b96f endpoint=/api/v2/restore caller=TomcatAccessFilter mem_util
+2026-07-19 08:53:23,646 [INFO] ApplicationService: Connection pool status: active=25, idle=4 | req_id=9b133eb5ad1c ip=192.168.1.50 cpu_util=27% extra='gmf4gnkezjjd52wzim018ui'
+2026-07-19 08:57:11,646 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/backup/create mem_util=59% extra='du2iflkz955ohx0ovdu35mhgt594'
+2026-07-19 08:57:16,470 [INFO] ApplicationService: Handled request successfully in 49ms | endpoint=/api/v1/auth/login caller=WebServiceHelper cpu_util=51% mem_util=48%  
+2026-07-19 08:57:19,684 [INFO] ApplicationService: Handled request successfully in 40ms | req_id=8b2f6a694f4d ip=192.168.1.50 endpoint=/api/v1/auth/login extra='h40xuywt'
+2026-07-19 09:03:19,684 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 endpoint=/api/v1/backup/create extra='vtpgacit9q4wlrzb5q27ob8f'
+2026-07-19 09:03:19,943 [INFO] ApplicationService: Handled request successfully in 19ms | endpoint=/metrics cpu_util=13% extra='y1vjrrxn8xw4li0k2zje0gt8xqtbsf1okdxl1ngtp'
+2026-07-19 09:04:39,943 [INFO] ApplicationService: Handled request successfully in 7ms | ip=192.168.1.50 endpoint=/api/v2/restore cpu_util=29% extra='ioz994oibrskr2cuiq'
+2026-07-19 09:04:50,403 [INFO] ApplicationService: Connection pool status: active=42, idle=2 | req_id=33787882f758 caller=BackupAgent mem_util=38% extra='3w2k56kqwtnmlsf5tapj'
+2026-07-19 09:04:50,626 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v1/auth/login caller=DbConnector extra='o608i1xoqdgadctkb18fs1o7o'
+2026-07-19 09:04:50,718 [INFO] ApplicationService: Handled request successfully in 54ms | ip=10.0.0.12 caller=DbConnector cpu_util=48% mem_util=43% extra='bv2z24x6b036nc'
+2026-07-19 09:05:03,927 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=199e5c66e018 ip=172.16.254.1 caller=WebServiceHelper extra='0zmetv0hb9l2'
+2026-07-19 09:05:04,394 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=81a231ef3ad1 caller=TomcatAccessFilter extra='ibkm3qnd5penv0cgah5saqyq0m'
+2026-07-19 09:05:09,067 [INFO] ApplicationService: Connection pool status: active=45, idle=18 | ip=172.16.254.1 mem_util=63% extra='v912byyvtlhrmmjihi5pzxny2rfngatox496ijpeec6'
+2026-07-19 09:05:12,950 [INFO] ApplicationService: Handled request successfully in 2ms | req_id=02fe67a30dae ip=172.16.254.1 cpu_util=72% mem_util=34% extra='cr2s5k17id'
+2026-07-19 09:05:13,173 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v2/restore mem_util=79% extra='wsmc38j2wfb6euwcxtmmfp0q8inr0dw52s'
+2026-07-19 09:05:24,646 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 endpoint=/api/v1/system/status cpu_util=35% mem_util=76%       
+2026-07-19 09:17:24,646 [INFO] ApplicationService: Handled request successfully in 6ms | caller=TomcatAccessFilter extra='p21rcfdho55lc9bqxayptzk352bh6mvsmtrabgw4rwgtcl'
+2026-07-19 09:17:39,904 [INFO] ApplicationService: Cleaned up expired user cache items | ip=10.0.0.12 caller=ConfigManager cpu_util=35% mem_util=39% extra='knhl5uwmpd58'
+2026-07-19 09:17:44,659 [INFO] ApplicationService: Handled request successfully in 54ms | ip=192.168.2.115 caller=TomcatAccessFilter cpu_util=40% extra='urp4y2x7hq9t0vts'
+2026-07-19 09:24:44,659 [INFO] ApplicationService: Handled request successfully in 53ms | req_id=7c1573f8cb64 ip=10.0.0.12 endpoint=/api/v1/auth/login caller=ConfigManag
+2026-07-19 09:24:45,754 [INFO] ApplicationService: Handled request successfully in 22ms | req_id=18ae741a3073 caller=WebServiceHelper extra='vg7rwc6992ew0rizagyfojuzvy95'
+2026-07-19 09:24:46,191 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=fd4f257245a4 ip=192.168.2.115 endpoint=/api/v1/backup/create caller=WebS
+2026-07-19 09:26:03,191 [INFO] ApplicationService: Connection pool status: active=11, idle=2 | endpoint=/api/v2/restore caller=DbConnector cpu_util=29% mem_util=53% extra='1o'
+2026-07-19 09:26:03,234 [INFO] ApplicationService: Connection pool status: active=33, idle=17 | ip=10.0.0.12 endpoint=/api/v1/auth/login extra='73q17xwcb1f7niig8do4n4tpuz83xtv'
+2026-07-19 09:26:03,686 [INFO] ApplicationService: Handled request successfully in 17ms | req_id=2ed239a1119e ip=172.16.254.1 endpoint=/api/v1/backup/create mem_util=46%
+2026-07-19 09:26:07,578 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 caller=TomcatAccessFilter cpu_util=16% extra='bkkq7ied6xujed5eo'
+2026-07-19 09:26:07,925 [INFO] ApplicationService: Handled request successfully in 3ms | ip=172.16.254.1 extra='yon31az69vb4etp5j4d5976f9xjcgiex1bxeu5bftbzlp0esp4rnxzuf'
+2026-07-19 09:26:08,134 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=75f9dad1012d cpu_util=76% mem_util=58% extra='9fmyqdymcel68fqvtaywukrg5x'
+2026-07-19 09:26:08,605 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=632af0e4af39 ip=192.168.1.50 endpoint=/metrics caller=DbConnector       
+2026-07-19 09:26:08,715 [INFO] ApplicationService: Handled request successfully in 46ms | req_id=e147c4bd935a ip=10.0.0.12 endpoint=/metrics cpu_util=23% extra='poelyhp0'
+2026-07-19 09:35:08,715 [INFO] ApplicationService: Handled request successfully in 13ms | ip=192.168.1.50 caller=ConfigManager cpu_util=22% extra='h7j3bj2i3c01iz8nl7l830'
+2026-07-19 09:36:18,715 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=dc1d66ac35da endpoint=/api/v1/backup/create mem_util=44% extra='z0fdycfc'
+2026-07-19 09:36:18,763 [INFO] ApplicationService: Connection pool status: active=40, idle=9 | req_id=43f263056644 endpoint=/api/v1/auth/login mem_util=35% extra='vm9g59yxpgd'
+2026-07-19 09:36:18,791 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=10.0.0.12 endpoint=/api/v1/backup/create caller=ConfigManager extra='n2zfa3p'
+2026-07-19 09:36:19,043 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 endpoint=/api/v1/system/status cpu_util=52% extra='3ec31ji65aa'
+2026-07-19 09:38:15,043 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/api/v1/auth/login extra='4tq8fkw0tlpcsn1fgn3i2ce9kmjawnkbbb20cpvjf5xh'
+2026-07-19 09:38:15,501 [INFO] ApplicationService: Connection pool status: active=32, idle=4 | ip=192.168.2.115 endpoint=/api/v1/system/status cpu_util=56% mem_util=78%      
+2026-07-19 09:38:20,171 [INFO] ApplicationService: Handled request successfully in 12ms | req_id=0d552c951ae8 ip=192.168.2.115 caller=BackupAgent mem_util=58% extra='oiy'
+2026-07-19 09:38:32,173 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/api/v1/system/status cpu_util=48% extra='himl9hkx10s6uf6hi7ns52j88ud2'
+2026-07-19 09:38:32,484 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.1.50 caller=WebServiceHelper mem_util=66% extra='w3bcrfsdt91ubfrhr4e'
+2026-07-19 09:38:37,229 [INFO] ApplicationService: Handled request successfully in 45ms | req_id=88f2fa5d000a endpoint=/api/v1/backup/create caller=BackupAgent mem_util=
+2026-07-19 09:38:42,345 [INFO] ApplicationService: Handled request successfully in 5ms | req_id=c03438e48fad ip=192.168.2.115 endpoint=/api/v2/restore cpu_util=42% mem_
+2026-07-19 09:38:42,806 [INFO] ApplicationService: Handled request successfully in 33ms | req_id=b2c45df1572c endpoint=/metrics cpu_util=11% mem_util=44% extra='juctzrm7'
+2026-07-19 09:41:22,806 [INFO] ApplicationService: Connection pool status: active=19, idle=11 | req_id=7008d9d66ba7 caller=ConfigManager extra='5wk78qhtmlwkly33ze9ricbhrfbgpkx'
+2026-07-19 09:41:23,178 [INFO] ApplicationService: Connection pool status: active=18, idle=12 | req_id=8eb03a03570c ip=172.16.254.1 endpoint=/api/v1/backup/create caller=Confi
+2026-07-19 09:41:23,205 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.1.50 endpoint=/api/v1/system/status caller=DbConnector cpu_util=64% 
+2026-07-19 09:41:28,556 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=df5144f1faf9 ip=10.0.0.12 cpu_util=17% extra='rat6t2sbzpq6we8j8g13l9wg69'
+2026-07-19 09:41:42,964 [INFO] ApplicationService: Connection pool status: active=39, idle=8 | endpoint=/api/v2/restore caller=TomcatAccessFilter cpu_util=21% extra='ahurfqkh'
+2026-07-19 09:41:46,279 [INFO] ApplicationService: Handled request successfully in 36ms | req_id=d899de76558a endpoint=/api/v2/restore cpu_util=56% mem_util=69% extra='w'
+2026-07-19 09:41:50,246 [INFO] ApplicationService: Connection pool status: active=41, idle=25 | ip=192.168.1.50 endpoint=/api/v2/restore mem_util=42% extra='qmqppm3fne2qbw1dh5'
+2026-07-19 09:41:51,909 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=9978555e9abb ip=10.0.0.12 mem_util=80% extra='4k3ok6pll2mrloc5r8rcstfjge'
+2026-07-19 09:41:53,334 [INFO] ApplicationService: Connection pool status: active=48, idle=23 | ip=192.168.1.50 endpoint=/metrics extra='2c6ibdgqlj17lv4ar15cy8kr1nuv3x182al15e'
+2026-07-19 09:41:58,302 [INFO] ApplicationService: Handled request successfully in 9ms | ip=10.0.0.12 caller=ConfigManager mem_util=63% extra='2kycxb67gqtdxcehaxtdnt9jd'
+2026-07-19 09:42:02,049 [INFO] ApplicationService: Handled request successfully in 46ms | req_id=340cfcc19980 ip=172.16.254.1 endpoint=/api/v1/auth/login caller=DbConnec
+2026-07-19 09:42:04,545 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.1.50 caller=DbConnector cpu_util=13% extra='9d9jrpz80ij0ewwjzkka95k8'
+2026-07-19 09:42:04,747 [INFO] ApplicationService: Cleaned up expired user cache items | ip=172.16.254.1 caller=ConfigManager extra='vh1ggf0yabwey1s518hs45oj8lby1p6ussr'
+2026-07-19 09:42:04,771 [INFO] ApplicationService: Connection pool status: active=37, idle=8 | req_id=05ab377e5465 ip=10.0.0.12 caller=WebServiceHelper cpu_util=66% extra='om'
+2026-07-19 09:42:04,778 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=a4264cb66c7d endpoint=/api/v1/auth/login mem_util=77% extra='r9lasywlhar'
+2026-07-19 09:42:05,012 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=1e3325e09f75 endpoint=/api/v1/system/status caller=BackupAgent cpu_util=
+2026-07-19 09:42:05,239 [INFO] ApplicationService: Handled request successfully in 23ms | endpoint=/api/v1/system/status cpu_util=51% mem_util=67% extra='fbdmqq3lrvd0rde'
+2026-07-19 09:42:10,583 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=ca4535ea5f3d caller=DbConnector cpu_util=55% extra='1swpzb8tnffp95uo3rpb'
+2026-07-19 09:42:15,042 [INFO] ApplicationService: Handled request successfully in 60ms | req_id=91f02549dffe ip=172.16.254.1 endpoint=/api/v1/system/status caller=WebSe
+2026-07-19 09:42:28,433 [INFO] ApplicationService: Connection pool status: active=16, idle=20 | ip=192.168.2.115 cpu_util=57% extra='1dhsgbmjo87rlaukpjuif1ds6i22eg6k4jxddgu0wz'
+2026-07-19 09:42:28,805 [INFO] ApplicationService: Connection pool status: active=5, idle=20 | cpu_util=50% extra='7hoictlu2hlq9j3ywngibjav5guirspj2smbzzy54dbycqhijedx2plf482'
+2026-07-19 09:42:29,122 [INFO] ApplicationService: Handled request successfully in 34ms | req_id=01b25261a84a caller=ConfigManager cpu_util=18% extra='vfnq2g8eaocyxetbok'
+2026-07-19 09:42:29,209 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=172.16.254.1 endpoint=/api/v2/restore caller=BackupAgent cpu_util=71%       
+2026-07-19 09:42:33,528 [INFO] ApplicationService: Handled request successfully in 20ms | req_id=5e4236bd4f7a ip=192.168.1.50 endpoint=/api/v2/restore cpu_util=55% mem_u
+2026-07-19 09:42:35,139 [INFO] ApplicationService: Handled request successfully in 5ms | req_id=cef960250911 endpoint=/metrics extra='a18vc9ug7z8u3zapiywnlb440rv3348x55'
+2026-07-19 09:44:20,139 [INFO] ApplicationService: Connection pool status: active=36, idle=23 | trace_id=fb70474e4fe44d11 extra='sp7knb8v3scg0ga9mbnl76i7uyrxjluoqzkf55soi0j76f'
+2026-07-19 09:44:20,453 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=98dbb41cf48e caller=ConfigManager cpu_util=62% mem_util=63% extra='hredd'
+2026-07-19 09:44:20,553 [INFO] ApplicationService: Handled request successfully in 19ms | req_id=8e966f6af426 endpoint=/api/v2/restore caller=DbConnector mem_util=32%   
+2026-07-19 09:44:20,591 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=b72b205d3011 mem_util=31% extra='rehljoooihqooce0bcxuxxjigvet9l0apkeypd1'
+2026-07-19 09:44:23,418 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=77058c84db24 ip=192.168.1.50 endpoint=/api/v2/restore caller=BackupAgent
+2026-07-19 09:44:23,474 [WARN] ApplicationService: Connection pool expansion threshold reached | endpoint=/api/v1/auth/login caller=DbConnector mem_util=75% extra='i2nxpqosu5st'
+2026-07-19 09:44:23,882 [INFO] ApplicationService: Handled request successfully in 59ms | req_id=c9f82f1244e4 endpoint=/api/v1/backup/create extra='5ct8namu83oe3u6rnoyok'
+2026-07-19 09:44:23,973 [WARN] ApplicationService: Connection pool expansion threshold reached | caller=TomcatAccessFilter extra='wqzr57srm2dj8nci5rrn5a74nblcgom2umjxf24pkzmu0m'
+2026-07-19 09:47:59,973 [INFO] ApplicationService: Handled request successfully in 16ms | req_id=a96131e91f8b ip=192.168.1.50 endpoint=/api/v1/backup/create mem_util=33%
+2026-07-19 09:48:04,213 [INFO] ApplicationService: Handled request successfully in 47ms | endpoint=/api/v1/auth/login caller=DbConnector cpu_util=40% extra='pvcohk4u05w2'
+2026-07-19 09:49:17,213 [INFO] ApplicationService: Connection pool status: active=37, idle=11 | req_id=96765aedbdf2 ip=172.16.254.1 endpoint=/api/v1/backup/create caller=Confi
+2026-07-19 09:49:17,267 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=8d54499a0a66 ip=10.0.0.12 cpu_util=27% mem_util=63% extra='a5vmmf4lbgkp9'
+2026-07-19 09:49:20,322 [INFO] ApplicationService: Connection pool status: active=18, idle=16 | ip=172.16.254.1 endpoint=/api/v2/restore cpu_util=22% mem_util=35% extra='cnhmd'
+2026-07-19 09:49:20,392 [INFO] ApplicationService: Handled request successfully in 24ms | req_id=32da14b72431 mem_util=53% extra='ie4qekrnklx6wv62rkuof5srgbmyc3ncyv52k28'
+2026-07-19 09:49:32,317 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=a7b7117f0f4a ip=192.168.1.50 caller=TomcatAccessFilter extra='erbsa4t2r3'
+2026-07-19 09:50:51,317 [INFO] ApplicationService: Handled request successfully in 37ms | ip=192.168.1.50 endpoint=/metrics cpu_util=41% mem_util=51% extra='bzd5cv0wfewn'
+2026-07-19 09:50:51,813 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=68f366a9c08b ip=192.168.2.115 cpu_util=35% extra='zinhg8wzpdphxfizyo3wge'
+2026-07-19 09:50:56,175 [INFO] ApplicationService: Connection pool status: active=27, idle=16 | ip=10.0.0.12 caller=DbConnector extra='ei5ucxpvduf7ejehz7hbllolkmpotg9kk0het8bo'
+2026-07-19 09:50:56,514 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=e12887094e61 ip=192.168.1.50 caller=DbConnector mem_util=38% extra='3h3o'
+2026-07-19 10:04:56,514 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=22fa8e9f0043 caller=ConfigManager extra='afjo42h90iu7uiwkb3vkw5r1zcyio6w'
+2026-07-19 10:05:01,744 [INFO] ApplicationService: Connection pool status: active=35, idle=3 | req_id=c99e4ec99325 ip=10.0.0.12 caller=BackupAgent extra='7u90ypkr3rjd52q3chul'
+2026-07-19 10:05:05,899 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 caller=DbConnector extra='omm985weatus92lqg2in4m1a7trengr7nnr7'
+2026-07-19 10:06:26,899 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=012b06c79e64 ip=192.168.1.50 caller=DbConnector mem_util=85% extra='yw65'
+2026-07-19 10:06:38,749 [INFO] ApplicationService: Connection pool status: active=15, idle=9 | req_id=0d72382bc861 endpoint=/api/v1/system/status caller=DbConnector cpu_util=
+2026-07-19 10:06:44,472 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=ecfd1b3fa0b0 ip=192.168.1.50 extra='1cah4t3pyfr24sw7vuvo4hz6x32z5q6t6s7b'
+2026-07-19 10:06:44,853 [INFO] ApplicationService: Handled request successfully in 35ms | req_id=e52565b51603 ip=192.168.2.115 endpoint=/api/v1/system/status caller=Tomc
+2026-07-19 10:06:50,644 [INFO] ApplicationService: Connection pool status: active=8, idle=10 | req_id=eea702fc3df3 ip=172.16.254.1 caller=WebServiceHelper mem_util=84%       
+2026-07-19 10:06:54,245 [INFO] ApplicationService: Cleaned up expired user cache items | caller=ConfigManager cpu_util=42% extra='y5wergqdn9hxvfhvhi1ns5cbhucti0i66h9042'
+2026-07-19 10:06:56,339 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=3aae9890d60b ip=192.168.1.50 mem_util=39% extra='ultknw2555ctu1c6mwgm3zy'
+2026-07-19 10:08:53,339 [INFO] ApplicationService: Handled request successfully in 6ms | req_id=11972f34627b caller=TomcatAccessFilter extra='i71fbembdegpa8vjffpvaoou27'
+2026-07-19 10:08:53,368 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=0cd9501c3bb7 ip=192.168.1.50 endpoint=/api/v1/auth/login caller=WebServi
+2026-07-19 10:12:30,368 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=2597d33dbea2 ip=10.0.0.12 endpoint=/api/v1/auth/login extra='dh9clia9iu3'
+2026-07-19 10:12:30,682 [INFO] ApplicationService: Connection pool status: active=16, idle=14 | req_id=889215d5080d ip=192.168.2.115 endpoint=/api/v1/system/status caller=Tomc
+2026-07-19 10:12:30,983 [INFO] ApplicationService: Handled request successfully in 47ms | req_id=a2a1864ed446 caller=TomcatAccessFilter extra='xujb9v6agaqr2whz7o3nkpscng'
+2026-07-19 10:14:51,983 [INFO] ApplicationService: Cleaned up expired user cache items | ip=10.0.0.12 endpoint=/api/v1/backup/create caller=ConfigManager cpu_util=67% m
+2026-07-19 10:14:57,681 [WARN] ApplicationService: Connection pool expansion threshold reached | ip=192.168.2.115 endpoint=/api/v1/backup/create cpu_util=78% mem_util=74%      
+2026-07-19 10:14:58,171 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=2bfce56b5dc4 caller=WebServiceHelper cpu_util=46% mem_util=78% extra='jp'
+2026-07-19 10:14:59,816 [INFO] ApplicationService: Connection pool status: active=7, idle=23 | ip=10.0.0.12 caller=BackupAgent extra='xhepnzl7xycflz7twydcddp9o7hard5pxbcsxml8'
+2026-07-19 10:14:59,958 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=e290847b53eb endpoint=/metrics cpu_util=17% extra='7a3k4zl29ifi4tk21afbm'
+2026-07-19 10:15:00,421 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.2.115 caller=ConfigManager mem_util=46% extra='ccqx4vy5j66fsmla0upc1'
+2026-07-19 10:15:00,518 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.2.115 mem_util=69% extra='8mumkkwitlw954slijl04dscevoz5jm1iok3ltdt4h'
+2026-07-19 10:15:11,832 [INFO] ApplicationService: Handled request successfully in 36ms | req_id=22e3a6e9e101 caller=WebServiceHelper cpu_util=77% extra='jcp75yrpz58s3tz'
+2026-07-19 10:15:17,412 [INFO] ApplicationService: Handled request successfully in 22ms | req_id=f95eb846fd46 caller=BackupAgent mem_util=62% extra='bwk59mz6472t76kbcqg8'
+2026-07-19 10:15:17,897 [INFO] ApplicationService: Connection pool status: active=45, idle=19 | ip=192.168.1.50 extra='nhhvw1s0mw7aa99u8mwkfkmmetejhz2dxeweow33o2hmnnwpo99affrv'
+2026-07-19 10:15:18,056 [INFO] ApplicationService: Handled request successfully in 6ms | req_id=de1cf4ce92a0 ip=10.0.0.12 extra='6nmv2hpn8m6ro9lvxpk62q12ferdvtno4ramqaw'
+2026-07-19 10:15:18,398 [INFO] ApplicationService: Connection pool status: active=6, idle=3 | req_id=cad2ac232e68 ip=192.168.1.50 endpoint=/metrics cpu_util=23% extra='kszfx'
+2026-07-19 10:15:23,548 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/api/v2/restore caller=ConfigManager cpu_util=51% extra='wc6ruxd3a3v3o'
+2026-07-19 10:15:23,853 [INFO] ApplicationService: Cleaned up expired user cache items | caller=ConfigManager cpu_util=73% mem_util=45% extra='xlj7rebqfx9sk5nc1r0ja0csl'
+2026-07-19 10:18:32,853 [INFO] ApplicationService: Connection pool status: active=22, idle=12 | ip=192.168.1.50 endpoint=/api/v2/restore mem_util=30% extra='2jb0d5nmv6663bi6eb'
+2026-07-19 10:18:38,281 [INFO] ApplicationService: Handled request successfully in 11ms | endpoint=/api/v2/restore caller=TomcatAccessFilter extra='340r7z5ikbughxk040r45'
+2026-07-19 10:18:41,998 [INFO] ApplicationService: Cleaned up expired user cache items | caller=TomcatAccessFilter cpu_util=50% mem_util=33% extra='mxm7hojtj3ydetnewoa9'
+2026-07-19 10:18:42,136 [INFO] ApplicationService: Handled request successfully in 52ms | ip=10.0.0.12 endpoint=/api/v2/restore mem_util=50% extra='q9jijanelqk7rqz99ijn5'
+2026-07-19 10:18:42,497 [INFO] ApplicationService: Handled request successfully in 59ms | caller=DbConnector mem_util=37% extra='rf9s3ogak17lpln577vs4d194fz4jjubxy9fz0iz'
+2026-07-19 10:21:01,497 [INFO] ApplicationService: Handled request successfully in 8ms | endpoint=/api/v2/restore caller=BackupAgent cpu_util=81% mem_util=50% extra='o0'
+2026-07-19 10:21:06,302 [INFO] ApplicationService: Handled request successfully in 13ms | ip=192.168.2.115 endpoint=/api/v1/system/status mem_util=30% extra='3eh3m1uzsqf'
+2026-07-19 10:21:10,005 [WARN] ApplicationService: Connection pool expansion threshold reached | req_id=0ecff88dd5f0 caller=TomcatAccessFilter extra='cgkotpcypdminyliih4k5ty3bg'
+2026-07-19 10:21:12,340 [INFO] ApplicationService: Cleaned up expired user cache items | req_id=b052527e5666 endpoint=/api/v1/backup/create extra='2k9i1ssmsj37io1tq3fek'
+2026-07-19 10:21:17,272 [INFO] ApplicationService: Handled request successfully in 29ms | req_id=9a0c9afa82b1 ip=10.0.0.12 mem_util=85% extra='zktx3ktnonadhnochh1li7iat8'
+2026-07-19 10:21:17,726 [INFO] ApplicationService: Cleaned up expired user cache items | endpoint=/metrics cpu_util=34% mem_util=62% extra='riz3vl361ulecu1z0f6r1svil6iw'
+2026-07-19 10:21:17,989 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | ip=10.0.0.12 caller=BackupAgent extra='crpq9islahtx6a7j1u0r59xzw06cnzzft5wx5mfc'
+2026-07-19 10:21:18,223 [WARN] ApplicationService: Database write latency exceeded threshold: 3550ms | ip=192.168.1.50 endpoint=/api/v1/system/status cpu_util=44% mem_util=66%       
+2026-07-19 10:25:17,223 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=1e8a91876a87 ip=192.168.2.115 caller=ConfigManager cpu_util=18% mem_util
+2026-07-19 10:25:18,558 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | ip=10.0.0.12 caller=ConfigManager extra='4teskev1h1ku7qk8ckfq1th2g47d1r4o0ifo8k'
+2026-07-19 10:25:18,729 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=66edc7081deb ip=172.16.254.1 caller=DbConnector mem_util=59% extra='pbot'
+2026-07-19 10:25:31,880 [WARN] ApplicationService: Database write latency exceeded threshold: 4482ms | req_id=1e0a9e4b760e ip=172.16.254.1 endpoint=/api/v1/auth/login cpu_util=76%   
+2026-07-19 10:25:31,945 [WARN] ApplicationService: Database write latency exceeded threshold: 2874ms | ip=172.16.254.1 endpoint=/metrics caller=ConfigManager cpu_util=72% mem_util=44
+2026-07-19 10:25:36,845 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | ip=172.16.254.1 cpu_util=49% extra='f4u61hwhzkz2ds066ee083fxny2z585q0g2ppcdvyd4'
+2026-07-19 10:28:09,845 [WARN] ApplicationService: Database write latency exceeded threshold: 2718ms | endpoint=/api/v1/system/status caller=BackupAgent cpu_util=29% extra='sozy8rzgm'
+2026-07-19 10:28:10,248 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=31213876b497 ip=10.0.0.12 endpoint=/api/v1/system/status caller=TomcatAc
+2026-07-19 10:28:10,600 [WARN] ApplicationService: Database write latency exceeded threshold: 4379ms | req_id=77bb4794d2e0 endpoint=/api/v1/system/status extra='slrqxbx9smun22r7z9c97'
+2026-07-19 10:37:10,600 [WARN] ApplicationService: Database write latency exceeded threshold: 4413ms | req_id=ffd269690aa6 ip=192.168.1.50 endpoint=/api/v1/auth/login caller=DbConnec
+2026-07-19 10:37:10,673 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=8770e4b52ec0 ip=10.0.0.12 endpoint=/api/v1/backup/create caller=BackupAg
+2026-07-19 10:41:07,673 [WARN] ApplicationService: Database write latency exceeded threshold: 2844ms | req_id=6f878954c527 endpoint=/api/v1/auth/login caller=TomcatAccessFilter mem_u
+2026-07-19 10:41:11,497 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | ip=192.168.2.115 caller=TomcatAccessFilter cpu_util=13% mem_util=35% extra='912'
+2026-07-19 10:41:12,681 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | cpu_util=30% mem_util=56% extra='dj3sk4yjz4xvikgodyvuxlva7hyq49tnngaobfjnd57szn'
+2026-07-19 10:41:12,705 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | endpoint=/api/v1/auth/login caller=TomcatAccessFilter cpu_util=30% extra='ojttc'
+2026-07-19 10:41:25,488 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=15a05558647f ip=172.16.254.1 endpoint=/api/v1/system/status extra='usmgc'
+2026-07-19 10:41:29,578 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | ip=10.0.0.12 endpoint=/api/v1/system/status caller=ConfigManager extra='elpqlpv'
+2026-07-19 10:41:33,539 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=92ee850be1b7 ip=172.16.254.1 endpoint=/metrics caller=ConfigManager     
+2026-07-19 10:41:39,163 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=5c02126322d7 cpu_util=60% extra='uxx3nwvfirg3lw2p7tuerw0q44m05zcz5rum3th'
+2026-07-19 10:41:39,336 [WARN] ApplicationService: Database write latency exceeded threshold: 3650ms | ip=192.168.1.50 endpoint=/api/v1/auth/login cpu_util=36% mem_util=87% extra='mk'
+2026-07-19 10:41:49,892 [WARN] ApplicationService: Database write latency exceeded threshold: 2462ms | cpu_util=13% extra='ftx07dlwotm4tlzabfnh0l07p8e0a61gj508w3zrwcxmhtd0xf1o5t83kom'
+2026-07-19 10:41:53,935 [WARN] ApplicationService: Database write latency exceeded threshold: 4011ms | req_id=840ca2ebf59b ip=10.0.0.12 caller=WebServiceHelper cpu_util=33% mem_util=
+2026-07-19 10:41:54,078 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | ip=10.0.0.12 mem_util=85% extra='d7gh5ublzx07hbcxudq4tgormdqizgugelfqssjlxb4ilp'
+2026-07-19 10:42:08,597 [WARN] ApplicationService: Database write latency exceeded threshold: 2245ms | ip=172.16.254.1 caller=WebServiceHelper mem_util=33% extra='ml8tku7g06xkcxgiah0'
+2026-07-19 10:42:08,917 [WARN] ApplicationService: Database write latency exceeded threshold: 4106ms | req_id=81ffab93658e caller=WebServiceHelper cpu_util=60% extra='pyuqpf8pdj66dq3'
+2026-07-19 10:45:24,917 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=4546a2955c52 endpoint=/api/v1/system/status caller=ConfigManager mem_uti
+2026-07-19 10:47:52,917 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=9729fe096feb endpoint=/metrics cpu_util=28% extra='3zwbmsb7yekdv2iex6uds'
+2026-07-19 10:48:06,019 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | ip=172.16.254.1 endpoint=/metrics caller=BackupAgent cpu_util=23% extra='n1m09o'
+2026-07-19 10:48:18,673 [WARN] ApplicationService: Database write latency exceeded threshold: 2668ms | ip=192.168.2.115 caller=BackupAgent cpu_util=57% extra='78tn18ftgx468uee6w51jzd'
+2026-07-19 10:48:19,030 [WARN] ApplicationService: Database write latency exceeded threshold: 2592ms | endpoint=/api/v1/system/status caller=WebServiceHelper extra='e1x81zugh71t1pify'
+2026-07-19 10:48:31,194 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=0002ca415619 ip=10.0.0.12 endpoint=/api/v1/backup/create mem_util=41%   
+2026-07-19 10:48:31,637 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=7679d0864383 ip=172.16.254.1 endpoint=/metrics caller=TomcatAccessFilter
+2026-07-19 10:48:32,683 [WARN] ApplicationService: Database write latency exceeded threshold: 2450ms | endpoint=/metrics caller=DbConnector extra='ecyz9kj9mvp8p9fa4593kqg697t328lntpk'
+2026-07-19 10:48:43,642 [WARN] ApplicationService: Database write latency exceeded threshold: 1951ms | ip=172.16.254.1 endpoint=/api/v1/auth/login cpu_util=59% mem_util=77% extra='vp'
+2026-07-19 10:48:44,026 [WARN] ApplicationService: Database write latency exceeded threshold: 4195ms | req_id=f6c8ca3a77f5 ip=10.0.0.12 cpu_util=10% extra='gthkaj91uh2b48ed7uett407xu'
+2026-07-19 10:48:46,781 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=dc0c52b4bf81 ip=192.168.2.115 caller=WebServiceHelper cpu_util=80%      
+2026-07-19 10:48:48,026 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | caller=WebServiceHelper cpu_util=18% mem_util=40% extra='g3npc4b2p62e1kk40adnsr'
+2026-07-19 10:48:53,397 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=efe90a6f35b9 endpoint=/api/v1/system/status caller=DbConnector extra='ra'
+2026-07-19 10:48:53,453 [WARN] ApplicationService: Database write latency exceeded threshold: 1973ms | endpoint=/api/v1/backup/create extra='gidivdhg0hfqomd0z9nbjm55j9vh40frs12sl17n5'
+2026-07-19 10:48:53,654 [WARN] ApplicationService: Database write latency exceeded threshold: 2639ms | req_id=a1ce6e3aaf66 ip=192.168.2.115 caller=DbConnector extra='o0x1kvc7ub66q4jk'
+2026-07-19 10:48:54,061 [WARN] ApplicationService: Database write latency exceeded threshold: 3954ms | ip=10.0.0.12 endpoint=/api/v2/restore caller=TomcatAccessFilter cpu_util=83% me
+2026-07-19 10:49:06,454 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=4197b9d1475d caller=DbConnector cpu_util=81% mem_util=76% extra='celdcen'
+2026-07-19 10:49:09,006 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=e2749861aacb cpu_util=27% extra='to2cklrkr5d9y371241tvci7v5ib31yrejoxrfh'
+2026-07-19 10:49:09,417 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | ip=192.168.2.115 endpoint=/api/v1/backup/create cpu_util=40% extra='phxfrzayfhe'
+2026-07-19 10:49:10,815 [WARN] ApplicationService: Database write latency exceeded threshold: 2426ms | endpoint=/api/v1/auth/login caller=BackupAgent mem_util=66% extra='wq86n79npltk'
+2026-07-19 10:49:10,877 [WARN] ApplicationService: Database write latency exceeded threshold: 3483ms | ip=10.0.0.12 endpoint=/api/v2/restore mem_util=79% extra='3z83km7lzl58egn7zvntd'
+2026-07-19 11:01:10,877 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=b88e5f475106 endpoint=/metrics caller=WebServiceHelper mem_util=40%     
+2026-07-19 11:01:10,988 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=dad4536f9653 ip=192.168.2.115 endpoint=/api/v1/auth/login caller=TomcatA
+2026-07-19 11:01:21,105 [WARN] ApplicationService: Database write latency exceeded threshold: 4315ms | req_id=ae0458ec7140 ip=192.168.2.115 endpoint=/api/v1/system/status caller=Tomc
+2026-07-19 11:01:21,599 [WARN] ApplicationService: Database write latency exceeded threshold: 3132ms | req_id=73f58b7fe1e8 ip=172.16.254.1 endpoint=/api/v1/auth/login caller=DbConnec
+2026-07-19 11:01:26,369 [WARN] ApplicationService: Database write latency exceeded threshold: 2975ms | endpoint=/api/v2/restore caller=WebServiceHelper cpu_util=43% mem_util=58%     
+2026-07-19 11:01:30,819 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | endpoint=/api/v1/system/status caller=DbConnector cpu_util=39% extra='b66zsykyq'
+2026-07-19 11:01:30,872 [WARN] ApplicationService: Database write latency exceeded threshold: 2146ms | endpoint=/metrics cpu_util=24% mem_util=80% extra='38oy4t9kmqlggj2gliz4or8gdcun'
+2026-07-19 11:01:31,302 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | cpu_util=58% mem_util=48% extra='jwk3b88jfe27z7fxrh6dj40qtvizgo1imx0f8j04k69cnl'
+2026-07-19 11:01:31,328 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=712017dd08e9 endpoint=/api/v2/restore caller=DbConnector extra='cmd074p7'
+2026-07-19 11:01:32,855 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=a5799792c71f ip=10.0.0.12 endpoint=/api/v1/backup/create extra='8nrc6lzx'
+2026-07-19 11:01:33,315 [WARN] ApplicationService: Database write latency exceeded threshold: 3437ms | cpu_util=53% extra='y0mqf7nunujpl66yezf200ijof9aoloxtc9evt4a9dnquw413z6r0yhzlkj'
+2026-07-19 11:01:33,783 [WARN] ApplicationService: Database write latency exceeded threshold: 2334ms | req_id=cf9dadc52bfe ip=172.16.254.1 cpu_util=35% mem_util=38% extra='5bvsbcxgpq'
+2026-07-19 11:01:34,245 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=7c7d57914129 ip=192.168.1.50 cpu_util=58% extra='ca9mapifsw5i08ltw98mic9'
+2026-07-19 11:01:44,503 [WARN] ApplicationService: Database write latency exceeded threshold: 2320ms | ip=192.168.1.50 caller=DbConnector mem_util=63% extra='nxb78tfjn4cx0sf3k9t8skgg'
+2026-07-19 11:01:49,195 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | endpoint=/metrics caller=ConfigManager mem_util=89% extra='f9v3a8afvzzwfs8p03a1'
+2026-07-19 11:05:08,195 [WARN] ApplicationService: Database write latency exceeded threshold: 3259ms | req_id=d8ef89a5ed09 endpoint=/api/v1/auth/login extra='6mvweqpke462clo0lk6qaige'
+2026-07-19 11:18:08,195 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=507eb34db3a6 endpoint=/api/v1/auth/login caller=DbConnector cpu_util=28%
+2026-07-19 11:18:08,455 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | endpoint=/metrics mem_util=79% extra='vsucipv3y56d149ewafd9qdmk1rn2pvuqvp2xdq7f'
+2026-07-19 11:18:20,366 [WARN] ApplicationService: Database write latency exceeded threshold: 2456ms | req_id=2486d1dd3a9f ip=172.16.254.1 extra='esd0d2n2d804hyvmflu5gljwe2kg1v5txfcx'
+2026-07-19 11:18:20,448 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=cf82237160f3 ip=192.168.1.50 endpoint=/api/v1/backup/create caller=WebSe
+2026-07-19 11:18:31,686 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | ip=192.168.2.115 caller=DbConnector cpu_util=69% mem_util=78% extra='ez9324crpn'
+2026-07-19 11:18:36,684 [WARN] ApplicationService: Database write latency exceeded threshold: 1901ms | ip=192.168.2.115 cpu_util=48% mem_util=38% extra='a16nfftrsepmxfgjerezsg6x563yo'
+2026-07-19 11:18:36,782 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | endpoint=/api/v1/system/status caller=DbConnector mem_util=40% extra='opfr13gy5'
+2026-07-19 11:18:39,764 [WARN] ApplicationService: Database write latency exceeded threshold: 4119ms | mem_util=38% extra='0c3vgcj8nqxtoaxlczptznplgcb78y7nv6a2txqr8ziswgl0b921dlurjzv'
+2026-07-19 11:21:11,764 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | ip=192.168.2.115 endpoint=/api/v1/system/status caller=WebServiceHelper cpu_uti
+2026-07-19 11:21:12,051 [WARN] ApplicationService: Database write latency exceeded threshold: 2874ms | req_id=08b2d2406e0e cpu_util=58% extra='30cj3byglpdfepp7pllp73spvkljnz4xrvnbzhj'
+2026-07-19 11:21:17,792 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=2b31c07a38f2 ip=192.168.2.115 caller=ConfigManager cpu_util=66% extra='a'
+2026-07-19 11:21:17,932 [WARN] ApplicationService: Database write latency exceeded threshold: 3071ms | caller=BackupAgent cpu_util=35% extra='khz75slgrhczcwdmlfog27fqy0lidlgv0pv33qsw'
+2026-07-19 11:21:18,185 [WARN] ApplicationService: Database write latency exceeded threshold: 2200ms | req_id=c35714b23a62 endpoint=/api/v2/restore caller=ConfigManager cpu_util=16% 
+2026-07-19 11:21:28,622 [WARN] ApplicationService: Database write latency exceeded threshold: 2662ms | ip=192.168.2.115 endpoint=/api/v1/system/status cpu_util=26% extra='gu6tfz6oxes'
+2026-07-19 11:21:29,100 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | ip=172.16.254.1 cpu_util=57% mem_util=36% extra='vd0mxchfjx2ke5ciby8s2h09491brv'
+2026-07-19 11:21:40,331 [WARN] ApplicationService: Database write latency exceeded threshold: 2734ms | req_id=cd4beebccd8a ip=192.168.2.115 endpoint=/metrics caller=TomcatAccessFilte
+2026-07-19 11:21:40,735 [WARN] ApplicationService: Database write latency exceeded threshold: 4031ms | req_id=876f168da4c1 mem_util=72% extra='bvozrgabcgxww3zvu4ietrfacflxtivp1t1zgmw'
+2026-07-19 11:21:40,765 [WARN] ApplicationService: Database write latency exceeded threshold: 2185ms | ip=172.16.254.1 endpoint=/api/v1/system/status cpu_util=56% extra='1w286qsarzd8'
+2026-07-19 11:21:40,998 [WARN] ApplicationService: Database write latency exceeded threshold: 1881ms | ip=192.168.2.115 cpu_util=51% extra='gcfnxwqbderbxzwytggteou835zswa8wcqgot1ean3'
+2026-07-19 11:21:42,473 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | trace_id=52e841a4cbe34e6d extra='3lpbd9m36pa1oo24y5j46qwudgaoc0eywusp7fkxcvv4ou'
+2026-07-19 11:21:47,384 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=5923995d5dfd ip=192.168.1.50 caller=TomcatAccessFilter extra='tkb5cq23ig'
+2026-07-19 11:25:23,384 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | ip=192.168.1.50 endpoint=/api/v2/restore extra='mdd09xpxf8d4e4b53e0yb23vc5q0a2b'
+2026-07-19 11:25:37,882 [WARN] ApplicationService: Database write latency exceeded threshold: 3580ms | ip=192.168.1.50 endpoint=/api/v2/restore caller=ConfigManager mem_util=42%     
+2026-07-19 11:25:40,555 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | endpoint=/metrics caller=BackupAgent extra='d6unc0pzi13czdxgaanfci2uxkpdu041n2z'
+2026-07-19 11:25:51,648 [WARN] ApplicationService: Database write latency exceeded threshold: 1988ms | req_id=06dc5652877d ip=192.168.1.50 cpu_util=64% extra='4xnlmqgsnmg977jx4w2qxgp'
+2026-07-19 11:25:51,955 [WARN] ApplicationService: Database write latency exceeded threshold: 3499ms | req_id=c3bc0b81af85 caller=TomcatAccessFilter mem_util=40% extra='fi8pjo4tdwrfg'
+2026-07-19 11:25:53,863 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | mem_util=67% extra='jga2ky3ob3zmqgatobl1su0ozftvlt9xgpa6m98827oigyoiyupoffgsu8h'
+2026-07-19 11:25:55,516 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | cpu_util=11% extra='02bi6lwehkq15ydn62yzx749o7fek2jr8zmq81onu0qrsm98k6zn4ypl51n'
+2026-07-19 11:25:58,031 [WARN] ApplicationService: Database write latency exceeded threshold: 4328ms | cpu_util=54% mem_util=71% extra='5gf1397bym7aerpa8tl4lh6h0q1x95q6vijji11d10dzc0'
+2026-07-19 11:25:58,407 [WARN] ApplicationService: Database write latency exceeded threshold: 3916ms | ip=10.0.0.12 cpu_util=61% extra='6069sn9qebnd7xa8vz082d1dvp91s0kpgaro1rd1129t5l'
+2026-07-19 11:27:58,611 [WARN] ApplicationService: Database write latency exceeded threshold: 2900ms | req_id=c564564f68cd ip=192.168.1.50 endpoint=/api/v1/backup/create extra='rrpbf'
+2026-07-19 14:08:09,115 [INFO] ApplicationService: Handled request successfully in 55ms | req_id=ebeb7efa53da ip=192.168.2.115 endpoint=/api/v2/restore extra='hgc4o4e3iuf'
+2026-07-19 14:08:20,479 [INFO] ApplicationService: Handled request successfully in 34ms | ip=192.168.1.50 endpoint=/api/v1/backup/create caller=ConfigManager mem_util=61%
+2026-07-19 14:08:22,302 [INFO] ApplicationService: Handled request successfully in 34ms | req_id=a8f710af01d9 ip=192.168.1.50 caller=ConfigManager cpu_util=64% mem_util=4
+2026-07-19 14:08:32,302 [INFO] ApplicationService: Cleaned up expired user cache items | ip=192.168.2.115 mem_util=84% extra='d1xf3yfvotx28a8loi5jctyi4o3wk0xqi50af789suo'
+2026-07-19 14:08:32,302 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | ip=172.16.254.1 mem_util=87% extra='al21mu4g6xdn2asjy3b2iqz0o49o8d2hv2jrzwmk4o1'
+2026-07-19 14:08:33,335 [WARN] ApplicationService: Database write latency exceeded threshold: 2379ms | endpoint=/metrics cpu_util=34% mem_util=35% extra='6ovnlyinctx0mael6y5ythk5qfrd'
+2026-07-19 14:08:33,751 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=4ea663d783bc ip=10.0.0.12 endpoint=/api/v1/system/status caller=DbConnec
+2026-07-19 14:08:55,751 [ERROR] ApplicationService: Failed to process task. Exception: java.io.IOException: There is not enough space on the disk (EC=112) | req_id=d864202502f7 endpoint=/api/v1/system/status cpu_util=12% extra='4gseuppj'
+2026-07-19 14:08:07,904 [WARN] ApplicationService: Database write latency exceeded threshold: 3881ms | ip=10.0.0.12 endpoint=/api/v1/auth/login caller=ConfigManager extra='nuugn2v150'
+2026-07-19 14:08:21,872 [WARN] ApplicationService: Database write latency exceeded threshold: 4282ms | req_id=31c13a2e9168 cpu_util=73% extra='w9gknp7lkp2b64ccxdxwf9oynjs6cxog0vvlaty'
+2026-07-19 14:08:22,077 [WARN] ApplicationService: Database write latency exceeded threshold: 3861ms | req_id=4d9505d991c2 caller=WebServiceHelper cpu_util=72% mem_util=72% extra='pz'

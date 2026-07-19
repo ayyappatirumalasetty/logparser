@@ -1,0 +1,1053 @@
+2026-07-19T01:13:00,000 [http-nio-8080-exec-04428] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=e0a2b94d1952 endpoint=/
+2026-07-19T01:13:01,976 [http-nio-8080-exec-16661] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | ip=172.16.254.1 endpoint=/metr
+2026-07-19T01:13:04,671 [http-nio-8080-exec-10953] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | req_id=df291597f6d4 ip=192.168
+2026-07-19T01:13:06,449 [http-nio-8080-exec-18362] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | req_id=b8efdf61a544 ip=172.16.
+2026-07-19T01:13:06,780 [http-nio-8080-exec-16006] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=a80c25c365f8 mem_util=4
+2026-07-19T01:13:11,910 [http-nio-8080-exec-07068] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | req_id=b8d31608729b extra='d30'
+2026-07-19T01:13:12,095 [http-nio-8080-exec-19703] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=b99d71f200e3 caller=Tom
+2026-07-19T01:15:53,095 [http-nio-8080-exec-16470] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | ip=192.168.2.115 caller=Config
+2026-07-19T01:18:29,095 [http-nio-8080-exec-12806] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | req_id=67a5d903a20b ip=192.168
+2026-07-19T01:18:29,326 [http-nio-8080-exec-17712] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | mem_util=37% extra='4z8gvhv1pl'
+2026-07-19T01:18:43,778 [http-nio-8080-exec-14521] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | endpoint=/metrics caller=DbCon
+2026-07-19T01:18:44,226 [http-nio-8080-exec-05238] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | ip=10.0.0.12 mem_util=62%     
+2026-07-19T01:18:59,281 [http-nio-8080-exec-15699] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | ip=192.168.2.115 endpoint=/api
+2026-07-19T01:19:14,847 [http-nio-8080-exec-15123] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | req_id=7bc990e613d5 endpoint=/
+2026-07-19T01:19:20,454 [http-nio-8080-exec-12201] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | req_id=655fb62c7798 endpoint=/
+2026-07-19T01:22:48,454 [http-nio-8080-exec-05095] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | mem_util=50% extra='33lacgkkzd'
+2026-07-19T01:31:48,454 [http-nio-8080-exec-03476] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | endpoint=/api/v1/backup/create
+2026-07-19T01:32:01,326 [http-nio-8080-exec-19450] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=6f53d2f10086 ip=10.0.0.
+2026-07-19T01:32:06,398 [http-nio-8080-exec-10089] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | ip=10.0.0.12 endpoint=/metrics
+2026-07-19T01:45:06,398 [http-nio-8080-exec-11154] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=aaf655b39074 extra='29p'
+2026-07-19T01:45:08,073 [http-nio-8080-exec-03405] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | req_id=e092ba5e1284 ip=192.168
+2026-07-19T01:46:29,073 [http-nio-8080-exec-17027] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | endpoint=/api/v1/system/status
+2026-07-19T01:48:07,073 [http-nio-8080-exec-02568] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | req_id=13bf071a83bd ip=192.168
+2026-07-19T01:48:07,411 [http-nio-8080-exec-12845] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | caller=BackupAgent cpu_util=22
+2026-07-19T01:51:17,411 [http-nio-8080-exec-02761] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | ip=192.168.1.50 caller=DbConne
+2026-07-19T01:51:23,206 [http-nio-8080-exec-06446] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | cpu_util=84% mem_util=72%     
+2026-07-19T01:51:23,323 [http-nio-8080-exec-14392] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | caller=BackupAgent cpu_util=61
+2026-07-19T01:51:36,138 [http-nio-8080-exec-16179] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | ip=192.168.2.115 endpoint=/met
+2026-07-19T01:51:36,339 [http-nio-8080-exec-10505] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | req_id=c98f63b11a2c endpoint=/
+2026-07-19T01:51:36,404 [http-nio-8080-exec-18225] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=366c03f82bd0 endpoint=/
+2026-07-19T01:51:46,585 [http-nio-8080-exec-06124] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | ip=192.168.2.115 endpoint=/api
+2026-07-19T01:51:46,696 [http-nio-8080-exec-17550] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=4b624de7b2c0 ip=10.0.0.
+2026-07-19T01:51:48,263 [http-nio-8080-exec-18293] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | req_id=354f8e14235d ip=172.16.
+2026-07-19T01:51:48,467 [http-nio-8080-exec-12060] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | req_id=02aae52df354 ip=10.0.0.
+2026-07-19T01:51:48,526 [http-nio-8080-exec-14989] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | endpoint=/api/v1/backup/create
+2026-07-19T01:51:49,018 [http-nio-8080-exec-13556] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | endpoint=/api/v2/restore calle
+2026-07-19T01:52:03,872 [http-nio-8080-exec-12796] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | req_id=1e0399df855c endpoint=/
+2026-07-19T01:55:54,872 [http-nio-8080-exec-10823] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | req_id=d68f22f70baa ip=192.168
+2026-07-19T01:55:55,338 [http-nio-8080-exec-17854] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | req_id=8d1f257d10ad endpoint=/
+2026-07-19T01:55:55,495 [http-nio-8080-exec-01980] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | req_id=dbf992d57a8b endpoint=/
+2026-07-19T01:56:08,575 [http-nio-8080-exec-18051] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | ip=192.168.1.50 caller=WebServ
+2026-07-19T01:59:10,575 [http-nio-8080-exec-03318] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | mem_util=71% extra='8gsdqn660w'
+2026-07-19T01:59:12,587 [http-nio-8080-exec-14180] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=d208800af13e mem_util=8
+2026-07-19T02:00:22,587 [http-nio-8080-exec-05126] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | req_id=1c9d6bfd84d2 ip=10.0.0.
+2026-07-19T02:00:34,352 [http-nio-8080-exec-08501] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | endpoint=/api/v2/restore calle
+2026-07-19T02:00:45,540 [http-nio-8080-exec-14241] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | req_id=8726f73df20b endpoint=/
+2026-07-19T02:00:59,408 [http-nio-8080-exec-15559] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | endpoint=/api/v2/restore calle
+2026-07-19T02:01:00,835 [http-nio-8080-exec-10608] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T02:01:02,885 [http-nio-8080-exec-07409] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | req_id=30b42620fb06 endpoint=/
+2026-07-19T02:01:03,034 [http-nio-8080-exec-05412] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | req_id=656ab5683746 ip=172.16.
+2026-07-19T02:01:03,091 [http-nio-8080-exec-04057] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | endpoint=/api/v1/backup/create
+2026-07-19T02:01:08,964 [http-nio-8080-exec-16318] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | req_id=6363c66f189b endpoint=/
+2026-07-19T02:01:22,506 [http-nio-8080-exec-11590] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | trace_id=2694b105184e4552     
+2026-07-19T02:01:36,683 [http-nio-8080-exec-15231] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | req_id=5d3540e2302d ip=10.0.0.
+2026-07-19T02:01:38,141 [http-nio-8080-exec-14574] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=a6ebbe02efdb ip=172.16.
+2026-07-19T02:01:41,150 [http-nio-8080-exec-09712] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | req_id=ca6e4b25704e caller=DbC
+2026-07-19T02:03:30,150 [http-nio-8080-exec-09500] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | req_id=bef1e19d564c caller=DbC
+2026-07-19T02:05:59,150 [http-nio-8080-exec-15472] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | ip=192.168.2.115 caller=Config
+2026-07-19T02:06:11,971 [http-nio-8080-exec-13071] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | req_id=2a75e7904bf6 endpoint=/
+2026-07-19T02:06:13,079 [http-nio-8080-exec-10017] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | cpu_util=15% extra='h981gz90dv'
+2026-07-19T02:06:28,879 [http-nio-8080-exec-06149] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | req_id=ffd77cab0d72 ip=10.0.0.
+2026-07-19T02:06:41,513 [http-nio-8080-exec-07869] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | req_id=25741ff805ce cpu_util=4
+2026-07-19T02:06:43,266 [http-nio-8080-exec-07801] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T02:06:44,501 [http-nio-8080-exec-10585] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | caller=BackupAgent cpu_util=83
+2026-07-19T02:06:56,028 [http-nio-8080-exec-03033] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | req_id=1821f1fbc44e ip=172.16.
+2026-07-19T02:07:01,094 [http-nio-8080-exec-17804] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | req_id=e76bcddaa0c9 caller=DbC
+2026-07-19T02:07:05,362 [http-nio-8080-exec-13631] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T02:07:08,132 [http-nio-8080-exec-08555] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=47afe536fd6b ip=192.168
+2026-07-19T02:07:13,743 [http-nio-8080-exec-01519] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=0e3bd9036445 endpoint=/
+2026-07-19T02:08:56,743 [http-nio-8080-exec-15737] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=cb7e65282d86 ip=172.16.
+2026-07-19T02:09:10,664 [http-nio-8080-exec-15879] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | endpoint=/api/v1/system/status
+2026-07-19T02:09:11,729 [http-nio-8080-exec-06201] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | req_id=d908963eaaa5 ip=192.168
+2026-07-19T02:09:15,566 [http-nio-8080-exec-19157] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | req_id=5faf3ab9a951 endpoint=/
+2026-07-19T02:09:15,975 [http-nio-8080-exec-12308] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | ip=192.168.2.115 endpoint=/api
+2026-07-19T02:09:19,877 [http-nio-8080-exec-05640] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | ip=192.168.2.115 endpoint=/api
+2026-07-19T02:09:20,338 [http-nio-8080-exec-04729] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | ip=172.16.254.1 extra='l72kd6r'
+2026-07-19T02:09:20,810 [http-nio-8080-exec-05127] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | endpoint=/api/v1/backup/create
+2026-07-19T02:09:23,573 [http-nio-8080-exec-16079] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | endpoint=/api/v1/backup/create
+2026-07-19T02:10:46,573 [http-nio-8080-exec-03052] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | req_id=8ebe257b2416 ip=172.16.
+2026-07-19T02:10:57,594 [http-nio-8080-exec-17505] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | endpoint=/api/v1/system/status
+2026-07-19T02:11:59,594 [http-nio-8080-exec-13304] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | cpu_util=42% mem_util=33%     
+2026-07-19T02:12:02,313 [http-nio-8080-exec-13055] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | endpoint=/api/v1/backup/create
+2026-07-19T02:12:02,764 [http-nio-8080-exec-14881] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | ip=10.0.0.12 caller=ConfigMana
+2026-07-19T02:12:02,984 [http-nio-8080-exec-18976] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=a1ad7b264151 endpoint=/
+2026-07-19T02:12:03,420 [http-nio-8080-exec-01331] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | endpoint=/api/v1/backup/create
+2026-07-19T02:12:05,078 [http-nio-8080-exec-19107] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | ip=192.168.2.115 mem_util=39% 
+2026-07-19T02:12:05,442 [http-nio-8080-exec-09218] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T02:12:07,723 [http-nio-8080-exec-03593] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T02:12:21,897 [http-nio-8080-exec-11277] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | req_id=6dfdd2e19e3b cpu_util=4
+2026-07-19T02:12:22,358 [http-nio-8080-exec-18220] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | req_id=cf8eae9cb173 ip=10.0.0.
+2026-07-19T02:12:26,716 [http-nio-8080-exec-09216] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | req_id=2f61bba5e45d endpoint=/
+2026-07-19T02:16:04,716 [http-nio-8080-exec-18647] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | req_id=96532908e59c ip=192.168
+2026-07-19T02:16:05,762 [http-nio-8080-exec-03044] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | ip=192.168.1.50 extra='xhnwndk'
+2026-07-19T02:16:07,182 [http-nio-8080-exec-05239] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | req_id=4b74628e3372 endpoint=/
+2026-07-19T02:16:10,481 [http-nio-8080-exec-01151] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=b6739eddc69e ip=192.168
+2026-07-19T02:16:21,076 [http-nio-8080-exec-09919] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | req_id=e53220db8ce2 endpoint=/
+2026-07-19T02:16:21,257 [http-nio-8080-exec-01746] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | endpoint=/metrics caller=Tomca
+2026-07-19T02:16:21,698 [http-nio-8080-exec-19772] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=7e4e95e0f1d1 endpoint=/
+2026-07-19T02:16:27,094 [http-nio-8080-exec-13903] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T02:19:44,094 [http-nio-8080-exec-12986] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T02:19:48,284 [http-nio-8080-exec-16250] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | req_id=960827320eb1 endpoint=/
+2026-07-19T02:20:03,183 [http-nio-8080-exec-17921] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | endpoint=/api/v2/restore      
+2026-07-19T02:20:05,299 [http-nio-8080-exec-07368] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | mem_util=44% extra='ri8vgwpb3v'
+2026-07-19T02:20:10,548 [http-nio-8080-exec-18527] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=e734b08546af ip=172.16.
+2026-07-19T02:20:24,369 [http-nio-8080-exec-04583] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | req_id=45747ffceaf1 extra='eyz'
+2026-07-19T02:20:26,164 [http-nio-8080-exec-01819] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T02:20:26,389 [http-nio-8080-exec-06565] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | req_id=83945055ade8 endpoint=/
+2026-07-19T02:20:29,235 [http-nio-8080-exec-11519] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=369b97036c49 extra='mud'
+2026-07-19T02:20:31,869 [http-nio-8080-exec-13511] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | req_id=020bc69b37d5 caller=DbC
+2026-07-19T02:22:06,869 [http-nio-8080-exec-03148] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | req_id=4ec5dedfe34d cpu_util=5
+2026-07-19T02:22:07,066 [http-nio-8080-exec-13335] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | ip=10.0.0.12 caller=WebService
+2026-07-19T02:22:09,860 [http-nio-8080-exec-04144] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | req_id=e73600ba5ec8 ip=192.168
+2026-07-19T02:22:10,184 [http-nio-8080-exec-14670] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | req_id=8548b14d3413 cpu_util=6
+2026-07-19T02:23:49,184 [http-nio-8080-exec-14774] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | ip=172.16.254.1 extra='go209a7'
+2026-07-19T02:23:49,430 [http-nio-8080-exec-10790] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | cpu_util=13% mem_util=36%     
+2026-07-19T02:23:49,448 [http-nio-8080-exec-11814] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | req_id=c1b07420ceba endpoint=/
+2026-07-19T02:23:59,494 [http-nio-8080-exec-07249] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | req_id=0396882c602e ip=172.16.
+2026-07-19T02:24:14,511 [http-nio-8080-exec-19970] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | ip=192.168.2.115 mem_util=84% 
+2026-07-19T02:24:14,673 [http-nio-8080-exec-12753] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | ip=10.0.0.12 caller=ConfigMana
+2026-07-19T02:24:15,160 [http-nio-8080-exec-14971] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | ip=192.168.1.50 caller=BackupA
+2026-07-19T02:24:16,323 [http-nio-8080-exec-05473] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | req_id=9e2f4727cb25 mem_util=7
+2026-07-19T02:24:17,564 [http-nio-8080-exec-18537] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | ip=10.0.0.12 extra='cyk5a9ve9e'
+2026-07-19T02:24:19,007 [http-nio-8080-exec-19311] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | ip=10.0.0.12 caller=ConfigMana
+2026-07-19T02:24:24,459 [http-nio-8080-exec-05405] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | trace_id=6b4a7af7db1349fb     
+2026-07-19T02:24:35,889 [http-nio-8080-exec-02582] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | endpoint=/api/v2/restore calle
+2026-07-19T02:33:35,889 [http-nio-8080-exec-04956] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=f2fc40ebc805 ip=192.168
+2026-07-19T02:33:46,077 [http-nio-8080-exec-14576] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | mem_util=45% extra='b9smhfaauw'
+2026-07-19T02:33:46,339 [http-nio-8080-exec-19224] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=5ed2966c0b5c ip=10.0.0.
+2026-07-19T02:36:28,339 [http-nio-8080-exec-04302] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | endpoint=/api/v2/restore      
+2026-07-19T02:36:32,456 [http-nio-8080-exec-06211] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | req_id=dbf61cf51c5b cpu_util=3
+2026-07-19T02:36:48,415 [http-nio-8080-exec-09600] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | req_id=ac0cf6b4fbb8 ip=192.168
+2026-07-19T02:36:48,898 [http-nio-8080-exec-04580] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | req_id=da834e5a903f ip=192.168
+2026-07-19T02:36:52,218 [http-nio-8080-exec-06856] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | req_id=3d1d0ebf4d65 ip=172.16.
+2026-07-19T02:37:02,348 [http-nio-8080-exec-07895] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | endpoint=/api/v1/backup/create
+2026-07-19T02:37:02,453 [http-nio-8080-exec-06974] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | endpoint=/metrics caller=Confi
+2026-07-19T02:37:12,856 [http-nio-8080-exec-03791] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T02:37:13,320 [http-nio-8080-exec-07615] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=de64db5fd9b4 caller=DbC
+2026-07-19T02:37:26,774 [http-nio-8080-exec-18373] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | req_id=e722885535aa ip=10.0.0.
+2026-07-19T02:37:31,692 [http-nio-8080-exec-17461] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | endpoint=/api/v1/backup/create
+2026-07-19T02:37:32,069 [http-nio-8080-exec-12765] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=994d1be56b42 ip=172.16.
+2026-07-19T02:37:35,790 [http-nio-8080-exec-07478] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | req_id=416a43823565 caller=Web
+2026-07-19T02:37:36,214 [http-nio-8080-exec-09235] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=c93080b40d67 extra='jyy'
+2026-07-19T02:37:42,169 [http-nio-8080-exec-18078] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | mem_util=65% extra='laop2t1zna'
+2026-07-19T02:37:45,797 [http-nio-8080-exec-10868] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | caller=BackupAgent extra='5iqv'
+2026-07-19T02:37:46,168 [http-nio-8080-exec-07492] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | ip=10.0.0.12 caller=ConfigMana
+2026-07-19T02:37:50,628 [http-nio-8080-exec-11220] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | req_id=e8b544b7cf1e ip=10.0.0.
+2026-07-19T02:40:34,628 [http-nio-8080-exec-05359] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | req_id=ca042b75d5ae caller=Tom
+2026-07-19T02:40:34,631 [http-nio-8080-exec-05998] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | endpoint=/api/v1/auth/login cp
+2026-07-19T02:40:34,981 [http-nio-8080-exec-19736] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | req_id=060fc6e64f5f ip=192.168
+2026-07-19T02:40:35,166 [http-nio-8080-exec-13709] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | endpoint=/api/v1/auth/login me
+2026-07-19T02:40:35,291 [http-nio-8080-exec-15228] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | cpu_util=36% extra='32dryor367'
+2026-07-19T02:40:36,455 [http-nio-8080-exec-11109] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | req_id=a06193fed55b ip=172.16.
+2026-07-19T02:40:41,900 [http-nio-8080-exec-18311] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T02:40:42,092 [http-nio-8080-exec-08851] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | ip=192.168.1.50 endpoint=/metr
+2026-07-19T02:40:45,534 [http-nio-8080-exec-08359] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | trace_id=10178ca71e344612     
+2026-07-19T02:44:23,534 [http-nio-8080-exec-16259] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | ip=10.0.0.12 endpoint=/api/v2/
+2026-07-19T02:44:35,172 [http-nio-8080-exec-17264] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | req_id=fb505644974d ip=10.0.0.
+2026-07-19T02:44:35,538 [http-nio-8080-exec-16275] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | req_id=4f4a0509c845 extra='656'
+2026-07-19T02:44:35,863 [http-nio-8080-exec-06632] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | req_id=c0423e63176e ip=172.16.
+2026-07-19T02:44:35,998 [http-nio-8080-exec-09749] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | req_id=abfbbbadfa2b caller=Con
+2026-07-19T02:44:51,100 [http-nio-8080-exec-12780] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | trace_id=10098f3957d149c3     
+2026-07-19T02:47:00,100 [http-nio-8080-exec-09026] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | req_id=e9dc181ef5b3 cpu_util=6
+2026-07-19T02:47:02,404 [http-nio-8080-exec-18516] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | caller=WebServiceHelper cpu_ut
+2026-07-19T02:50:19,404 [http-nio-8080-exec-05402] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T02:50:19,681 [http-nio-8080-exec-18077] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | req_id=09aea6cd0373 ip=192.168
+2026-07-19T02:50:19,944 [http-nio-8080-exec-08073] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | caller=ConfigManager mem_util=
+2026-07-19T02:50:20,439 [http-nio-8080-exec-12271] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | ip=192.168.2.115 extra='28rrnq'
+2026-07-19T02:50:23,778 [http-nio-8080-exec-14996] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=2407b156fb9b ip=192.168
+2026-07-19T02:50:36,063 [http-nio-8080-exec-06237] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | endpoint=/api/v1/auth/login   
+2026-07-19T02:51:54,063 [http-nio-8080-exec-09097] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | caller=TomcatAccessFilter     
+2026-07-19T02:51:54,342 [http-nio-8080-exec-02393] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | endpoint=/api/v2/restore calle
+2026-07-19T02:51:59,327 [http-nio-8080-exec-06901] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | req_id=944ee7da96d9 endpoint=/
+2026-07-19T02:52:14,364 [http-nio-8080-exec-01691] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | req_id=0e4a678ce673 endpoint=/
+2026-07-19T02:52:18,497 [http-nio-8080-exec-18074] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | req_id=139ebff9385c ip=192.168
+2026-07-19T02:52:18,547 [http-nio-8080-exec-15211] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | ip=192.168.2.115 endpoint=/api
+2026-07-19T02:52:22,533 [http-nio-8080-exec-18483] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=749bee9e59d2 endpoint=/
+2026-07-19T02:52:35,476 [http-nio-8080-exec-07695] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T02:52:39,857 [http-nio-8080-exec-11703] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | req_id=be727e813c79 ip=192.168
+2026-07-19T02:52:44,230 [http-nio-8080-exec-14161] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | req_id=a37ec4d45498 cpu_util=3
+2026-07-19T02:52:44,237 [http-nio-8080-exec-12475] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T02:52:46,195 [http-nio-8080-exec-14025] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | ip=192.168.1.50 cpu_util=67% m
+2026-07-19T02:52:46,479 [http-nio-8080-exec-08501] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | mem_util=34% extra='93spdrm4fs'
+2026-07-19T02:53:00,344 [http-nio-8080-exec-13951] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=cd32dfc0a35b ip=10.0.0.
+2026-07-19T02:53:00,746 [http-nio-8080-exec-01852] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | req_id=c9cc8437d7f2 caller=Web
+2026-07-19T02:53:00,884 [http-nio-8080-exec-05863] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | req_id=1e9ac27ef9b1 endpoint=/
+2026-07-19T02:53:03,260 [http-nio-8080-exec-02882] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T02:53:03,397 [http-nio-8080-exec-10089] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=635d51653234 ip=192.168
+2026-07-19T03:02:03,397 [http-nio-8080-exec-04653] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | req_id=a035921251a2 ip=10.0.0.
+2026-07-19T03:05:37,397 [http-nio-8080-exec-07733] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | req_id=dbca17970af7 ip=10.0.0.
+2026-07-19T03:05:37,481 [http-nio-8080-exec-19987] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | req_id=4c26837e9609 ip=192.168
+2026-07-19T03:05:37,836 [http-nio-8080-exec-11953] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | caller=BackupAgent mem_util=51
+2026-07-19T03:12:37,836 [http-nio-8080-exec-16341] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | ip=172.16.254.1 cpu_util=37%  
+2026-07-19T03:12:38,172 [http-nio-8080-exec-10230] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=76d4114072b3 mem_util=6
+2026-07-19T03:12:41,828 [http-nio-8080-exec-07070] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | ip=192.168.1.50 mem_util=75%  
+2026-07-19T03:16:13,828 [http-nio-8080-exec-01154] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | req_id=0766dfba57af ip=10.0.0.
+2026-07-19T03:16:17,743 [http-nio-8080-exec-13903] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | mem_util=76% extra='z872670b74'
+2026-07-19T03:16:21,446 [http-nio-8080-exec-11719] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | ip=192.168.1.50 caller=ConfigM
+2026-07-19T03:16:25,560 [http-nio-8080-exec-11615] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | endpoint=/api/v2/restore cpu_u
+2026-07-19T03:18:12,560 [http-nio-8080-exec-14977] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T03:18:12,730 [http-nio-8080-exec-04365] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=48d0ff5e9c09 caller=DbC
+2026-07-19T03:18:14,036 [http-nio-8080-exec-06465] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | req_id=741e92a9e5d4 endpoint=/
+2026-07-19T03:18:18,644 [http-nio-8080-exec-17264] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | req_id=935cc6de357f endpoint=/
+2026-07-19T03:18:22,867 [http-nio-8080-exec-14924] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | req_id=ba149bc93a9f cpu_util=8
+2026-07-19T03:18:26,689 [http-nio-8080-exec-13951] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | req_id=7cea8f12d8a3 ip=192.168
+2026-07-19T03:18:26,788 [http-nio-8080-exec-18435] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | req_id=7cd5911bdcf6 ip=192.168
+2026-07-19T03:18:32,356 [http-nio-8080-exec-11440] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | caller=DbConnector mem_util=81
+2026-07-19T03:18:32,773 [http-nio-8080-exec-13345] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T03:21:01,773 [http-nio-8080-exec-04255] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T03:21:02,043 [http-nio-8080-exec-13870] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=e0b755cdea0f caller=DbC
+2026-07-19T03:21:04,655 [http-nio-8080-exec-18328] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=7f0275dc6913 ip=192.168
+2026-07-19T03:23:07,655 [http-nio-8080-exec-09110] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | req_id=56f75d2f262f ip=10.0.0.
+2026-07-19T03:23:07,820 [http-nio-8080-exec-13817] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=414ac5f7e80a endpoint=/
+2026-07-19T03:25:00,820 [http-nio-8080-exec-01305] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | endpoint=/api/v1/system/status
+2026-07-19T03:27:55,820 [http-nio-8080-exec-01130] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | cpu_util=75% mem_util=89%     
+2026-07-19T03:27:55,826 [http-nio-8080-exec-04475] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | req_id=d4063b611aa5 endpoint=/
+2026-07-19T03:27:56,159 [http-nio-8080-exec-12072] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | req_id=7e03d4b3f634 caller=Tom
+2026-07-19T03:31:05,159 [http-nio-8080-exec-11422] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | caller=ConfigManager mem_util=
+2026-07-19T03:34:21,159 [http-nio-8080-exec-08940] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | req_id=625da9665890 ip=10.0.0.
+2026-07-19T03:34:24,710 [http-nio-8080-exec-07704] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | ip=10.0.0.12 caller=TomcatAcce
+2026-07-19T03:34:28,479 [http-nio-8080-exec-06827] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | caller=BackupAgent cpu_util=47
+2026-07-19T03:34:39,127 [http-nio-8080-exec-10342] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=f64842cbd0ce ip=172.16.
+2026-07-19T03:34:39,347 [http-nio-8080-exec-13179] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | req_id=6ee38cc9d094 endpoint=/
+2026-07-19T03:34:39,847 [http-nio-8080-exec-14767] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | caller=ConfigManager mem_util=
+2026-07-19T03:34:52,368 [http-nio-8080-exec-02346] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | endpoint=/api/v2/restore calle
+2026-07-19T03:34:56,477 [http-nio-8080-exec-10744] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | endpoint=/api/v1/backup/create
+2026-07-19T03:34:59,607 [http-nio-8080-exec-08779] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | caller=ConfigManager mem_util=
+2026-07-19T03:35:00,834 [http-nio-8080-exec-19893] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=6b0c558e23d8 ip=10.0.0.
+2026-07-19T03:36:27,834 [http-nio-8080-exec-07618] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | endpoint=/api/v1/auth/login   
+2026-07-19T03:36:38,909 [http-nio-8080-exec-05990] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | req_id=9dc1901937fb endpoint=/
+2026-07-19T03:39:50,909 [http-nio-8080-exec-17642] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | caller=TomcatAccessFilter cpu_
+2026-07-19T03:40:03,385 [http-nio-8080-exec-14831] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=d90f25c88ed3 caller=Web
+2026-07-19T03:40:08,494 [http-nio-8080-exec-12153] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=57e8d1acff47 ip=10.0.0.
+2026-07-19T03:40:21,461 [http-nio-8080-exec-07236] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | req_id=b1b39ef5505f ip=192.168
+2026-07-19T03:40:21,652 [http-nio-8080-exec-06387] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | ip=192.168.2.115 endpoint=/met
+2026-07-19T03:40:22,096 [http-nio-8080-exec-02141] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | req_id=849bca014152 ip=10.0.0.
+2026-07-19T03:40:22,235 [http-nio-8080-exec-12483] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | req_id=348b825bc16c ip=192.168
+2026-07-19T03:40:27,033 [http-nio-8080-exec-17659] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | endpoint=/api/v1/system/status
+2026-07-19T03:40:31,231 [http-nio-8080-exec-05152] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | req_id=9f474e019781 ip=10.0.0.
+2026-07-19T03:40:35,401 [http-nio-8080-exec-19303] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | req_id=afd6fbab17aa ip=192.168
+2026-07-19T03:42:14,401 [http-nio-8080-exec-03921] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=c9fa6d8af789 ip=10.0.0.
+2026-07-19T03:44:17,401 [http-nio-8080-exec-04605] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=c79534c4392a ip=192.168
+2026-07-19T03:44:19,971 [http-nio-8080-exec-11985] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | req_id=2256ab040c08 endpoint=/
+2026-07-19T03:44:24,935 [http-nio-8080-exec-07483] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | ip=10.0.0.12 caller=ConfigMana
+2026-07-19T03:44:25,367 [http-nio-8080-exec-09674] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | req_id=ad704f6aed97 ip=192.168
+2026-07-19T03:44:25,507 [http-nio-8080-exec-16046] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | endpoint=/api/v1/system/status
+2026-07-19T03:46:17,507 [http-nio-8080-exec-14144] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | req_id=388fa55c439a ip=192.168
+2026-07-19T03:46:22,561 [http-nio-8080-exec-10230] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | req_id=ad239d0a1d14 ip=10.0.0.
+2026-07-19T03:46:34,167 [http-nio-8080-exec-18391] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=24199757740c extra='jl5'
+2026-07-19T03:46:48,850 [http-nio-8080-exec-11365] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=0d4ce5967b97 cpu_util=4
+2026-07-19T03:46:49,245 [http-nio-8080-exec-17121] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T03:47:03,563 [http-nio-8080-exec-02026] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | ip=192.168.1.50 mem_util=87%  
+2026-07-19T04:00:03,563 [http-nio-8080-exec-14434] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | req_id=47e073b68869 endpoint=/
+2026-07-19T04:00:04,054 [http-nio-8080-exec-01801] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | req_id=ccf7cb4f1355 ip=192.168
+2026-07-19T04:00:04,445 [http-nio-8080-exec-11871] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | req_id=1fe812b49ae8 endpoint=/
+2026-07-19T04:03:37,445 [http-nio-8080-exec-15381] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | req_id=1ef90d5204bd ip=10.0.0.
+2026-07-19T04:03:40,570 [http-nio-8080-exec-13423] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | endpoint=/api/v1/auth/login cp
+2026-07-19T04:03:51,888 [http-nio-8080-exec-09945] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T04:05:39,888 [http-nio-8080-exec-04523] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | req_id=a2ecb3d7484f caller=Web
+2026-07-19T04:05:41,603 [http-nio-8080-exec-09960] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | req_id=40b8cda166c8 ip=192.168
+2026-07-19T04:05:45,566 [http-nio-8080-exec-06566] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | ip=192.168.1.50 cpu_util=23% m
+2026-07-19T04:18:45,566 [http-nio-8080-exec-10213] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | ip=192.168.2.115 endpoint=/api
+2026-07-19T04:21:48,566 [http-nio-8080-exec-03226] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | req_id=554051ceae62 caller=Tom
+2026-07-19T04:21:50,473 [http-nio-8080-exec-12576] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=c20b2e91dd5d caller=Web
+2026-07-19T04:21:52,765 [http-nio-8080-exec-12830] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=724894041452 endpoint=/
+2026-07-19T04:21:54,652 [http-nio-8080-exec-18148] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | req_id=dfbd0c6ae636 caller=Bac
+2026-07-19T04:21:54,668 [http-nio-8080-exec-18865] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | ip=192.168.1.50 cpu_util=69%  
+2026-07-19T04:21:57,993 [http-nio-8080-exec-04887] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | caller=ConfigManager cpu_util=
+2026-07-19T04:25:54,993 [http-nio-8080-exec-08302] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | ip=10.0.0.12 extra='69n6nhm6ih'
+2026-07-19T04:25:57,241 [http-nio-8080-exec-14003] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=d6c806ac3fe1 ip=172.16.
+2026-07-19T04:26:11,261 [http-nio-8080-exec-02230] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | req_id=8ac1bf972341 cpu_util=5
+2026-07-19T04:28:40,261 [http-nio-8080-exec-05024] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | req_id=bcbaf3779de9 endpoint=/
+2026-07-19T04:28:41,807 [http-nio-8080-exec-04136] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=679f08965f6c ip=192.168
+2026-07-19T04:31:13,807 [http-nio-8080-exec-05352] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | ip=192.168.1.50 caller=ConfigM
+2026-07-19T04:31:28,119 [http-nio-8080-exec-03096] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | endpoint=/api/v1/backup/create
+2026-07-19T04:31:33,931 [http-nio-8080-exec-19827] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | cpu_util=17% mem_util=76%     
+2026-07-19T04:34:34,931 [http-nio-8080-exec-08792] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | ip=192.168.2.115 endpoint=/api
+2026-07-19T04:34:35,318 [http-nio-8080-exec-15686] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | caller=WebServiceHelper cpu_ut
+2026-07-19T04:34:50,006 [http-nio-8080-exec-02665] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | req_id=13e97ece04d9 ip=172.16.
+2026-07-19T04:34:50,143 [http-nio-8080-exec-04390] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | endpoint=/api/v1/backup/create
+2026-07-19T04:35:00,316 [http-nio-8080-exec-19604] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | endpoint=/metrics caller=DbCon
+2026-07-19T04:35:13,197 [http-nio-8080-exec-19554] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | req_id=f23496306385 extra='e2s'
+2026-07-19T04:35:13,679 [http-nio-8080-exec-03889] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | endpoint=/api/v2/restore      
+2026-07-19T04:35:25,575 [http-nio-8080-exec-16129] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=ab233a0b0cda endpoint=/
+2026-07-19T04:37:17,575 [http-nio-8080-exec-17976] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=04ae14503464 endpoint=/
+2026-07-19T04:37:17,833 [http-nio-8080-exec-15316] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | req_id=a28288ad7e81 ip=192.168
+2026-07-19T04:37:18,300 [http-nio-8080-exec-12162] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T04:37:21,649 [http-nio-8080-exec-14485] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=cff2407905a2 endpoint=/
+2026-07-19T04:37:26,059 [http-nio-8080-exec-04441] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | req_id=84a60fc3033e endpoint=/
+2026-07-19T04:41:01,059 [http-nio-8080-exec-10523] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | req_id=ddfcd2613c66 caller=Tom
+2026-07-19T04:41:01,158 [http-nio-8080-exec-17934] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | cpu_util=10% extra='04iob21tf7'
+2026-07-19T04:41:16,991 [http-nio-8080-exec-19438] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | req_id=778a61f43d8a ip=192.168
+2026-07-19T04:41:17,222 [http-nio-8080-exec-03996] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | cpu_util=63% mem_util=45%     
+2026-07-19T04:41:17,459 [http-nio-8080-exec-06855] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=4cd0ef397f9a ip=10.0.0.
+2026-07-19T04:50:17,459 [http-nio-8080-exec-02245] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | req_id=4ca3eb7f7918 ip=192.168
+2026-07-19T04:56:17,459 [http-nio-8080-exec-12448] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | caller=BackupAgent cpu_util=21
+2026-07-19T04:57:55,459 [http-nio-8080-exec-19005] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | req_id=14f90f8a773e endpoint=/
+2026-07-19T04:58:00,492 [http-nio-8080-exec-10758] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | caller=TomcatAccessFilter mem_
+2026-07-19T05:01:27,492 [http-nio-8080-exec-12607] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | caller=WebServiceHelper cpu_ut
+2026-07-19T05:01:27,906 [http-nio-8080-exec-09991] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | req_id=74bf49d321b9 caller=Web
+2026-07-19T05:01:43,438 [http-nio-8080-exec-13930] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | endpoint=/metrics cpu_util=74%
+2026-07-19T05:03:41,438 [http-nio-8080-exec-16923] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | endpoint=/api/v1/auth/login cp
+2026-07-19T05:03:41,855 [http-nio-8080-exec-06464] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T05:03:45,268 [http-nio-8080-exec-08778] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=c6b2c03c5925 endpoint=/
+2026-07-19T05:03:46,611 [http-nio-8080-exec-11734] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T05:03:58,499 [http-nio-8080-exec-05843] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T05:03:58,592 [http-nio-8080-exec-10237] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | req_id=84e15f86feba ip=192.168
+2026-07-19T05:04:02,476 [http-nio-8080-exec-06393] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | ip=10.0.0.12 extra='8x0j0ft8xr'
+2026-07-19T05:04:04,388 [http-nio-8080-exec-17995] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | req_id=c27c649be947 ip=192.168
+2026-07-19T05:04:04,743 [http-nio-8080-exec-01088] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | req_id=86f690dc5800 ip=10.0.0.
+2026-07-19T05:04:08,563 [http-nio-8080-exec-12914] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | req_id=6adea9277713 ip=192.168
+2026-07-19T05:06:47,563 [http-nio-8080-exec-19462] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=f984f6eef391 ip=192.168
+2026-07-19T05:08:29,563 [http-nio-8080-exec-16819] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | ip=10.0.0.12 endpoint=/api/v2/
+2026-07-19T05:10:43,563 [http-nio-8080-exec-04050] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | req_id=6470452c20a0 ip=192.168
+2026-07-19T05:10:43,591 [http-nio-8080-exec-03554] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | req_id=fb0628e07f3d caller=Web
+2026-07-19T05:10:43,842 [http-nio-8080-exec-14831] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | req_id=e00f43b10d7e ip=172.16.
+2026-07-19T05:10:55,558 [http-nio-8080-exec-19497] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=31d600c770dc endpoint=/
+2026-07-19T05:10:55,653 [http-nio-8080-exec-03566] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | endpoint=/api/v2/restore calle
+2026-07-19T05:10:55,684 [http-nio-8080-exec-15217] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=69e4b20f91ed endpoint=/
+2026-07-19T05:11:07,136 [http-nio-8080-exec-03379] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=928b84c88b9c ip=192.168
+2026-07-19T05:11:07,354 [http-nio-8080-exec-02826] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T05:11:17,374 [http-nio-8080-exec-13596] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=7991d55c1fe7 ip=172.16.
+2026-07-19T05:11:21,251 [http-nio-8080-exec-05460] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | endpoint=/api/v1/system/status
+2026-07-19T05:11:22,985 [http-nio-8080-exec-01676] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | ip=192.168.2.115 endpoint=/api
+2026-07-19T05:11:23,208 [http-nio-8080-exec-16971] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=d89251d1b57a ip=172.16.
+2026-07-19T05:11:36,047 [http-nio-8080-exec-19313] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | ip=192.168.2.115 cpu_util=11% 
+2026-07-19T05:11:40,122 [http-nio-8080-exec-01047] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=8681c1f794e0 ip=10.0.0.
+2026-07-19T05:11:40,525 [http-nio-8080-exec-11975] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=835c064b22f8 ip=192.168
+2026-07-19T05:15:24,525 [http-nio-8080-exec-09733] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | req_id=5cf8ce323cb1 extra='vlq'
+2026-07-19T05:15:35,856 [http-nio-8080-exec-10294] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | ip=10.0.0.12 endpoint=/metrics
+2026-07-19T05:15:50,814 [http-nio-8080-exec-16967] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | req_id=003b80d5637a ip=172.16.
+2026-07-19T05:15:53,322 [http-nio-8080-exec-06826] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | req_id=d49bf421fe63 cpu_util=8
+2026-07-19T05:29:53,322 [http-nio-8080-exec-19690] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T05:29:56,600 [http-nio-8080-exec-07639] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | endpoint=/api/v2/restore calle
+2026-07-19T05:30:01,903 [http-nio-8080-exec-19821] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | req_id=5e4c062acbd4 ip=172.16.
+2026-07-19T05:30:01,965 [http-nio-8080-exec-04156] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | endpoint=/api/v1/backup/create
+2026-07-19T05:30:14,967 [http-nio-8080-exec-19425] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | trace_id=0aa7b61f58ca4006     
+2026-07-19T05:30:15,454 [http-nio-8080-exec-17975] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=5d51026a335e endpoint=/
+2026-07-19T05:30:18,242 [http-nio-8080-exec-02105] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | caller=ConfigManager extra='ub'
+2026-07-19T05:30:18,434 [http-nio-8080-exec-19865] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | req_id=a09696ca0f7d endpoint=/
+2026-07-19T05:30:31,712 [http-nio-8080-exec-11976] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=075910c00ba0 cpu_util=2
+2026-07-19T05:32:40,712 [http-nio-8080-exec-09029] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | req_id=66ad9da2519e endpoint=/
+2026-07-19T05:32:40,844 [http-nio-8080-exec-05364] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | req_id=a6508d96f15e ip=10.0.0.
+2026-07-19T05:32:40,894 [http-nio-8080-exec-14228] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=f7f86526c9f1 ip=192.168
+2026-07-19T05:32:42,002 [http-nio-8080-exec-12743] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | caller=BackupAgent cpu_util=26
+2026-07-19T05:32:45,020 [http-nio-8080-exec-03480] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | endpoint=/metrics caller=Confi
+2026-07-19T05:32:46,644 [http-nio-8080-exec-05439] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T05:32:47,051 [http-nio-8080-exec-02930] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | req_id=7e80a399d236 ip=172.16.
+2026-07-19T05:33:01,023 [http-nio-8080-exec-18344] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=8d0e5867e5d0 endpoint=/
+2026-07-19T05:34:57,023 [http-nio-8080-exec-05890] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | endpoint=/api/v1/backup/create
+2026-07-19T05:34:58,971 [http-nio-8080-exec-02048] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | endpoint=/api/v1/auth/login me
+2026-07-19T05:34:59,228 [http-nio-8080-exec-08170] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | endpoint=/metrics caller=Tomca
+2026-07-19T05:34:59,629 [http-nio-8080-exec-15021] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | ip=192.168.1.50 caller=ConfigM
+2026-07-19T05:35:05,409 [http-nio-8080-exec-02455] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | req_id=b9d7390f3b88 ip=192.168
+2026-07-19T05:35:20,718 [http-nio-8080-exec-10859] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=ae5661bf986e endpoint=/
+2026-07-19T05:44:20,718 [http-nio-8080-exec-13325] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=ae6080749f09 caller=Web
+2026-07-19T05:55:20,718 [http-nio-8080-exec-12061] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | req_id=d59ae1958960 ip=192.168
+2026-07-19T05:55:21,031 [http-nio-8080-exec-06977] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T05:55:21,227 [http-nio-8080-exec-13787] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=60f07feca106 ip=192.168
+2026-07-19T05:55:21,272 [http-nio-8080-exec-05329] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=31a9674a8def ip=10.0.0.
+2026-07-19T05:55:24,787 [http-nio-8080-exec-09326] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | endpoint=/api/v1/auth/login cp
+2026-07-19T05:55:25,882 [http-nio-8080-exec-09641] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | endpoint=/api/v1/auth/login cp
+2026-07-19T05:56:55,882 [http-nio-8080-exec-15856] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=54a49506ec32 endpoint=/
+2026-07-19T05:57:01,612 [http-nio-8080-exec-15383] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | req_id=808846d47e01 endpoint=/
+2026-07-19T05:57:07,183 [http-nio-8080-exec-02697] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | endpoint=/api/v1/backup/create
+2026-07-19T05:57:07,278 [http-nio-8080-exec-13684] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | ip=172.16.254.1 endpoint=/metr
+2026-07-19T05:57:11,348 [http-nio-8080-exec-11735] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | endpoint=/api/v2/restore calle
+2026-07-19T05:57:15,852 [http-nio-8080-exec-12764] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | caller=WebServiceHelper cpu_ut
+2026-07-19T05:57:27,808 [http-nio-8080-exec-03016] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T05:57:28,077 [http-nio-8080-exec-11129] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=aad1d1e790cb ip=192.168
+2026-07-19T06:08:28,077 [http-nio-8080-exec-12912] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | endpoint=/api/v1/backup/create
+2026-07-19T06:08:28,096 [http-nio-8080-exec-02163] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=d037373861a6 endpoint=/
+2026-07-19T06:08:33,009 [http-nio-8080-exec-17447] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | req_id=90a918a9b913 caller=Web
+2026-07-19T06:08:33,498 [http-nio-8080-exec-11515] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=44e602db9996 endpoint=/
+2026-07-19T06:08:36,938 [http-nio-8080-exec-10838] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | ip=10.0.0.12 cpu_util=14% mem_
+2026-07-19T06:15:36,938 [http-nio-8080-exec-14257] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | caller=WebServiceHelper cpu_ut
+2026-07-19T06:15:40,615 [http-nio-8080-exec-07044] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | req_id=9a2f62b69f4f endpoint=/
+2026-07-19T06:15:51,532 [http-nio-8080-exec-10723] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | req_id=80286572b47c cpu_util=8
+2026-07-19T06:19:26,532 [http-nio-8080-exec-18192] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=82d101a425f4 ip=172.16.
+2026-07-19T06:19:37,371 [http-nio-8080-exec-15074] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=3c563b0e45d2 caller=Con
+2026-07-19T06:19:39,175 [http-nio-8080-exec-13958] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=e65891ada34b ip=192.168
+2026-07-19T06:19:39,422 [http-nio-8080-exec-06685] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | req_id=3f56c8dc8df4 caller=Con
+2026-07-19T06:19:55,290 [http-nio-8080-exec-10254] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | req_id=1f9dc1260eae endpoint=/
+2026-07-19T06:19:55,374 [http-nio-8080-exec-03941] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | req_id=4142a41a648b ip=10.0.0.
+2026-07-19T06:19:55,633 [http-nio-8080-exec-01002] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | req_id=2d52b8c3262f ip=172.16.
+2026-07-19T06:19:59,136 [http-nio-8080-exec-18972] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | req_id=94a4feee211a mem_util=8
+2026-07-19T06:19:59,499 [http-nio-8080-exec-01453] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | caller=DbConnector mem_util=83
+2026-07-19T06:20:01,092 [http-nio-8080-exec-13620] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=418198ea4899 ip=192.168
+2026-07-19T06:22:41,092 [http-nio-8080-exec-16169] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | req_id=ab26fccbbff4 caller=Con
+2026-07-19T06:22:52,832 [http-nio-8080-exec-06297] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | caller=TomcatAccessFilter cpu_
+2026-07-19T06:22:55,239 [http-nio-8080-exec-09465] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=19bee0143db9 caller=Web
+2026-07-19T06:23:00,124 [http-nio-8080-exec-06404] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | req_id=e4bf52a134ca caller=Tom
+2026-07-19T06:23:01,988 [http-nio-8080-exec-15915] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | req_id=47e652430703 endpoint=/
+2026-07-19T06:23:06,729 [http-nio-8080-exec-15212] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | req_id=8d5a113fb820 endpoint=/
+2026-07-19T06:23:06,872 [http-nio-8080-exec-11306] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=87dfe50caf81 caller=Tom
+2026-07-19T06:24:39,872 [http-nio-8080-exec-07888] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=a4c617c1d9e1 ip=10.0.0.
+2026-07-19T06:24:40,307 [http-nio-8080-exec-04303] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T06:24:40,457 [http-nio-8080-exec-13560] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | endpoint=/api/v2/restore cpu_u
+2026-07-19T06:24:53,120 [http-nio-8080-exec-18952] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | trace_id=19b151d491cf43c9     
+2026-07-19T06:28:30,120 [http-nio-8080-exec-19494] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | ip=192.168.1.50 caller=DbConne
+2026-07-19T06:30:09,120 [http-nio-8080-exec-02600] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | mem_util=79% extra='jdd9autjcq'
+2026-07-19T06:30:09,238 [http-nio-8080-exec-11434] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | req_id=8f03ac6cc256 endpoint=/
+2026-07-19T06:30:09,268 [http-nio-8080-exec-12147] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | ip=192.168.2.115 endpoint=/met
+2026-07-19T06:30:11,534 [http-nio-8080-exec-09261] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | ip=192.168.2.115 endpoint=/api
+2026-07-19T06:30:11,555 [http-nio-8080-exec-16698] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T06:30:11,760 [http-nio-8080-exec-19472] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=3c85cb953a41 ip=192.168
+2026-07-19T06:30:16,551 [http-nio-8080-exec-11929] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | req_id=285c55e17322 endpoint=/
+2026-07-19T06:30:19,142 [http-nio-8080-exec-17401] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=f81989d1c7d0 ip=10.0.0.
+2026-07-19T06:38:19,142 [http-nio-8080-exec-01264] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | req_id=9fbb9ed02486 ip=192.168
+2026-07-19T06:42:00,142 [http-nio-8080-exec-17941] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=f8d1a3937c41 ip=192.168
+2026-07-19T06:42:04,394 [http-nio-8080-exec-12100] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=8cab3b637806 extra='7lr'
+2026-07-19T06:42:07,618 [http-nio-8080-exec-06635] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | req_id=c3c8701dc4e6 ip=10.0.0.
+2026-07-19T06:42:22,105 [http-nio-8080-exec-14358] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | ip=192.168.2.115 endpoint=/met
+2026-07-19T06:42:32,955 [http-nio-8080-exec-10334] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=620259f3e6fc cpu_util=3
+2026-07-19T06:42:37,554 [http-nio-8080-exec-11004] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | cpu_util=71% mem_util=70%     
+2026-07-19T06:42:38,008 [http-nio-8080-exec-14019] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | req_id=1d88ef83a6e8 endpoint=/
+2026-07-19T06:52:38,008 [http-nio-8080-exec-08313] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | req_id=c723fb9fcd2c ip=172.16.
+2026-07-19T07:03:38,008 [http-nio-8080-exec-03423] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | ip=192.168.2.115 endpoint=/api
+2026-07-19T07:03:38,155 [http-nio-8080-exec-16633] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=cb4704e3bb74 ip=192.168
+2026-07-19T07:03:38,285 [http-nio-8080-exec-12997] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | ip=192.168.1.50 caller=TomcatA
+2026-07-19T07:03:38,622 [http-nio-8080-exec-15917] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | req_id=ffcb3c1d5c04 endpoint=/
+2026-07-19T07:03:42,056 [http-nio-8080-exec-13295] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=223a75344531 caller=Con
+2026-07-19T07:03:44,240 [http-nio-8080-exec-10952] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=41c9c8155fbb caller=DbC
+2026-07-19T07:05:04,240 [http-nio-8080-exec-08289] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | ip=10.0.0.12 cpu_util=20% mem_
+2026-07-19T07:05:09,346 [http-nio-8080-exec-04497] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | req_id=0a181c912b91 ip=172.16.
+2026-07-19T07:05:09,522 [http-nio-8080-exec-18267] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=e29d22c34f68 ip=172.16.
+2026-07-19T07:05:12,204 [http-nio-8080-exec-10444] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | ip=10.0.0.12 endpoint=/api/v2/
+2026-07-19T07:05:24,021 [http-nio-8080-exec-11995] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=53724d1e0f6c ip=192.168
+2026-07-19T07:05:24,386 [http-nio-8080-exec-19785] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | endpoint=/api/v1/auth/login cp
+2026-07-19T07:05:37,541 [http-nio-8080-exec-13705] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | caller=DbConnector mem_util=54
+2026-07-19T07:16:37,541 [http-nio-8080-exec-03343] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | trace_id=79c3e69202e04a4f     
+2026-07-19T07:16:37,701 [http-nio-8080-exec-12651] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | req_id=9fa71cc82231 endpoint=/
+2026-07-19T07:16:49,802 [http-nio-8080-exec-17507] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=01f5405fc1a8 endpoint=/
+2026-07-19T07:16:50,171 [http-nio-8080-exec-08399] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=5f004405928a caller=Web
+2026-07-19T07:16:50,315 [http-nio-8080-exec-10426] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | req_id=e4bd972dbd50 ip=192.168
+2026-07-19T07:19:22,315 [http-nio-8080-exec-18179] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | endpoint=/api/v1/auth/login ca
+2026-07-19T07:19:22,578 [http-nio-8080-exec-10942] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | ip=192.168.1.50 extra='6xu83o9'
+2026-07-19T07:19:24,002 [http-nio-8080-exec-16781] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | ip=10.0.0.12 endpoint=/api/v2/
+2026-07-19T07:19:24,400 [http-nio-8080-exec-03314] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | ip=10.0.0.12 cpu_util=31% mem_
+2026-07-19T07:19:28,017 [http-nio-8080-exec-13523] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | endpoint=/api/v1/auth/login ca
+2026-07-19T07:21:14,017 [http-nio-8080-exec-09368] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=dba8ef4a978a endpoint=/
+2026-07-19T07:21:18,616 [http-nio-8080-exec-07088] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | req_id=ebe5b3e1caca endpoint=/
+2026-07-19T07:21:29,250 [http-nio-8080-exec-07687] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | endpoint=/api/v1/auth/login ca
+2026-07-19T07:23:27,250 [http-nio-8080-exec-16606] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | req_id=4c6829979bf4 ip=10.0.0.
+2026-07-19T07:26:01,250 [http-nio-8080-exec-14232] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | req_id=2cd334888404 cpu_util=6
+2026-07-19T07:29:15,250 [http-nio-8080-exec-17399] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=7b85b247acc3 mem_util=6
+2026-07-19T07:29:16,805 [http-nio-8080-exec-15091] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | req_id=555c62516854 ip=192.168
+2026-07-19T07:29:18,623 [http-nio-8080-exec-13403] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=a1d265829950 caller=Web
+2026-07-19T07:29:20,920 [http-nio-8080-exec-08835] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | req_id=3e2980cdea3f endpoint=/
+2026-07-19T07:29:31,692 [http-nio-8080-exec-07626] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=d98f84cfd2c7 ip=192.168
+2026-07-19T07:29:35,754 [http-nio-8080-exec-08055] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | endpoint=/api/v1/backup/create
+2026-07-19T07:29:39,413 [http-nio-8080-exec-14114] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | endpoint=/api/v1/auth/login ca
+2026-07-19T07:29:54,031 [http-nio-8080-exec-13409] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | endpoint=/api/v1/backup/create
+2026-07-19T07:29:54,167 [http-nio-8080-exec-08807] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | req_id=8a2228e4abf0 ip=10.0.0.
+2026-07-19T07:29:59,014 [http-nio-8080-exec-16276] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | req_id=da79d93e5c58 cpu_util=8
+2026-07-19T07:30:03,021 [http-nio-8080-exec-17588] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T07:45:03,021 [http-nio-8080-exec-09793] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | endpoint=/api/v1/backup/create
+2026-07-19T07:45:03,050 [http-nio-8080-exec-09261] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | req_id=73168b345412 cpu_util=7
+2026-07-19T07:45:03,107 [http-nio-8080-exec-03864] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=a7989b1779ce caller=Bac
+2026-07-19T07:45:05,846 [http-nio-8080-exec-03642] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | endpoint=/metrics caller=Backu
+2026-07-19T07:45:09,732 [http-nio-8080-exec-11267] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | req_id=de38bf02fa4b ip=192.168
+2026-07-19T07:45:09,952 [http-nio-8080-exec-01519] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | req_id=4a3137eec1d1 extra='6d6'
+2026-07-19T07:45:09,978 [http-nio-8080-exec-18053] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | req_id=c615734695f2 endpoint=/
+2026-07-19T07:45:15,268 [http-nio-8080-exec-17428] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=de9be2a95443 ip=192.168
+2026-07-19T07:45:25,623 [http-nio-8080-exec-04718] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | req_id=a42d194aacc9 ip=192.168
+2026-07-19T07:45:25,827 [http-nio-8080-exec-06847] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | ip=192.168.2.115 caller=Tomcat
+2026-07-19T07:45:25,944 [http-nio-8080-exec-03389] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | endpoint=/api/v2/restore      
+2026-07-19T07:45:40,258 [http-nio-8080-exec-17541] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | ip=192.168.1.50 caller=DbConne
+2026-07-19T07:45:40,595 [http-nio-8080-exec-13687] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | req_id=3f2822461852 caller=Tom
+2026-07-19T07:45:40,813 [http-nio-8080-exec-02379] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | req_id=02b494f07429 ip=192.168
+2026-07-19T07:45:43,088 [http-nio-8080-exec-14066] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T07:45:55,660 [http-nio-8080-exec-02218] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | mem_util=47% extra='ujgbaagk6a'
+2026-07-19T07:45:57,131 [http-nio-8080-exec-02328] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=2f8387ef448a mem_util=8
+2026-07-19T07:45:58,920 [http-nio-8080-exec-04244] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | req_id=16fed118298e extra='35f'
+2026-07-19T07:46:02,237 [http-nio-8080-exec-10660] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=65fd0c99572d ip=172.16.
+2026-07-19T07:49:38,237 [http-nio-8080-exec-06527] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | req_id=79e5b8a9bb47 endpoint=/
+2026-07-19T07:49:50,111 [http-nio-8080-exec-14287] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | req_id=6bacaf91adf8 ip=192.168
+2026-07-19T07:52:44,111 [http-nio-8080-exec-01282] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | caller=BackupAgent extra='zj2b'
+2026-07-19T07:52:48,741 [http-nio-8080-exec-01557] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | req_id=9eba4124a7cb endpoint=/
+2026-07-19T07:53:02,484 [http-nio-8080-exec-06190] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=1fac0860add3 ip=192.168
+2026-07-19T07:53:02,541 [http-nio-8080-exec-07955] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | trace_id=3e7358a4a624409d     
+2026-07-19T07:53:02,996 [http-nio-8080-exec-14750] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=f60bd98115f4 ip=192.168
+2026-07-19T07:53:16,718 [http-nio-8080-exec-05522] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | caller=ConfigManager extra='re'
+2026-07-19T07:55:38,718 [http-nio-8080-exec-04474] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | ip=172.16.254.1 caller=BackupA
+2026-07-19T07:55:38,728 [http-nio-8080-exec-11230] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | ip=192.168.1.50 cpu_util=64% m
+2026-07-19T07:55:49,647 [http-nio-8080-exec-10206] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | req_id=5a6d0ea02741 ip=192.168
+2026-07-19T07:55:50,069 [http-nio-8080-exec-19025] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=b2ff3998ffd5 caller=Tom
+2026-07-19T07:55:53,596 [http-nio-8080-exec-01922] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | endpoint=/api/v2/restore cpu_u
+2026-07-19T07:55:54,031 [http-nio-8080-exec-09529] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=79d325392b6a ip=172.16.
+2026-07-19T07:59:41,031 [http-nio-8080-exec-08968] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | caller=DbConnector cpu_util=15
+2026-07-19T07:59:55,997 [http-nio-8080-exec-16400] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T07:59:56,140 [http-nio-8080-exec-16815] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=de7d9d1ef741 ip=192.168
+2026-07-19T08:03:47,140 [http-nio-8080-exec-16630] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | req_id=78601e2dc92f caller=Tom
+2026-07-19T08:03:47,328 [http-nio-8080-exec-09871] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | ip=10.0.0.12 mem_util=40%     
+2026-07-19T08:03:47,475 [http-nio-8080-exec-03384] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=1ac2c1a23369 ip=192.168
+2026-07-19T08:03:50,954 [http-nio-8080-exec-19835] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | endpoint=/api/v1/system/status
+2026-07-19T08:07:34,954 [http-nio-8080-exec-01470] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | caller=ConfigManager cpu_util=
+2026-07-19T08:11:20,954 [http-nio-8080-exec-18168] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | req_id=da50d22cfa46 extra='o9d'
+2026-07-19T08:11:25,554 [http-nio-8080-exec-02595] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | req_id=335eac89248c ip=192.168
+2026-07-19T08:11:26,917 [http-nio-8080-exec-04885] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=bbace9e54818 cpu_util=6
+2026-07-19T08:15:25,917 [http-nio-8080-exec-13972] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | req_id=7ccf204d3417 cpu_util=3
+2026-07-19T08:15:26,215 [http-nio-8080-exec-13399] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | req_id=f8ce9ec665b6 endpoint=/
+2026-07-19T08:15:26,515 [http-nio-8080-exec-06396] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | req_id=8710b00a81d8 endpoint=/
+2026-07-19T08:15:30,745 [http-nio-8080-exec-15024] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=59ccdc41190d caller=Bac
+2026-07-19T08:15:35,621 [http-nio-8080-exec-17451] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | req_id=70a7fd92b6ff ip=172.16.
+2026-07-19T08:15:38,946 [http-nio-8080-exec-09014] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | req_id=e3cbb98ba158 endpoint=/
+2026-07-19T08:15:42,053 [http-nio-8080-exec-10642] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | ip=172.16.254.1 caller=BackupA
+2026-07-19T08:15:42,302 [http-nio-8080-exec-19506] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T08:15:44,187 [http-nio-8080-exec-13740] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | req_id=54c46b098154 endpoint=/
+2026-07-19T08:15:44,357 [http-nio-8080-exec-08224] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | caller=DbConnector cpu_util=62
+2026-07-19T08:15:44,519 [http-nio-8080-exec-04394] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T08:17:24,519 [http-nio-8080-exec-05398] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | req_id=708b74845c2f ip=192.168
+2026-07-19T08:17:25,723 [http-nio-8080-exec-16119] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | req_id=343dcbf276fc endpoint=/
+2026-07-19T08:17:29,350 [http-nio-8080-exec-03798] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | ip=192.168.2.115 endpoint=/api
+2026-07-19T08:17:33,113 [http-nio-8080-exec-04439] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | req_id=dd0e2f16f430 ip=192.168
+2026-07-19T08:17:33,494 [http-nio-8080-exec-09067] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | req_id=0d52bdd92874 endpoint=/
+2026-07-19T08:32:33,494 [http-nio-8080-exec-09545] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T08:32:39,246 [http-nio-8080-exec-04268] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | caller=DbConnector cpu_util=52
+2026-07-19T08:32:39,542 [http-nio-8080-exec-03652] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | req_id=35bd37a5eda4 ip=172.16.
+2026-07-19T08:32:39,864 [http-nio-8080-exec-09691] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=92d3429a201c endpoint=/
+2026-07-19T08:32:40,153 [http-nio-8080-exec-18933] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | req_id=cf563b324ad4 endpoint=/
+2026-07-19T08:47:40,153 [http-nio-8080-exec-11897] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | req_id=3b4f7a98ae94 ip=192.168
+2026-07-19T08:47:45,826 [http-nio-8080-exec-02681] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | req_id=fbaa6449c9ee ip=172.16.
+2026-07-19T08:47:51,600 [http-nio-8080-exec-07303] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | ip=192.168.2.115 caller=DbConn
+2026-07-19T08:47:51,685 [http-nio-8080-exec-18870] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=cab49a0608fc caller=Bac
+2026-07-19T08:47:52,024 [http-nio-8080-exec-13882] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | req_id=8832b0c870bd cpu_util=6
+2026-07-19T08:47:52,430 [http-nio-8080-exec-09106] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T08:47:54,497 [http-nio-8080-exec-11796] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | ip=192.168.2.115 cpu_util=40% 
+2026-07-19T08:47:58,814 [http-nio-8080-exec-18604] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | req_id=f7963be6709e ip=10.0.0.
+2026-07-19T08:48:01,382 [http-nio-8080-exec-07192] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | ip=192.168.2.115 endpoint=/api
+2026-07-19T08:48:01,581 [http-nio-8080-exec-09795] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=b0f2f88a2b4f ip=192.168
+2026-07-19T08:48:02,017 [http-nio-8080-exec-12076] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | endpoint=/api/v1/auth/login ca
+2026-07-19T08:49:12,017 [http-nio-8080-exec-16669] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | ip=192.168.2.115 endpoint=/api
+2026-07-19T08:49:14,593 [http-nio-8080-exec-02395] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | endpoint=/api/v1/auth/login me
+2026-07-19T08:49:17,602 [http-nio-8080-exec-04390] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | caller=DbConnector extra='wj7j'
+2026-07-19T08:51:43,602 [http-nio-8080-exec-06257] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | ip=192.168.2.115 caller=Backup
+2026-07-19T08:51:43,875 [http-nio-8080-exec-14619] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | ip=10.0.0.12 extra='wbr789w62c'
+2026-07-19T08:51:45,504 [http-nio-8080-exec-12310] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=522501e43d3b endpoint=/
+2026-07-19T08:51:45,652 [http-nio-8080-exec-06629] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=c4af004c9f7c ip=192.168
+2026-07-19T08:51:45,916 [http-nio-8080-exec-18605] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T08:51:46,175 [http-nio-8080-exec-04726] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | req_id=3c15943d93b2 ip=172.16.
+2026-07-19T08:51:48,288 [http-nio-8080-exec-12434] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | ip=192.168.2.115 caller=Tomcat
+2026-07-19T08:51:51,306 [http-nio-8080-exec-18094] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | endpoint=/api/v2/restore cpu_u
+2026-07-19T08:51:57,223 [http-nio-8080-exec-18601] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | req_id=57a1b32457b1 ip=192.168
+2026-07-19T08:51:57,622 [http-nio-8080-exec-15181] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T08:51:57,995 [http-nio-8080-exec-04932] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | req_id=efd038aa4c12 ip=172.16.
+2026-07-19T08:51:58,312 [http-nio-8080-exec-16108] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=4e3c3144b4f8 caller=Con
+2026-07-19T08:51:58,580 [http-nio-8080-exec-14534] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | ip=192.168.2.115 endpoint=/api
+2026-07-19T08:51:58,730 [http-nio-8080-exec-19333] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | cpu_util=50% extra='40v04gxtu8'
+2026-07-19T08:52:03,128 [http-nio-8080-exec-11320] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | endpoint=/api/v1/auth/login ca
+2026-07-19T08:52:03,462 [http-nio-8080-exec-15463] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | ip=172.16.254.1 caller=DbConne
+2026-07-19T08:52:03,808 [http-nio-8080-exec-14448] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | caller=BackupAgent cpu_util=77
+2026-07-19T08:52:04,283 [http-nio-8080-exec-10102] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | req_id=a0a5fe6c14d9 endpoint=/
+2026-07-19T08:52:04,416 [http-nio-8080-exec-11482] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=bf571cec2d83 ip=172.16.
+2026-07-19T08:52:04,557 [http-nio-8080-exec-12551] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=108aa682c12e endpoint=/
+2026-07-19T08:52:04,606 [http-nio-8080-exec-04577] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | ip=10.0.0.12 cpu_util=13% mem_
+2026-07-19T08:52:08,631 [http-nio-8080-exec-07933] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | ip=10.0.0.12 cpu_util=14%     
+2026-07-19T08:52:13,571 [http-nio-8080-exec-06929] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | mem_util=79% extra='92uqiqqh1t'
+2026-07-19T08:52:16,809 [http-nio-8080-exec-15037] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | req_id=fcffdf52857b ip=192.168
+2026-07-19T08:52:18,162 [http-nio-8080-exec-09550] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=ab43f078ad9e endpoint=/
+2026-07-19T08:52:20,232 [http-nio-8080-exec-13259] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | endpoint=/api/v1/auth/login ca
+2026-07-19T08:52:20,272 [http-nio-8080-exec-14414] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | caller=WebServiceHelper       
+2026-07-19T08:52:20,444 [http-nio-8080-exec-17570] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T08:52:24,800 [http-nio-8080-exec-07006] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | req_id=2c296ca820ca caller=Con
+2026-07-19T08:52:26,879 [http-nio-8080-exec-04202] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | req_id=db293dca41aa ip=192.168
+2026-07-19T08:52:31,188 [http-nio-8080-exec-01462] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T08:52:31,439 [http-nio-8080-exec-11283] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | ip=192.168.1.50 caller=ConfigM
+2026-07-19T08:52:31,680 [http-nio-8080-exec-15686] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | req_id=cf3f158d10fb endpoint=/
+2026-07-19T08:52:37,365 [http-nio-8080-exec-11706] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | ip=192.168.2.115 mem_util=30% 
+2026-07-19T08:52:42,779 [http-nio-8080-exec-07266] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=dd4902391755 caller=Web
+2026-07-19T08:52:42,927 [http-nio-8080-exec-16636] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | req_id=a9a74865145c cpu_util=4
+2026-07-19T08:54:00,927 [http-nio-8080-exec-09027] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | req_id=3393520d8233 ip=10.0.0.
+2026-07-19T08:54:06,452 [http-nio-8080-exec-11197] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=6fcb19862f54 ip=192.168
+2026-07-19T08:54:08,442 [http-nio-8080-exec-16963] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=7c70e8ebda8f ip=172.16.
+2026-07-19T08:54:10,785 [http-nio-8080-exec-07857] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | endpoint=/api/v1/system/status
+2026-07-19T08:54:11,228 [http-nio-8080-exec-15792] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | req_id=344616a287b3 ip=10.0.0.
+2026-07-19T08:54:24,277 [http-nio-8080-exec-14870] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | ip=192.168.2.115 endpoint=/api
+2026-07-19T08:54:24,316 [http-nio-8080-exec-07780] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T08:54:27,616 [http-nio-8080-exec-14654] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | caller=BackupAgent cpu_util=50
+2026-07-19T08:54:27,945 [http-nio-8080-exec-10674] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | endpoint=/api/v2/restore      
+2026-07-19T08:54:28,016 [http-nio-8080-exec-19503] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | ip=172.16.254.1 cpu_util=67%  
+2026-07-19T08:54:39,007 [http-nio-8080-exec-05565] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=c6c9b1f682b6 ip=192.168
+2026-07-19T09:08:39,007 [http-nio-8080-exec-03848] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | ip=10.0.0.12 caller=ConfigMana
+2026-07-19T09:08:41,075 [http-nio-8080-exec-09125] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | req_id=43862ebd57e7 ip=172.16.
+2026-07-19T09:08:41,076 [http-nio-8080-exec-04464] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | req_id=31f0e290dfff endpoint=/
+2026-07-19T09:08:41,310 [http-nio-8080-exec-02847] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | mem_util=89% extra='p3cvs841el'
+2026-07-19T09:08:41,628 [http-nio-8080-exec-07658] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | req_id=822476224400 mem_util=7
+2026-07-19T09:12:26,628 [http-nio-8080-exec-10209] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | caller=WebServiceHelper       
+2026-07-19T09:12:28,764 [http-nio-8080-exec-04209] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=e0c6d4e7e5f2 cpu_util=1
+2026-07-19T09:12:28,819 [http-nio-8080-exec-18666] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=fbebbff02508 ip=172.16.
+2026-07-19T09:12:28,959 [http-nio-8080-exec-18929] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=a12f8b67766b caller=DbC
+2026-07-19T09:12:29,182 [http-nio-8080-exec-11226] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | mem_util=46% extra='o56f5atrob'
+2026-07-19T09:15:57,182 [http-nio-8080-exec-16908] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | req_id=784b00946f2b ip=192.168
+2026-07-19T09:15:58,937 [http-nio-8080-exec-11289] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | endpoint=/api/v1/system/status
+2026-07-19T09:16:02,911 [http-nio-8080-exec-14419] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | endpoint=/api/v1/backup/create
+2026-07-19T09:16:08,560 [http-nio-8080-exec-11702] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | req_id=bf2ee647c930 ip=192.168
+2026-07-19T09:17:16,560 [http-nio-8080-exec-09875] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | req_id=ffe000406ee5 ip=192.168
+2026-07-19T09:17:16,738 [http-nio-8080-exec-04025] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | endpoint=/api/v1/backup/create
+2026-07-19T09:17:17,128 [http-nio-8080-exec-02011] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | req_id=4be79c270525 mem_util=4
+2026-07-19T09:20:37,128 [http-nio-8080-exec-09981] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | ip=172.16.254.1 cpu_util=13% m
+2026-07-19T09:20:43,102 [http-nio-8080-exec-13250] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | endpoint=/api/v1/backup/create
+2026-07-19T09:24:40,102 [http-nio-8080-exec-19672] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | req_id=04cb73440eb8 caller=DbC
+2026-07-19T09:24:55,508 [http-nio-8080-exec-04583] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=8018277e8048 endpoint=/
+2026-07-19T09:25:11,052 [http-nio-8080-exec-08399] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=25f8df1ffdb0 ip=172.16.
+2026-07-19T09:25:26,731 [http-nio-8080-exec-11276] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | endpoint=/api/v2/restore cpu_u
+2026-07-19T09:25:29,073 [http-nio-8080-exec-06946] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | caller=ConfigManager cpu_util=
+2026-07-19T09:25:34,901 [http-nio-8080-exec-10165] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T09:25:48,619 [http-nio-8080-exec-16180] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | req_id=e6b703cc4096 ip=10.0.0.
+2026-07-19T09:25:54,448 [http-nio-8080-exec-10024] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | endpoint=/api/v2/restore calle
+2026-07-19T09:25:54,781 [http-nio-8080-exec-09595] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | req_id=8ab3b8687a4f endpoint=/
+2026-07-19T09:25:54,888 [http-nio-8080-exec-16761] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | trace_id=b237e0e4f7c44dd6     
+2026-07-19T09:25:56,883 [http-nio-8080-exec-18082] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | ip=192.168.2.115 extra='kvj9jf'
+2026-07-19T09:25:57,026 [http-nio-8080-exec-19792] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | req_id=95915b93c9ac endpoint=/
+2026-07-19T09:26:11,331 [http-nio-8080-exec-18913] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | ip=172.16.254.1 caller=WebServ
+2026-07-19T09:26:15,482 [http-nio-8080-exec-15838] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | ip=192.168.1.50 cpu_util=23% m
+2026-07-19T09:26:19,059 [http-nio-8080-exec-09925] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | endpoint=/api/v1/system/status
+2026-07-19T09:26:19,552 [http-nio-8080-exec-16010] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T09:26:19,599 [http-nio-8080-exec-09044] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | caller=WebServiceHelper cpu_ut
+2026-07-19T09:26:32,380 [http-nio-8080-exec-08091] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | caller=TomcatAccessFilter cpu_
+2026-07-19T09:26:32,727 [http-nio-8080-exec-10433] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=628de8860b0f endpoint=/
+2026-07-19T09:30:17,727 [http-nio-8080-exec-06470] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | caller=TomcatAccessFilter     
+2026-07-19T09:30:20,377 [http-nio-8080-exec-14500] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | endpoint=/api/v1/system/status
+2026-07-19T09:30:20,442 [http-nio-8080-exec-16789] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | req_id=31d97117769e endpoint=/
+2026-07-19T09:30:20,566 [http-nio-8080-exec-01237] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | req_id=e45133a3018f ip=10.0.0.
+2026-07-19T09:33:28,566 [http-nio-8080-exec-11873] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | req_id=d9e6d05bea21 ip=192.168
+2026-07-19T09:33:32,253 [http-nio-8080-exec-15014] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | trace_id=350622e25f4e4f3f     
+2026-07-19T09:33:32,272 [http-nio-8080-exec-19795] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=f32e2c58f4fc ip=172.16.
+2026-07-19T09:33:37,382 [http-nio-8080-exec-17896] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=e74bbe067dbd endpoint=/
+2026-07-19T09:35:38,382 [http-nio-8080-exec-04271] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | endpoint=/api/v1/system/status
+2026-07-19T09:35:38,827 [http-nio-8080-exec-10650] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | ip=192.168.2.115 caller=Backup
+2026-07-19T09:35:39,044 [http-nio-8080-exec-18628] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | req_id=58aeef4eb61b ip=172.16.
+2026-07-19T09:35:39,523 [http-nio-8080-exec-15327] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=4960bedffb47 ip=10.0.0.
+2026-07-19T09:35:44,865 [http-nio-8080-exec-18073] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=88912b565a96 ip=172.16.
+2026-07-19T09:35:45,194 [http-nio-8080-exec-14623] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | cpu_util=37% mem_util=79%     
+2026-07-19T09:35:45,288 [http-nio-8080-exec-10057] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=6091dce37f7a endpoint=/
+2026-07-19T09:35:45,526 [http-nio-8080-exec-07082] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=524810237aa5 caller=Web
+2026-07-19T09:38:59,526 [http-nio-8080-exec-09849] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | caller=BackupAgent extra='8qts'
+2026-07-19T09:39:12,637 [http-nio-8080-exec-11030] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | endpoint=/api/v1/system/status
+2026-07-19T09:42:57,637 [http-nio-8080-exec-10610] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | cpu_util=26% mem_util=62%     
+2026-07-19T09:45:17,637 [http-nio-8080-exec-16297] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | req_id=cc8147c0e10e ip=10.0.0.
+2026-07-19T09:45:17,688 [http-nio-8080-exec-02087] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | endpoint=/api/v1/auth/login ca
+2026-07-19T09:45:22,537 [http-nio-8080-exec-10502] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=4d426c65f891 ip=192.168
+2026-07-19T09:45:26,863 [http-nio-8080-exec-19163] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | ip=10.0.0.12 caller=DbConnecto
+2026-07-19T09:46:50,863 [http-nio-8080-exec-04162] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | ip=10.0.0.12 cpu_util=63%     
+2026-07-19T09:46:51,018 [http-nio-8080-exec-08196] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | req_id=287d6a8cbf8f endpoint=/
+2026-07-19T09:46:51,482 [http-nio-8080-exec-19788] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=76452cbbd76f ip=192.168
+2026-07-19T09:49:38,482 [http-nio-8080-exec-10970] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | caller=WebServiceHelper mem_ut
+2026-07-19T09:50:46,482 [http-nio-8080-exec-07783] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=892c18865e46 ip=10.0.0.
+2026-07-19T09:50:50,611 [http-nio-8080-exec-07530] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | endpoint=/api/v1/system/status
+2026-07-19T09:50:50,783 [http-nio-8080-exec-14454] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=ebfe8f43828d ip=172.16.
+2026-07-19T09:50:54,938 [http-nio-8080-exec-12000] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | endpoint=/metrics cpu_util=38%
+2026-07-19T09:50:56,723 [http-nio-8080-exec-18216] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=2f7167c921e7 ip=10.0.0.
+2026-07-19T09:50:57,124 [http-nio-8080-exec-05988] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=44d65116ef45 ip=192.168
+2026-07-19T09:53:21,124 [http-nio-8080-exec-07008] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | ip=172.16.254.1 caller=WebServ
+2026-07-19T09:53:21,155 [http-nio-8080-exec-04163] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=fb2a822f7602 caller=Bac
+2026-07-19T09:53:32,249 [http-nio-8080-exec-14673] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | endpoint=/api/v1/auth/login cp
+2026-07-19T09:53:32,429 [http-nio-8080-exec-17679] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=c13393f7ae8b ip=192.168
+2026-07-19T09:53:47,259 [http-nio-8080-exec-06345] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | req_id=0d81ad1cab41 caller=Con
+2026-07-19T09:53:52,423 [http-nio-8080-exec-18220] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | ip=172.16.254.1 endpoint=/metr
+2026-07-19T09:53:52,881 [http-nio-8080-exec-02064] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=ce1067ca1e20 caller=Bac
+2026-07-19T09:53:57,960 [http-nio-8080-exec-03270] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | req_id=469fb60d0684 endpoint=/
+2026-07-19T09:54:00,224 [http-nio-8080-exec-14683] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | req_id=734c4966676b endpoint=/
+2026-07-19T09:55:37,224 [http-nio-8080-exec-13532] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | endpoint=/metrics cpu_util=31%
+2026-07-19T09:55:37,268 [http-nio-8080-exec-06200] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=259de9e9f788 ip=10.0.0.
+2026-07-19T09:55:39,065 [http-nio-8080-exec-07763] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | ip=192.168.1.50 endpoint=/metr
+2026-07-19T09:55:43,824 [http-nio-8080-exec-05489] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | cpu_util=44% mem_util=48%     
+2026-07-19T09:55:43,874 [http-nio-8080-exec-12335] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | endpoint=/api/v1/auth/login cp
+2026-07-19T09:59:09,874 [http-nio-8080-exec-06873] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | caller=WebServiceHelper       
+2026-07-19T09:59:21,452 [http-nio-8080-exec-19902] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | req_id=71c6d18b7722 ip=10.0.0.
+2026-07-19T10:01:23,452 [http-nio-8080-exec-11483] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | req_id=30a330ca6d1d mem_util=5
+2026-07-19T10:01:23,784 [http-nio-8080-exec-16580] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | req_id=e335e988e3a8 ip=172.16.
+2026-07-19T10:01:38,682 [http-nio-8080-exec-06558] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | ip=172.16.254.1 caller=ConfigM
+2026-07-19T10:01:42,079 [http-nio-8080-exec-09342] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | ip=10.0.0.12 caller=TomcatAcce
+2026-07-19T10:01:46,751 [http-nio-8080-exec-11964] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | cpu_util=23% mem_util=79%     
+2026-07-19T10:01:50,327 [http-nio-8080-exec-09819] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | req_id=c9bbfdf48033 endpoint=/
+2026-07-19T10:01:56,152 [http-nio-8080-exec-08668] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=715362a10f98 ip=10.0.0.
+2026-07-19T10:02:57,152 [http-nio-8080-exec-16388] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | req_id=ff7f7a32708f cpu_util=5
+2026-07-19T10:02:57,570 [http-nio-8080-exec-08663] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | endpoint=/api/v1/system/status
+2026-07-19T10:02:57,949 [http-nio-8080-exec-07764] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | endpoint=/api/v1/system/status
+2026-07-19T10:03:01,858 [http-nio-8080-exec-16790] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | req_id=b08688d07f3f cpu_util=5
+2026-07-19T10:03:03,936 [http-nio-8080-exec-11678] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | ip=192.168.2.115 endpoint=/api
+2026-07-19T10:03:15,049 [http-nio-8080-exec-17630] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T10:13:15,049 [http-nio-8080-exec-01794] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | cpu_util=45% extra='i8kv03nrio'
+2026-07-19T10:13:17,443 [http-nio-8080-exec-15065] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | req_id=c7369c08ab10 caller=Con
+2026-07-19T10:13:28,284 [http-nio-8080-exec-16915] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T10:19:28,284 [http-nio-8080-exec-15393] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | ip=192.168.2.115 endpoint=/met
+2026-07-19T10:19:28,293 [http-nio-8080-exec-09125] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T10:19:28,578 [http-nio-8080-exec-07854] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | req_id=b34508c44c03 ip=172.16.
+2026-07-19T10:19:31,412 [http-nio-8080-exec-07703] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | req_id=c63d1c7c7e6a ip=192.168
+2026-07-19T10:19:31,695 [http-nio-8080-exec-13279] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=091b28723c36 ip=172.16.
+2026-07-19T10:19:31,897 [http-nio-8080-exec-05506] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | req_id=12231a1b9138 endpoint=/
+2026-07-19T10:19:31,915 [http-nio-8080-exec-15534] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=95d1539179e7 endpoint=/
+2026-07-19T10:19:34,558 [http-nio-8080-exec-10773] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | req_id=4c1ea4d51ff3 ip=192.168
+2026-07-19T10:19:35,846 [http-nio-8080-exec-07666] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | endpoint=/metrics caller=Confi
+2026-07-19T10:19:46,274 [http-nio-8080-exec-06311] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | mem_util=78% extra='84v13jkrxa'
+2026-07-19T10:19:46,541 [http-nio-8080-exec-14634] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | req_id=ecb60b011cec ip=192.168
+2026-07-19T10:19:46,969 [http-nio-8080-exec-14938] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | cpu_util=70% mem_util=76%     
+2026-07-19T10:19:52,148 [http-nio-8080-exec-11734] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | mem_util=48% extra='txfm4gir39'
+2026-07-19T10:19:52,376 [http-nio-8080-exec-12957] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | ip=192.168.2.115 caller=DbConn
+2026-07-19T10:20:07,717 [http-nio-8080-exec-08391] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | req_id=0cdb7d615589 ip=192.168
+2026-07-19T10:22:49,717 [http-nio-8080-exec-12011] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | req_id=c00d8c14af46 ip=192.168
+2026-07-19T10:22:51,197 [http-nio-8080-exec-09013] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | req_id=ba18ce7cb1f5 endpoint=/
+2026-07-19T10:22:53,024 [http-nio-8080-exec-03133] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | req_id=3d00f4debe66 cpu_util=5
+2026-07-19T10:22:55,619 [http-nio-8080-exec-01594] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | req_id=38d5fa910548 cpu_util=7
+2026-07-19T10:22:58,494 [http-nio-8080-exec-05292] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T10:23:13,337 [http-nio-8080-exec-16744] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | req_id=87ca74b6e1f0 ip=10.0.0.
+2026-07-19T10:23:16,129 [http-nio-8080-exec-04391] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | caller=DbConnector cpu_util=50
+2026-07-19T10:23:19,855 [http-nio-8080-exec-05249] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | req_id=835f7c5c4725 ip=10.0.0.
+2026-07-19T10:23:19,859 [http-nio-8080-exec-01570] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | req_id=31bf678332ce ip=192.168
+2026-07-19T10:26:44,859 [http-nio-8080-exec-15701] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | req_id=0da6ba221d57 mem_util=5
+2026-07-19T10:27:00,524 [http-nio-8080-exec-01036] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=859deda6161a ip=10.0.0.
+2026-07-19T10:27:03,174 [http-nio-8080-exec-01891] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | endpoint=/metrics caller=WebSe
+2026-07-19T10:27:03,288 [http-nio-8080-exec-02207] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | ip=172.16.254.1 extra='o1mf4hd'
+2026-07-19T10:29:33,288 [http-nio-8080-exec-13970] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | ip=172.16.254.1 cpu_util=32%  
+2026-07-19T10:29:36,025 [http-nio-8080-exec-15576] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=1c57f777ed23 ip=10.0.0.
+2026-07-19T10:29:48,781 [http-nio-8080-exec-06329] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | req_id=48905989a40f endpoint=/
+2026-07-19T10:41:48,781 [http-nio-8080-exec-08036] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | req_id=175be20b7964 ip=172.16.
+2026-07-19T10:41:51,979 [http-nio-8080-exec-12685] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | endpoint=/api/v1/system/status
+2026-07-19T10:41:55,740 [http-nio-8080-exec-05298] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | req_id=5a8eb5de26e0 ip=192.168
+2026-07-19T10:44:31,740 [http-nio-8080-exec-05801] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | req_id=e15a9a7631c5 ip=172.16.
+2026-07-19T10:44:36,417 [http-nio-8080-exec-16156] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | cpu_util=50% mem_util=90%     
+2026-07-19T10:44:41,906 [http-nio-8080-exec-03545] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | req_id=2435cfdfd242 caller=Tom
+2026-07-19T10:44:42,397 [http-nio-8080-exec-03097] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | endpoint=/api/v1/system/status
+2026-07-19T10:44:42,626 [http-nio-8080-exec-09255] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | endpoint=/api/v1/auth/login ca
+2026-07-19T10:44:42,947 [http-nio-8080-exec-02807] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | ip=192.168.1.50 cpu_util=65%  
+2026-07-19T10:44:46,616 [http-nio-8080-exec-02815] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | caller=ConfigManager cpu_util=
+2026-07-19T10:46:21,616 [http-nio-8080-exec-09771] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | req_id=44d3cb3415b2 endpoint=/
+2026-07-19T10:46:25,211 [http-nio-8080-exec-16353] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | mem_util=50% extra='r8yvwr6up5'
+2026-07-19T10:46:26,981 [http-nio-8080-exec-19166] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | req_id=7bace0285b2d mem_util=3
+2026-07-19T10:46:30,409 [http-nio-8080-exec-18279] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | ip=192.168.1.50 endpoint=/metr
+2026-07-19T10:46:30,731 [http-nio-8080-exec-04161] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | caller=BackupAgent extra='7n6i'
+2026-07-19T10:46:34,876 [http-nio-8080-exec-10173] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=3b2880c58048 ip=10.0.0.
+2026-07-19T10:46:35,243 [http-nio-8080-exec-19896] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T10:46:48,060 [http-nio-8080-exec-05183] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=c53e601b12d5 ip=172.16.
+2026-07-19T10:47:03,872 [http-nio-8080-exec-15504] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T10:47:15,064 [http-nio-8080-exec-16652] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=8ff39452910f ip=172.16.
+2026-07-19T10:47:15,228 [http-nio-8080-exec-12763] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | req_id=cb48022eb304 ip=192.168
+2026-07-19T10:47:15,335 [http-nio-8080-exec-04640] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=309e7344c22f endpoint=/
+2026-07-19T10:48:18,335 [http-nio-8080-exec-13472] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=af0b01aa07b4 caller=Con
+2026-07-19T10:48:21,955 [http-nio-8080-exec-15393] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | cpu_util=76% mem_util=36%     
+2026-07-19T10:48:25,399 [http-nio-8080-exec-12251] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | req_id=ef96a8742e75 endpoint=/
+2026-07-19T10:48:25,817 [http-nio-8080-exec-01385] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | trace_id=f8855c3a745c4a59     
+2026-07-19T10:48:29,191 [http-nio-8080-exec-06269] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | req_id=eb1230997de8 ip=192.168
+2026-07-19T10:48:29,500 [http-nio-8080-exec-03033] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | ip=10.0.0.12 endpoint=/metrics
+2026-07-19T10:48:43,196 [http-nio-8080-exec-16803] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | req_id=5ac333b23583 endpoint=/
+2026-07-19T10:48:43,302 [http-nio-8080-exec-18545] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | req_id=9f575d99d161 ip=10.0.0.
+2026-07-19T10:52:30,302 [http-nio-8080-exec-09696] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T10:52:34,146 [http-nio-8080-exec-03848] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | ip=10.0.0.12 endpoint=/metrics
+2026-07-19T10:52:35,592 [http-nio-8080-exec-02337] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | req_id=fa84c2cf77ba ip=192.168
+2026-07-19T10:52:35,824 [http-nio-8080-exec-04005] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | ip=192.168.2.115 caller=WebSer
+2026-07-19T10:52:38,181 [http-nio-8080-exec-03886] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | endpoint=/api/v1/auth/login ca
+2026-07-19T10:55:07,181 [http-nio-8080-exec-06382] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | endpoint=/api/v1/backup/create
+2026-07-19T10:55:07,576 [http-nio-8080-exec-13612] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | mem_util=37% extra='kdtrm9zuic'
+2026-07-19T10:55:11,568 [http-nio-8080-exec-14330] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | req_id=9ce79c5d90bb ip=192.168
+2026-07-19T10:55:11,683 [http-nio-8080-exec-08781] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | caller=BackupAgent extra='zqmq'
+2026-07-19T10:55:14,336 [http-nio-8080-exec-17673] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | req_id=107bbdc16128 caller=Tom
+2026-07-19T10:55:19,787 [http-nio-8080-exec-10144] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | cpu_util=79% extra='la5mzpcemf'
+2026-07-19T10:55:32,831 [http-nio-8080-exec-04971] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | ip=192.168.2.115 endpoint=/api
+2026-07-19T10:55:34,349 [http-nio-8080-exec-11599] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | ip=172.16.254.1 endpoint=/metr
+2026-07-19T10:55:34,433 [http-nio-8080-exec-08178] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | req_id=761585dfbf3e caller=Web
+2026-07-19T10:55:34,516 [http-nio-8080-exec-07006] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | req_id=7dde5b790175 endpoint=/
+2026-07-19T10:55:35,669 [http-nio-8080-exec-04079] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | endpoint=/api/v2/restore      
+2026-07-19T10:55:35,717 [http-nio-8080-exec-18445] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | ip=192.168.2.115 endpoint=/api
+2026-07-19T10:55:37,846 [http-nio-8080-exec-02530] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | req_id=83d9016c4c42 ip=192.168
+2026-07-19T10:55:38,172 [http-nio-8080-exec-15943] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=a2201edc1141 caller=Bac
+2026-07-19T10:55:38,627 [http-nio-8080-exec-15406] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | req_id=bb72872c4540 caller=DbC
+2026-07-19T10:55:38,784 [http-nio-8080-exec-05255] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | req_id=c18aa30e15ef endpoint=/
+2026-07-19T10:55:50,663 [http-nio-8080-exec-09163] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | req_id=cc13fdf9a895 endpoint=/
+2026-07-19T10:58:04,663 [http-nio-8080-exec-09914] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=643465731484 ip=192.168
+2026-07-19T10:58:04,750 [http-nio-8080-exec-07798] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 204 | req_id=1f6f83fd25c3 cpu_util=3
+2026-07-19T10:58:04,883 [http-nio-8080-exec-01501] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | req_id=b51445cfd7e8 ip=10.0.0.
+2026-07-19T10:58:16,127 [http-nio-8080-exec-06628] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=6e03e78162f3 caller=Tom
+2026-07-19T10:58:30,060 [http-nio-8080-exec-08385] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | ip=10.0.0.12 mem_util=48%     
+2026-07-19T10:58:32,049 [http-nio-8080-exec-13379] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | ip=192.168.2.115 endpoint=/api
+2026-07-19T10:58:35,119 [http-nio-8080-exec-02508] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | ip=192.168.2.115 mem_util=74% 
+2026-07-19T10:58:36,641 [http-nio-8080-exec-04625] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=c87cccc16787 ip=192.168
+2026-07-19T10:58:42,234 [http-nio-8080-exec-04746] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | caller=DbConnector cpu_util=23
+2026-07-19T10:58:42,331 [http-nio-8080-exec-06634] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | cpu_util=51% mem_util=66%     
+2026-07-19T10:58:42,727 [http-nio-8080-exec-19761] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | req_id=ac5542a61d93 caller=DbC
+2026-07-19T10:58:45,953 [http-nio-8080-exec-16806] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | ip=192.168.2.115 endpoint=/api
+2026-07-19T10:58:59,911 [http-nio-8080-exec-09898] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | ip=192.168.2.115 endpoint=/api
+2026-07-19T10:59:03,416 [http-nio-8080-exec-14600] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | req_id=4f95e3cd3b56 ip=172.16.
+2026-07-19T10:59:08,826 [http-nio-8080-exec-02582] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | req_id=542123c05afb ip=192.168
+2026-07-19T11:01:42,826 [http-nio-8080-exec-07548] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | req_id=b3d191890885 ip=192.168
+2026-07-19T11:05:28,826 [http-nio-8080-exec-16949] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | req_id=b5e25d3320fe ip=172.16.
+2026-07-19T11:05:28,887 [http-nio-8080-exec-05303] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | endpoint=/api/v2/restore calle
+2026-07-19T11:05:29,114 [http-nio-8080-exec-12282] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | endpoint=/api/v1/auth/login ca
+2026-07-19T11:05:34,988 [http-nio-8080-exec-13411] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | caller=WebServiceHelper mem_ut
+2026-07-19T11:05:39,095 [http-nio-8080-exec-02271] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | req_id=edc72f49391a ip=10.0.0.
+2026-07-19T11:05:52,760 [http-nio-8080-exec-15533] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | ip=192.168.2.115 endpoint=/api
+2026-07-19T11:05:54,860 [http-nio-8080-exec-02310] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=f4e50f126c6f caller=DbC
+2026-07-19T11:05:56,605 [http-nio-8080-exec-07673] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | ip=192.168.2.115 mem_util=34% 
+2026-07-19T11:05:59,827 [http-nio-8080-exec-14746] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | mem_util=51% extra='vm1qqlor9l'
+2026-07-19T11:06:01,474 [http-nio-8080-exec-08702] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=978dfb439b50 ip=192.168
+2026-07-19T11:06:04,974 [http-nio-8080-exec-13287] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | caller=BackupAgent cpu_util=54
+2026-07-19T11:06:05,141 [http-nio-8080-exec-07250] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | mem_util=62% extra='duqyrwwils'
+2026-07-19T11:11:05,141 [http-nio-8080-exec-14649] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | ip=10.0.0.12 caller=WebService
+2026-07-19T11:11:09,659 [http-nio-8080-exec-09979] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T11:11:09,925 [http-nio-8080-exec-01098] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=4963346e115d ip=10.0.0.
+2026-07-19T11:14:49,925 [http-nio-8080-exec-10989] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=fad423bb13e9 ip=192.168
+2026-07-19T11:14:50,218 [http-nio-8080-exec-07829] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | req_id=a275716fe791 ip=10.0.0.
+2026-07-19T11:17:07,218 [http-nio-8080-exec-18983] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | ip=172.16.254.1 caller=BackupA
+2026-07-19T11:17:07,503 [http-nio-8080-exec-17548] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | caller=TomcatAccessFilter     
+2026-07-19T11:17:09,556 [http-nio-8080-exec-04642] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | cpu_util=10% extra='ltbta9k0v3'
+2026-07-19T11:18:55,556 [http-nio-8080-exec-13198] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | caller=WebServiceHelper cpu_ut
+2026-07-19T11:18:57,716 [http-nio-8080-exec-02031] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | ip=10.0.0.12 cpu_util=18%     
+2026-07-19T11:19:03,046 [http-nio-8080-exec-15484] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | req_id=bad5a462db79 ip=192.168
+2026-07-19T11:19:07,971 [http-nio-8080-exec-10184] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=372b48a43764 ip=172.16.
+2026-07-19T11:19:12,668 [http-nio-8080-exec-09044] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | ip=172.16.254.1 endpoint=/metr
+2026-07-19T11:19:12,973 [http-nio-8080-exec-04933] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | req_id=5fd52a1b3796 ip=172.16.
+2026-07-19T11:19:14,768 [http-nio-8080-exec-18149] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | req_id=b3222dad4018 endpoint=/
+2026-07-19T11:19:17,598 [http-nio-8080-exec-01057] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=45f1fad7b6ae ip=10.0.0.
+2026-07-19T11:19:22,988 [http-nio-8080-exec-13259] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | req_id=dfa6ace85c99 endpoint=/
+2026-07-19T11:19:33,862 [http-nio-8080-exec-03651] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | req_id=698f21cc2d0d ip=192.168
+2026-07-19T11:19:34,024 [http-nio-8080-exec-17319] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | endpoint=/metrics extra='lzxh5'
+2026-07-19T11:19:34,258 [http-nio-8080-exec-01167] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | ip=192.168.1.50 cpu_util=79%  
+2026-07-19T11:19:34,633 [http-nio-8080-exec-13115] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | cpu_util=65% extra='62m7weua0s'
+2026-07-19T11:19:35,050 [http-nio-8080-exec-07613] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | req_id=61f99cebdf2d ip=172.16.
+2026-07-19T11:19:35,365 [http-nio-8080-exec-15731] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 204 | req_id=d997c13adecd caller=Web
+2026-07-19T11:19:36,897 [http-nio-8080-exec-07837] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | req_id=3fbc7af83907 cpu_util=5
+2026-07-19T11:20:59,897 [http-nio-8080-exec-16859] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=6a67ff219b4c cpu_util=8
+2026-07-19T11:21:00,356 [http-nio-8080-exec-11152] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | ip=192.168.2.115 endpoint=/api
+2026-07-19T11:21:00,718 [http-nio-8080-exec-19156] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | ip=192.168.1.50 caller=WebServ
+2026-07-19T11:27:00,718 [http-nio-8080-exec-06890] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | req_id=eb0b473612b5 cpu_util=2
+2026-07-19T11:27:01,176 [http-nio-8080-exec-16934] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | req_id=bc5a4bda399d mem_util=7
+2026-07-19T11:27:05,893 [http-nio-8080-exec-14894] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 200 | endpoint=/api/v1/backup/create
+2026-07-19T11:27:08,164 [http-nio-8080-exec-01947] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | cpu_util=14% extra='pm3xw7t5nt'
+2026-07-19T11:27:10,756 [http-nio-8080-exec-09676] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | req_id=acf0b4d8e54c ip=10.0.0.
+2026-07-19T11:27:12,172 [http-nio-8080-exec-03552] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | endpoint=/metrics caller=WebSe
+2026-07-19T11:27:12,180 [http-nio-8080-exec-07984] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | req_id=1ce35a7455d4 endpoint=/
+2026-07-19T11:27:14,066 [http-nio-8080-exec-06464] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | req_id=59af953bfcff ip=172.16.
+2026-07-19T11:27:19,408 [http-nio-8080-exec-04643] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | ip=192.168.1.50 caller=WebServ
+2026-07-19T11:27:20,906 [http-nio-8080-exec-12362] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | endpoint=/api/v1/auth/login cp
+2026-07-19T11:27:21,278 [http-nio-8080-exec-18336] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=3ae4c61dcfdb caller=Con
+2026-07-19T11:27:22,623 [http-nio-8080-exec-12474] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | endpoint=/api/v1/auth/login ca
+2026-07-19T11:27:23,060 [http-nio-8080-exec-15019] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=6d60ec362b1c mem_util=3
+2026-07-19T11:27:23,329 [http-nio-8080-exec-01769] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | req_id=742605d05e22 ip=192.168
+2026-07-19T11:29:50,329 [http-nio-8080-exec-18719] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | endpoint=/api/v1/backup/create
+2026-07-19T11:29:54,695 [http-nio-8080-exec-14977] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | ip=192.168.2.115 caller=DbConn
+2026-07-19T11:29:54,834 [http-nio-8080-exec-14101] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | caller=BackupAgent mem_util=78
+2026-07-19T11:29:55,206 [http-nio-8080-exec-08592] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | req_id=e77ffafe217d ip=192.168
+2026-07-19T11:29:55,316 [http-nio-8080-exec-17989] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | ip=192.168.1.50 caller=ConfigM
+2026-07-19T11:30:00,354 [http-nio-8080-exec-17848] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | ip=192.168.1.50 extra='zj9rnov'
+2026-07-19T11:30:13,512 [http-nio-8080-exec-15336] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | ip=192.168.1.50 mem_util=64%  
+2026-07-19T11:30:15,334 [http-nio-8080-exec-17512] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=e3cd4790e082 ip=172.16.
+2026-07-19T11:30:15,721 [http-nio-8080-exec-09893] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | req_id=f534d5b67787 ip=192.168
+2026-07-19T11:30:17,312 [http-nio-8080-exec-01915] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | req_id=d809ab8f1016 endpoint=/
+2026-07-19T11:30:17,716 [http-nio-8080-exec-19074] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | ip=192.168.1.50 caller=BackupA
+2026-07-19T11:32:03,716 [http-nio-8080-exec-19754] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 204 | trace_id=033151e65950471e     
+2026-07-19T11:32:16,989 [http-nio-8080-exec-10190] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | req_id=ba5cca4ae145 ip=10.0.0.
+2026-07-19T11:40:16,989 [http-nio-8080-exec-06597] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | req_id=cd948f4897ef ip=192.168
+2026-07-19T11:40:17,467 [http-nio-8080-exec-02736] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | endpoint=/metrics mem_util=69%
+2026-07-19T11:44:08,467 [http-nio-8080-exec-11743] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 204 | ip=192.168.2.115 endpoint=/api
+2026-07-19T11:44:23,281 [http-nio-8080-exec-07417] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | req_id=38bb6d7e1d9c ip=192.168
+2026-07-19T11:44:23,359 [http-nio-8080-exec-14276] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | caller=WebServiceHelper cpu_ut
+2026-07-19T11:44:23,725 [http-nio-8080-exec-16348] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | req_id=4795078898cd ip=192.168
+2026-07-19T11:44:27,869 [http-nio-8080-exec-17991] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 404 | req_id=8d50c38bc830 cpu_util=5
+2026-07-19T11:44:28,104 [http-nio-8080-exec-04264] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T11:44:28,359 [http-nio-8080-exec-01684] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | req_id=71c037b46c91 ip=172.16.
+2026-07-19T11:44:28,635 [http-nio-8080-exec-11310] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | cpu_util=66% extra='o0un175lvr'
+2026-07-19T11:44:29,122 [http-nio-8080-exec-13087] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | ip=192.168.2.115 cpu_util=33% 
+2026-07-19T11:44:29,531 [http-nio-8080-exec-01447] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | ip=192.168.2.115 endpoint=/api
+2026-07-19T11:44:29,754 [http-nio-8080-exec-14951] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | req_id=2582fc2b31f1 ip=172.16.
+2026-07-19T11:44:30,104 [http-nio-8080-exec-08443] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | caller=BackupAgent cpu_util=55
+2026-07-19T11:44:30,447 [http-nio-8080-exec-03729] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | req_id=24aaacf67ebe endpoint=/
+2026-07-19T11:45:53,447 [http-nio-8080-exec-05515] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | req_id=bdef9a485ac3 ip=10.0.0.
+2026-07-19T11:45:53,685 [http-nio-8080-exec-16870] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | req_id=0ac806cf10d8 ip=192.168
+2026-07-19T11:45:53,697 [http-nio-8080-exec-15915] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | caller=BackupAgent cpu_util=29
+2026-07-19T11:45:57,327 [http-nio-8080-exec-07458] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | ip=10.0.0.12 endpoint=/api/v2/
+2026-07-19T11:45:57,669 [http-nio-8080-exec-14760] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | caller=DbConnector cpu_util=39
+2026-07-19T11:45:57,906 [http-nio-8080-exec-18772] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T11:46:00,654 [http-nio-8080-exec-06078] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | req_id=f33a372d8816 mem_util=6
+2026-07-19T11:46:01,666 [http-nio-8080-exec-05677] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | ip=10.0.0.12 caller=TomcatAcce
+2026-07-19T11:46:12,717 [http-nio-8080-exec-02169] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | ip=192.168.2.115 endpoint=/api
+2026-07-19T11:46:16,578 [http-nio-8080-exec-10651] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | ip=192.168.1.50 endpoint=/api/
+2026-07-19T11:46:18,586 [http-nio-8080-exec-01123] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=18e5c725f37b endpoint=/
+2026-07-19T11:47:37,586 [http-nio-8080-exec-02913] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | req_id=087cf526e0d6 extra='4m2'
+2026-07-19T11:47:49,484 [http-nio-8080-exec-08055] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=29adf01bfbfe caller=Tom
+2026-07-19T11:47:55,392 [http-nio-8080-exec-15821] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | ip=172.16.254.1 mem_util=49%  
+2026-07-19T11:47:58,780 [http-nio-8080-exec-11138] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | req_id=873315cbeead ip=172.16.
+2026-07-19T11:48:03,334 [http-nio-8080-exec-01052] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=7e629df4eaf6 cpu_util=2
+2026-07-19T11:50:20,334 [http-nio-8080-exec-18465] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | req_id=903518609fc0 endpoint=/
+2026-07-19T11:50:20,566 [http-nio-8080-exec-16459] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | caller=TomcatAccessFilter cpu_
+2026-07-19T11:50:24,572 [http-nio-8080-exec-19343] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | endpoint=/api/v1/system/status
+2026-07-19T11:50:24,927 [http-nio-8080-exec-17234] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=557fad1f6928 ip=192.168
+2026-07-19T11:50:30,558 [http-nio-8080-exec-11116] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/jobs HTTP/1.1 200 | req_id=b4f27689e93d endpoint=/
+2026-07-19T11:50:30,656 [http-nio-8080-exec-07173] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 304 | req_id=98ac88016331 caller=Con
+2026-07-19T11:50:32,979 [http-nio-8080-exec-19438] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/system/status HTTP/1.1 200 | endpoint=/api/v1/auth/login cp
+2026-07-19T11:50:48,814 [http-nio-8080-exec-05057] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | req_id=fc98b97582d1 extra='4pz'
+2026-07-19T11:54:47,814 [http-nio-8080-exec-04753] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | caller=WebServiceHelper       
+2026-07-19T11:54:50,803 [http-nio-8080-exec-16675] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | ip=192.168.1.50 cpu_util=43%  
+2026-07-19T11:54:51,274 [http-nio-8080-exec-19874] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | caller=ConfigManager cpu_util=
+2026-07-19T11:54:53,189 [http-nio-8080-exec-06559] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | req_id=9a30c1c0d3c0 endpoint=/
+2026-07-19T12:05:53,189 [http-nio-8080-exec-15504] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | req_id=2088d1fe057d endpoint=/
+2026-07-19T12:07:10,189 [http-nio-8080-exec-04906] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | req_id=02654d4263f0 ip=192.168
+2026-07-19T12:14:10,189 [http-nio-8080-exec-16011] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T12:21:10,189 [http-nio-8080-exec-09406] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=c1f177c1cc18 ip=192.168
+2026-07-19T12:21:23,138 [http-nio-8080-exec-14000] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | req_id=347c2ab41e36 ip=10.0.0.
+2026-07-19T12:21:28,818 [http-nio-8080-exec-07058] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=8248fab8d593 cpu_util=7
+2026-07-19T12:21:33,012 [http-nio-8080-exec-02272] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 200 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T12:21:36,894 [http-nio-8080-exec-14152] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | req_id=c950bbc4724a caller=Bac
+2026-07-19T12:24:28,894 [http-nio-8080-exec-10874] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 404 | req_id=0b4c03f7e4bb ip=192.168
+2026-07-19T12:24:33,189 [http-nio-8080-exec-15293] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | req_id=27b189f46f46 ip=192.168
+2026-07-19T12:24:38,511 [http-nio-8080-exec-18817] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | endpoint=/api/v1/backup/create
+2026-07-19T12:26:17,511 [http-nio-8080-exec-11180] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=fdb858aa54ab endpoint=/
+2026-07-19T12:26:17,964 [http-nio-8080-exec-02025] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | endpoint=/api/v1/system/status
+2026-07-19T12:26:18,180 [http-nio-8080-exec-04132] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | ip=192.168.1.50 caller=WebServ
+2026-07-19T12:26:18,616 [http-nio-8080-exec-04042] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | req_id=91fb7d4ca630 ip=192.168
+2026-07-19T12:27:55,616 [http-nio-8080-exec-13503] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | endpoint=/api/v2/restore calle
+2026-07-19T12:28:01,603 [http-nio-8080-exec-01245] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | endpoint=/api/v1/system/status
+2026-07-19T12:28:03,078 [http-nio-8080-exec-08210] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | endpoint=/api/v1/auth/login ca
+2026-07-19T12:28:18,815 [http-nio-8080-exec-03066] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | endpoint=/metrics cpu_util=39%
+2026-07-19T12:28:18,875 [http-nio-8080-exec-14028] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=f5a834c34656 ip=10.0.0.
+2026-07-19T12:28:19,078 [http-nio-8080-exec-13168] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=d64357b363ea ip=192.168
+2026-07-19T12:28:19,301 [http-nio-8080-exec-07940] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=8222b269b641 endpoint=/
+2026-07-19T12:28:22,460 [http-nio-8080-exec-08891] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | caller=TomcatAccessFilter     
+2026-07-19T12:28:22,535 [http-nio-8080-exec-02093] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | mem_util=56% extra='7fkz0s3ty7'
+2026-07-19T12:28:26,496 [http-nio-8080-exec-02848] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | ip=172.16.254.1 endpoint=/api/
+2026-07-19T12:28:26,629 [http-nio-8080-exec-04767] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/auth/login HTTP/1.1 200 | endpoint=/api/v1/backup/create
+2026-07-19T12:28:37,905 [http-nio-8080-exec-08752] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | req_id=9514f16818bc endpoint=/
+2026-07-19T12:28:38,226 [http-nio-8080-exec-17456] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | req_id=988cf77b7d16 ip=192.168
+2026-07-19T12:42:38,226 [http-nio-8080-exec-12689] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | ip=10.0.0.12 endpoint=/api/v1/
+2026-07-19T12:42:43,310 [http-nio-8080-exec-18689] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 404 | ip=172.16.254.1 endpoint=/metr
+2026-07-19T12:42:54,765 [http-nio-8080-exec-19782] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | ip=192.168.2.115 cpu_util=41% 
+2026-07-19T12:42:59,753 [http-nio-8080-exec-18271] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | req_id=9356e0be339a ip=192.168
+2026-07-19T12:43:13,776 [http-nio-8080-exec-13960] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 204 | caller=ConfigManager cpu_util=
+2026-07-19T12:43:17,071 [http-nio-8080-exec-13092] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | req_id=e28a815c467e caller=Con
+2026-07-19T12:43:17,507 [http-nio-8080-exec-07401] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | req_id=6055d9b7d031 endpoint=/
+2026-07-19T12:43:23,099 [http-nio-8080-exec-18395] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=1e87d1ec25fc ip=192.168
+2026-07-19T12:45:47,099 [http-nio-8080-exec-03123] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | endpoint=/api/v1/auth/login cp
+2026-07-19T12:45:51,008 [http-nio-8080-exec-10761] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/backup/create HTTP/1.1 200 | req_id=30309172b009 endpoint=/
+2026-07-19T12:45:53,154 [http-nio-8080-exec-02221] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | ip=192.168.2.115 endpoint=/ap
+2026-07-19T12:46:03,776 [http-nio-8080-exec-03200] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=0118519d45c2 ip=192.16
+2026-07-19T12:46:15,604 [http-nio-8080-exec-12375] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | ip=172.16.254.1 endpoint=/api
+2026-07-19T12:46:16,794 [http-nio-8080-exec-17789] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | ip=10.0.0.12 cpu_util=65% mem
+2026-07-19T12:46:18,568 [http-nio-8080-exec-05639] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | req_id=de546b38eace ip=172.16
+2026-07-19T12:48:49,568 [http-nio-8080-exec-15881] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 304 | ip=192.168.2.115 caller=WebSe
+2026-07-19T12:49:01,633 [http-nio-8080-exec-04827] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 304 | req_id=b1b7cda38fbc cpu_util=
+2026-07-19T12:49:04,968 [http-nio-8080-exec-06172] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/jobs HTTP/1.1 304 | mem_util=65% extra='2gzqeicv5'
+2026-07-19T12:51:35,968 [http-nio-8080-exec-03900] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | req_id=581da7ee2d83 ip=192.16
+2026-07-19T12:51:50,263 [http-nio-8080-exec-01260] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 204 | req_id=605a61682db2 mem_util=
+2026-07-19T12:52:05,816 [http-nio-8080-exec-11599] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 404 | ip=10.0.0.12 endpoint=/api/v1
+2026-07-19T12:56:02,816 [http-nio-8080-exec-05186] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=60512da5a6ee endpoint=
+2026-07-19T12:58:20,816 [http-nio-8080-exec-07411] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 200 | endpoint=/api/v2/restore call
+2026-07-19T12:58:20,992 [http-nio-8080-exec-13889] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | ip=192.168.2.115 mem_util=89%
+2026-07-19T12:58:21,232 [http-nio-8080-exec-03466] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v2/restore HTTP/1.1 200 | req_id=e3b4accb0bdc cpu_util=
+2026-07-19T13:00:33,232 [http-nio-8080-exec-12911] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=ae698c0657fe cpu_util=
+2026-07-19T13:00:35,364 [http-nio-8080-exec-17055] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 304 | req_id=3cfe743e9556 ip=192.16
+2026-07-19T13:00:36,584 [http-nio-8080-exec-08852] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /metrics HTTP/1.1 200 | req_id=5447327591b9 endpoint=
+2026-07-19T13:00:40,520 [http-nio-8080-exec-08676] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 200 | req_id=141518d38c99 ip=192.16
+2026-07-19T13:00:46,170 [http-nio-8080-exec-10526] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/users HTTP/1.1 200 | req_id=842fa9e82655 ip=192.16
+2026-07-19T13:00:46,575 [http-nio-8080-exec-18716] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 404 | cpu_util=43% extra='aanft9vlj'
+2026-07-19T13:00:49,399 [http-nio-8080-exec-13962] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 304 | ip=10.0.0.12 cpu_util=35%    
+2026-07-19T13:02:31,399 [http-nio-8080-exec-17449] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=5817e1d829f8 ip=172.16
+2026-07-19T13:02:31,586 [http-nio-8080-exec-18735] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | caller=WebServiceHelper cpu_u
+2026-07-19T13:02:32,059 [http-nio-8080-exec-10412] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | ip=192.168.2.115 caller=Tomca
+2026-07-19T13:02:32,427 [http-nio-8080-exec-13182] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v2/restore HTTP/1.1 304 | req_id=3723acd0f139 endpoint=
+2026-07-19T13:02:32,466 [http-nio-8080-exec-15234] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 204 | req_id=839ef2fb3e50 endpoint=
+2026-07-19T13:02:36,222 [http-nio-8080-exec-01977] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 304 | ip=10.0.0.12 caller=BackupAge
+2026-07-19T13:02:36,361 [http-nio-8080-exec-16973] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/reports HTTP/1.1 404 | req_id=98e37b8a763b cpu_util=
+2026-07-19T13:02:47,120 [http-nio-8080-exec-03582] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=6e02990f3815 mem_util=
+2026-07-19T13:02:50,364 [http-nio-8080-exec-02350] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=7b8e16d9f32c mem_util=
+2026-07-19T13:02:55,929 [http-nio-8080-exec-08726] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=2fe63f0fa0cc ip=192.16
+2026-07-19T13:02:56,156 [http-nio-8080-exec-17631] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | ip=192.168.2.115 caller=WebSe
+2026-07-19T13:02:56,200 [http-nio-8080-exec-19858] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | ip=192.168.2.115 caller=DbCon
+2026-07-19T13:03:08,069 [http-nio-8080-exec-02956] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=2c709e36dd19 ip=172.16
+2026-07-19T13:05:05,069 [http-nio-8080-exec-18988] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | req_id=09aa8d095a38 ip=172.16
+2026-07-19T13:06:35,069 [http-nio-8080-exec-19233] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=1d8215d2977e endpoint=
+2026-07-19T13:06:46,110 [http-nio-8080-exec-08782] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 404 | ip=192.168.1.50 endpoint=/api
+2026-07-19T13:06:48,439 [http-nio-8080-exec-14325] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /metrics HTTP/1.1 200 | req_id=687aa0b4d5d5 ip=172.16
+2026-07-19T13:10:29,439 [http-nio-8080-exec-03503] - [WARN] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/auth/login HTTP/1.1 404 | endpoint=/api/v2/restore call
+2026-07-19T13:10:29,523 [http-nio-8080-exec-17786] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | req_id=7af96f891c57 ip=192.16
+2026-07-19T13:10:44,820 [http-nio-8080-exec-06053] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=9ce8b715e9a0 ip=192.16
+2026-07-19T13:14:13,820 [http-nio-8080-exec-15976] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | req_id=fbd89891f8b7 endpoint=
+2026-07-19T13:14:18,966 [http-nio-8080-exec-15380] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | caller=DbConnector cpu_util=1
+2026-07-19T13:14:32,281 [http-nio-8080-exec-10643] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | req_id=20db7ed70e38 endpoint=
+2026-07-19T13:14:32,369 [http-nio-8080-exec-17298] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | req_id=65ad3a8be1f1 endpoint=
+2026-07-19T13:17:13,369 [http-nio-8080-exec-02510] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | trace_id=8892e3c4393148f1    
+2026-07-19T13:17:18,847 [http-nio-8080-exec-14653] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=ff44410eb758 endpoint=
+2026-07-19T13:17:18,991 [http-nio-8080-exec-15759] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | req_id=8a4e71be0821 ip=172.16
+2026-07-19T13:17:19,075 [http-nio-8080-exec-17061] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=15c2a61cf68a ip=10.0.0
+2026-07-19T13:17:19,489 [http-nio-8080-exec-13652] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | req_id=23e390c467a5 ip=172.16
+2026-07-19T13:17:19,585 [http-nio-8080-exec-06520] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | caller=DbConnector cpu_util=4
+2026-07-19T13:17:24,344 [http-nio-8080-exec-15804] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | req_id=ac7dc9364337 ip=192.16
+2026-07-19T13:17:25,699 [http-nio-8080-exec-15610] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | endpoint=/api/v1/auth/login m
+2026-07-19T13:17:41,612 [http-nio-8080-exec-19165] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | endpoint=/metrics caller=WebS
+2026-07-19T13:17:41,958 [http-nio-8080-exec-07899] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=fe49e621b954 ip=192.16
+2026-07-19T13:17:42,031 [http-nio-8080-exec-19422] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=115531fbe238 ip=10.0.0
+2026-07-19T13:17:42,354 [http-nio-8080-exec-11998] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | endpoint=/metrics caller=DbCo
+2026-07-19T13:17:46,713 [http-nio-8080-exec-18028] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=fbb184b27797 ip=10.0.0
+2026-07-19T13:17:52,618 [http-nio-8080-exec-04536] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=4ab2caf7881f endpoint=
+2026-07-19T13:17:52,852 [http-nio-8080-exec-18162] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=a9dd853a1a70 endpoint=
+2026-07-19T13:17:53,076 [http-nio-8080-exec-01248] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=2f3847034052 ip=172.16
+2026-07-19T13:17:54,165 [http-nio-8080-exec-16478] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | req_id=551482e46853 extra='f7'
+2026-07-19T13:18:07,088 [http-nio-8080-exec-03675] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | ip=192.168.2.115 endpoint=/ap
+2026-07-19T13:18:19,339 [http-nio-8080-exec-08162] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | caller=BackupAgent extra='ykr'
+2026-07-19T13:18:21,340 [http-nio-8080-exec-11946] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | endpoint=/api/v1/backup/creat
+2026-07-19T13:18:21,484 [http-nio-8080-exec-04177] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | trace_id=78ec33978a904640    
+2026-07-19T13:18:24,905 [http-nio-8080-exec-07848] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | req_id=92254cb0dab7 caller=Ba
+2026-07-19T13:18:26,662 [http-nio-8080-exec-16020] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | cpu_util=84% mem_util=75%    
+2026-07-19T13:18:28,769 [http-nio-8080-exec-18903] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | ip=192.168.1.50 caller=Tomcat
+2026-07-19T13:18:31,207 [http-nio-8080-exec-14831] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | req_id=ed5d6030d102 ip=192.16
+2026-07-19T13:18:31,334 [http-nio-8080-exec-17796] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | ip=172.16.254.1 endpoint=/api
+2026-07-19T13:18:31,491 [http-nio-8080-exec-15117] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | endpoint=/api/v2/restore     
+2026-07-19T13:18:31,614 [http-nio-8080-exec-18060] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | ip=192.168.2.115 endpoint=/ap
+2026-07-19T13:18:34,468 [http-nio-8080-exec-17008] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | endpoint=/api/v2/restore cpu_
+2026-07-19T13:18:38,751 [http-nio-8080-exec-17142] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | endpoint=/metrics mem_util=46
+2026-07-19T13:18:42,524 [http-nio-8080-exec-09012] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | caller=ConfigManager cpu_util
+2026-07-19T13:18:42,620 [http-nio-8080-exec-16258] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | ip=192.168.2.115 endpoint=/ap
+2026-07-19T13:18:43,916 [http-nio-8080-exec-13110] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=083e01ecc463 cpu_util=
+2026-07-19T13:18:44,230 [http-nio-8080-exec-18806] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | endpoint=/api/v1/auth/login c
+2026-07-19T13:18:44,323 [http-nio-8080-exec-10997] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | req_id=216ec450a2d6 endpoint=
+2026-07-19T13:18:48,457 [http-nio-8080-exec-01336] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | req_id=0c09da10679e ip=192.16
+2026-07-19T13:18:48,677 [http-nio-8080-exec-09360] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | req_id=69bdede04f9e endpoint=
+2026-07-19T13:19:00,655 [http-nio-8080-exec-13225] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | ip=192.168.2.115 caller=Confi
+2026-07-19T13:20:46,655 [http-nio-8080-exec-04616] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=42bc0cdc818e cpu_util=
+2026-07-19T13:23:28,655 [http-nio-8080-exec-03909] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | endpoint=/api/v1/auth/login c
+2026-07-19T13:23:32,771 [http-nio-8080-exec-14277] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | req_id=d782bd07556b extra='kp'
+2026-07-19T13:23:43,089 [http-nio-8080-exec-12437] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | ip=172.16.254.1 endpoint=/met
+2026-07-19T13:23:47,419 [http-nio-8080-exec-13096] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | ip=10.0.0.12 endpoint=/api/v1
+2026-07-19T13:23:47,715 [http-nio-8080-exec-11395] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | cpu_util=63% extra='5tpa333ek'
+2026-07-19T13:23:59,746 [http-nio-8080-exec-16245] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | req_id=fb83833efabb endpoint=
+2026-07-19T13:23:59,830 [http-nio-8080-exec-13323] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | ip=192.168.2.115 caller=DbCon
+2026-07-19T13:24:14,330 [http-nio-8080-exec-04209] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | endpoint=/api/v2/restore mem_
+2026-07-19T13:24:14,490 [http-nio-8080-exec-11659] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | ip=192.168.2.115 endpoint=/ap
+2026-07-19T13:24:14,788 [http-nio-8080-exec-17490] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=8a11fe2a0063 ip=172.16
+2026-07-19T13:24:15,066 [http-nio-8080-exec-08543] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | caller=DbConnector cpu_util=2
+2026-07-19T13:24:26,303 [http-nio-8080-exec-13564] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | req_id=51a0d39b557a ip=192.16
+2026-07-19T13:24:30,344 [http-nio-8080-exec-13863] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | ip=192.168.1.50 caller=WebSer
+2026-07-19T13:24:36,233 [http-nio-8080-exec-18261] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | caller=WebServiceHelper cpu_u
+2026-07-19T13:24:47,292 [http-nio-8080-exec-09734] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | cpu_util=35% mem_util=70%    
+2026-07-19T13:24:47,650 [http-nio-8080-exec-19125] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | req_id=d3abdaa478c9 endpoint=
+2026-07-19T13:24:53,282 [http-nio-8080-exec-08575] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | req_id=30096dbf36c0 cpu_util=
+2026-07-19T13:24:53,677 [http-nio-8080-exec-12052] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=e2f0fc01382c endpoint=
+2026-07-19T13:24:59,079 [http-nio-8080-exec-07389] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | req_id=80de56104a19 extra='ls'
+2026-07-19T13:26:35,079 [http-nio-8080-exec-11708] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | req_id=b036142ffe04 caller=Ba
+2026-07-19T13:26:39,151 [http-nio-8080-exec-05209] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | req_id=33d03cfc25dc ip=172.16
+2026-07-19T13:29:36,151 [http-nio-8080-exec-03485] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | ip=172.16.254.1 endpoint=/api
+2026-07-19T13:30:43,151 [http-nio-8080-exec-01058] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | caller=WebServiceHelper      
+2026-07-19T13:33:11,151 [http-nio-8080-exec-03996] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | endpoint=/metrics mem_util=44
+2026-07-19T13:33:13,247 [http-nio-8080-exec-15019] - [ERROR] org.apache.catalina.valves.AccessLogValve.log - Failed to write access log entry: java.io.IOException: There is not enough space on the disk | ip=192.168.1.50 caller=Backup
+2026-07-19T13:33:24,424 [http-nio-8080-exec-18371] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | mem_util=38% extra='9tspgfo9q'
+2026-07-19T13:33:25,543 [http-nio-8080-exec-13320] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=6e02990f3815 mem_util=
+2026-07-19T14:08:21,759 [http-nio-8080-exec-18153] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=7b8e16d9f32c mem_util=
+2026-07-19T14:08:35,759 [http-nio-8080-exec-14571] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 200 | req_id=2fe63f0fa0cc ip=192.16
+2026-07-19T14:08:48,759 [http-nio-8080-exec-08260] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | ip=192.168.2.115 caller=WebSe
+2026-07-19T14:08:57,759 [http-nio-8080-exec-13640] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/users HTTP/1.1 200 | ip=192.168.2.115 caller=DbCon
+2026-07-19T14:08:01,986 [http-nio-8080-exec-15689] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: POST /api/v1/reports HTTP/1.1 200 | req_id=2c709e36dd19 ip=172.16
+2026-07-19T14:08:01,986 [http-nio-8080-exec-19540] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/system/status HTTP/1.1 200 | req_id=09aa8d095a38 ip=172.16
+2026-07-19T14:08:21,759 [http-nio-8080-exec-15489] - [INFO] org.apache.catalina.core.ContainerBase.log - Request: GET /api/v1/backup/create HTTP/1.1 204 | req_id=1d8215d2977e endpoint=[ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=549adaada3a7 ip=10.0.0
+2026-07-19T14:08:35,759 [http-nio-8080-exec-14640] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | ip=192.168.1.50 extra='6hgzvp'
+2026-07-19T14:08:48,759 [http-nio-8080-exec-19085] - [ERROR] org.apache.catalina.core.StandardWrapperValve.invoke - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception: java.io.IOException: There is not enough space on the disk | req_id=9a836b9552f6 ip=192.16
+2026-07-19T14:08:57,759 [http-nio-8080-exec-12221] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | caller=ConfigManager cpu_util
+2026-07-19T14:08:01,986 [http-nio-8080-exec-11102] - [WARN] org.apache.catalina.connector.CoyoteAdapter.checkRecycled - Exception while writing access logs or response buffer | req_id=095e207262a8 ip=192.16

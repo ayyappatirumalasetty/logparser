@@ -43,3 +43,6 @@ Thumbs.db
 temptes/
 coverage/
 htmlcov/
+
+# Allow generated demo logs to be tracked for evaluation
+!demo/generated/**/*.log
