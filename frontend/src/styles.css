@@ -900,3 +900,40 @@ input:focus {
   color: hsl(0, 100%, 75%);
   text-decoration: underline;
 }
+
+/* Custom Date-Time Container overlay style */
+.datetime-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.datetime-container input[type="text"] {
+  width: 100%;
+  padding-right: 2.75rem; /* space for clock icon */
+}
+
+.datetime-picker-trigger {
+  position: absolute;
+  right: 0.75rem;
+  color: var(--text-dim);
+  pointer-events: none; /* let click pass through to the invisible input */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.2s ease;
+}
+
+.datetime-container:hover .datetime-picker-trigger {
+  color: var(--primary);
+}
+
+.hidden-datetime-picker {
+  position: absolute;
+  right: 0.5rem;
+  width: 2rem;
+  height: 2rem;
+  opacity: 0;
+  cursor: pointer;
+  z-index: 2;
+}

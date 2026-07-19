@@ -50,7 +50,7 @@ const FILTER_OPTIONS = ['ERROR', 'WARN', 'INFO', 'Warning', 'Failed', 'Corrupt']
 
 function App() {
   const [folder, setFolder] = useState('D:\\loganalyser\\temptes');
-  const [target, setTarget] = useState('2026-07-18T08:00:51');
+  const [target, setTarget] = useState('2026-07-18 08:00:51');
   const [windowSeconds, setWindowSeconds] = useState(3);
   const [patterns, setPatterns] = useState('WebService*.log*, RPSWebService.log*, CRP*');
   
@@ -146,7 +146,13 @@ function App() {
     const blob = await response.blob(); 
     const link = document.createElement('a');
     link.href = URL.createObjectURL(blob);
-    link.download = format === 'extracted-txt' ? 'extracted-log-entries.txt' : `incident-report.${format}`;
+    
+    const formattedTime = target.replace(/[^a-zA-Z0-9]/g, '_').replace(/_+/g, '_').replace(/^_+|_+$/g, '');
+    const filterSuffix = checkedKeywords.length > 0 ? `_filter_${checkedKeywords.join('_')}` : '';
+    const baseName = `log_entries_${formattedTime}_win_${windowSeconds}s${filterSuffix}`;
+    const reportName = `incident_report_${formattedTime}_win_${windowSeconds}s${filterSuffix}`;
+    
+    link.download = format === 'extracted-txt' ? `${baseName}.txt` : `${reportName}.${format}`;
     link.click();
     URL.revokeObjectURL(link.href); 
   }
@@ -223,13 +229,28 @@ function App() {
           <div className="twocol">
             <div className="form-group">
               <label>Target date and time</label>
-              <input 
-                type="datetime-local" 
-                step="1" 
-                value={target} 
-                onChange={event => setTarget(event.target.value)}
-              />
-              <span className="input-hint">Select the investigation pivot time</span>
+              <div className="datetime-container">
+                <input 
+                  type="text" 
+                  value={target} 
+                  onChange={event => setTarget(event.target.value)}
+                  placeholder="YYYY-MM-DD HH:mm:ss"
+                />
+                <span className="datetime-picker-trigger">
+                  <Clock size={16} />
+                </span>
+                <input 
+                  type="datetime-local" 
+                  step="1" 
+                  className="hidden-datetime-picker"
+                  onChange={event => {
+                    if (event.target.value) {
+                      setTarget(event.target.value.replace('T', ' '));
+                    }
+                  }}
+                />
+              </div>
+              <span className="input-hint">Type/paste timestamp or click clock icon to select</span>
             </div>
             
             <div className="form-group">

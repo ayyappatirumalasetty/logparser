@@ -51,32 +51,10 @@ def parse_target(value: str, parser: TimestampParser) -> datetime:
 
 def build_report(dataset: dict) -> str:
     summary = dataset["summary"]
-    repeated = dataset["repeated_errors"]
-    headline = repeated[0]["message"] if repeated else "No repeated error signature was identified in the selected window."
     return f"""# Incident Investigation Report
 
 ## Executive Summary
 Analysed {summary['matching_events']} matching events from {summary['files_scanned']} discovered files around {dataset['incident']['target_time']}. {summary['errors']} error-level and {summary['warnings']} warning-level events were observed.
-
-## Timeline Summary
-Events are presented chronologically below. Focus investigation on the earliest error and its preceding warning or dependency failure.
-
-## Most Probable Root Cause
-{headline}
-
-## Supporting Evidence
-{len(dataset['exceptions'])} exception-bearing events were captured across {len(dataset['affected_files'])} affected files.
-
-## Confidence Level
-Medium — this is derived from local log correlation in the configured time window.
-
-## Recommended Troubleshooting Steps
-1. Validate the first error's dependent service, endpoint, credentials, and network path.
-2. Compare timestamps with recent deployment, configuration, or infrastructure changes.
-3. Collect adjacent logs using a wider window if the triggering event is absent.
-
-## Additional Diagnostic Checks
-Review repeated errors, thread names, connection pools, disk capacity, and service health metrics.
 """
 
 
