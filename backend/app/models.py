@@ -62,6 +62,18 @@ class InvestigationResult(BaseModel):
     report: str
 
 
+class SupportRequest(BaseModel):
+    """The filtered Entries TXT content and optional human issue context."""
+
+    entries_txt: str = Field(min_length=1, max_length=300_000)
+    issue_context: str = Field(default="", max_length=12_000)
+
+
+class SupportResponse(BaseModel):
+    troubleshooting_steps: str
+    model: str
+
+
 def safe_path(path: str) -> Path:
     """Resolve user supplied paths, rejecting invalid/unavailable folders."""
     target = Path(path).expanduser().resolve()

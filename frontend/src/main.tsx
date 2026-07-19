@@ -11,7 +11,9 @@ import {
   LoaderCircle, 
   Search, 
   SlidersHorizontal,
-  Filter
+  Filter,
+  Bot,
+  Send
 } from 'lucide-react';
 import './styles.css';
 
@@ -61,11 +63,19 @@ function App() {
   const [progress, setProgress] = useState<Progress | null>(null);
   const [loading, setLoading] = useState(false); 
   const [error, setError] = useState('');
+  const [issueContext, setIssueContext] = useState('');
+  const [supportAdvice, setSupportAdvice] = useState('');
+  const [supportLoading, setSupportLoading] = useState(false);
+  const [supportError, setSupportError] = useState('');
+  const [supportModel, setSupportModel] = useState('');
 
   async function investigate() {
     setLoading(true); 
     setError(''); 
     setResult(null); 
+    setSupportAdvice('');
+    setSupportError('');
+    setSupportModel('');
     setProgress({ stage: 'Connecting', files_found: 0, files_parsed: 0, percentage: 0, elapsed_seconds: 0 });
     
     try {
@@ -107,6 +117,57 @@ function App() {
     } finally { 
       setLoading(false); 
     }
+  }
+
+  function entriesTxt(events: Event[]) {
+    const groups = new Map<string, Event[]>();
+    events.forEach(event => groups.set(event.source_file, [...(groups.get(event.source_file) ?? []), event]));
+    return [...groups.entries()].map(([source, entries]) =>
+      `${source.split('\\').pop() ?? source}\n${'='.repeat(42)}\n${entries.map(event =>
+        `${event.timestamp} [${event.severity}] ${event.message}${event.stack_trace ? `\n${event.stack_trace}` : ''}`
+      ).join('\n')}`
+    ).join('\n\n');
+  }
+
+  async function getTroubleshooting() {
+    if (!result) return;
+    const entries = entriesTxt(filteredTimeline);
+    if (!entries) {
+      setSupportError('Select at least one matching log entry before asking the support engineer.');
+      return;
+    }
+    setSupportLoading(true);
+    setSupportError('');
+    setSupportAdvice('');
+    try {
+      const response = await fetch(`${API}/api/support/troubleshoot`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ entries_txt: entries, issue_context: issueContext })
+      });
+      const data = await response.json();
+      if (!response.ok) throw new Error(data.detail ?? 'The support agent could not analyse these entries.');
+      setSupportAdvice(data.troubleshooting_steps);
+      setSupportModel(data.model || 'gpt-5.4-mini');
+    } catch (reason) {
+      setSupportError(reason instanceof Error ? reason.message : 'Unable to reach the AI support agent.');
+    } finally {
+      setSupportLoading(false);
+    }
+  }
+
+  function downloadSupportAdvice(format: 'txt' | 'md') {
+    if (!supportAdvice) return;
+    const blob = new Blob([supportAdvice], { type: 'text/plain;charset=utf-8' });
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(blob);
+    
+    const formattedTime = target.replace(/[^a-zA-Z0-9]/g, '_').replace(/_+/g, '_').replace(/^_+|_+$/g, '');
+    const modelSuffix = supportModel ? `_${supportModel.replace(/[^a-zA-Z0-9]/g, '_')}` : '';
+    
+    link.download = `support_analysis_${formattedTime}${modelSuffix}.${format}`;
+    link.click();
+    URL.revokeObjectURL(link.href);
   }
 
   async function exportReport(format: string) { 
@@ -483,6 +544,45 @@ Events containing your keyword criteria are presented in the interactive timelin
               </div>
             </section>
           </div>
+
+          <section className="card support-engineer">
+            <div className="card-header-with-icon">
+              <Bot size={18} className="header-icon" />
+              <h3>3. Ask the AI Support Engineer</h3>
+            </div>
+            <p className="filter-description">The agent receives the filtered Entries TXT content plus your optional issue context and returns safe troubleshooting steps.</p>
+            <div className="form-group">
+              <label htmlFor="issue-context">Issue context <span className="label-sub">optional</span></label>
+              <textarea
+                id="issue-context"
+                value={issueContext}
+                onChange={event => setIssueContext(event.target.value)}
+                placeholder="What did the user experience? Include expected behavior, environment, recent changes, and symptoms."
+                rows={5}
+              />
+            </div>
+            <button className="primary support-button" onClick={getTroubleshooting} disabled={supportLoading || filteredTimeline.length === 0}>
+              {supportLoading ? <LoaderCircle size={18} className="spin" /> : <Send size={18} />}
+              {supportLoading ? 'Analysing entries...' : 'Get troubleshooting steps'}
+            </button>
+            {supportError && <p className="error"><AlertTriangle size={18} /><span>{supportError}</span></p>}
+            {supportAdvice && (
+              <article className="support-advice">
+                <div className="support-header">
+                  <span className="eyebrow">{supportModel ? `${supportModel.toUpperCase()} SUPPORT ANALYSIS` : 'SUPPORT ANALYSIS'}</span>
+                  <div className="exports">
+                    <button onClick={() => downloadSupportAdvice('txt')}>
+                      <Download size={12} /> TXT
+                    </button>
+                    <button onClick={() => downloadSupportAdvice('md')}>
+                      <Download size={12} /> MD
+                    </button>
+                  </div>
+                </div>
+                <pre>{supportAdvice}</pre>
+              </article>
+            )}
+          </section>
         </>
       )}
     </main>

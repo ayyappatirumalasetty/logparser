@@ -2,6 +2,18 @@
 
 Local FastAPI + React dashboard for streaming, timestamp-normalized incident analysis.
 
+## AI Support Engineer setup
+
+The optional Step 3 uses the OpenAI Responses API with `gpt-5.4-mini` to review the same filtered **Entries TXT** content that is available for download. It sends the log entries and the optional issue context directly from the local backend; the browser never receives the API key.
+
+Copy `backend/.env.example` to `backend/.env`, add your key, then restart the backend:
+
+```dotenv
+OPENAI_API_KEY=your_api_key_here
+```
+
+Log content is sent to OpenAI only when you choose **Get troubleshooting steps**.
+
 ## Run
 
 ```powershell

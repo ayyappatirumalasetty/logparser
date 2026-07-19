@@ -244,6 +244,27 @@ input:focus {
   background: hsl(224, 45%, 6%);
 }
 
+textarea {
+  display: block;
+  width: 100%;
+  resize: vertical;
+  min-height: 7rem;
+  background: var(--bg-input);
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  color: var(--text-main);
+  padding: 0.8rem 1rem;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.825rem;
+  line-height: 1.5;
+}
+
+textarea:focus {
+  outline: none;
+  border-color: var(--border-focus);
+  box-shadow: 0 0 0 3px hsla(210, 100%, 55%, 0.15);
+}
+
 .input-hint {
   display: block;
   font-size: 0.725rem;
@@ -802,6 +823,35 @@ input:focus {
 /* Filter Controls Panel */
 .filter-controls {
   margin-bottom: 2rem;
+}
+
+.support-engineer {
+  margin-top: 1.75rem;
+  margin-bottom: 2rem;
+}
+
+.support-button {
+  margin-top: 0;
+}
+
+.support-advice {
+  margin-top: 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.support-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.support-advice pre {
+  margin-top: 0.75rem;
+  white-space: pre-wrap;
+  font: 0.825rem/1.65 'JetBrains Mono', monospace;
+  color: var(--text-muted);
 }
 
 .filter-description {

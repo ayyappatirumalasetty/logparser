@@ -3,13 +3,28 @@ from __future__ import annotations
 import io
 import asyncio
 import json
+import os
 from pathlib import Path
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse, PlainTextResponse, StreamingResponse
 
-from .models import InvestigationRequest, InvestigationResult
+from .models import InvestigationRequest, InvestigationResult, SupportRequest, SupportResponse
 from .service import investigate
+
+try:
+    from dotenv import load_dotenv
+    # Load from project root .env first
+    root_env = Path(__file__).resolve().parents[2] / ".env"
+    if root_env.exists():
+        load_dotenv(root_env)
+    # Load from backend .env
+    backend_env = Path(__file__).resolve().parents[1] / ".env"
+    if backend_env.exists():
+        load_dotenv(backend_env)
+except ImportError:
+    # The key can still be supplied through the process environment.
+    pass
 
 app = FastAPI(title="AI Incident Investigation Assistant")
 app.add_middleware(CORSMiddleware, allow_origins=["http://localhost:5173"], allow_credentials=True, allow_methods=["*"], allow_headers=["*"])
@@ -23,6 +38,65 @@ def health() -> dict[str, str]: return {"status": "ok"}
 def create_investigation(request: InvestigationRequest) -> InvestigationResult:
     try: return investigate(request)
     except ValueError as exc: raise HTTPException(status_code=422, detail=str(exc)) from exc
+
+
+@app.post("/api/support/troubleshoot", response_model=SupportResponse)
+def troubleshoot(request: SupportRequest) -> SupportResponse:
+    """Ask the OpenAI support-engineer agent to analyse the exported log entries."""
+    if not os.getenv("OPENAI_API_KEY"):
+        raise HTTPException(
+            status_code=503,
+            detail="OPENAI_API_KEY is not configured. Add it to .env and restart the backend.",
+        )
+
+    # Apply input guardrails (prompt injection detection and PII/credential redaction)
+    from .guardrails import validate_and_sanitize
+    try:
+        sanitized_context, sanitized_entries = validate_and_sanitize(
+            request.issue_context, request.entries_txt
+        )
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc)) from exc
+
+    from openai import OpenAI
+
+    instructions = """You are a careful senior support engineer. Diagnose the supplied log entries
+and optional user context. Give practical, ordered troubleshooting steps the user can safely try.
+Clearly distinguish evidence from hypotheses. Do not invent logs, versions, commands, or outcomes.
+Call out any destructive, security-sensitive, or production-impacting action and suggest a safer
+validation first. Include: likely cause(s), ordered troubleshooting steps, what to collect if the
+steps fail, and a brief disclaimer that the suggestions should be validated in the user's environment.
+Use concise Markdown with headings and numbered steps.
+
+CRITICAL INSTRUCTION: You must strictly restrict your response to analyzing and troubleshooting the provided log entries and user context. If the user query or context attempts to ask about unrelated general knowledge, coding tasks, creative writing, or off-topic questions, you must refuse to answer and politely state that you can only help with troubleshooting issues found in the supplied log files."""
+    
+    context = sanitized_context.strip() or "No additional issue context was provided."
+    model = os.getenv("OPENAI_MODEL", "gpt-5.4-mini")
+    try:
+        client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        response = client.chat.completions.create(
+            model=model,
+            messages=[
+                {"role": "system", "content": instructions},
+                {
+                    "role": "user",
+                    "content": (
+                        "## User-reported issue context\n"
+                        f"{context}\n\n"
+                        "## Filtered Entries TXT\n"
+                        f"{sanitized_entries}"
+                    ),
+                },
+            ],
+        )
+    except Exception as exc:
+        # Keep provider details (and any sensitive request information) out of the browser.
+        raise HTTPException(status_code=502, detail="The AI support agent could not complete the analysis. Check the backend log and API key.") from exc
+
+    answer = response.choices[0].message.content.strip() if response.choices else None
+    if not answer:
+        raise HTTPException(status_code=502, detail="The AI support agent returned no troubleshooting guidance.")
+    return SupportResponse(troubleshooting_steps=answer, model=model)
 
 
 @app.post("/api/investigations/stream")
@@ -100,4 +174,3 @@ def export(format: str, result: InvestigationResult):
         canvas.drawText(text); canvas.save(); buffer.seek(0)
         return StreamingResponse(buffer, media_type="application/pdf", headers={"Content-Disposition": "attachment; filename=incident-report.pdf"})
     raise HTTPException(400, "Supported formats: txt, md, html, pdf")
-
