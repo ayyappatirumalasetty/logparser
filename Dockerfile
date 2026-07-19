@@ -22,7 +22,6 @@ COPY --from=frontend-builder /app/frontend/dist ./frontend/dist
 
 # Copy demo files and temporary logs for evaluation
 COPY demo/ ./demo/
-COPY temptes/ ./temptes/
 
 # Set working directory to backend to match local run environment
 WORKDIR /app/backend
