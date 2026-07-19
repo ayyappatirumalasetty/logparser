@@ -1,6 +1,9 @@
 from __future__ import annotations
 
 import io
+import asyncio
+import json
+from pathlib import Path
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse, PlainTextResponse, StreamingResponse
@@ -22,8 +25,44 @@ def create_investigation(request: InvestigationRequest) -> InvestigationResult:
     except ValueError as exc: raise HTTPException(status_code=422, detail=str(exc)) from exc
 
 
+@app.post("/api/investigations/stream")
+async def stream_investigation(request: InvestigationRequest) -> StreamingResponse:
+    """Run one investigation and stream progress/result messages as NDJSON."""
+    queue: asyncio.Queue[dict] = asyncio.Queue()
+    loop = asyncio.get_running_loop()
+
+    def publish(progress) -> None:
+        loop.call_soon_threadsafe(queue.put_nowait, {"type": "progress", "data": progress.model_dump()})
+
+    async def run() -> None:
+        try:
+            result = await asyncio.to_thread(investigate, request, publish)
+            await queue.put({"type": "result", "data": result.model_dump(mode="json")})
+        except ValueError as exc:
+            await queue.put({"type": "error", "detail": str(exc)})
+        except Exception:
+            await queue.put({"type": "error", "detail": "The investigation could not be completed. Check the backend log for details."})
+
+    task = asyncio.create_task(run())
+    async def body():
+        while True:
+            message = await queue.get()
+            yield json.dumps(message) + "\n"
+            if message["type"] in {"result", "error"}:
+                break
+        await task
+
+    return StreamingResponse(body(), media_type="application/x-ndjson", headers={"Cache-Control": "no-cache"})
+
+
 @app.post("/api/export/{format}")
 def export(format: str, result: InvestigationResult):
+    if format == "extracted-txt":
+        groups: dict[str, list[str]] = {}
+        for event in result.timeline:
+            groups.setdefault(event.source_file, []).append(event.message + (f"\n{event.stack_trace}" if event.stack_trace else ""))
+        content = "\n\n".join(f"{Path(source).name}\n{'=' * 42}\n" + "\n".join(entries) for source, entries in groups.items())
+        return PlainTextResponse(content, headers={"Content-Disposition": "attachment; filename=extracted-log-entries.txt"})
     if format == "txt": return PlainTextResponse(result.report, headers={"Content-Disposition": "attachment; filename=incident-report.txt"})
     if format == "html": return HTMLResponse(f"<html><body><pre>{result.report}</pre></body></html>", headers={"Content-Disposition": "attachment; filename=incident-report.html"})
     if format == "md": return PlainTextResponse(result.report, media_type="text/markdown", headers={"Content-Disposition": "attachment; filename=incident-report.md"})
@@ -42,3 +81,4 @@ def export(format: str, result: InvestigationResult):
         canvas.drawText(text); canvas.save(); buffer.seek(0)
         return StreamingResponse(buffer, media_type="application/pdf", headers={"Content-Disposition": "attachment; filename=incident-report.pdf"})
     raise HTTPException(400, "Supported formats: txt, md, html, pdf")
+

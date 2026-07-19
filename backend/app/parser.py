@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import codecs
 import re
 from abc import ABC, abstractmethod
 from datetime import datetime
@@ -82,9 +83,20 @@ def severity_for(line: str, keywords: list[str]) -> str:
     return "ERROR" if any(word.lower() in line.lower() for word in keywords) else "UNKNOWN"
 
 
+def _encoding_for(path: Path) -> str:
+    """Detect BOM-based Unicode logs without reading their entire contents."""
+    with path.open("rb") as binary_file:
+        prefix = binary_file.read(4)
+    if prefix.startswith(codecs.BOM_UTF16_LE) or prefix.startswith(codecs.BOM_UTF16_BE):
+        return "utf-16"
+    if prefix.startswith(codecs.BOM_UTF8):
+        return "utf-8-sig"
+    return "utf-8"
+
+
 def parse_file(path: Path, parser: TimestampParser, keywords: list[str]) -> Iterator[LogEvent]:
     active: LogEvent | None = None
-    with path.open("r", encoding="utf-8", errors="replace") as handle:
+    with path.open("r", encoding=_encoding_for(path), errors="replace") as handle:
         for number, raw in enumerate(handle, 1):
             line = raw.rstrip("\n")
             timestamp = parser.extract_timestamp(line)

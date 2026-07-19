@@ -22,6 +22,7 @@ class InvestigationRequest(BaseModel):
     folder_path: str
     target_timestamp: str
     window_seconds: int = Field(default=5, ge=0, le=3600)
+    file_patterns: list[str] = Field(default_factory=lambda: ["*.log*", "*.txt"])
     additional_keywords: list[str] = Field(default_factory=list)
     syslog_year: int | None = None
     user_context: UserContext = Field(default_factory=UserContext)
@@ -44,6 +45,9 @@ class Progress(BaseModel):
     files_found: int = 0
     files_parsed: int = 0
     current_file: str | None = None
+    percentage: int = 0
+    elapsed_seconds: float = 0
+    estimated_remaining_seconds: float | None = None
 
 
 class InvestigationResult(BaseModel):
