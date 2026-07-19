@@ -15,7 +15,13 @@ IGNORE_SUFFIXES = {".bak", ".zip", ".old", ".tmp"}
 
 
 def discover(root: Path, patterns: list[str] | None = None) -> list[Path]:
-    active_patterns = [pattern.strip() for pattern in (patterns or INCLUDE) if pattern.strip()]
+    raw_patterns = patterns or INCLUDE
+    active_patterns = []
+    for p in raw_patterns:
+        for sub_p in p.split(','):
+            cleaned = sub_p.strip()
+            if cleaned:
+                active_patterns.append(cleaned)
     if not active_patterns:
         raise ValueError("Provide at least one file pattern, for example *.log*.")
     files = {item for pattern in active_patterns for item in root.rglob(pattern) if item.is_file()}
@@ -31,7 +37,11 @@ def parse_target(value: str, parser: TimestampParser) -> datetime:
         return datetime.fromisoformat(value.replace("Z", "+00:00")).replace(tzinfo=None)
     except ValueError:
         pass
-    for fmt in ("%Y/%m/%d %H:%M:%S", "%d.%m.%y %H:%M:%S", "%Y-%m-%d %H:%M:%S", "%d-%b-%Y %H:%M:%S"):
+    for fmt in (
+        "%Y/%m/%d %H:%M:%S", "%d.%m.%y %H:%M:%S", "%Y-%m-%d %H:%M:%S", "%d-%b-%Y %H:%M:%S",
+        "%m/%d/%Y %I:%M:%S %p", "%d/%m/%Y %I:%M:%S %p", "%Y/%m/%d %I:%M:%S %p",
+        "%m/%d/%Y %H:%M:%S", "%d/%m/%Y %H:%M:%S"
+    ):
         try:
             return datetime.strptime(value, fmt)
         except ValueError:
@@ -101,7 +111,16 @@ def investigate(request: InvestigationRequest, on_progress: Callable[[Progress],
             progress("Parsing logs", len(files), index, str(path))
     all_events.sort(key=lambda event: event.timestamp)
     window = request.window_seconds
-    selected = [event for event in all_events if abs((event.timestamp - target).total_seconds()) <= window]
+    if window == 0:
+        target_sec = target.replace(microsecond=0)
+        selected = [event for event in all_events if event.timestamp.replace(microsecond=0) == target_sec]
+    else:
+        selected = [event for event in all_events if abs((event.timestamp - target).total_seconds()) <= window]
+
+    filter_keywords = [kw.strip().lower() for kw in request.filter_keywords if kw.strip()]
+    if filter_keywords:
+        selected = [event for event in selected if any(kw in event.message.lower() for kw in filter_keywords)]
+
     errors = [event for event in selected if event.severity == "ERROR"]
     warnings = [event for event in selected if event.severity == "WARN"]
     signature = Counter(event.message for event in errors)

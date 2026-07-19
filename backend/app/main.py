@@ -57,6 +57,25 @@ async def stream_investigation(request: InvestigationRequest) -> StreamingRespon
 
 @app.post("/api/export/{format}")
 def export(format: str, result: InvestigationResult):
+    from .service import build_report
+    from collections import Counter
+
+    # Re-calculate summary metrics based on the timeline sent by the client (which may be filtered)
+    timeline = result.timeline
+    errors = [event for event in timeline if event.severity == "ERROR"]
+    warnings = [event for event in timeline if event.severity == "WARN"]
+    
+    result.summary["matching_events"] = len(timeline)
+    result.summary["errors"] = len(errors)
+    result.summary["warnings"] = len(warnings)
+    
+    signature = Counter(event.message for event in errors)
+    result.repeated_errors = [{"message": message, "count": count} for message, count in signature.most_common(10)]
+    
+    # Rebuild report text
+    dataset = result.model_dump(mode="json")
+    result.report = build_report(dataset)
+
     if format == "extracted-txt":
         groups: dict[str, list[str]] = {}
         for event in result.timeline:

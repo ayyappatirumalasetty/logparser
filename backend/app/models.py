@@ -24,6 +24,7 @@ class InvestigationRequest(BaseModel):
     window_seconds: int = Field(default=5, ge=0, le=3600)
     file_patterns: list[str] = Field(default_factory=lambda: ["*.log*", "*.txt"])
     additional_keywords: list[str] = Field(default_factory=list)
+    filter_keywords: list[str] = Field(default_factory=list)
     syslog_year: int | None = None
     user_context: UserContext = Field(default_factory=UserContext)
 
