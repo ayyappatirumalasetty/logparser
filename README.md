@@ -122,7 +122,7 @@ Open `http://localhost:8000` to interact with the fully assembled application! (
 
 ## 🤝 Codex & AI Collaboration Report
 
-This project represents a close pair-programming collaboration between the human developer and **Codex by OpenAI and Antigravity powered by Gemini**. Below is a breakdown of how this collaboration shaped the final implementation.
+This project represents a close pair-programming collaboration between the human developer and **Codex by OpenAI with GPT-5.6 and Antigravity powered by Gemini**. Below is a breakdown of how this collaboration shaped the final implementation.
 
 ### ⚡ Where AI Accelerated the Workflow
 - **Regex & Parsing Architecture:** Design and implementation of the extensible `TimestampParser` regex engine in `backend/app/parser.py`. AI expedited the generation of complex time-format capture patterns and the corresponding test cases in `backend/tests/test_parser.py`.
