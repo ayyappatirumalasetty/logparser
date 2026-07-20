@@ -1,4 +1,4 @@
-# AI Incident Investigation Assistant
+# LogParser and AI Support Assistant
 
 A powerful local FastAPI + React dashboard designed for real-time, timestamp-normalized log incident analysis. This tool scans directories of logs, automatically detects and parses varied timestamp formats, correlates events in a specified time window around an incident, and provides AI-powered troubleshooting advice.
 
