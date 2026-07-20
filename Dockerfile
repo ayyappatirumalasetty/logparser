@@ -23,6 +23,9 @@ COPY --from=frontend-builder /app/frontend/dist ./frontend/dist
 # Copy demo files and temporary logs for evaluation
 COPY demo/ ./demo/
 
+# Copy configuration template / env if present in build context
+COPY .env* ./
+
 # Set working directory to backend to match local run environment
 WORKDIR /app/backend
 
@@ -32,6 +35,8 @@ EXPOSE 8000
 # Set standard Python environment flags
 ENV PORT=8000
 ENV PYTHONUNBUFFERED=1
+ENV ADMIN_USERNAME=admin
+ENV ADMIN_PASSWORD=admin123
 
 # Run the backend server
 CMD uvicorn app.main:app --host 0.0.0.0 --port ${PORT}

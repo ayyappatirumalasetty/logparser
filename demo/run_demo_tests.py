@@ -1,3 +1,4 @@
+import os
 import sys
 import json
 import traceback
@@ -18,10 +19,26 @@ except ImportError as e:
 client = TestClient(app)
 FOLDER_PATH = r"D:\loganalyser\demo\generated"
 
+# Obtain a valid token to authorize tests
+def get_auth_headers():
+    username = os.getenv("ADMIN_USERNAME", "admin").strip()
+    password = os.getenv("ADMIN_PASSWORD", "admin123").strip()
+    response = client.post("/api/auth/login", json={"username": username, "password": password})
+    if response.status_code != 200:
+        raise RuntimeError("Failed to log in for tests: " + response.text)
+    token = response.json()["token"]
+    return {"Authorization": f"Bearer {token}"}
+
+try:
+    AUTH_HEADERS = get_auth_headers()
+except Exception as e:
+    print(f"Auth Setup Error: {e}")
+    AUTH_HEADERS = {}
+
 def run_test(name, payload, expected_status=200, check_fn=None):
     print(f"Running: {name} ... ", end="")
     try:
-        response = client.post("/api/investigations", json=payload)
+        response = client.post("/api/investigations", json=payload, headers=AUTH_HEADERS)
         if response.status_code != expected_status:
             print(f"FAILED (Status: {response.status_code}, Expected: {expected_status})")
             print(f"Response: {response.text}")
@@ -42,7 +59,7 @@ def run_export_test(name, format_type, payload, check_fn=None):
     print(f"Running: {name} ... ", end="")
     try:
         # First get the investigation result
-        inv_response = client.post("/api/investigations", json=payload)
+        inv_response = client.post("/api/investigations", json=payload, headers=AUTH_HEADERS)
         if inv_response.status_code != 200:
             print(f"FAILED (Investigation Status: {inv_response.status_code})")
             return False
@@ -50,7 +67,7 @@ def run_export_test(name, format_type, payload, check_fn=None):
         result_data = inv_response.json()
         
         # Now call the export endpoint
-        export_response = client.post(f"/api/export/{format_type}", json=result_data)
+        export_response = client.post(f"/api/export/{format_type}", json=result_data, headers=AUTH_HEADERS)
         if export_response.status_code != 200:
             print(f"FAILED (Export Status: {export_response.status_code})")
             print(f"Response: {export_response.text}")
@@ -165,7 +182,7 @@ def main():
     }
     def check_t7(data_t7):
         # Result of 5s should be >= result of 0s
-        t6_res = client.post("/api/investigations", json=t6_payload).json()
+        t6_res = client.post("/api/investigations", json=t6_payload, headers=AUTH_HEADERS).json()
         assert data_t7["summary"]["matching_events"] >= t6_res["summary"]["matching_events"]
     if run_test("Test 7: Window size = 5 seconds range", t7_payload, check_fn=check_t7):
         success_count += 1
@@ -178,7 +195,7 @@ def main():
         "window_seconds": 60
     }
     def check_t8(data_t8):
-        t7_res = client.post("/api/investigations", json=t7_payload).json()
+        t7_res = client.post("/api/investigations", json=t7_payload, headers=AUTH_HEADERS).json()
         assert data_t8["summary"]["matching_events"] >= t7_res["summary"]["matching_events"]
     if run_test("Test 8: Window size = 60 seconds range", t8_payload, check_fn=check_t8):
         success_count += 1

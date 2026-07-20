@@ -5,12 +5,13 @@ import asyncio
 import json
 import os
 from pathlib import Path
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse, PlainTextResponse, StreamingResponse
 
 from .models import InvestigationRequest, InvestigationResult, SupportRequest, SupportResponse
 from .service import investigate
+from .auth import LoginRequest, LoginResponse, authenticate_user, create_access_token, get_current_user
 
 try:
     from dotenv import load_dotenv
@@ -34,8 +35,24 @@ app.add_middleware(CORSMiddleware, allow_origins=["http://localhost:5173"], allo
 def health() -> dict[str, str]: return {"status": "ok"}
 
 
+@app.post("/api/auth/login", response_model=LoginResponse)
+def login(credentials: LoginRequest) -> LoginResponse:
+    if not authenticate_user(credentials.username, credentials.password):
+        raise HTTPException(
+            status_code=401,
+            detail="Invalid username or password. Please check your credentials.",
+        )
+    token = create_access_token(username=credentials.username.strip())
+    return LoginResponse(token=token, username=credentials.username.strip())
+
+
+@app.get("/api/auth/verify")
+def verify_auth(current_user: str = Depends(get_current_user)) -> dict[str, str | bool]:
+    return {"authenticated": True, "username": current_user}
+
+
 @app.post("/api/browse")
-def browse_folder() -> dict[str, str]:
+def browse_folder(_user: str = Depends(get_current_user)) -> dict[str, str]:
     try:
         import tkinter as tk
         from tkinter import filedialog
@@ -54,13 +71,14 @@ def browse_folder() -> dict[str, str]:
 
 
 @app.post("/api/investigations", response_model=InvestigationResult)
-def create_investigation(request: InvestigationRequest) -> InvestigationResult:
+def create_investigation(request: InvestigationRequest, _user: str = Depends(get_current_user)) -> InvestigationResult:
     try: return investigate(request)
     except ValueError as exc: raise HTTPException(status_code=422, detail=str(exc)) from exc
 
 
 @app.post("/api/support/troubleshoot", response_model=SupportResponse)
-def troubleshoot(request: SupportRequest) -> SupportResponse:
+def troubleshoot(request: SupportRequest, _user: str = Depends(get_current_user)) -> SupportResponse:
+
     """Ask the OpenAI support-engineer agent to analyse the exported log entries."""
     if not os.getenv("OPENAI_API_KEY"):
         raise HTTPException(
@@ -119,7 +137,7 @@ CRITICAL INSTRUCTION: You must strictly restrict your response to analyzing and 
 
 
 @app.post("/api/investigations/stream")
-async def stream_investigation(request: InvestigationRequest) -> StreamingResponse:
+async def stream_investigation(request: InvestigationRequest, _user: str = Depends(get_current_user)) -> StreamingResponse:
     """Run one investigation and stream progress/result messages as NDJSON."""
     queue: asyncio.Queue[dict] = asyncio.Queue()
     loop = asyncio.get_running_loop()
@@ -149,7 +167,8 @@ async def stream_investigation(request: InvestigationRequest) -> StreamingRespon
 
 
 @app.post("/api/export/{format}")
-def export(format: str, result: InvestigationResult):
+def export(format: str, result: InvestigationResult, _user: str = Depends(get_current_user)):
+
     from .service import build_report
     from collections import Counter
 

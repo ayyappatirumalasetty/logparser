@@ -6,10 +6,12 @@ A powerful local FastAPI + React dashboard designed for real-time, timestamp-nor
 
 ## 🚀 Key Features
 
+- **Secure Session Authentication:** JWT-based user session authentication protecting all backend endpoints and preventing unauthorized local analysis requests.
 - **Automatic Timestamp Normalization:** Extensible parser that recognizes diverse log timestamp formats (Syslog, standard ISO formats, sub-second commas/dots, etc.) and aligns them to a uniform timeline.
 - **High-Performance Scanning:** Fast, multi-threaded directory traversal and file parsing built on Python's `ThreadPoolExecutor` to handle multiple large log files concurrently.
 - **Incident Correlated Timeline:** Filter events in a precise time window (e.g. ±60s) around a target timestamp to focus strictly on logs leading up to and immediately following the failure.
 - **AI Support Engineer (Step 3):** Powered by OpenAI chat models to diagnose filtered log entries, identify root causes, and suggest structured troubleshooting steps while ensuring safety guardrails (credential redaction and prompt injection filters) are applied.
+- **Real-Time NDJSON Streaming:** Streams scanning and parsing progress directly to the frontend for responsive feedback during large file processing.
 - **Interactive UI Dashboard:** A premium, dark-mode dashboard built with React, Vite, and Lucide React featuring progress animations, severity indicators, keyword filters, and dynamic log previews.
 - **Extensive Export Capabilities:** Download investigation reports in plain text, markdown, HTML, or structured PDF formats.
 
@@ -21,12 +23,14 @@ A powerful local FastAPI + React dashboard designed for real-time, timestamp-nor
 ├── backend/
 │   ├── app/
 │   │   ├── __init__.py
+│   │   ├── auth.py          # JWT-based login credentials & authorization guards
 │   │   ├── guardrails.py    # Sanitization (credential redaction & injection guard)
 │   │   ├── main.py          # FastAPI server, endpoints, static files mount
 │   │   ├── models.py        # Pydantic schemas, safe path mapping
 │   │   ├── parser.py        # Log parsing & timestamp regex engine
 │   │   └── service.py       # Traversal, multi-threaded scanning, report builders
 │   ├── tests/
+│   │   ├── test_auth.py     # Integration tests for login and JWT validation
 │   │   └── test_parser.py   # Unit tests for log parser format detection
 │   └── requirements.txt     # Python dependencies
 ├── demo/
@@ -37,8 +41,10 @@ A powerful local FastAPI + React dashboard designed for real-time, timestamp-nor
 ├── frontend/
 │   ├── dist/                # Production build directory (gitignored)
 │   ├── src/
+│   │   ├── Login.tsx        # User authentication screen
 │   │   ├── main.tsx         # React application logic and UI layout
-│   │   └── styles.css       # Custom HSL-tailored CSS variables and dashboard theme
+│   │   ├── styles.css       # Custom HSL-tailored CSS variables and dashboard theme
+│   │   └── vite-env.d.ts    # Vite environment declarations
 │   ├── package.json         # Node scripts & packages
 │   └── vite.config.ts       # Vite config
 ├── .env                     # Local environment file (ignored)
@@ -57,10 +63,13 @@ A powerful local FastAPI + React dashboard designed for real-time, timestamp-nor
 - Node.js 20+
 - (Optional) Docker
 
-Copy the environment template and set up your OpenAI API key:
+Copy the environment template and configure your keys and credentials:
 ```bash
 cp .env.example .env
-# Edit .env and enter your OPENAI_API_KEY
+# Edit .env and enter:
+# - OPENAI_API_KEY: Your OpenAI API key
+# - ADMIN_USERNAME & ADMIN_PASSWORD: Credentials to log in to the dashboard (defaults: admin / admin123)
+# - JWT_SECRET_KEY: Secret key for signing session tokens
 ```
 
 ---

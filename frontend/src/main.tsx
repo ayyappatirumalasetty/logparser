@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { createRoot } from 'react-dom/client';
 import { 
   AlertTriangle, 
@@ -13,8 +13,11 @@ import {
   SlidersHorizontal,
   Filter,
   Bot,
-  Send
+  Send,
+  LogOut,
+  User
 } from 'lucide-react';
+import { Login } from './Login';
 import './styles.css';
 
 type Event = { 
@@ -51,6 +54,10 @@ const formatSeconds = (value?: number | null) => value == null ? 'calculating...
 const FILTER_OPTIONS = ['ERROR', 'WARN', 'INFO', 'Warning', 'Failed', 'Corrupt'];
 
 function App() {
+  const [token, setToken] = useState<string | null>(() => localStorage.getItem('auth_token'));
+  const [username, setUsername] = useState<string | null>(() => localStorage.getItem('auth_username'));
+  const [authChecking, setAuthChecking] = useState<boolean>(true);
+
   const [folder, setFolder] = useState('D:\\loganalyser\\demo\\generated');
   const [target, setTarget] = useState('2026-07-19 14:08:15');
   const [windowSeconds, setWindowSeconds] = useState(65);
@@ -69,6 +76,52 @@ function App() {
   const [supportError, setSupportError] = useState('');
   const [supportModel, setSupportModel] = useState('');
 
+  // Validate existing session token on application load
+  useEffect(() => {
+    if (!token) {
+      setAuthChecking(false);
+      return;
+    }
+
+    fetch(`${API}/api/auth/verify`, {
+      headers: { Authorization: `Bearer ${token}` }
+    })
+      .then(res => {
+        if (!res.ok) throw new Error('Session invalid');
+        return res.json();
+      })
+      .then(data => {
+        if (data.username) setUsername(data.username);
+        setAuthChecking(false);
+      })
+      .catch(() => {
+        handleLogout();
+        setAuthChecking(false);
+      });
+  }, []);
+
+  function handleLoginSuccess(newToken: string, newUsername: string) {
+    localStorage.setItem('auth_token', newToken);
+    localStorage.setItem('auth_username', newUsername);
+    setToken(newToken);
+    setUsername(newUsername);
+  }
+
+  function handleLogout() {
+    localStorage.removeItem('auth_token');
+    localStorage.removeItem('auth_username');
+    setToken(null);
+    setUsername(null);
+    setResult(null);
+  }
+
+  function authHeaders(): Record<string, string> {
+    return {
+      'Content-Type': 'application/json',
+      ...(token ? { Authorization: `Bearer ${token}` } : {})
+    };
+  }
+
   async function investigate() {
     setLoading(true); 
     setError(''); 
@@ -81,16 +134,21 @@ function App() {
     try {
       const response = await fetch(`${API}/api/investigations/stream`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: authHeaders(),
         body: JSON.stringify({
           folder_path: folder,
           target_timestamp: target,
           window_seconds: windowSeconds,
           file_patterns: patterns.split(',').map(item => item.trim()).filter(Boolean),
-          filter_keywords: [] // Backend keywords filter is handled dynamically on client side now
+          filter_keywords: []
         })
       });
       
+      if (response.status === 401) {
+        handleLogout();
+        throw new Error('Authentication expired. Please sign in again.');
+      }
+
       if (!response.ok || !response.body) throw new Error('Unable to start the investigation.');
       
       const reader = response.body.getReader(); 
@@ -121,7 +179,15 @@ function App() {
 
   async function handleBrowse() {
     try {
-      const response = await fetch(`${API}/api/browse`, { method: 'POST' });
+      const response = await fetch(`${API}/api/browse`, { 
+        method: 'POST',
+        headers: authHeaders()
+      });
+      if (response.status === 401) {
+        handleLogout();
+        alert("Session expired. Please sign in again.");
+        return;
+      }
       if (response.ok) {
         const data = await response.json();
         if (data.folder_path) {
@@ -160,9 +226,13 @@ function App() {
     try {
       const response = await fetch(`${API}/api/support/troubleshoot`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: authHeaders(),
         body: JSON.stringify({ entries_txt: entries, issue_context: issueContext })
       });
+      if (response.status === 401) {
+        handleLogout();
+        throw new Error('Session expired. Please sign in again.');
+      }
       const data = await response.json();
       if (!response.ok) throw new Error(data.detail ?? 'The support agent could not analyse these entries.');
       setSupportAdvice(data.troubleshooting_steps);
@@ -191,7 +261,6 @@ function App() {
   async function exportReport(format: string) { 
     if (!result) return; 
 
-    // Construct dynamically filtered timeline based on selected checkboxes
     const activeTimeline = result.timeline.filter(event => {
       if (checkedKeywords.length > 0) {
         return checkedKeywords.some(kw => 
@@ -214,10 +283,16 @@ function App() {
 
     const response = await fetch(`${API}/api/export/${format}`, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: authHeaders(),
       body: JSON.stringify(filteredResult)
     }); 
     
+    if (response.status === 401) {
+      handleLogout();
+      setError('Session expired. Please sign in again.');
+      return;
+    }
+
     if (!response.ok) {
       setError('The export could not be created.');
       return;
@@ -237,14 +312,12 @@ function App() {
   }
 
   const filteredTimeline = result?.timeline.filter(event => {
-    // 1. Keyword checkboxes filter
     if (checkedKeywords.length > 0) {
       const match = checkedKeywords.some(kw => 
         event.message.toLowerCase().includes(kw.toLowerCase())
       );
       if (!match) return false;
     }
-    // 2. Search bar filter
     if (timelineSearch) {
       const term = timelineSearch.toLowerCase();
       return event.message.toLowerCase().includes(term) || 
@@ -254,9 +327,20 @@ function App() {
     return true;
   }) ?? [];
 
-  // Filtered counts for summary display when filters are active
   const filteredErrorsCount = filteredTimeline.filter(e => e.severity === 'ERROR').length;
   const filteredWarningsCount = filteredTimeline.filter(e => e.severity === 'WARN').length;
+
+  if (authChecking) {
+    return (
+      <div className="login-container">
+        <LoaderCircle size={32} className="spin-icon" style={{ color: 'var(--primary)' }} />
+      </div>
+    );
+  }
+
+  if (!token) {
+    return <Login apiBaseUrl={API} onLoginSuccess={handleLoginSuccess} />;
+  }
 
   return (
     <main>
@@ -270,10 +354,21 @@ function App() {
             <p>AI-assisted log correlation & incident narrative builder</p>
           </div>
         </div>
-        <button className="icon-theme" aria-label="Dark mode">
-          <Moon size={18} />
-        </button>
+        <div className="user-controls">
+          <div className="user-badge">
+            <User size={15} className="user-badge-icon" />
+            <span>{username || 'Authenticated'}</span>
+          </div>
+          <button className="logout-btn" onClick={handleLogout} title="Sign Out">
+            <LogOut size={16} />
+            <span>Sign Out</span>
+          </button>
+          <button className="icon-theme" aria-label="Dark mode">
+            <Moon size={18} />
+          </button>
+        </div>
       </header>
+
 
       <section className="hero">
         <div className="hero-text">
